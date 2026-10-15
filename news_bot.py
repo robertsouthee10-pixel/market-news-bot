@@ -196,9 +196,18 @@ def post(body):
 
 
 # ---------------------------------------------------------------- main -----
+def send_test():
+    post({"content": "✅ **Market news bot connected.** Medium and high impact "
+                     "stories will appear here as they break."})
+    print("Test message sent to Discord.")
+
+
 def main():
+    if os.environ.get("TEST_DISCORD") == "true":
+        send_test()
+
     state = load_state()
-    first_run = not state["seen"]
+    first_run = not state.get("initialized") and not state["seen"]
     articles = [a for a in fetch_articles() if a["key"] not in state["seen"]]
     articles.sort(key=lambda a: a["published"])
     print(f"{len(articles)} new articles")
@@ -206,9 +215,11 @@ def main():
     if first_run and os.environ.get("POST_ON_FIRST_RUN") != "1":
         for a in articles:
             state["seen"][a["key"]] = time.time()
+        state["initialized"] = True
         save_state(state)
         print("First run: backlog marked as seen, nothing posted.")
         return
+    state["initialized"] = True
 
     min_rank = IMPACT_RANK.get(CONFIG.get("min_impact", "medium"), 1)
     posted = 0
@@ -223,6 +234,8 @@ def main():
                 continue
             for j, a in enumerate(chunk):
                 r = results.get(j)
+                if r:
+                    print(f"  [{r.get('impact', '?'):6}] {r.get('nq', '?'):7} {a['title'][:90]}")
                 if r and not r.get("duplicate") and \
                         IMPACT_RANK.get(r.get("impact"), 0) >= min_rank:
                     try:
