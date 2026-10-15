@@ -1,0 +1,35 @@
+# ---- What to watch -------------------------------------------------------
+# Replace with your portfolio tickers. Each one gets its own Yahoo Finance feed
+# and is mentioned to Claude so stock-specific news counts as relevant.
+tickers: [NVDA, MSFT, AAPL, AMZN, META, GOOGL, TSLA, AMD]
+
+# Only post stories rated at least this impact: low | medium | high
+min_impact: medium
+
+# Ignore articles older than this (stops stale stories posting late)
+max_age_hours: 6
+
+# Claude model used to score headlines (Haiku = fast and cheap)
+model: claude-haiku-5-5
+
+# Optional: ping a role on HIGH impact posts, e.g. "<@&123456789012345678>"
+high_impact_mention: ""
+
+# ---- Sources -------------------------------------------------------------
+ticker_feed: "https://feeds.finance.yahoo.com/rss/2.0/headline?s={ticker}&region=US&lang=en-US"
+
+feeds:
+  # CNBC: top news, economy, tech, earnings
+  - "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+  - "https://www.cnbc.com/id/20910258/device/rss/rss.html"
+  - "https://www.cnbc.com/id/19854910/device/rss/rss.html"
+  - "https://www.cnbc.com/id/15839135/device/rss/rss.html"
+  # MarketWatch top stories
+  - "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+  # Federal Reserve press releases
+  - "https://www.federalreserve.gov/feeds/press_all.xml"
+  # Google News searches (last hour only)
+  - "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+OR+%22rate+cut%22+when:1h&hl=en-US&gl=US&ceid=US:en"
+  - "https://news.google.com/rss/search?q=CPI+OR+%22jobs+report%22+OR+payrolls+OR+PCE+OR+%22Treasury+yields%22+when:1h&hl=en-US&gl=US&ceid=US:en"
+  - "https://news.google.com/rss/search?q=%22oil+prices%22+OR+OPEC+OR+Iran+OR+Hormuz+when:1h&hl=en-US&gl=US&ceid=US:en"
+  - "https://news.google.com/rss/search?q=Nasdaq+OR+%22AI+chips%22+OR+%22chip+export%22+OR+semiconductor+when:1h&hl=en-US&gl=US&ceid=US:en"
