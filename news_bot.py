@@ -33,6 +33,8 @@ COLOURS = {"bullish": 0x22C55E, "bearish": 0xEF4444, "neutral": 0x9CA3AF}
 ARROWS = {"bullish": "▲", "bearish": "▼", "neutral": "▬"}
 BATCH_SIZE = 25
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
+DIAG = {"feeds_ok": 0, "feeds_failed": [], "fetched": 0, "new": 0,
+        "rated": {"low": 0, "medium": 0, "high": 0}, "posted": 0, "errors": []}
 
 
 # ---------------------------------------------------------------- state ----
@@ -77,7 +79,9 @@ def fetch_articles():
             feed = feedparser.parse(r.content)
         except Exception as e:  # one dead feed shouldn't stop the run
             print(f"[warn] feed failed: {url} ({e})")
+            DIAG["feeds_failed"].append(f"{url[:70]} -> {str(e)[:80]}")
             continue
+        DIAG["feeds_ok"] += 1
 
         is_google = "news.google.com" in url
         for e in feed.entries:
@@ -109,6 +113,7 @@ def fetch_articles():
                 "published": published.isoformat(),
                 "summary": re.sub(r"\s+", " ", summary).strip()[:400],
             }
+    DIAG["fetched"] = len(found)
     return list(found.values())
 
 
@@ -146,7 +151,14 @@ def classify(articles, recent):
     if not match:
         raise ValueError(f"no JSON array in model reply: {text[:200]}")
     results = json.loads(match.group(0))
-    return {r["id"]: r for r in results if isinstance(r, dict) and "id" in r}
+    out = {}
+    for r in results:
+        if isinstance(r, dict) and "id" in r:
+            try:
+                out[int(r["id"])] = r
+            except (TypeError, ValueError):
+                pass
+    return out
 
 
 # ---------------------------------------------------------------- post -----
@@ -196,6 +208,18 @@ def post(body):
 
 
 # ---------------------------------------------------------------- main -----
+def alert(state, message):
+    """Post an error to Discord at most once every 3 hours."""
+    last = state.get("last_alert", 0)
+    if time.time() - last < 3 * 3600:
+        return
+    try:
+        post({"content": f"⚠️ **News bot problem:** {message[:1500]}"})
+        state["last_alert"] = time.time()
+    except Exception as e:
+        print(f"[error] could not send alert: {e}")
+
+
 def send_test():
     post({"content": "✅ **Market news bot connected.** Medium and high impact "
                      "stories will appear here as they break."})
@@ -210,12 +234,17 @@ def main():
     first_run = not state.get("initialized") and not state["seen"]
     articles = [a for a in fetch_articles() if a["key"] not in state["seen"]]
     articles.sort(key=lambda a: a["published"])
+    DIAG["new"] = len(articles)
     print(f"{len(articles)} new articles")
+    if DIAG["feeds_ok"] == 0:
+        alert(state, "every news feed failed to load. First error: "
+              + (DIAG["feeds_failed"][0] if DIAG["feeds_failed"] else "unknown"))
 
     if first_run and os.environ.get("POST_ON_FIRST_RUN") != "1":
         for a in articles:
             state["seen"][a["key"]] = time.time()
         state["initialized"] = True
+        state["last_run"] = DIAG
         save_state(state)
         print("First run: backlog marked as seen, nothing posted.")
         return
@@ -231,10 +260,15 @@ def main():
             except Exception as e:
                 # leave unseen so the next run retries them
                 print(f"[error] classification failed: {e}")
+                DIAG["errors"].append(f"Claude: {type(e).__name__}: {str(e)[:300]}")
+                alert(state, f"Claude scoring failed — {type(e).__name__}: {str(e)[:300]}")
                 continue
             for j, a in enumerate(chunk):
                 r = results.get(j)
                 if r:
+                    lvl = r.get("impact")
+                    if lvl in DIAG["rated"]:
+                        DIAG["rated"][lvl] += 1
                     print(f"  [{r.get('impact', '?'):6}] {r.get('nq', '?'):7} {a['title'][:90]}")
                 if r and not r.get("duplicate") and \
                         IMPACT_RANK.get(r.get("impact"), 0) >= min_rank:
@@ -242,11 +276,15 @@ def main():
                         post(build_message(a, r))
                     except Exception as e:
                         print(f"[error] post failed, will retry: {e}")
+                        DIAG["errors"].append(f"Discord: {str(e)[:200]}")
                         continue
                     posted += 1
                     state["recent"].append(a["title"])
                 state["seen"][a["key"]] = time.time()
     finally:
+        DIAG["posted"] = posted
+        DIAG["time"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        state["last_run"] = DIAG
         save_state(state)
     print(f"Posted {posted}")
 
