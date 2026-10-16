@@ -1203,15 +1203,29 @@
   "d73659174e71fef0": 1792189137.9651961,
   "0cb90943926cc5e9": 1792189137.9651983,
   "25feb8f39197c806": 1792189139.1722612,
-  "abb538c14343b5c4": 1792189139.17228
+  "abb538c14343b5c4": 1792189139.17228,
+  "bcfbe88608368db8": 1792191075.6679976,
+  "84a363c88e9ab0b7": 1792191075.6680238,
+  "6da770f4f5600303": 1792191075.6680295,
+  "e73349b6952c5a73": 1792191075.668033,
+  "ed82e2266115a569": 1792191075.6680372,
+  "7d8189a9db5c9c3c": 1792191075.6680403,
+  "67ab4023f8503ced": 1792191075.6680434,
+  "65185b2c26ae1c4d": 1792191075.668046,
+  "7c28577c6105a39f": 1792191075.6680489,
+  "c24a31ef8f338eab": 1792191076.9199111,
+  "22e45c6458eeaa5c": 1792191076.919931,
+  "834dd72f41ab2809": 1792191076.9199347,
+  "7dbfdd6bdee6883c": 1792191078.079933,
+  "9e961bbab607eb20": 1792191078.0799537,
+  "359f505c7c8bbb3b": 1792191078.0799582,
+  "0ec461a2e78a24ce": 1792191078.079961,
+  "b625bbdec9c434f5": 1792191079.2922266,
+  "c609e8822fa2abb1": 1792191080.5229838,
+  "4497b3f311bbd438": 1792191081.8082836,
+  "a8ff361ccb3f1044": 1792191081.8083072
  },
  "recent": [
-  "🇺🇸🇮🇷 Trump may want one final strike on Iran, but Israel could have very different plans. Brandon Weichert believes Israel is preparing a much broader campaign against Iranian infrastructure, potentially including energy and water facilities. That could make",
-  "CoreWeave, Nebius, and Neoclouds Sink as Market Fear Index Closes in on ‘Extreme Fear’",
-  "Nasdaq sinks more than 2% as investors raise questions about AI debt",
-  "Dollar Falls as Fed Rate Hike Expectations Ease and AI Fears Grow",
-  "Iran Shipping LPG and Jet Fuel Despite US Blockade, Says Report",
-  "How are the Houthis helping Iran by attacking Saudi Arabia?",
   "Stock Market Today: Nasdaq Plunges 2%; Palo Alto Leads Slide In Cybersecurity Space",
   "Dow rises 500 points as investors shift: Full Details",
   "CENTCOM chief: US has blocked Iran from exporting $25b worth of oil",
@@ -1245,24 +1259,30 @@
   "Alphabet (NASDAQ:GOOG) Funds Capital Spending as Quarterly Free Cash Flow Turns Negative",
   "Reuters Exclusive: Iran Exports LPG, Jet Fuel Despite US Naval Blockade",
   "KUWAIT SLAMS HORMUZ CLOSURE, WARNS OF FOOD CRISIS",
-  "CAC 40 Today: Paris Rises to 7,956.70 as FED Chair Kevin Warsh Declined to Signal an October Rate Hike"
+  "CAC 40 Today: Paris Rises to 7,956.70 as FED Chair Kevin Warsh Declined to Signal an October Rate Hike",
+  "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers — AAPL, MSTR, UBER, SOXX In Focus",
+  "Watch AI Selloff, Oil & Treasury Yields Pressure Markets",
+  "Missiles, drones intercepted over Saudi Arabia as Houthi attacks continue",
+  "Explaining Iran's unprecedented escalation in the Strait of Hormuz",
+  "Big US bank stocks head for longest weekly losing streak since 2008",
+  "CoreWeave stock plunges 12%, but Wall Street analyst says buy the dip"
  ],
  "initialized": true,
  "last_alert": 1792189100.240812,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 199,
-  "new": 69,
+  "fetched": 135,
+  "new": 45,
   "rated": {
-   "low": 32,
-   "medium": 11,
-   "high": 1
+   "low": 13,
+   "medium": 5,
+   "high": 2
   },
-  "posted": 7,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4288)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 56 (char 57)"
   ],
-  "time": "2026-10-16T22:18:59+00:00"
+  "time": "2026-10-16T22:51:21+00:00"
  }
 }
