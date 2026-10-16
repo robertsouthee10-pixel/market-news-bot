@@ -214,8 +214,8 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 208,
-  "new": 208,
+  "fetched": 210,
+  "new": 210,
   "rated": {
    "low": 0,
    "medium": 0,
@@ -233,6 +233,6 @@
    "Claude: BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'This API key is not scoped to a workspace, so this request must include the anthropic-workspace-id header with the ID of the workspace to use. Add the header, or use an API key that is scoped to a workspace.'}",
    "Claude: BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'This API key is not scoped to a workspace, so this request must include the anthropic-workspace-id header with the ID of the workspace to use. Add the header, or use an API key that is scoped to a workspace.'}"
   ],
-  "time": "2026-10-16T12:42:55+00:00"
+  "time": "2026-10-16T12:47:56+00:00"
  }
 }
