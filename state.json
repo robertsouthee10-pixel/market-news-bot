@@ -362,7 +362,44 @@
   "10ba683c3cf13ff0": 1792155582.2261808,
   "0a27a6d09063069b": 1792155583.4431765,
   "3482b152ba3e10e2": 1792155583.443196,
-  "4a7621c69aeded57": 1792155584.6446412
+  "4a7621c69aeded57": 1792155584.6446412,
+  "2e1bed7cd0ea13b2": 1792157272.7350328,
+  "a0d22c509700d755": 1792157274.0327232,
+  "29c6b6a1d10ff374": 1792157275.2843626,
+  "f07ea9899f76d655": 1792157276.5184996,
+  "f7beab38a39684e2": 1792157276.5185199,
+  "12d668e452455bb4": 1792157277.8672802,
+  "f6234a10e1ee68bc": 1792157277.8672998,
+  "97c7f157d74afc16": 1792157277.8673072,
+  "d563f5530f63c94b": 1792157279.157848,
+  "538cd333445d3095": 1792157280.3874977,
+  "dbe4707641a9b2a8": 1792157280.3875182,
+  "0e4aea45005be893": 1792157280.387522,
+  "df75f8ee8feac652": 1792157280.3875253,
+  "71825331b57afe80": 1792157280.3875287,
+  "e701a6f878918d65": 1792157280.3875322,
+  "586d47b91d99b3aa": 1792157280.3875349,
+  "16b2352af3dc19a1": 1792157280.387538,
+  "138e8175677bfe4c": 1792157280.3875403,
+  "754779ae407f44cb": 1792157280.3875427,
+  "df3c82514c09461c": 1792157280.3875456,
+  "2b6dfe6d00b82c2f": 1792157280.3875508,
+  "479ea957a75eca59": 1792157281.7207367,
+  "5d0ca646ef2bb30d": 1792157281.7207584,
+  "26a1d127f70b7770": 1792157281.720762,
+  "9bd435da705f8b87": 1792157281.7207646,
+  "e098543770f76961": 1792157305.2059438,
+  "69465d51eb7c419c": 1792157305.2059479,
+  "5049d7758c81f33c": 1792157305.2059507,
+  "d8724c92f2ebd42e": 1792157305.2059531,
+  "1d2de0746811adcd": 1792157305.2059548,
+  "ad929b2ace788813": 1792157305.2059572,
+  "b326176f42c0253d": 1792157305.2059588,
+  "c88ec47cedbce1f8": 1792157305.205961,
+  "a428aad1fb4540e0": 1792157305.2059696,
+  "e0e9127e25e60fee": 1792157305.205972,
+  "4aa1834f9cf68b67": 1792157305.205976,
+  "dd3a8354ad3793bc": 1792157305.2059784
  },
  "recent": [
   "Meta Releases Muse Spark Open With an Unlikely Assist From Apple: Why It Can Afford to Give It Away",
@@ -394,25 +431,34 @@
   "Trump says US may need to strike Iran's Pickaxe Mountain",
   "Crypto Funds See $434M in Outflows as Hot CPI Pushes Fed Hawkish",
   "Iran’s army chief vows Hormuz stays shut until Iranians’ rights 'honored'",
-  "Iran Ready for Dialogue, But U.S. Seeks to Subdue Tehran, Says President Bezkian"
+  "Iran Ready for Dialogue, But U.S. Seeks to Subdue Tehran, Says President Bezkian",
+  "Happy Friday! We have flying cars now. Here's a closer look at Tesla's SpaceX-powered Roadster.",
+  "Two Ships Sink Near Strait of Hormuz as Attacks on Container Vessels Escalate",
+  "Missiles, drones and smuggled weapons: How the Houthis keep striking back",
+  "US Stock Futures Mixed Amid Inflation, AI Concerns on Nasdaq 100",
+  "Iran Not Pursuing Nuclear Weapons: President",
+  "Iran vows immediate response to any US threat against energy facilities",
+  "Oil prices still hovering around the $100 mark"
  ],
  "initialized": true,
  "last_alert": 1792154574.683099,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 206,
-  "new": 206,
+  "fetched": 216,
+  "new": 137,
   "rated": {
-   "low": 115,
-   "medium": 38,
-   "high": 3
+   "low": 27,
+   "medium": 9,
+   "high": 1
   },
-  "posted": 30,
+  "posted": 7,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4555)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4250)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 98 (char 4198)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 100 (char 1835)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4816)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 101 (char 4163)"
   ],
-  "time": "2026-10-16T12:59:44+00:00"
+  "time": "2026-10-16T13:28:25+00:00"
  }
 }
