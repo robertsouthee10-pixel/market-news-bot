@@ -1223,16 +1223,31 @@
   "b625bbdec9c434f5": 1792191079.2922266,
   "c609e8822fa2abb1": 1792191080.5229838,
   "4497b3f311bbd438": 1792191081.8082836,
-  "a8ff361ccb3f1044": 1792191081.8083072
+  "a8ff361ccb3f1044": 1792191081.8083072,
+  "48656b67f8f1ddc6": 1792192363.2365863,
+  "605b3bccc8d4ce1d": 1792192363.2365916,
+  "4911fb1b98b3a302": 1792192363.2365947,
+  "a9bc2bdc32c1c9ae": 1792192364.742355,
+  "56b8c64bce9518b6": 1792192366.0064816,
+  "762467f41428253c": 1792192366.006493,
+  "f51a3d9a2d75e724": 1792192366.0064976,
+  "4f9f4306257d137c": 1792192367.3769507,
+  "c899fab8e763e5e9": 1792192367.376963,
+  "a736c691b6a85fa0": 1792192369.01477,
+  "eceeaf1a5f1dff4f": 1792192369.014786,
+  "6149ba481e0b4976": 1792192369.0147896,
+  "31bae9cd7587fb6a": 1792192369.0147922,
+  "7f6a7b867b0a6409": 1792192370.2861824,
+  "6949664aa929c7fa": 1792192371.5248446,
+  "1be301dda49e0c4d": 1792192371.524856,
+  "ffc024f2e25fe437": 1792192371.524859,
+  "ffe8ac55ccde87f8": 1792192371.5248623,
+  "8b1b7cf75d260a1f": 1792192371.5248644,
+  "8713804bb162f069": 1792192372.7940361,
+  "a56095c24a41ab53": 1792192372.7940464,
+  "a711bc4bf02f261a": 1792192372.7940497
  },
  "recent": [
-  "Stock Market Today: Nasdaq Plunges 2%; Palo Alto Leads Slide In Cybersecurity Space",
-  "Dow rises 500 points as investors shift: Full Details",
-  "CENTCOM chief: US has blocked Iran from exporting $25b worth of oil",
-  "Dow falls 189 points as AI stocks slide and oil prices surge",
-  "Oil hits $110 per barrel for first time since May",
-  "Meta expected to beat revenue forecasts as AI boosts advertising, says Bank of America",
-  "AI investors have woken up to the bond market’s warning signs",
   "Why Is Alphabet (GOOGL) Pushing Gemini 4 Argon Into Enterprise Workflows Worldwide?",
   "Wall Street's fear gauge is ripping. Traders see it going even higher",
   "Entegris, Micron, AMD, Marvell Technology, and Western Digital Shares Are Falling, What You Need To Know",
@@ -1265,24 +1280,33 @@
   "Missiles, drones intercepted over Saudi Arabia as Houthi attacks continue",
   "Explaining Iran's unprecedented escalation in the Strait of Hormuz",
   "Big US bank stocks head for longest weekly losing streak since 2008",
-  "CoreWeave stock plunges 12%, but Wall Street analyst says buy the dip"
+  "CoreWeave stock plunges 12%, but Wall Street analyst says buy the dip",
+  "Wall Street ends down sharply as AI stocks, oil prices weigh",
+  "Tech Selloff Deepens as Market Rotation Continues",
+  "Shafaq News..US pauses strikes on Iranian missiles in Hormuz",
+  "CoreWeave (NASDAQ: CRWV) Stock Price Slides 7% As AI Debt Fears Refuse To Fade",
+  "US bond 10-year yields suffer biggest weekly drop in over year. Why is treasury note down?",
+  "Iran vows new military plans after US says it helped Gulf allies ship 100 million barrels of oil through...",
+  "Fuel prices today, October 17th: World oil prices surge in the final trading session of the week."
  ],
  "initialized": true,
  "last_alert": 1792189100.240812,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 135,
-  "new": 45,
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
+  ],
+  "fetched": 130,
+  "new": 47,
   "rated": {
-   "low": 13,
+   "low": 15,
    "medium": 5,
    "high": 2
   },
-  "posted": 6,
+  "posted": 7,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 56 (char 57)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 58 (char 3218)"
   ],
-  "time": "2026-10-16T22:51:21+00:00"
+  "time": "2026-10-16T23:12:52+00:00"
  }
 }
