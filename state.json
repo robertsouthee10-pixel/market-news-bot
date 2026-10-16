@@ -809,14 +809,30 @@
   "09a14595a1debbba": 1792171298.7672064,
   "54680d0e87c8cef4": 1792171298.7672102,
   "d1f40ea11ef8a00e": 1792171298.7674608,
-  "1697162914a5e332": 1792171298.7674654
+  "1697162914a5e332": 1792171298.7674654,
+  "3d287866676fe9c0": 1792173179.544565,
+  "fc7ec49adc110cba": 1792173179.5446348,
+  "452475db74abed58": 1792173181.0663683,
+  "ceae3bb420f0c7d0": 1792173182.3371446,
+  "c6e47b12bd511c67": 1792173182.3371658,
+  "797eefdeddeb4985": 1792173182.33717,
+  "c604cb4bdfd3f17d": 1792173182.3371742,
+  "a092b9c3bfe3b127": 1792173182.3371825,
+  "10e9592ee0346079": 1792173182.337186,
+  "ad017fba66bf42f9": 1792173182.3371897,
+  "ab80c6244c479cec": 1792173182.3371923,
+  "a299ed85da1867a0": 1792173182.3371952,
+  "898571502a966296": 1792173183.7328541,
+  "c6f8c24a39cc3407": 1792173185.0663013,
+  "00cd0b25b860816a": 1792173185.0663247,
+  "46b4e10aaa394c7d": 1792173185.066329,
+  "fe0c4a0485b8215a": 1792173185.0663335,
+  "08e08522d64dc8c5": 1792173185.0663362,
+  "efdc61da2ead2631": 1792173185.0663385,
+  "b13d97aa8599882b": 1792173185.0663414,
+  "4d97497676bb05ed": 1792173185.066344
  },
  "recent": [
-  "Polymarket Bitcoin and Rate Hike Odds Shift as CME Says No Change",
-  "Trump Warns US May Target Pickaxe Mountain, Rules Out Ground Troops In Iran: 'We'll Knock It Out Fast'",
-  "Nasdaq and S&P Index: AI Selling Deepens as Dow Holds Up on Rotation",
-  "Nasdaq Reports Network Disruption Affecting US Equities Data Feeds",
-  "Pentagon Prepares Plans To Target Iran With ‘Mother Of All Bombs’",
   "Gas prices surge 9.1% in one month, pushing CPI to 3.7% — and the Fed may hike rates again by December",
   "Saudi-led coalition says intercepts missiles, drones over Riyadh, other areas",
   "Trump Rules Out Using a Nuclear Bomb on Iran: Why That Matters",
@@ -851,26 +867,31 @@
   "Nikkei 225 closes 898 points higher as AI stocks rebound",
   "US Treasury Yields Under Pressure Amid Inflation Concerns",
   "Oil Prices Gain More Than 3%, Heading for Weekly Gain With Focus on Middle East Supply",
-  "Brent Crude Surges 3% Nearing $110: What Is Causing Oil Prices to Rise Again?"
+  "Brent Crude Surges 3% Nearing $110: What Is Causing Oil Prices to Rise Again?",
+  "Oil futures: Crude higher on rising Middle East tensions",
+  "US oil prices top $100 after Iran sinks GFS Pride",
+  "SpaceX Earnings Due Amid AI Revenue Surge, Tesla Merger Buzz",
+  "Fed market review: hot inflation data raises October hike odds ahead of FOMC",
+  "Iran vows to push US warships further away"
  ],
  "initialized": true,
  "last_alert": 1792165751.8227887,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 246,
-  "new": 166,
+  "fetched": 226,
+  "new": 96,
   "rated": {
-   "low": 73,
-   "medium": 17,
-   "high": 1
+   "low": 14,
+   "medium": 4,
+   "high": 3
   },
-  "posted": 13,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 148 (char 2493)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4727)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4390)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4422)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 98 (char 3220)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3941)"
   ],
-  "time": "2026-10-16T17:21:38+00:00"
+  "time": "2026-10-16T17:53:05+00:00"
  }
 }
