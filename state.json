@@ -1245,12 +1245,33 @@
   "8b1b7cf75d260a1f": 1792192371.5248644,
   "8713804bb162f069": 1792192372.7940361,
   "a56095c24a41ab53": 1792192372.7940464,
-  "a711bc4bf02f261a": 1792192372.7940497
+  "a711bc4bf02f261a": 1792192372.7940497,
+  "c13494e007677b51": 1792194022.562448,
+  "74e876bc9cea5968": 1792194022.5624545,
+  "d6687003b4ca4e0e": 1792194022.5624602,
+  "26c111a1de32e2fd": 1792194022.562462,
+  "e1c1a95de77b104f": 1792194022.5624642,
+  "282e92bb311e0c1b": 1792194022.5624661,
+  "3916235b3c99def4": 1792194022.5624676,
+  "a531d8238ec1b044": 1792194022.5624695,
+  "bd27ebc5c52cf451": 1792194022.5624704,
+  "d018195a6e8140e1": 1792194022.5624716,
+  "b49545ec6ff6fd83": 1792194022.562473,
+  "c7ef9b2e056a400a": 1792194022.5624743,
+  "f7350a3b4b80d1a0": 1792194024.0091774,
+  "46e2375f49916ca1": 1792194025.2753735,
+  "8bff460ed25f67f0": 1792194025.2754033,
+  "dc74947142e1d5da": 1792194025.2754078,
+  "46d64da7291e34cd": 1792194025.275411,
+  "6314b3006a9f0822": 1792194026.559219,
+  "4dc746618e1cdea0": 1792194026.559246,
+  "622f3231fe6f7e05": 1792194026.55925,
+  "26440d8c59592cea": 1792194026.5592532,
+  "9b95fec9770663a6": 1792194026.5592566,
+  "ea317b19f7206d1f": 1792194026.5592597,
+  "58638fb059ea08a7": 1792194026.5592628
  },
  "recent": [
-  "Why Is Alphabet (GOOGL) Pushing Gemini 4 Argon Into Enterprise Workflows Worldwide?",
-  "Wall Street's fear gauge is ripping. Traders see it going even higher",
-  "Entegris, Micron, AMD, Marvell Technology, and Western Digital Shares Are Falling, What You Need To Know",
   "Stock Market Today, Oct. 16: Tesla Slips 2% as Roadster Reveal Fades Before Earnings",
   "Donald Trump says he won’t use a nuclear weapon in the war on Iran | BBC News",
   "Stock Market Ends Week With Software Sell-Off; Nasdaq Dives 2%, Gives Up 200-Day Line",
@@ -1287,26 +1308,27 @@
   "CoreWeave (NASDAQ: CRWV) Stock Price Slides 7% As AI Debt Fears Refuse To Fade",
   "US bond 10-year yields suffer biggest weekly drop in over year. Why is treasury note down?",
   "Iran vows new military plans after US says it helped Gulf allies ship 100 million barrels of oil through...",
-  "Fuel prices today, October 17th: World oil prices surge in the final trading session of the week."
+  "Fuel prices today, October 17th: World oil prices surge in the final trading session of the week.",
+  "Iran denies involvement in Houthi attacks on Saudi Arabia",
+  "The Philadelphia Semiconductor Index suffers its longest consecutive decline since 2008; Jensen Huang responds calmly: Short-term volatility will not alter the long-term growth outlook for AI.",
+  "Trump Calls Iran War a ‘Military Exercise’ After US Death Toll Raised"
  ],
  "initialized": true,
  "last_alert": 1792189100.240812,
  "last_run": {
-  "feeds_ok": 17,
-  "feeds_failed": [
-   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
-  ],
-  "fetched": 130,
-  "new": 47,
+  "feeds_ok": 18,
+  "feeds_failed": [],
+  "fetched": 134,
+  "new": 49,
   "rated": {
-   "low": 15,
-   "medium": 5,
-   "high": 2
+   "low": 21,
+   "medium": 3,
+   "high": 0
   },
-  "posted": 7,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 58 (char 3218)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3201)"
   ],
-  "time": "2026-10-16T23:12:52+00:00"
+  "time": "2026-10-16T23:40:26+00:00"
  }
 }
