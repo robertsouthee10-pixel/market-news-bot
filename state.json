@@ -1040,14 +1040,38 @@
   "a5ffda43e193a3c7": 1792182174.9315825,
   "12ced9ab76b5943e": 1792182174.931584,
   "8b9aecd98ddb3ca4": 1792182174.931691,
-  "cfba68d8263f1abf": 1792182174.9316933
+  "cfba68d8263f1abf": 1792182174.9316933,
+  "e7f8420c81d964de": 1792184172.546574,
+  "9d070273ee97c42d": 1792184172.54658,
+  "00b8f71d7304d931": 1792184172.546583,
+  "b980bda2ca00f7e1": 1792184172.546586,
+  "f17be242f77bede0": 1792184172.5465884,
+  "d28e5be542172cc3": 1792184172.5465927,
+  "093ea517b3dbb80b": 1792184172.546595,
+  "63d8e6886dfb46e4": 1792184174.0821128,
+  "49c9e744518cb525": 1792184174.0821333,
+  "04ceaec20475b396": 1792184175.2592287,
+  "de8c1c926f0d5a3c": 1792184175.259247,
+  "7448f8801b0b7dd6": 1792184175.2592516,
+  "7356c536a49e3568": 1792184175.259255,
+  "8a2d2653fe96c03c": 1792184175.2592573,
+  "14469c6fab9df4a4": 1792184176.4751434,
+  "bab06c149f9be0dc": 1792184176.4751654,
+  "724676529d239a7b": 1792184176.4751709,
+  "94ae6d402a7859c1": 1792184176.4751742,
+  "284ada0a6f8d4fd1": 1792184176.475179,
+  "2fa80d9803a17473": 1792184176.4751823,
+  "fd53fead644d013b": 1792184176.475189,
+  "df739f288cdf11b0": 1792184176.4751928,
+  "59a49d079e921473": 1792184176.4751966,
+  "c47695ba12370874": 1792184176.475199,
+  "cc91985a0033587b": 1792184176.4752014,
+  "62b948628e494ec9": 1792184181.986874,
+  "38cd9eb61b194099": 1792184181.9868789,
+  "6aec5f4ed8c98816": 1792184183.3675828,
+  "d2bf07fe22159149": 1792184184.6069508
  },
  "recent": [
-  "Wholesale inflation surged in September, keeping affordability in focus ahead of the midterms",
-  "Nikkei 225 closes 898 points higher as AI stocks rebound",
-  "US Treasury Yields Under Pressure Amid Inflation Concerns",
-  "Oil Prices Gain More Than 3%, Heading for Weekly Gain With Focus on Middle East Supply",
-  "Brent Crude Surges 3% Nearing $110: What Is Causing Oil Prices to Rise Again?",
   "Oil futures: Crude higher on rising Middle East tensions",
   "US oil prices top $100 after Iran sinks GFS Pride",
   "SpaceX Earnings Due Amid AI Revenue Surge, Tesla Merger Buzz",
@@ -1082,26 +1106,32 @@
   "Nasdaq sinks more than 2% as investors raise questions about AI debt",
   "Dollar Falls as Fed Rate Hike Expectations Ease and AI Fears Grow",
   "Iran Shipping LPG and Jet Fuel Despite US Blockade, Says Report",
-  "How are the Houthis helping Iran by attacking Saudi Arabia?"
+  "How are the Houthis helping Iran by attacking Saudi Arabia?",
+  "Stock Market Today: Nasdaq Plunges 2%; Palo Alto Leads Slide In Cybersecurity Space",
+  "Dow rises 500 points as investors shift: Full Details",
+  "CENTCOM chief: US has blocked Iran from exporting $25b worth of oil",
+  "Dow falls 189 points as AI stocks slide and oil prices surge",
+  "Oil hits $110 per barrel for first time since May"
  ],
  "initialized": true,
  "last_alert": 1792177086.3122423,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 226,
-  "new": 137,
+  "fetched": 222,
+  "new": 129,
   "rated": {
-   "low": 52,
-   "medium": 10,
-   "high": 0
+   "low": 22,
+   "medium": 6,
+   "high": 1
   },
-  "posted": 7,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 98 (char 4348)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 100 (char 5191)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 144 (char 2910)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4259)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 100 (char 2683)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 143 (char 3026)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3103)"
   ],
-  "time": "2026-10-16T20:22:54+00:00"
+  "time": "2026-10-16T20:56:24+00:00"
  }
 }
