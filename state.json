@@ -1971,10 +1971,12 @@
   "bfd0bdb190bc7851": 1792236288.0383976,
   "16bcbf217b42fcbf": 1792236288.0384018,
   "9b1e7edabf14826b": 1792236288.038406,
-  "aa22b1abed39e3be": 1792236289.3589566
+  "aa22b1abed39e3be": 1792236289.3589566,
+  "0dcc6784b4748f82": 1792237876.534544,
+  "64121e66ba9057f3": 1792237877.6957958,
+  "dc4818ae4e0bb2e9": 1792237877.6958199
  },
  "recent": [
-  "Iran Denies Supporting Houthi Escalation Against Saudi Arabia, Offers to Mediate Again",
   "Dow Jones outlook: CPI, oil and yields put the rally to the test",
   "International warning issued regarding navigation risks in the Strait of Hormuz; naval mines threaten vessel traffic",
   "TradFi News | AI Debt Met an Oil Shock and the Nasdaq 100 Had Its Worst Week in 18 Months",
@@ -2013,24 +2015,26 @@
   "Iran’s IRGC warns Strait of Hormuz is closed after supertanker catches fire",
   "Spot Gold Stuck at $4,185 Following Hot US CPI, PPI Data",
   "US claims Iran unable to fund 'proxy militia' after losing $25 billion in oil exports to naval blockade",
-  "AI Financing Fears Drag Hewlett Packard Enterprise (NYSE: HPE) Down 5%, Super Micro (NASDAQ: SMCI) Sinks 7% And Dell (NYSE: DELL) Falls 3%"
+  "AI Financing Fears Drag Hewlett Packard Enterprise (NYSE: HPE) Down 5%, Super Micro (NASDAQ: SMCI) Sinks 7% And Dell (NYSE: DELL) Falls 3%",
+  "China’s CXMT Sees Q3 Revenue as High as $16.7 Billion, Expands DRAM Share to 10%"
  ],
  "initialized": true,
  "last_alert": 1792236278.8282206,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 92,
-  "new": 33,
+  "fetched": 94,
+  "new": 53,
   "rated": {
-   "low": 4,
-   "medium": 4,
+   "low": 2,
+   "medium": 1,
    "high": 0
   },
-  "posted": 2,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4281)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 142 (char 4628)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 142 (char 3830)"
   ],
-  "time": "2026-10-17T11:24:49+00:00"
+  "time": "2026-10-17T11:51:17+00:00"
  }
 }
