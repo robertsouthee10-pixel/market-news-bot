@@ -1699,11 +1699,17 @@
   "6a334833a7f15871": 1792223444.2102883,
   "52715c8ba2c86296": 1792223444.2102914,
   "8b7279fea2f885d8": 1792223445.4456365,
-  "0145728d4974de6c": 1792223445.4456723
+  "0145728d4974de6c": 1792223445.4456723,
+  "651c3c0f1a05895f": 1792224677.1854873,
+  "577cfeb518d469bd": 1792224678.5276995,
+  "af2539f80b79a4f1": 1792224678.52772,
+  "a1374cd1a0d75f86": 1792224678.5277252,
+  "dfc7d8cd8d562edd": 1792224679.8903735,
+  "87ea5cb5edc33422": 1792224679.890403,
+  "b73012b3ad592067": 1792224679.8904064,
+  "3df2794698ae247b": 1792224679.8904085
  },
  "recent": [
-  "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
-  "AI Debt Warning Signs Are Piling Up: Why Bond Markets Are Getting Nervous About AI Infrastructure Spending",
   "Why Is Space Exploration Technologies (SPCX) Facing Questions Over Ukraine And Merger Talk?",
   "Brent oil touches $110 as Iran escalates Hormuz attacks",
   "Short Sellers Cash In as Chip Stocks Tank",
@@ -1741,24 +1747,27 @@
   "AI stocks plunge as oil prices rise to $110 a barrel",
   "Bank of America Says Investors Should Consider Risk-Off Strategy as AI Volatility Rises",
   "Oil prices may ease to $80 per barrel in 2027 as West Asia supply recovers: Goldman Sachs",
-  "Brent Crude Hits $110 as Iran Escalates Hormuz Attacks, Ukraine Targets Russian Refineries"
+  "Brent Crude Hits $110 as Iran Escalates Hormuz Attacks, Ukraine Targets Russian Refineries",
+  "Tanker struck by unknown projectile near Al Jubail in Saudi Arabia: UKMTO",
+  "Semiconductor index plunges 11.4% amid rising T..."
  ],
  "initialized": true,
- "last_alert": 1792213861.4405808,
+ "last_alert": 1792224667.7503893,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 93,
-  "new": 48,
+  "fetched": 97,
+  "new": 58,
   "rated": {
-   "low": 23,
-   "medium": 1,
-   "high": 1
+   "low": 3,
+   "medium": 3,
+   "high": 2
   },
   "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3542)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 9 column 99 (char 1463)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4481)"
   ],
-  "time": "2026-10-17T07:51:01+00:00"
+  "time": "2026-10-17T08:11:19+00:00"
  }
 }
