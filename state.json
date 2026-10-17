@@ -2953,13 +2953,31 @@
   "b9f176cb9f8e960e": 1792275183.4706423,
   "efcc4f88cd35cea4": 1792275184.6992414,
   "3fd4814bf4b5b13a": 1792275185.947676,
-  "7b2497f2b19302a1": 1792275185.9476833
+  "7b2497f2b19302a1": 1792275185.9476833,
+  "59070d0b832b500d": 1792276841.1917741,
+  "350dee9efafb5d83": 1792276841.1918042,
+  "e1659c5dac781d87": 1792276841.1918082,
+  "4b931fc47c80988f": 1792276841.1918116,
+  "4654c25922cb8e55": 1792276841.1918142,
+  "debf0eacfb9d2fea": 1792276841.1918173,
+  "b4c83ed9d3872784": 1792276841.1918192,
+  "80905f49bbe8d335": 1792276841.191822,
+  "126331636845e0fd": 1792276841.1918242,
+  "7706fbf1ac44b30b": 1792276841.1918266,
+  "9c86675b56a3a6eb": 1792276841.1918292,
+  "91376f1ef04c7ba6": 1792276842.5267348,
+  "29a7fef52dbcf54e": 1792276843.7242262,
+  "f75a0dfea0f1a292": 1792276843.7242491,
+  "9a4914b479dac4c4": 1792276843.7242546,
+  "0d5ff5987b785136": 1792276843.7242584,
+  "02e910fc0f5aff3c": 1792276843.7242603,
+  "21afb7096180c9ed": 1792276843.7242625,
+  "7a8fa183a509f152": 1792276843.7242644,
+  "4cef57c4a9a9d0cb": 1792276844.9847784,
+  "60337df6af16087c": 1792276844.984799,
+  "e54aeb9362dd4b4c": 1792276844.9848022
  },
  "recent": [
-  "Apple bets on the same Siri AI technology with new HomeView device that led to a $250M settlement for iPhone users",
-  "Egypt, Türkiye FMs call for renewed US-Iran talks to ease regional tensions",
-  "Ship attacks in Strait of Hormuz hit record high since Iran war began",
-  "Asian markets sell off as AI trades crumble after hot US CPI data",
   "Trump: We beat the s**t out of Iran",
   "Trump on Iran: \"We're gonna be there a little bit longer\"",
   "Monday Markets: SA rand tanking, but oil prices softer and stocks rally on ‘Goldilocks’ data",
@@ -2995,22 +3013,26 @@
   "Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff",
   "Riyadh residents receive 'hostile aerial threat' alert",
   "Saudi Arabia reports incoming fire as Egypt weighs sending help",
-  "Long-Term Treasury Yields Buffeted by Hot Inflation and Cracks in AI Mania"
+  "Long-Term Treasury Yields Buffeted by Hot Inflation and Cracks in AI Mania",
+  "‘How many canaries have we killed in the coal mine?’ — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
+  "🇺🇸🇮🇷 Iraq is sliding into the wider war, and a retired U.S. Officer says the U.S. has almost no useful military options left. Lt. Col. Anthony Aguilar told Brandon Weichert that recent explosions at Popular Mobilization Forces sites in Baghdad and reported UAV st",
+  "The Nasdaq Index Just Had Its Worst Week Since June - and Netflix, Tesla and Meta Report Next",
+  "Trump looks to rein in fuel prices ahead of midterms; waives threat of 100% tariffs on India over Russian"
  ],
  "initialized": true,
  "last_alert": 1792258792.7975183,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 85,
-  "new": 33,
+  "fetched": 70,
+  "new": 22,
   "rated": {
-   "low": 28,
-   "medium": 3,
-   "high": 2
+   "low": 17,
+   "medium": 5,
+   "high": 0
   },
   "posted": 4,
   "errors": [],
-  "time": "2026-10-17T22:13:05+00:00"
+  "time": "2026-10-17T22:40:44+00:00"
  }
 }
