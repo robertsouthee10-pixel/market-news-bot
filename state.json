@@ -2895,12 +2895,20 @@
   "3177fb17e1c1ba96": 1792270870.3107407,
   "c33a06409a9f5a01": 1792270870.3107433,
   "fc2546668ba7fb62": 1792270870.310746,
-  "5381827de7e8dbe8": 1792270871.5527608
+  "5381827de7e8dbe8": 1792270871.5527608,
+  "0d2a2af434e25a8b": 1792272415.9550452,
+  "6c449e9a2ceb702e": 1792272415.9550512,
+  "382a7a6cba8165e0": 1792272417.2972887,
+  "fa88cb7d4054e817": 1792272417.2973151,
+  "07d8d2820778ba18": 1792272420.872524,
+  "4151cac5dd72ade9": 1792272420.8725445,
+  "a17d66863ea252db": 1792272422.1034687,
+  "9db0219ecfe9f8a3": 1792272422.1034896,
+  "b621ef50502dafd8": 1792272422.1034968,
+  "9e4dee9c971cd53f": 1792272422.1035006,
+  "5e20c57a2c39175b": 1792272422.1035037
  },
  "recent": [
-  "Hegseth says Iran has choice between deal or ‘devastation’",
-  "Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk?",
-  "Tehran’s diplomatic paralysis leaves Iran caught between deal and escalation",
   "US Stock Market Prediction: Dow Jones Futures Fall, S&P 500 Futures Slide & Nasdaq Futures Point Lower Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things to Watch",
   "🇺🇸🇮🇷 Prof. Mohammad Marandi: Iran will NOT let Trump bomb his way to a victory and walk away Trump may be looking for ONE final strike against Iran, something dramatic enough to declare victory without restarting a full-scale war. But Professor Mohamm",
   "China Supplies Dual Use Goods to Yemen Houthis",
@@ -2937,22 +2945,25 @@
   "Egypt Holds Major Live-Fire Drills As Sisi Vows To Defend Saudi Arabia Amid Yemen War Tensions",
   "Iranian Revolutionary Guard Navy: Consequence for Ships Defying Regulations in Strait of Hormuz Is Going Up in Flames",
   "Oil above $100 may heighten risk of escalation with Iran — Jerusalem Post",
-  "Moscow says first tanker carrying Russian oil to world markets has departed"
+  "Moscow says first tanker carrying Russian oil to world markets has departed",
+  "KOSPI rebounds as Korea eyes rate decision, US tech reports test AI hopes - CHOSUNBIZ",
+  "Shafaq News..US redirects 130+ ships under Iran blockade",
+  "Iran: Maritime traffic in the Strait of Hormuz may return to normal within 7 days"
  ],
  "initialized": true,
  "last_alert": 1792258792.7975183,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 145,
-  "new": 99,
+  "fetched": 91,
+  "new": 11,
   "rated": {
-   "low": 85,
-   "medium": 13,
-   "high": 1
+   "low": 8,
+   "medium": 3,
+   "high": 0
   },
-  "posted": 9,
+  "posted": 3,
   "errors": [],
-  "time": "2026-10-17T21:01:11+00:00"
+  "time": "2026-10-17T21:27:02+00:00"
  }
 }
