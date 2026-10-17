@@ -1357,15 +1357,29 @@
   "543d67b8f5ee04de": 1792201734.7910018,
   "48b888b6c0df3bdc": 1792201738.6287665,
   "75b4c7936ef34820": 1792201740.3229465,
-  "a9f21ad69ed7aec7": 1792201740.3229697
+  "a9f21ad69ed7aec7": 1792201740.3229697,
+  "747fd4b5b5991ab6": 1792203240.2974303,
+  "815dc9ec5de55d70": 1792203240.2974372,
+  "99489565b7550b9e": 1792203240.2974405,
+  "1f57d97a9c918c31": 1792203240.297443,
+  "0f32d5c715ffdb0f": 1792203241.7089407,
+  "10382b43a28bbc20": 1792203241.7089639,
+  "f048439968059ab0": 1792203243.1440785,
+  "f3c284dbaa8f484b": 1792203243.1441007,
+  "3172350c3befef02": 1792203244.401009,
+  "d0edcf8f7954cee8": 1792203245.609333,
+  "dd931e68a58ed1b7": 1792203245.609352,
+  "d8cb7feaa8203d48": 1792203246.8681645,
+  "5796c5cddf8c5b96": 1792203246.8681834,
+  "df1f5f684cb54266": 1792203246.868187,
+  "aa92b1d80899046f": 1792203246.8681903,
+  "d6e4ca9cecb24580": 1792203246.8681927,
+  "c5f6924ffb150f22": 1792203248.2104754,
+  "1bab5b1613b05ee5": 1792203248.210495,
+  "535b33aaab2db51d": 1792203248.2105,
+  "9cc7131270d84cf4": 1792203248.2105033
  },
  "recent": [
-  "Alphabet (NASDAQ:GOOG) Funds Capital Spending as Quarterly Free Cash Flow Turns Negative",
-  "Reuters Exclusive: Iran Exports LPG, Jet Fuel Despite US Naval Blockade",
-  "KUWAIT SLAMS HORMUZ CLOSURE, WARNS OF FOOD CRISIS",
-  "CAC 40 Today: Paris Rises to 7,956.70 as FED Chair Kevin Warsh Declined to Signal an October Rate Hike",
-  "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers — AAPL, MSTR, UBER, SOXX In Focus",
-  "Watch AI Selloff, Oil & Treasury Yields Pressure Markets",
   "Missiles, drones intercepted over Saudi Arabia as Houthi attacks continue",
   "Explaining Iran's unprecedented escalation in the Strait of Hormuz",
   "Big US bank stocks head for longest weekly losing streak since 2008",
@@ -1399,24 +1413,30 @@
   "US budget deficit balloons to nearly $2 trillion as debt servicing and war costs surge",
   "South Korea's KOSPI Triggers Circuit Breakers 10 Times This Year Alone, Surpassing 27-Year Cumulative Total",
   "24 Indian Seafarers Safe After Tankers Attacked In Hormuz, Romania",
-  "The US Army launches Tomahawk missiles from Typhon ground-based launchers, and strategic moves by Russia and Iran."
+  "The US Army launches Tomahawk missiles from Typhon ground-based launchers, and strategic moves by Russia and Iran.",
+  "Nasdaq sell-off extends; Semiconductor ETF posts worst week in 18 months while Cboe VIX jumps",
+  "US may need to strike Iran's Pickaxe Mountain",
+  "Hormuz ship attacks hit weekly record as oil flows slow again",
+  "Any passage through strait of Hormuz requires Iran's permission",
+  "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia",
+  "Iran Guards say oil tanker exploded after hitting mine in 'unauthorized' route through Hormuz"
  ],
  "initialized": true,
  "last_alert": 1792201710.4534698,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 115,
-  "new": 53,
+  "fetched": 104,
+  "new": 45,
   "rated": {
-   "low": 19,
-   "medium": 7,
-   "high": 2
+   "low": 11,
+   "medium": 5,
+   "high": 4
   },
-  "posted": 8,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 99 (char 2051)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 58 (char 59)"
   ],
-  "time": "2026-10-17T01:49:00+00:00"
+  "time": "2026-10-17T02:14:08+00:00"
  }
 }
