@@ -2044,10 +2044,12 @@
   "311ccce0aeb16a39": 1792241255.294545,
   "e93afeb9c66a5855": 1792241255.2945514,
   "4d1cda4273dd5cf4": 1792241255.2945552,
-  "c779092acf2ab076": 1792241255.294557
+  "c779092acf2ab076": 1792241255.294557,
+  "72f04f4e89e67d63": 1792243103.7833788,
+  "8507d3cff0cee9db": 1792243105.0687165,
+  "6a752f3aea57cf9d": 1792243105.0687356
  },
  "recent": [
-  "Chinas Equity Market Plunges 40% As Chipmakers Lose Half Their Value Amid Tech Selloff",
   "Micron's 15% Weekly Slide Masks a Busy Fortnight of Plants, Patents and Pay Talks",
   "Why Is Tesla (NASDAQ:TSLA) Stock Falling After Musk’s Flying Roadster Reveal?",
   "Jefferies warns AI earnings growth to slow sharply in next 2 years, urges investors to diversify",
@@ -2086,24 +2088,27 @@
   "Update on gasoline and oil prices on October 17: World oil prices increase sharply by nearly 4%",
   "Houthis Strike Again? 2 Ships Bombed Off Saudi Coast As Missiles, Drones Hit Kingdom",
   "Egypt, Turkey Urge US and Iran to Resume Negotiations",
-  "Araghchi says Iran backs ‘political process’ to solve Saudi-Houthis conflict"
+  "Araghchi says Iran backs ‘political process’ to solve Saudi-Houthis conflict",
+  "Second oil supertanker explodes after mine strike, Iran says"
  ],
  "initialized": true,
  "last_alert": 1792236278.8282206,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 98,
-  "new": 55,
+  "fetched": 122,
+  "new": 78,
   "rated": {
-   "low": 20,
-   "medium": 7,
-   "high": 3
+   "low": 2,
+   "medium": 0,
+   "high": 1
   },
-  "posted": 6,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3958)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 98 (char 4430)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 100 (char 3184)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 142 (char 4367)"
   ],
-  "time": "2026-10-17T12:47:35+00:00"
+  "time": "2026-10-17T13:18:25+00:00"
  }
 }
