@@ -1377,15 +1377,27 @@
   "c5f6924ffb150f22": 1792203248.2104754,
   "1bab5b1613b05ee5": 1792203248.210495,
   "535b33aaab2db51d": 1792203248.2105,
-  "9cc7131270d84cf4": 1792203248.2105033
+  "9cc7131270d84cf4": 1792203248.2105033,
+  "0845cc027ce68c5e": 1792205313.3650289,
+  "714d96f115cd349d": 1792205313.3650544,
+  "456c8f2e5143832e": 1792205314.624467,
+  "a3f7629f319a29d1": 1792205314.6244864,
+  "03201b1cace3d7ca": 1792205314.624492,
+  "75ddb58cdc7f223c": 1792205316.0148146,
+  "e8275761ebd2dca1": 1792205316.0148413,
+  "1dee1a07222e7b6c": 1792205316.014847,
+  "fce01206b4d1ec93": 1792205316.0148494,
+  "07c3e17f7bae9eb4": 1792205316.014852,
+  "0cc128b999cd79ea": 1792205317.2182984,
+  "abf39bdbfbc29cee": 1792205317.218321,
+  "b1ac43b86922cd1e": 1792205317.2183259,
+  "2e5881ef8c5f50c1": 1792205317.2183287,
+  "d54c6ecab12fc37d": 1792205318.8953545,
+  "e488cf7921241ea2": 1792205318.8953743,
+  "02a41d3e9cea2865": 1792205318.8953779,
+  "9a3092179c13de55": 1792205320.177611
  },
  "recent": [
-  "Missiles, drones intercepted over Saudi Arabia as Houthi attacks continue",
-  "Explaining Iran's unprecedented escalation in the Strait of Hormuz",
-  "Big US bank stocks head for longest weekly losing streak since 2008",
-  "CoreWeave stock plunges 12%, but Wall Street analyst says buy the dip",
-  "Wall Street ends down sharply as AI stocks, oil prices weigh",
-  "Tech Selloff Deepens as Market Rotation Continues",
   "Shafaq News..US pauses strikes on Iranian missiles in Hormuz",
   "CoreWeave (NASDAQ: CRWV) Stock Price Slides 7% As AI Debt Fears Refuse To Fade",
   "US bond 10-year yields suffer biggest weekly drop in over year. Why is treasury note down?",
@@ -1419,24 +1431,30 @@
   "Hormuz ship attacks hit weekly record as oil flows slow again",
   "Any passage through strait of Hormuz requires Iran's permission",
   "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia",
-  "Iran Guards say oil tanker exploded after hitting mine in 'unauthorized' route through Hormuz"
+  "Iran Guards say oil tanker exploded after hitting mine in 'unauthorized' route through Hormuz",
+  "Navitas Slides as AI Debt Worries Overshadow NVIDIA Power Board Launch",
+  "NZD/USD Slides to April 2025 Lows as Hot US Inflation Lifts Dollar, Rate-Hike Bets",
+  "Qatar’s government revenue plunges 42% in first half as Iran war knocks out gas exports",
+  "The Week Ahead: UK CPI, Meta and Tesla earnings",
+  "Market sees 14% chance of Fed rate hike after S...",
+  "CENTCOM Commander: U.S. Blockade Imposed ‘Devastating Costs’ on Iran — IRGC Unable to Pay Troops"
  ],
  "initialized": true,
  "last_alert": 1792201710.4534698,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 104,
-  "new": 45,
+  "fetched": 99,
+  "new": 43,
   "rated": {
-   "low": 11,
-   "medium": 5,
-   "high": 4
+   "low": 8,
+   "medium": 7,
+   "high": 3
   },
   "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 58 (char 59)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 4535)"
   ],
-  "time": "2026-10-17T02:14:08+00:00"
+  "time": "2026-10-17T02:48:40+00:00"
  }
 }
