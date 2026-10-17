@@ -2793,7 +2793,10 @@
   "592776876a2347ef": 1792267560.8854058,
   "51d7010092a7b9d2": 1792267560.885408,
   "1ae7e82dd08ed3c5": 1792267560.885411,
-  "a5be2a0e0d1374a9": 1792267560.8854136
+  "a5be2a0e0d1374a9": 1792267560.8854136,
+  "4d8c5c562ceb47ad": 1792269263.6540692,
+  "112baed78f951b40": 1792269263.6540754,
+  "d91c8646f24ad8e5": 1792269263.6540787
  },
  "recent": [
   "Semiconductor boom to continue through 2027 des...",
@@ -2840,17 +2843,22 @@
  "initialized": true,
  "last_alert": 1792258792.7975183,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 169,
-  "new": 43,
+  "feeds_ok": 14,
+  "feeds_failed": [
+   "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+OR+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=CPI+OR+%22jobs+report%22+OR+payro -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=%22oil+prices%22+OR+OPEC+OR+Iran+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=Nasdaq+OR+%22AI+chips%22+OR+%22ch -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  ],
+  "fetched": 48,
+  "new": 3,
   "rated": {
-   "low": 37,
-   "medium": 6,
+   "low": 3,
+   "medium": 0,
    "high": 0
   },
-  "posted": 6,
+  "posted": 0,
   "errors": [],
-  "time": "2026-10-17T20:06:00+00:00"
+  "time": "2026-10-17T20:34:23+00:00"
  }
 }
