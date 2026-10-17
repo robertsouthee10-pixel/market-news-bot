@@ -2996,14 +2996,25 @@
   "6bd277566a6c3429": 1792278050.3635404,
   "a2511f2738513af3": 1792278050.3635626,
   "b85447c520fc1c87": 1792278050.3635676,
-  "991818e1b3ca89c7": 1792278050.3635707
+  "991818e1b3ca89c7": 1792278050.3635707,
+  "73f05a3f3b767148": 1792279459.5291967,
+  "693767906f898462": 1792279459.5292027,
+  "a54d7360afc1315e": 1792279460.7448118,
+  "7190e6a4843db3b7": 1792279460.744844,
+  "40e8fc5a7fda14fb": 1792279460.744857,
+  "3c938ea0fb25ffc0": 1792279460.7448616,
+  "f4a356a9823338f1": 1792279460.7448654,
+  "6e2dc3c98e402c0b": 1792279461.9773471,
+  "1d59e8ff99a57148": 1792279463.189155,
+  "c8891314f96aaaca": 1792279463.189176,
+  "663cd5d5a14bdb75": 1792279463.1891804,
+  "ed9c24464ab82f8c": 1792279463.1891851,
+  "bf19c4624aec03aa": 1792279464.3777735,
+  "459824ed4f8ea1cc": 1792279464.3777928,
+  "e3919e57362476d6": 1792279464.377798,
+  "800cd0644fa44289": 1792279465.5698135
  },
  "recent": [
-  "Monday Markets: SA rand tanking, but oil prices softer and stocks rally on ‘Goldilocks’ data",
-  "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says",
-  "Another interest rate hike may be ahead as Fed battles inflation",
-  "Explosions Rock Iran's Coast, IRGC Retaliates With Big Attack On US Navy Carrier? Alert Issued",
-  "Microsoft (MSFT) Is Facing Fresh Regulatory Pressure",
   "US, Israel face threats of war if oil prices keep rising",
   "Weekly Commodity Wrap: Oil Prices Surge, Gold And Silver Fall As Inflation Concerns Rise",
   "🇮🇱🇮🇷 Netanyahu says he’s not done with Iran. “I am committed to toppling this regime, and I know how to do it.” We’ve come a long way, but there are still stages to complete.” 8 months into the war, the regime is still standing, and Netanyahu still has “stages t",
@@ -3038,22 +3049,27 @@
   "The Nasdaq Index Just Had Its Worst Week Since June - and Netflix, Tesla and Meta Report Next",
   "Trump looks to rein in fuel prices ahead of midterms; waives threat of 100% tariffs on India over Russian",
   "Riyadh reports fresh drone interceptions as Cairo considers steps to defend kingdom",
-  "Hormuz Attacks Escalate as Iran Claims Tanker Hit a Mine"
+  "Hormuz Attacks Escalate as Iran Claims Tanker Hit a Mine",
+  "Farsnews | Iranian Army Spokesman: Preemptive Operations to Be Repeated if Necessary",
+  "US Military Reportedly Low On Critical ‘Bunker Buster’ Munition",
+  "Trump, Republicans get warning sign with new inflation report",
+  "OilPrice: Brent futures for January 2027 traded at $102.59 — OilPrice",
+  "Iran Just Did the Unthinkable: Tehran Is Now Attacking Commercial Ships in Record Numbers and Oil Prices are Spiking"
  ],
  "initialized": true,
  "last_alert": 1792258792.7975183,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 74,
-  "new": 21,
+  "fetched": 62,
+  "new": 16,
   "rated": {
-   "low": 15,
-   "medium": 5,
-   "high": 1
+   "low": 10,
+   "medium": 4,
+   "high": 2
   },
-  "posted": 2,
+  "posted": 5,
   "errors": [],
-  "time": "2026-10-17T23:00:50+00:00"
+  "time": "2026-10-17T23:24:25+00:00"
  }
 }
