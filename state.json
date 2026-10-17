@@ -2975,11 +2975,30 @@
   "7a8fa183a509f152": 1792276843.7242644,
   "4cef57c4a9a9d0cb": 1792276844.9847784,
   "60337df6af16087c": 1792276844.984799,
-  "e54aeb9362dd4b4c": 1792276844.9848022
+  "e54aeb9362dd4b4c": 1792276844.9848022,
+  "72e7bf0f72365c13": 1792278047.9636686,
+  "dc28fb419821e05e": 1792278047.9636788,
+  "e76efcdddb79bc1f": 1792278047.9636827,
+  "afa3cfab9bc3fdaa": 1792278047.9636862,
+  "e470358614c290a5": 1792278047.9636881,
+  "c70b272a8f196746": 1792278047.96369,
+  "48f8025e8f1a6970": 1792278047.9636922,
+  "0869bf483b80d1bb": 1792278047.963694,
+  "fda7d8de7aff111e": 1792278047.9636958,
+  "cf929b238fab97c1": 1792278047.9637,
+  "17b369cacce583f7": 1792278047.963702,
+  "ebb1543d53646908": 1792278047.963704,
+  "cce9fc153ec6b3bb": 1792278049.1443028,
+  "d2de52c7e760fc47": 1792278049.1443233,
+  "2e476fafd08f53bc": 1792278049.1443286,
+  "444da819c28a51bd": 1792278049.1443326,
+  "223dc4ce3f066929": 1792278049.1443353,
+  "6bd277566a6c3429": 1792278050.3635404,
+  "a2511f2738513af3": 1792278050.3635626,
+  "b85447c520fc1c87": 1792278050.3635676,
+  "991818e1b3ca89c7": 1792278050.3635707
  },
  "recent": [
-  "Trump: We beat the s**t out of Iran",
-  "Trump on Iran: \"We're gonna be there a little bit longer\"",
   "Monday Markets: SA rand tanking, but oil prices softer and stocks rally on ‘Goldilocks’ data",
   "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says",
   "Another interest rate hike may be ahead as Fed battles inflation",
@@ -3017,22 +3036,24 @@
   "‘How many canaries have we killed in the coal mine?’ — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
   "🇺🇸🇮🇷 Iraq is sliding into the wider war, and a retired U.S. Officer says the U.S. has almost no useful military options left. Lt. Col. Anthony Aguilar told Brandon Weichert that recent explosions at Popular Mobilization Forces sites in Baghdad and reported UAV st",
   "The Nasdaq Index Just Had Its Worst Week Since June - and Netflix, Tesla and Meta Report Next",
-  "Trump looks to rein in fuel prices ahead of midterms; waives threat of 100% tariffs on India over Russian"
+  "Trump looks to rein in fuel prices ahead of midterms; waives threat of 100% tariffs on India over Russian",
+  "Riyadh reports fresh drone interceptions as Cairo considers steps to defend kingdom",
+  "Hormuz Attacks Escalate as Iran Claims Tanker Hit a Mine"
  ],
  "initialized": true,
  "last_alert": 1792258792.7975183,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 70,
-  "new": 22,
+  "fetched": 74,
+  "new": 21,
   "rated": {
-   "low": 17,
+   "low": 15,
    "medium": 5,
-   "high": 0
+   "high": 1
   },
-  "posted": 4,
+  "posted": 2,
   "errors": [],
-  "time": "2026-10-17T22:40:44+00:00"
+  "time": "2026-10-17T23:00:50+00:00"
  }
 }
