@@ -2014,15 +2014,39 @@
   "5fa0d7a9335ca609": 1792239051.2517238,
   "1dc51a6dcceb21a4": 1792239051.2517269,
   "58d992611b28153d": 1792239052.4643528,
-  "1330c6e98c78d9ef": 1792239052.4643714
+  "1330c6e98c78d9ef": 1792239052.4643714,
+  "32e1a3492b8b24dd": 1792241226.4451349,
+  "aa9c2e6b5072a820": 1792241226.4451654,
+  "153c3ed7fa395d38": 1792241226.4451697,
+  "8d685fa14e6e6210": 1792241226.4451725,
+  "426a9e3b24a153b0": 1792241226.445178,
+  "60a4bc5a302619b0": 1792241227.6929905,
+  "d31fab32d513ca89": 1792241227.6930134,
+  "6162caabe82a51fc": 1792241227.6930172,
+  "4eaacd5aad915a39": 1792241227.69302,
+  "c25066a1f8b8238e": 1792241227.6930225,
+  "6d1e979d5a2e2573": 1792241227.6930254,
+  "8487b3621ca50861": 1792241227.6930285,
+  "4403067240761247": 1792241227.6930308,
+  "4328f35e66e61373": 1792241227.6930351,
+  "41433ce03ecd3933": 1792241227.693038,
+  "a1bfcd56649bef24": 1792241227.6930413,
+  "d9d11c35400b3fed": 1792241228.990551,
+  "44c57067e032c795": 1792241230.327443,
+  "c63bb0bb2ec81012": 1792241230.327466,
+  "c193bd653d6d40ae": 1792241230.3274696,
+  "a8ed5982f5b0373e": 1792241230.327472,
+  "f871a7d639b1fe11": 1792241230.3274748,
+  "378833e3afd8fb49": 1792241231.5698905,
+  "7338238bedf39ce6": 1792241231.569913,
+  "fbac660f1a333842": 1792241231.5699167,
+  "0c2171a6dc57b91c": 1792241255.2945237,
+  "311ccce0aeb16a39": 1792241255.294545,
+  "e93afeb9c66a5855": 1792241255.2945514,
+  "4d1cda4273dd5cf4": 1792241255.2945552,
+  "c779092acf2ab076": 1792241255.294557
  },
  "recent": [
-  "US Fed likely to hold rates in October, hike by 25 bps by year-end: CareEdge Global",
-  "Apple's iPhone Duo Demand Tracking 'Solidly Out Of The Gate', Says Analyst As AAPL Stock Caps Off Best Week Since September Launch",
-  "Iran-backed Houthis strike Yemen’s Aden: What that means",
-  "Gold steady near $4,170 as easing Fed rate-hike bets counter high oil prices and yields",
-  "Trump eases pressure on Russia’s oil and gas exports ahead of midterms",
-  "Iran Helped the Houthis Attack Saudi Arabia's Oil Facilities — WSJ",
   "Chinas Equity Market Plunges 40% As Chipmakers Lose Half Their Value Amid Tech Selloff",
   "Micron's 15% Weekly Slide Masks a Busy Fortnight of Plants, Patents and Pay Talks",
   "Why Is Tesla (NASDAQ:TSLA) Stock Falling After Musk’s Flying Roadster Reveal?",
@@ -2056,24 +2080,30 @@
   "Nvidia Tokenised BStocks Down As AI, Tech Stocks Lose $1trn",
   "US Stock Market Weekly Wrap: Nasdaq Crashes 1,213 Pts, S&P 500 Down 2%; Dow Jones Gain; Key Factors",
   "Gold Price $4,166 Week Ahead: $110 Oil vs the Fed",
-  "Chip index SOX posts longest losing streak since 2008 as AI worries deepen"
+  "Chip index SOX posts longest losing streak since 2008 as AI worries deepen",
+  "JPMorgan Expects Q3 Earnings Growth to Broaden Beyond AI Across US and European Equities",
+  "Neocloud Stock Collapse: Buying Opportunity or Run for the Hills?",
+  "Update on gasoline and oil prices on October 17: World oil prices increase sharply by nearly 4%",
+  "Houthis Strike Again? 2 Ships Bombed Off Saudi Coast As Missiles, Drones Hit Kingdom",
+  "Egypt, Turkey Urge US and Iran to Resume Negotiations",
+  "Araghchi says Iran backs ‘political process’ to solve Saudi-Houthis conflict"
  ],
  "initialized": true,
  "last_alert": 1792236278.8282206,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 100,
-  "new": 65,
+  "fetched": 98,
+  "new": 55,
   "rated": {
-   "low": 33,
+   "low": 20,
    "medium": 7,
-   "high": 0
+   "high": 3
   },
   "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3876)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3958)"
   ],
-  "time": "2026-10-17T12:10:52+00:00"
+  "time": "2026-10-17T12:47:35+00:00"
  }
 }
