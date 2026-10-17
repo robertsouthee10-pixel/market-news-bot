@@ -1494,12 +1494,25 @@
   "844338320f121d55": 1792212372.1678908,
   "a653572aba6f2238": 1792212373.4071827,
   "54b9f240623cdf78": 1792212373.4071903,
-  "6093265f323adb2a": 1792212373.4071937
+  "6093265f323adb2a": 1792212373.4071937,
+  "e535d12ff1c53aa2": 1792213871.3021317,
+  "cdc10af006b276e3": 1792213871.3021364,
+  "8a83f57dc5e98317": 1792213871.302139,
+  "66eca9fdc8f98821": 1792213871.302141,
+  "e40bbec3caccd1c3": 1792213872.516096,
+  "4ff278704098635c": 1792213873.690436,
+  "eb840c7eff6d9826": 1792213873.6904628,
+  "3edc44c24eceb613": 1792213873.690467,
+  "f0c75e055227f633": 1792213873.69047,
+  "a26e1888fb5d139c": 1792213873.6904733,
+  "7beca6cb9727d1a6": 1792213873.6904762,
+  "cb63f7723b8735b1": 1792213873.6904786,
+  "cd370063d30e7dd8": 1792213873.6904814,
+  "1399b63adc37d1f3": 1792213873.6904838,
+  "b45663ba9e3577a6": 1792213874.9902077,
+  "cdcc69755a5f1221": 1792213874.9902287
  },
  "recent": [
-  "24 Indian Seafarers Safe After Tankers Attacked In Hormuz, Romania",
-  "The US Army launches Tomahawk missiles from Typhon ground-based launchers, and strategic moves by Russia and Iran.",
-  "Nasdaq sell-off extends; Semiconductor ETF posts worst week in 18 months while Cboe VIX jumps",
   "US may need to strike Iran's Pickaxe Mountain",
   "Hormuz ship attacks hit weekly record as oil flows slow again",
   "Any passage through strait of Hormuz requires Iran's permission",
@@ -1536,24 +1549,27 @@
   "24 Indian seafarers safe after tankers hit in Hormuz, Romania",
   "The S&P 500 experienced its sharpest weekly decline since June 2026.",
   "Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings Kickoff",
-  "US says Iran barred from maritime trade as pressure campaign targets oil revenue, military funding"
+  "US says Iran barred from maritime trade as pressure campaign targets oil revenue, military funding",
+  "'America Can't Save You': Iran BLOWS UP U.S.-Escorted Giant Supertanker In Hormuz | WATCH",
+  "Oil Tanker explodes in Hormuz after hitting naval mine: IRGC",
+  "Trump rules out nuclear strikes on Iran, warns of more attacks"
  ],
  "initialized": true,
- "last_alert": 1792201710.4534698,
+ "last_alert": 1792213861.4405808,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 89,
-  "new": 40,
+  "fetched": 87,
+  "new": 41,
   "rated": {
-   "low": 8,
-   "medium": 7,
-   "high": 0
+   "low": 13,
+   "medium": 2,
+   "high": 1
   },
-  "posted": 4,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 4576)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 97 (char 4719)"
   ],
-  "time": "2026-10-17T04:46:13+00:00"
+  "time": "2026-10-17T05:11:14+00:00"
  }
 }
