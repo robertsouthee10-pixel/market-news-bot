@@ -2219,13 +2219,37 @@
   "eda4f061db61a24e": 1792252612.966352,
   "1bab6861100c04a3": 1792252612.9663537,
   "fa75658d567a1c88": 1792252612.9663565,
-  "4a3926f7a18dbc85": 1792252612.9663584
+  "4a3926f7a18dbc85": 1792252612.9663584,
+  "252b3c9b9b09a93e": 1792254132.6648123,
+  "7ab601ede7abedac": 1792254132.664821,
+  "d4910554c576f939": 1792254133.982705,
+  "72c7868ca4abc723": 1792254133.9827282,
+  "f4cbda29a9a24385": 1792254133.982733,
+  "3349aa67cb2482d4": 1792254135.309524,
+  "67af6705fb9e78fb": 1792254135.3095462,
+  "314b073e97af3fae": 1792254136.533744,
+  "14ccc680b7db3fa2": 1792254136.533765,
+  "46c10b8a0b770440": 1792254136.5337691,
+  "591023a38ac2320b": 1792254136.5337727,
+  "05d833caffb87614": 1792254136.533776,
+  "84aa03cf5aee03e8": 1792254136.5337794,
+  "56bf84709478dc02": 1792254136.5337822,
+  "92193b2c2a2de7c7": 1792254136.533786,
+  "c86217b14bbf9318": 1792254136.533789,
+  "7d02beae76d8601b": 1792254136.5337946,
+  "8bf4c9e06bba6d19": 1792254136.5337973,
+  "60b50287b7b0f837": 1792254136.5338001,
+  "9ac8a548f4fb271f": 1792254137.8686535,
+  "7b241c0b8b46202b": 1792254137.8686745,
+  "f8735f0d6dc45786": 1792254137.8686786,
+  "67ec871db8e5f407": 1792254137.8686817,
+  "4bfc2348a867057b": 1792254137.8686845,
+  "5721bb99f066d246": 1792254137.8686879,
+  "a4c5100679256f85": 1792254140.393026,
+  "7162d78a15521307": 1792254140.3930297,
+  "5c61a060bdfbac66": 1792254140.3930318
  },
  "recent": [
-  "Egypt, Turkey Urge US and Iran to Resume Negotiations",
-  "Araghchi says Iran backs ‘political process’ to solve Saudi-Houthis conflict",
-  "Second oil supertanker explodes after mine strike, Iran says",
-  "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan",
   "US-Israel-Iran War Latest Live News: Iran Offers Help to End Saudi-Yemen Conflict as Araghchi Says ‘No Military Solution’; Blames US-Israel Actions for Hormuz Insecurity",
   "Araghchi: Iran Will Not Surrender Sovereign Rights Under Pressure, Remains Ready for Dialogue",
   "Iran Offers 7-Day Plan to Reopen Hormuz",
@@ -2261,24 +2285,28 @@
   "CENTCOM says 'vast majority' of Iran's attempted attacks on Strait of Hormuz are 'unsuccessful'",
   "International Oil prices to jump 'super spike', claims energy research analyst, predicts global oil rates",
   "Brent Crude Oil Touches $110 Per Barrel",
-  "Explosion reported in southern Iran"
+  "Explosion reported in southern Iran",
+  "Iran offers 7-day plan to reopen Strait of Hormuz",
+  "US-Israel-Iran War Latest Live News: Saudi Arabia Intercepts 4 Drones, Israeli Air Strike Kills Gaza Police Captain, LNG Tanker Reports Gunfire Off Yemen; Check Middle East Updates",
+  "Houthis Strike Deep Inside Aden, Claims Saudi Officers And Military Command Centre Were Targeted",
+  "Chip Stocks Just Fell 8 Days in a Row, Their Longest Losing Streak Since 2008"
  ],
  "initialized": true,
  "last_alert": 1792247861.2333455,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 112,
-  "new": 35,
+  "fetched": 109,
+  "new": 53,
   "rated": {
-   "low": 10,
-   "medium": 0,
-   "high": 0
+   "low": 22,
+   "medium": 4,
+   "high": 2
   },
-  "posted": 0,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4744)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3842)"
   ],
-  "time": "2026-10-17T15:56:52+00:00"
+  "time": "2026-10-17T16:22:20+00:00"
  }
 }
