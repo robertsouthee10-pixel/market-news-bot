@@ -1329,17 +1329,37 @@
   "8351c5df23433761": 1792199800.7499871,
   "54224cbbac2cde54": 1792199800.7499974,
   "54847cdfb0aae44c": 1792199800.7500007,
-  "d5857fd5592fcbd0": 1792199800.7500029
+  "d5857fd5592fcbd0": 1792199800.7500029,
+  "3ce0d9bd519a5a30": 1792201726.9976258,
+  "7a9d5f4cfebedee8": 1792201728.2417674,
+  "e671852354c34d0a": 1792201729.5007715,
+  "f090327a3e3d6cbd": 1792201729.5007935,
+  "8679e1332f601ae0": 1792201729.5007973,
+  "b1c9abe3898ebe69": 1792201729.5008006,
+  "e9def700754b611a": 1792201729.5008032,
+  "2741b222b6a1221b": 1792201729.5008059,
+  "aef504d0f97ff83a": 1792201729.5008085,
+  "196052721bb8bd02": 1792201729.5008109,
+  "810f1eeea0e4d1f4": 1792201730.7246823,
+  "6a9b73c188e4f4bf": 1792201730.724704,
+  "290c01f35f021180": 1792201730.7247088,
+  "64b4d3e7ab151156": 1792201730.7247121,
+  "97964b91b672d2ff": 1792201730.7247157,
+  "cb274d2dc373286b": 1792201732.1930785,
+  "b4855f6c2ded37d1": 1792201733.4439998,
+  "6c5da08eef1d5635": 1792201733.4440258,
+  "306117bf916645b5": 1792201733.44403,
+  "d40b93cf549d63a9": 1792201733.4440334,
+  "21120cae292e38b0": 1792201733.4440355,
+  "bbae17e14bb10929": 1792201733.4440384,
+  "666c326a828574ae": 1792201733.4440413,
+  "5de5d4190a066b96": 1792201734.7909765,
+  "543d67b8f5ee04de": 1792201734.7910018,
+  "48b888b6c0df3bdc": 1792201738.6287665,
+  "75b4c7936ef34820": 1792201740.3229465,
+  "a9f21ad69ed7aec7": 1792201740.3229697
  },
  "recent": [
-  "Intel (NASDAQ:INTC) Shares Down 5.8% - What's Next?",
-  "SK hynix (NASDAQ:SKHY) Shares Down 6.6% - Should You Sell?",
-  "IREN (NASDAQ:IREN) Stock Price Down 11.2% - Here's What Happened",
-  "Cerebras Systems (NASDAQ:CBRS) Shares Down 10.5% - Should You Sell?",
-  "Stock Market Today, Oct. 16: Apple Edges Higher on iPhone Duo Preorder Surge",
-  "Ukraine drone strikes and Iran war split blame on skyrocketing diesel prices",
-  "Inflation data sparks debate over Federal Reserve rate decisions",
-  "Asia Stocks Battered as Semiconductor Stocks Dive",
   "Alphabet (NASDAQ:GOOG) Funds Capital Spending as Quarterly Free Cash Flow Turns Negative",
   "Reuters Exclusive: Iran Exports LPG, Jet Fuel Despite US Naval Blockade",
   "KUWAIT SLAMS HORMUZ CLOSURE, WARNS OF FOOD CRISIS",
@@ -1371,24 +1391,32 @@
   "Trump suspends certain Russia sanctions, tariffs under Lindsey Graham Act, reserves right to restore them",
   "EURUSD dips to a new low going back to May 2025",
   "Trump rules out using a nuclear bomb on Iran",
-  "Oil touches US$110 a barrel for first time since May on Middle East, Russia supply fears"
+  "Oil touches US$110 a barrel for first time since May on Middle East, Russia supply fears",
+  "US Military Reportedly Considers Using ‘Mother of All Bombs’ Against Iran",
+  "Key facts: TSMC (2330) Q3 record profit; $98B capex to 2028",
+  "Mine sinks cargo ship in Strait of Hormuz leaving hundreds of new iPhones floating",
+  "Trump says US may launch another strike against Iranian nuclear facilities",
+  "US budget deficit balloons to nearly $2 trillion as debt servicing and war costs surge",
+  "South Korea's KOSPI Triggers Circuit Breakers 10 Times This Year Alone, Surpassing 27-Year Cumulative Total",
+  "24 Indian Seafarers Safe After Tankers Attacked In Hormuz, Romania",
+  "The US Army launches Tomahawk missiles from Typhon ground-based launchers, and strategic moves by Russia and Iran."
  ],
  "initialized": true,
- "last_alert": 1792189100.240812,
+ "last_alert": 1792201710.4534698,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 119,
-  "new": 64,
+  "fetched": 115,
+  "new": 53,
   "rated": {
-   "low": 29,
-   "medium": 8,
+   "low": 19,
+   "medium": 7,
    "high": 2
   },
-  "posted": 7,
+  "posted": 8,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3609)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 99 (char 2051)"
   ],
-  "time": "2026-10-17T01:16:40+00:00"
+  "time": "2026-10-17T01:49:00+00:00"
  }
 }
