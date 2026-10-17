@@ -1963,11 +1963,17 @@
   "e0048ed79c9b578d": 1792234722.5099654,
   "7d1ca60d4122eb8c": 1792234722.509969,
   "8cb2ff97da3d5118": 1792234722.509975,
-  "d3e3f82f9c92ac8c": 1792234724.1376011
+  "d3e3f82f9c92ac8c": 1792234724.1376011,
+  "32aba7752c1101f5": 1792236286.8372908,
+  "2ae795081b056af4": 1792236286.837298,
+  "f824ec62add69175": 1792236288.038372,
+  "c10a7d2fcbc3af07": 1792236288.0383916,
+  "bfd0bdb190bc7851": 1792236288.0383976,
+  "16bcbf217b42fcbf": 1792236288.0384018,
+  "9b1e7edabf14826b": 1792236288.038406,
+  "aa22b1abed39e3be": 1792236289.3589566
  },
  "recent": [
-  "Oil tanker on fire after hitting mine in Hormuz: Iran's Guards",
-  "CENTCOM claims Iran unable to finance proxy militia amid US naval blockade",
   "Iran Denies Supporting Houthi Escalation Against Saudi Arabia, Offers to Mediate Again",
   "Dow Jones outlook: CPI, oil and yields put the rally to the test",
   "International warning issued regarding navigation risks in the Strait of Hormuz; naval mines threaten vessel traffic",
@@ -2005,22 +2011,26 @@
   "Trump's oil jawboning loses punch as wars spiral",
   "Iran Laid the Mines — Insurance Closed the Strait",
   "Iran’s IRGC warns Strait of Hormuz is closed after supertanker catches fire",
-  "Spot Gold Stuck at $4,185 Following Hot US CPI, PPI Data"
+  "Spot Gold Stuck at $4,185 Following Hot US CPI, PPI Data",
+  "US claims Iran unable to fund 'proxy militia' after losing $25 billion in oil exports to naval blockade",
+  "AI Financing Fears Drag Hewlett Packard Enterprise (NYSE: HPE) Down 5%, Super Micro (NASDAQ: SMCI) Sinks 7% And Dell (NYSE: DELL) Falls 3%"
  ],
  "initialized": true,
- "last_alert": 1792224667.7503893,
+ "last_alert": 1792236278.8282206,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 96,
-  "new": 36,
+  "fetched": 92,
+  "new": 33,
   "rated": {
-   "low": 26,
-   "medium": 8,
-   "high": 2
+   "low": 4,
+   "medium": 4,
+   "high": 0
   },
-  "posted": 7,
-  "errors": [],
-  "time": "2026-10-17T10:58:44+00:00"
+  "posted": 2,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4281)"
+  ],
+  "time": "2026-10-17T11:24:49+00:00"
  }
 }
