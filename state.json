@@ -2099,15 +2099,30 @@
   "8cc525ebea1871ca": 1792246189.1475732,
   "7705178554b758c4": 1792246190.3275788,
   "9985f469ca92082b": 1792246190.3275995,
-  "2c2c6ad64c056cac": 1792246190.327604
+  "2c2c6ad64c056cac": 1792246190.327604,
+  "b5c319e3945ad851": 1792247878.4810205,
+  "812730d1bace3d22": 1792247878.481051,
+  "8ba1c894efd10629": 1792247878.4810562,
+  "e1f55502e1dcaea4": 1792247878.4810605,
+  "203c4f53396ae0e3": 1792247878.4810634,
+  "00ea1d347774290c": 1792247878.4810658,
+  "806502e12accd1f4": 1792247878.4810705,
+  "9df0487d534d0751": 1792247879.7478657,
+  "0dc42a84d8b6628d": 1792247881.0044217,
+  "5c2044696c6c9e77": 1792247881.0044436,
+  "ba489fa2b96ff54d": 1792247881.004455,
+  "25701b0bf0783455": 1792247882.2522328,
+  "00b7da57b3f1c2be": 1792247882.252258,
+  "3ca10a012ab9b68a": 1792247882.2522626,
+  "cf8ce699b0af3aa4": 1792247882.2522662,
+  "5488c1285c9ee00b": 1792247883.5870574,
+  "89432cb169530c0d": 1792247884.8862045,
+  "59b40c5d5b3401b3": 1792247884.8862283,
+  "3489c3777e19551e": 1792247884.8862343,
+  "9979738135d0c4b3": 1792247884.8862379,
+  "f45184f5e56259ee": 1792247884.8862412
  },
  "recent": [
-  "Iran War Triggers Inflation, Central Bank Raises Interest Rates",
-  "China Proposes New Export Controls on AI Models and Chip Technologies Amid US Rivalry",
-  "UKMTO Reports Projectile Strike On Tanker Near Saudi Arabia’s Al Jubail",
-  "Memory-chip rout, inflation, CoreWeave: The week on Wall Street",
-  "Oil Tanker Catches Fire After Striking Mine in Strait of Hormuz, Iran’s Guards Say",
-  "AI Debt Fears Rattle Wall Street",
   "TSMC's 69% Profit Jump Meets a Cooling Tape as Vanguard's All-World Fund Sits 2.7% Off Its Peak",
   "Central bankers eye higher rates as AI boom fuels scramble for cash",
   "Trump's oil jawboning loses punch as wars spiral",
@@ -2141,25 +2156,30 @@
   "U.S. Bank Stocks Fall 11% to 25% as KBW Bank Index Enters Correction Territory",
   "'Choice now rests with US,' Iran's Araghchi says on peace negotiations",
   "Vance hints at disagreement with Trump over Iran war",
-  "Fed May Pause Rate Hike in October, but a December Hike Is Still on the Table"
+  "Fed May Pause Rate Hike in October, but a December Hike Is Still on the Table",
+  "Barclays Warns AI Stock Rally May Have Peaked as Semiconductor ETF Slides 11% in October Selloff",
+  "Sivers Semiconductors Slides 11% as Chip Rout Deepens and Citadel Trims Short",
+  "Iran providing Houthis with target intelligence for strikes on Saudi Arabia: Report",
+  "Why is VanEck Semiconductor ETF sliding today? By Investing.com",
+  "Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break",
+  "Treasury Yields Hit a 24-Year High This Month. Is Vanguard's High-Dividend ETF Still Worth Buying?"
  ],
  "initialized": true,
- "last_alert": 1792236278.8282206,
+ "last_alert": 1792247861.2333455,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 119,
-  "new": 71,
+  "fetched": 109,
+  "new": 46,
   "rated": {
-   "low": 14,
-   "medium": 6,
-   "high": 1
+   "low": 9,
+   "medium": 7,
+   "high": 5
   },
   "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 142 (char 2850)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2412)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 144 (char 3471)"
   ],
-  "time": "2026-10-17T14:09:50+00:00"
+  "time": "2026-10-17T14:38:04+00:00"
  }
 }
