@@ -2906,11 +2906,23 @@
   "9db0219ecfe9f8a3": 1792272422.1034896,
   "b621ef50502dafd8": 1792272422.1034968,
   "9e4dee9c971cd53f": 1792272422.1035006,
-  "5e20c57a2c39175b": 1792272422.1035037
+  "5e20c57a2c39175b": 1792272422.1035037,
+  "b9567d04b9ad9222": 1792273998.6896365,
+  "2c0cac2aea023370": 1792273998.689643,
+  "b745a5b0b81a66c4": 1792273998.6896462,
+  "3456df0e25368995": 1792273998.6896489,
+  "b9d2265e64f534e7": 1792273998.689651,
+  "0d88b53799aa61ed": 1792273998.6896527,
+  "78cb2fad815d6763": 1792273998.6896548,
+  "c3beedc1b8de4650": 1792273998.6896565,
+  "b606650097b48734": 1792273998.6896584,
+  "89831db880b53c44": 1792273998.6896598,
+  "e652fe1af0b5e61d": 1792273998.6896622,
+  "a5ec214a9339bd58": 1792273999.9956443,
+  "f61f86c5f894d6f6": 1792273999.995668,
+  "430d5d104cecaa14": 1792274001.3629773
  },
  "recent": [
-  "US Stock Market Prediction: Dow Jones Futures Fall, S&P 500 Futures Slide & Nasdaq Futures Point Lower Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things to Watch",
-  "🇺🇸🇮🇷 Prof. Mohammad Marandi: Iran will NOT let Trump bomb his way to a victory and walk away Trump may be looking for ONE final strike against Iran, something dramatic enough to declare victory without restarting a full-scale war. But Professor Mohamm",
   "China Supplies Dual Use Goods to Yemen Houthis",
   "IRGC Navy Says Supertanker Carrying Over Two Million Barrels Hit Naval Mine in Strait of Hormuz",
   "Hormuz shut to all shipping",
@@ -2948,22 +2960,24 @@
   "Moscow says first tanker carrying Russian oil to world markets has departed",
   "KOSPI rebounds as Korea eyes rate decision, US tech reports test AI hopes - CHOSUNBIZ",
   "Shafaq News..US redirects 130+ ships under Iran blockade",
-  "Iran: Maritime traffic in the Strait of Hormuz may return to normal within 7 days"
+  "Iran: Maritime traffic in the Strait of Hormuz may return to normal within 7 days",
+  "IRGC spox. lambasts Washington for \"Mother of Bombs\" threat",
+  "CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worried About the Neocloud's Balance Sheet."
  ],
  "initialized": true,
  "last_alert": 1792258792.7975183,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 91,
-  "new": 11,
+  "fetched": 67,
+  "new": 14,
   "rated": {
-   "low": 8,
-   "medium": 3,
+   "low": 12,
+   "medium": 2,
    "high": 0
   },
-  "posted": 3,
+  "posted": 2,
   "errors": [],
-  "time": "2026-10-17T21:27:02+00:00"
+  "time": "2026-10-17T21:53:21+00:00"
  }
 }
