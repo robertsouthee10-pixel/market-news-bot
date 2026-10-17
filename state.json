@@ -1674,11 +1674,34 @@
   "76331b33f0cbe640": 1792221621.5451574,
   "a371ff12e6abae09": 1792221622.7955723,
   "20d3fedb0ec5f508": 1792221622.7955909,
-  "0cf93a3ee3f2ead7": 1792221622.7955947
+  "0cf93a3ee3f2ead7": 1792221622.7955947,
+  "99f539e0259c9d32": 1792223442.8845887,
+  "308f8614b3b13f6c": 1792223442.8845954,
+  "25a8e75e54dd6bda": 1792223442.8846004,
+  "5c72bf029b9c67af": 1792223442.884605,
+  "e5b1b1c9e44e9af2": 1792223442.8846073,
+  "975b539f6439e61c": 1792223442.8846095,
+  "e0ec862dcedafdbe": 1792223442.884612,
+  "5a6298a970e2a50e": 1792223442.884615,
+  "592587a40f51dd72": 1792223442.8846178,
+  "eb63be838bee5a7d": 1792223442.8846197,
+  "34114b38f12955d8": 1792223442.884622,
+  "438245da5a0454c6": 1792223442.884625,
+  "c5034a82eebc5267": 1792223444.2102215,
+  "ccbd39aff139c6ee": 1792223444.2102578,
+  "4d9be1a366e7f926": 1792223444.2102623,
+  "5d0bef8e62955e9a": 1792223444.210266,
+  "3f3ca8673c2f51e3": 1792223444.2102702,
+  "fa794bb37c048d5a": 1792223444.2102735,
+  "efe51828227ae1f0": 1792223444.2102766,
+  "6f736a9a55f3b308": 1792223444.2102804,
+  "0c144d3271da4739": 1792223444.2102847,
+  "6a334833a7f15871": 1792223444.2102883,
+  "52715c8ba2c86296": 1792223444.2102914,
+  "8b7279fea2f885d8": 1792223445.4456365,
+  "0145728d4974de6c": 1792223445.4456723
  },
  "recent": [
-  "Iran broke? $25 billion oil loss, $350 million crypto frozen as militias send money back to IRGC, says US",
-  "Strait of Hormuz transits remain 70% below pre-conflict levels: UK maritime agency",
   "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
   "AI Debt Warning Signs Are Piling Up: Why Bond Markets Are Getting Nervous About AI Infrastructure Spending",
   "Why Is Space Exploration Technologies (SPCX) Facing Questions Over Ukraine And Merger Talk?",
@@ -1716,24 +1739,26 @@
   "'12 Ships Attacked': UK's Big Reveal On Hormuz Escalation; Iran Steps Up Offensive In Gulf Waterway",
   "Reports Emerge of Attacks on Two Vessels in the Strait of Hormuz and Near Saudi Coast",
   "AI stocks plunge as oil prices rise to $110 a barrel",
-  "Bank of America Says Investors Should Consider Risk-Off Strategy as AI Volatility Rises"
+  "Bank of America Says Investors Should Consider Risk-Off Strategy as AI Volatility Rises",
+  "Oil prices may ease to $80 per barrel in 2027 as West Asia supply recovers: Goldman Sachs",
+  "Brent Crude Hits $110 as Iran Escalates Hormuz Attacks, Ukraine Targets Russian Refineries"
  ],
  "initialized": true,
  "last_alert": 1792213861.4405808,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 111,
+  "fetched": 93,
   "new": 48,
   "rated": {
-   "low": 17,
-   "medium": 6,
-   "high": 0
+   "low": 23,
+   "medium": 1,
+   "high": 1
   },
-  "posted": 5,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4148)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3542)"
   ],
-  "time": "2026-10-17T07:20:22+00:00"
+  "time": "2026-10-17T07:51:01+00:00"
  }
 }
