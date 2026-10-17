@@ -2313,12 +2313,45 @@
   "6dff2a6191865922": 1792255886.5863903,
   "dca2fd141823ddc2": 1792255887.8725529,
   "78424cdd82ed2d2e": 1792255887.872574,
-  "eb13c576b703a66b": 1792255887.8725774
+  "eb13c576b703a66b": 1792255887.8725774,
+  "759de3ce41137394": 1792257097.9839997,
+  "a96e9cb695579161": 1792257097.984005,
+  "5275724191d4ac01": 1792257097.9840074,
+  "b18c1239a5b7c23f": 1792257097.9840097,
+  "083c40ca91d6f141": 1792257097.9840145,
+  "0d5719e2bb2262c4": 1792257097.9840162,
+  "25f99025f263cd0c": 1792257097.984018,
+  "0539614a82e20daa": 1792257097.9840202,
+  "5c42c8769b61f97c": 1792257097.9840217,
+  "a02abe8f7155c077": 1792257099.2419238,
+  "8e79f7e54f3512ab": 1792257099.2419486,
+  "fe529085758ad1d5": 1792257099.2419527,
+  "b1ca823e4ca6248c": 1792257099.241956,
+  "6b3581d3d93654f2": 1792257099.2419586,
+  "5d3f2f11cec45dce": 1792257099.2419617,
+  "b440658e15eed4ef": 1792257099.241964,
+  "1b8d435040012690": 1792257099.2419662,
+  "16561c5baaf9ba9a": 1792257100.4782972,
+  "9fbdb82038ecd1aa": 1792257100.4783216,
+  "b6c8c6e4a6897930": 1792257100.478325,
+  "addc9333d5b6684e": 1792257100.4783316,
+  "8ad1a0c9132a2b1f": 1792257100.478335,
+  "8c8f7a450521357d": 1792257100.4783373,
+  "40e4c30f33621eb9": 1792257100.47834,
+  "c7256bd5f3799063": 1792257100.4783428,
+  "fbbd1a32458940e8": 1792257106.5271218,
+  "46ebac64488934ac": 1792257106.5271244,
+  "2bcd7de6d94a3dd9": 1792257106.5271266,
+  "80be8d988e41707b": 1792257106.5271285,
+  "5ce77b5c3959e2af": 1792257108.1669781,
+  "7b2075baa799df4b": 1792257108.1670034,
+  "4a4868aef9247333": 1792257108.1670077,
+  "19ab4e5ea6140401": 1792257108.167014,
+  "3646baf5d809db43": 1792257108.167017,
+  "0538c1a90d341fc7": 1792257108.167019,
+  "15a3802871e9ca6d": 1792257108.167021
  },
  "recent": [
-  "Araghchi: Iran Will Not Surrender Sovereign Rights Under Pressure, Remains Ready for Dialogue",
-  "Iran Offers 7-Day Plan to Reopen Hormuz",
-  "Israel readies preemptive strikes and activates shelters as Iran military tension escalates",
   "Iran says renewed talks with US require ‘credible guarantees’ against new attacks",
   "Houthi Strikes On Riyadh Expose Gaps In Saudi's Billion-Dollar THAAD & Patriot Air Defences",
   "Infineon's Silicon Carbide Upgrade and Server-Power Push Overshadowed by a Sector-Wide Retreat",
@@ -2355,24 +2388,27 @@
   "US-Israel-Iran War Latest Live News: Saudi Arabia Intercepts 4 Drones, Israeli Air Strike Kills Gaza Police Captain, LNG Tanker Reports Gunfire Off Yemen; Check Middle East Updates",
   "Houthis Strike Deep Inside Aden, Claims Saudi Officers And Military Command Centre Were Targeted",
   "Chip Stocks Just Fell 8 Days in a Row, Their Longest Losing Streak Since 2008",
-  "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says"
+  "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+  "Iran Navy says no. of ships hit in east of Hormuz rising",
+  "Semiconductor boom to continue through 2027 des...",
+  "Trump Convenes a Handpicked Panel to Manufacture a Case Against Fed Governor Lisa Cook and Fire Her"
  ],
  "initialized": true,
  "last_alert": 1792247861.2333455,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 158,
-  "new": 91,
+  "fetched": 176,
+  "new": 61,
   "rated": {
-   "low": 65,
-   "medium": 1,
-   "high": 0
+   "low": 30,
+   "medium": 4,
+   "high": 2
   },
-  "posted": 1,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 102 (char 4337)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 104 (char 4977)"
   ],
-  "time": "2026-10-17T16:51:27+00:00"
+  "time": "2026-10-17T17:11:48+00:00"
  }
 }
