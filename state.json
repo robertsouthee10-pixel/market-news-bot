@@ -1651,14 +1651,32 @@
   "4511458f0fc1985f": 1792219405.7983992,
   "cda9598f7dd039d6": 1792219405.798401,
   "2b1c2affe631fa8b": 1792219405.7984025,
-  "7fb3f97487f28d62": 1792219407.075653
+  "7fb3f97487f28d62": 1792219407.075653,
+  "5ad38361dace0bab": 1792221616.356236,
+  "635d43b2917c3d03": 1792221616.3562412,
+  "26558bd9345c0399": 1792221617.5984516,
+  "53d5e78e2a106a39": 1792221618.9722338,
+  "29cded9ccd7726fb": 1792221618.9722576,
+  "47a812123fc8b84f": 1792221618.9722617,
+  "af9e31c549825a3d": 1792221620.2469974,
+  "d61c691d7b7fdfd9": 1792221620.247027,
+  "6e02527107c3163e": 1792221620.2470315,
+  "f0a76c459a6c0329": 1792221620.2470343,
+  "f50cf6d6e84c0be8": 1792221620.2470374,
+  "07e51c443d6acc56": 1792221620.2470412,
+  "92806025812b3ce4": 1792221620.2470443,
+  "56bd3f0b46bea625": 1792221620.2470474,
+  "8b72b90c8fdf8b5b": 1792221620.2470531,
+  "76eaffcc088f44e5": 1792221621.5451238,
+  "f043c762b1844276": 1792221621.545145,
+  "d7ec5a43cc38d48a": 1792221621.5451503,
+  "5027c37756222083": 1792221621.5451539,
+  "76331b33f0cbe640": 1792221621.5451574,
+  "a371ff12e6abae09": 1792221622.7955723,
+  "20d3fedb0ec5f508": 1792221622.7955909,
+  "0cf93a3ee3f2ead7": 1792221622.7955947
  },
  "recent": [
-  "Gold Holds Its Ground as Warsh Leaves the Door Ajar and Fund Demand Sets a Record",
-  "Rubio says Iran has lost complete control of Strait of Hormuz — The Hindu",
-  "‘All of this is going to pass’: Nvidia CEO Jensen Huang on AI market turmoil",
-  "Wall Street Slides As AI Financing Fears, Oil Price Surge Rattle Investors",
-  "Chinese stocks turn biggest losers as global AI trade stumbles",
   "Iran broke? $25 billion oil loss, $350 million crypto frozen as militias send money back to IRGC, says US",
   "Strait of Hormuz transits remain 70% below pre-conflict levels: UK maritime agency",
   "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
@@ -1693,24 +1711,29 @@
   "Gold rebounds on easing geopolitical tensions and stalls: eyes on US CPI as the next key catalyst",
   "Bitcoin Under Pressure as Trump Reportedly Prepares to Strike Iran Within 24 Hours",
   "Big US bank stocks log worst weekly losing streak since 2008",
-  "Iran insists Lebanon must be included in any war-ending agreement: Deputy FM"
+  "Iran insists Lebanon must be included in any war-ending agreement: Deputy FM",
+  "Iran Providing Houthis With Intelligence, Training for Sophisticated Attacks on Saudi Arabia",
+  "'12 Ships Attacked': UK's Big Reveal On Hormuz Escalation; Iran Steps Up Offensive In Gulf Waterway",
+  "Reports Emerge of Attacks on Two Vessels in the Strait of Hormuz and Near Saudi Coast",
+  "AI stocks plunge as oil prices rise to $110 a barrel",
+  "Bank of America Says Investors Should Consider Risk-Off Strategy as AI Volatility Rises"
  ],
  "initialized": true,
  "last_alert": 1792213861.4405808,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 108,
-  "new": 57,
+  "fetched": 111,
+  "new": 48,
   "rated": {
-   "low": 26,
-   "medium": 5,
-   "high": 1
+   "low": 17,
+   "medium": 6,
+   "high": 0
   },
-  "posted": 3,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4356)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4148)"
   ],
-  "time": "2026-10-17T06:43:27+00:00"
+  "time": "2026-10-17T07:20:22+00:00"
  }
 }
