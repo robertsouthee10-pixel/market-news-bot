@@ -2047,15 +2047,40 @@
   "c779092acf2ab076": 1792241255.294557,
   "72f04f4e89e67d63": 1792243103.7833788,
   "8507d3cff0cee9db": 1792243105.0687165,
-  "6a752f3aea57cf9d": 1792243105.0687356
+  "6a752f3aea57cf9d": 1792243105.0687356,
+  "616b66cf902fac91": 1792244862.9891276,
+  "312b31ad8fc94a6c": 1792244862.9891336,
+  "c0d40372d8006095": 1792244862.9891372,
+  "e452c46caf854721": 1792244864.3287776,
+  "00c52c24ca2d2a08": 1792244864.3287983,
+  "5c8d400566c45bf5": 1792244864.3288023,
+  "91f70b8da6f36d62": 1792244864.328811,
+  "462fb69342be6705": 1792244864.3288155,
+  "1496489e15e6dabf": 1792244864.328819,
+  "56fec26616f7863b": 1792244864.328822,
+  "fdb821d6f2abce2d": 1792244864.3288252,
+  "1317cd2b920c8b43": 1792244864.3288288,
+  "280bd734c3fca829": 1792244865.6078157,
+  "02565497d9d9f4d8": 1792244867.0430965,
+  "0a6ec5952e5614ba": 1792244867.0431163,
+  "01b391a0af2030d6": 1792244867.0431232,
+  "01a8d7568812b825": 1792244867.0431273,
+  "2ac91f011ba1108f": 1792244867.043132,
+  "dedc5912a99383de": 1792244867.0431347,
+  "6a4dfc8795b0fccf": 1792244867.0431385,
+  "5c38233424c702c3": 1792244867.0431418,
+  "751431e843691410": 1792244868.2832763,
+  "99a8a04fe658ab4f": 1792244868.2832966,
+  "fd85af45681b7bf8": 1792244868.2833006,
+  "3725d158c3d2b668": 1792244868.2833042,
+  "5e0e512f53cd5300": 1792244907.5045998,
+  "87290b115e216411": 1792244907.5046039,
+  "edc633233e272f32": 1792244907.5046062,
+  "3c3ed28ebfad7603": 1792244907.5046082,
+  "e3ea53e71729240d": 1792244908.786634,
+  "304c570f75ee19c8": 1792244910.2556806
  },
  "recent": [
-  "Micron's 15% Weekly Slide Masks a Busy Fortnight of Plants, Patents and Pay Talks",
-  "Why Is Tesla (NASDAQ:TSLA) Stock Falling After Musk’s Flying Roadster Reveal?",
-  "Jefferies warns AI earnings growth to slow sharply in next 2 years, urges investors to diversify",
-  "Hormuz reopening is positive but global energy crisis is not over, IMF warns",
-  "Polymarket News Today: Fed Rate Cut or Hike After CPI, PPI Shock?",
-  "Shipping Risks Persist In Strait Of Hormuz As Transits Fall",
   "Brent Nears $110 on Middle East Supply Concerns",
   "Nvidia CEO Jensen Huang Shrugs Off AI Stock Market Crash, Says Technologys Long-Term Growth Remains Strong",
   "US-Israel-Iran War Latest Live News: Pezeshkian Says Iran Seeks Advanced Technology So ‘No Enemy Dares to Attack’ as Tanker Is Hit 78 Nautical Miles Off Saudi Arabia Amid Rising Middle East Tensions",
@@ -2089,26 +2114,31 @@
   "Houthis Strike Again? 2 Ships Bombed Off Saudi Coast As Missiles, Drones Hit Kingdom",
   "Egypt, Turkey Urge US and Iran to Resume Negotiations",
   "Araghchi says Iran backs ‘political process’ to solve Saudi-Houthis conflict",
-  "Second oil supertanker explodes after mine strike, Iran says"
+  "Second oil supertanker explodes after mine strike, Iran says",
+  "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan",
+  "US-Israel-Iran War Latest Live News: Iran Offers Help to End Saudi-Yemen Conflict as Araghchi Says ‘No Military Solution’; Blames US-Israel Actions for Hormuz Insecurity",
+  "Araghchi: Iran Will Not Surrender Sovereign Rights Under Pressure, Remains Ready for Dialogue",
+  "Iran Offers 7-Day Plan to Reopen Hormuz",
+  "Israel readies preemptive strikes and activates shelters as Iran military tension escalates",
+  "Iran says renewed talks with US require ‘credible guarantees’ against new attacks"
  ],
  "initialized": true,
  "last_alert": 1792236278.8282206,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 122,
-  "new": 78,
+  "fetched": 116,
+  "new": 81,
   "rated": {
-   "low": 2,
-   "medium": 0,
-   "high": 1
+   "low": 20,
+   "medium": 5,
+   "high": 6
   },
-  "posted": 1,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 98 (char 4430)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 100 (char 3184)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 142 (char 4367)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 97 (char 4031)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4366)"
   ],
-  "time": "2026-10-17T13:18:25+00:00"
+  "time": "2026-10-17T13:48:30+00:00"
  }
 }
