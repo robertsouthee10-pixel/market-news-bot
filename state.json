@@ -3012,12 +3012,27 @@
   "bf19c4624aec03aa": 1792279464.3777735,
   "459824ed4f8ea1cc": 1792279464.3777928,
   "e3919e57362476d6": 1792279464.377798,
-  "800cd0644fa44289": 1792279465.5698135
+  "800cd0644fa44289": 1792279465.5698135,
+  "c28e6ec803e3991d": 1792280727.9312918,
+  "8ced2528955865e8": 1792280727.931298,
+  "3629e37d60ec991a": 1792280727.9313006,
+  "15f12e991c57edbb": 1792280729.1756392,
+  "38964adb863d133b": 1792280729.1756585,
+  "eaf507048ed34ed8": 1792280729.1756616,
+  "b17e5245630aae57": 1792280729.175665,
+  "b0402be3d82d414e": 1792280729.175668,
+  "4bb04e7e8e41c734": 1792280729.1756706,
+  "4e09bae2f1525532": 1792280729.1756732,
+  "71e83d32f0a28478": 1792280729.175676,
+  "e3cac15432297af3": 1792280729.1756809,
+  "813231a4dfd48ca2": 1792280729.1756845,
+  "c14724473100584c": 1792280730.5575254,
+  "653d7194cb11fb86": 1792280730.5575464,
+  "aa0ad5769b5eea00": 1792280730.557551,
+  "20c910f5044e2aef": 1792280730.5575578,
+  "f291c25acec8c461": 1792280732.3320165
  },
  "recent": [
-  "US, Israel face threats of war if oil prices keep rising",
-  "Weekly Commodity Wrap: Oil Prices Surge, Gold And Silver Fall As Inflation Concerns Rise",
-  "🇮🇱🇮🇷 Netanyahu says he’s not done with Iran. “I am committed to toppling this regime, and I know how to do it.” We’ve come a long way, but there are still stages to complete.” 8 months into the war, the regime is still standing, and Netanyahu still has “stages t",
   "Window for diplomacy with Iran may be closing as Trump again threatens Pickaxe Mountain",
   "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
   "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
@@ -3054,22 +3069,25 @@
   "US Military Reportedly Low On Critical ‘Bunker Buster’ Munition",
   "Trump, Republicans get warning sign with new inflation report",
   "OilPrice: Brent futures for January 2027 traded at $102.59 — OilPrice",
-  "Iran Just Did the Unthinkable: Tehran Is Now Attacking Commercial Ships in Record Numbers and Oil Prices are Spiking"
+  "Iran Just Did the Unthinkable: Tehran Is Now Attacking Commercial Ships in Record Numbers and Oil Prices are Spiking",
+  "Tesla (TSLA) Gets A Lift From China’s $37 Billion Subsidies And EV Tipping Point",
+  "US-Israel-Iran War Latest Live News: Saudi Arabia Intercepts Two Houthi Missiles Targeting Khamis Mushait as Civil Defence Withdraws Security Alert",
+  "US military claims Strait of Hormuz remains open, says 97% of ships transit safely despite Iranian strikes"
  ],
  "initialized": true,
  "last_alert": 1792258792.7975183,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 62,
-  "new": 16,
+  "fetched": 65,
+  "new": 18,
   "rated": {
-   "low": 10,
-   "medium": 4,
-   "high": 2
+   "low": 14,
+   "medium": 3,
+   "high": 1
   },
-  "posted": 5,
+  "posted": 3,
   "errors": [],
-  "time": "2026-10-17T23:24:25+00:00"
+  "time": "2026-10-17T23:45:32+00:00"
  }
 }
