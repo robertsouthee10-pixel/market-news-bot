@@ -1269,14 +1269,30 @@
   "26440d8c59592cea": 1792194026.5592532,
   "9b95fec9770663a6": 1792194026.5592566,
   "ea317b19f7206d1f": 1792194026.5592597,
-  "58638fb059ea08a7": 1792194026.5592628
+  "58638fb059ea08a7": 1792194026.5592628,
+  "9e604efeb75f45c7": 1792195207.1086404,
+  "c88171e6eb5fc027": 1792195207.108666,
+  "35329368518e3c08": 1792195207.1086762,
+  "0e25591d54f02b02": 1792195207.1086795,
+  "a98b74be0ffd4df2": 1792195207.1086833,
+  "c63290ef0d5d895e": 1792195208.4270582,
+  "8a609363c9f659cb": 1792195208.4270787,
+  "3263470755f943cf": 1792195209.6762166,
+  "60f915abe24e08b0": 1792195209.6762357,
+  "d53e2c1ae88be350": 1792195209.6762402,
+  "e132d484618cda9c": 1792195210.9655836,
+  "0fef696e6b44305d": 1792195210.965604,
+  "c97d9467a36bcb98": 1792195210.9656084,
+  "0d1b64d7000affce": 1792195210.9656115,
+  "baabb7cddbb0fdfd": 1792195210.965617,
+  "b36c256c9b40261f": 1792195210.9656196,
+  "664835bdbd496215": 1792195210.9656217,
+  "a534700546cd66fc": 1792195212.26589,
+  "812e375ee538e7ee": 1792195212.2659092,
+  "d303518bdcb848c1": 1792195212.2659132,
+  "e7e8840152182eda": 1792195212.2659159
  },
  "recent": [
-  "Stock Market Today, Oct. 16: Tesla Slips 2% as Roadster Reveal Fades Before Earnings",
-  "Donald Trump says he won’t use a nuclear weapon in the war on Iran | BBC News",
-  "Stock Market Ends Week With Software Sell-Off; Nasdaq Dives 2%, Gives Up 200-Day Line",
-  "Iran Denies Nuclear Weapons Ambitions and Calls for Dialogue",
-  "NVIDIA (NASDAQ:NVDA) Shares Down 1.4% - Here's What Happened",
   "Meta Platforms (NASDAQ:META) Stock Falls 3.7% - What's Next?",
   "Advanced Micro Devices (NASDAQ:AMD) Stock Falls 6% - Here's Why",
   "Amazon.com (NASDAQ:AMZN) Stock Price Down 1.9% - Here's Why",
@@ -1311,24 +1327,29 @@
   "Fuel prices today, October 17th: World oil prices surge in the final trading session of the week.",
   "Iran denies involvement in Houthi attacks on Saudi Arabia",
   "The Philadelphia Semiconductor Index suffers its longest consecutive decline since 2008; Jensen Huang responds calmly: Short-term volatility will not alter the long-term growth outlook for AI.",
-  "Trump Calls Iran War a ‘Military Exercise’ After US Death Toll Raised"
+  "Trump Calls Iran War a ‘Military Exercise’ After US Death Toll Raised",
+  "Iran Rejects Role In Yemeni Operations, Offers To Mediate Between Saudi Arabia And The Houthis",
+  "Oil on the Boil: Iran, Houthis and Ukraine Intensify Global Energy Threat",
+  "Apple (NASDAQ: AAPL) Hits $5 Trillion Market Cap As Tim Cook's Disciplined Strategy Pays Off",
+  "US Stock Market today: Why have S&P 500, Nasdaq, Dow Jones suffered biggest drops since June? Top, worst p",
+  "Iran war: Missiles target Saudi oil hub as Yemen conflict escalates By Investing.com"
  ],
  "initialized": true,
  "last_alert": 1792189100.240812,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 134,
-  "new": 49,
+  "fetched": 140,
+  "new": 46,
   "rated": {
-   "low": 21,
-   "medium": 3,
-   "high": 0
+   "low": 14,
+   "medium": 6,
+   "high": 1
   },
-  "posted": 3,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3201)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2748)"
   ],
-  "time": "2026-10-16T23:40:26+00:00"
+  "time": "2026-10-17T00:00:12+00:00"
  }
 }
