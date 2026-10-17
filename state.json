@@ -1444,17 +1444,18 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 99,
-  "new": 43,
+  "fetched": 104,
+  "new": 50,
   "rated": {
-   "low": 8,
-   "medium": 7,
-   "high": 3
+   "low": 0,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 6,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 4535)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3326)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4080)"
   ],
-  "time": "2026-10-17T02:48:40+00:00"
+  "time": "2026-10-17T03:13:22+00:00"
  }
 }
