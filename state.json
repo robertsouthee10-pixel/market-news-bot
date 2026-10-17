@@ -1479,13 +1479,24 @@
   "53b16c184aa10f57": 1792210373.0330746,
   "e12d9b6633c5c05e": 1792210373.033077,
   "489e7b416c2a8095": 1792210374.530346,
-  "505acc8c783f2e39": 1792210374.530369
+  "505acc8c783f2e39": 1792210374.530369,
+  "403972017b9f3029": 1792212369.6441479,
+  "188c12519da589b5": 1792212369.6441636,
+  "382b958446ced21c": 1792212370.9468184,
+  "f327732ed600e14f": 1792212370.9468257,
+  "346dca9b985fe0a5": 1792212370.9468284,
+  "a814fd12c0f32abf": 1792212370.9468315,
+  "41a485326604c262": 1792212370.946833,
+  "a8ecf1cf4754ee41": 1792212372.1678739,
+  "ab9bce4824925f1e": 1792212372.167881,
+  "98bc54676e928054": 1792212372.1678863,
+  "f7298f930208badd": 1792212372.1678886,
+  "844338320f121d55": 1792212372.1678908,
+  "a653572aba6f2238": 1792212373.4071827,
+  "54b9f240623cdf78": 1792212373.4071903,
+  "6093265f323adb2a": 1792212373.4071937
  },
  "recent": [
-  "Mine sinks cargo ship in Strait of Hormuz leaving hundreds of new iPhones floating",
-  "Trump says US may launch another strike against Iranian nuclear facilities",
-  "US budget deficit balloons to nearly $2 trillion as debt servicing and war costs surge",
-  "South Korea's KOSPI Triggers Circuit Breakers 10 Times This Year Alone, Surpassing 27-Year Cumulative Total",
   "24 Indian Seafarers Safe After Tankers Attacked In Hormuz, Romania",
   "The US Army launches Tomahawk missiles from Typhon ground-based launchers, and strategic moves by Russia and Iran.",
   "Nasdaq sell-off extends; Semiconductor ETF posts worst week in 18 months while Cboe VIX jumps",
@@ -1521,22 +1532,28 @@
   "Trump waives sanctions on Russian oil, relief for India",
   "Global markets: Stocks slip as dollar heads for weekly loss",
   "US Stock Bull Market Enters Fifth Year: Can S&P 500 Withstand Rising Treasury Yield Pressures After Doubling?",
-  "FTSE 100 (INDEXFTSE: UKX) Slips As Iran Strait Closure Threat Holds Oil Above $105"
+  "FTSE 100 (INDEXFTSE: UKX) Slips As Iran Strait Closure Threat Holds Oil Above $105",
+  "24 Indian seafarers safe after tankers hit in Hormuz, Romania",
+  "The S&P 500 experienced its sharpest weekly decline since June 2026.",
+  "Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings Kickoff",
+  "US says Iran barred from maritime trade as pressure campaign targets oil revenue, military funding"
  ],
  "initialized": true,
  "last_alert": 1792201710.4534698,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 92,
-  "new": 44,
+  "fetched": 89,
+  "new": 40,
   "rated": {
-   "low": 28,
-   "medium": 12,
-   "high": 4
+   "low": 8,
+   "medium": 7,
+   "high": 0
   },
-  "posted": 9,
-  "errors": [],
-  "time": "2026-10-17T04:12:54+00:00"
+  "posted": 4,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 4576)"
+  ],
+  "time": "2026-10-17T04:46:13+00:00"
  }
 }
