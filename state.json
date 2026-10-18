@@ -3951,16 +3951,27 @@
   "659132a3d45b69d9": 1792355703.751138,
   "d40cbaff9fe23731": 1792355705.1218762,
   "d5a099a0bd2ef7b5": 1792355705.1219006,
-  "ca547eece9854996": 1792355706.4575822
+  "ca547eece9854996": 1792355706.4575822,
+  "ead295e2cfa5ba6e": 1792357208.3035464,
+  "18fc4a59ff14b203": 1792357209.5782404,
+  "37d09705c3a79e37": 1792357209.578262,
+  "698892953280c13d": 1792357209.5782654,
+  "3e820ae82e5e9a45": 1792357210.9033096,
+  "cf67b98669e2f610": 1792357210.9033344,
+  "a61902b92bb2ea5d": 1792357210.9033434,
+  "9b4853a1d9670d00": 1792357210.9033465,
+  "2da390f6d67f22c7": 1792357210.9033499,
+  "af83ac9bf182b6dc": 1792357212.1302283,
+  "3f484dfd8df213b5": 1792357212.130253,
+  "35c05bd971b30104": 1792357212.1302564,
+  "1a7a1bcffc68c44f": 1792357213.4536512,
+  "272a338e300c472f": 1792357214.7351701,
+  "35e20e699eb20a3b": 1792357214.735194,
+  "7ac53b7b3bba3160": 1792357216.0157294,
+  "8e27d636a48bb8d1": 1792357216.015751,
+  "15b9fcc4e2d7c787": 1792357216.0157545
  },
  "recent": [
-  "Will gas prices fall? Scott Bessent ties relief to Iran conflict",
-  "Trump endorses Netanyahu for re-election, warns US could ‘finish the job’ against Iran",
-  "Here are the 3 big things we're watching in the stock market this week",
-  "China Tightens Controls on Advanced AI Exports Amid US Rivalry",
-  "Six Injured as Iran-Backed Houthi Projectile Hits Residential Area in Saudi Arabia’s Najran",
-  "Trouble Moves Closer To America’s Gulf Partner As New Security Alarm Erupts Near UAE | WATCH",
-  "IDF cancels leave on Election Day amid fears of Iranian attack",
   "US Stock Market Prediction: Dow Jones Futures Fall, S&P 500 Futures Decline & Nasdaq Futures Point Lower Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things to Watch",
   "Nasdaq 100's AI Boom Meets Its Auditor: Funding Costs, Not Demand, Now Set the Tone",
   "Jackson: ‘Prices will probably go down’ if US ends war with Iran",
@@ -3993,22 +4004,29 @@
   "U.S. Aircraft Attempts Iran Strike? Air Force Tanker Declares Emergency, Diverts To Israel | Report",
   "High oil prices fuel renewed inflation fears",
   "CENTCOM: 97% of ships crossed Strait of Hormuz safely since Iranian blockade began",
-  "Bessent: ‘We Will Own the Economy,’ but 3.7% Inflation Is an Energy Shock"
+  "Bessent: ‘We Will Own the Economy,’ but 3.7% Inflation Is an Energy Shock",
+  "S&P 500 Drops to 7,718.94 as Hot September CPI and Chip Selloff Hit Wall Street",
+  "Bessent: Gas Prices Depend on Iran War",
+  "Netflix (NASDAQ:NFLX) Stock Faces 9% Earnings Swing After 25% Selloff",
+  "Iran is running out of money and can't even pay its troops as U.S. blockade chokes the economy",
+  "Iran's IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz",
+  "Lam Research (NASDAQ:LRCX) Stock Falls for 10 Straight Days Ahead of Earnings",
+  "Oil Price Near $110 as Iran Demands US Withdrawal but Keeps Hormuz Proposal Open"
  ],
  "initialized": true,
  "last_alert": 1792350091.8201754,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 68,
-  "new": 30,
+  "fetched": 67,
+  "new": 18,
   "rated": {
-   "low": 24,
-   "medium": 6,
-   "high": 0
+   "low": 11,
+   "medium": 4,
+   "high": 3
   },
-  "posted": 6,
+  "posted": 7,
   "errors": [],
-  "time": "2026-10-18T20:35:06+00:00"
+  "time": "2026-10-18T21:00:16+00:00"
  }
 }
