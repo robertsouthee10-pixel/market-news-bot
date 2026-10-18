@@ -3848,11 +3848,27 @@
   "652fc518e920cf64": 1792346528.201382,
   "ce8e9e932bc9a38f": 1792346528.2013862,
   "341426b894b765ac": 1792346528.2013893,
-  "0f76ceb42d1fb990": 1792346528.2013907
+  "0f76ceb42d1fb990": 1792346528.2013907,
+  "f8a7928082320c06": 1792348316.8600996,
+  "70efc622ed8432f8": 1792348316.8601036,
+  "0dbc643055e065fe": 1792348316.8601096,
+  "50c9d2103594d22c": 1792348316.8601117,
+  "1f6bc8ec9f25ef1d": 1792348316.8601134,
+  "5cc9162442066a4c": 1792348316.8601158,
+  "87cd6c86ed1a4e09": 1792348316.8601177,
+  "cd17e09ec282bc76": 1792348316.8601198,
+  "d292770647b823ef": 1792348318.1927974,
+  "90c5f3a5b2b284db": 1792348318.1928196,
+  "b479ce8d7c5bb085": 1792348318.1928272,
+  "ab8bf027935d3cc4": 1792348318.1928298,
+  "a67062155e6f66e8": 1792348318.1928325,
+  "be88ab0eee9b99c8": 1792348318.1928349,
+  "7098a634409f39a2": 1792348318.1928368,
+  "761dd36d4d8f676e": 1792348319.4313557,
+  "273821a1a2196980": 1792348319.4313786,
+  "e150ce6adf58a8d5": 1792348319.4313824
  },
  "recent": [
-  "Apple (NASDAQ: AAPL) Hits $5 Trillion Under New CEO John Ternus As Stock Doubles The S&P 500",
-  "Crude oil prices brace for volatile week as supply disruptions remain a concern: Analysts- Moneycontrol.com",
   "Mehrdad Akhlaqi Approved as Iran's New Defense Minister",
   "Iran FM: Hormuz Could Open Friday if US Agrees to 7-Day Proposal",
   "Iran’s Response to New Attack Will Be Unpredictable: Basij Commander",
@@ -3890,24 +3906,26 @@
   "Israeli PM Netanyahu says Israel aims to eliminate Iranian threat and topple Tehran regime",
   "Gulf states call for conditions in Strait of Hormuz to return to pre-Feb. 28 state — Anadolu Agency",
   "Iran Proposes Seven-Day Plan, Offers Conditional Hormuz Reopening on Day Six",
-  "Shafaq News..Netanyahu urges Iran regime change; Lavrov warns of wider war"
+  "Shafaq News..Netanyahu urges Iran regime change; Lavrov warns of wider war",
+  "Nvidia Enters Correction After Rising Wedge Breakdown as AI Stock Bubble Index Jumps",
+  "ASX set to dip, tech stocks weigh on Wall Street"
  ],
  "initialized": true,
  "last_alert": 1792338935.5966587,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 108,
-  "new": 57,
+  "fetched": 104,
+  "new": 43,
   "rated": {
-   "low": 26,
-   "medium": 6,
+   "low": 16,
+   "medium": 2,
    "high": 0
   },
-  "posted": 3,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 100 (char 2626)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 3687)"
   ],
-  "time": "2026-10-18T18:02:08+00:00"
+  "time": "2026-10-18T18:31:59+00:00"
  }
 }
