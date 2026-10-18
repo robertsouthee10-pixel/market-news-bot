@@ -4013,14 +4013,32 @@
   "30c6c392790dac1c": 1792360417.708531,
   "4a8d5042d2833ddb": 1792360417.7085364,
   "0ed9f09d3326a5ef": 1792360417.708541,
-  "8f68f94a5a9c180d": 1792360417.7085447
+  "8f68f94a5a9c180d": 1792360417.7085447,
+  "51e8e76334b45288": 1792361609.342394,
+  "95f68b19e3c2f437": 1792361609.3424015,
+  "0e645a987b2146ef": 1792361609.3424044,
+  "fa72bf670178e62f": 1792361609.3424065,
+  "b4afc194d04abdb0": 1792361609.3424082,
+  "d8b4848e27e1e785": 1792361609.3424096,
+  "bb68c0f34e5d8069": 1792361609.342412,
+  "c827eaf7131f5440": 1792361609.3424134,
+  "b26dc7759c5c41c4": 1792361609.3424146,
+  "58e8bda6ef74704a": 1792361610.6330044,
+  "9a5da7d8b8366850": 1792361611.8530676,
+  "04634d1a9a48d5cc": 1792361611.8530903,
+  "1b5534ff0cc5ccc1": 1792361611.853096,
+  "841c4adb9f5c0502": 1792361611.8530993,
+  "e9ca013d87e6716a": 1792361611.8531017,
+  "72740f22c8c99129": 1792361613.1427414,
+  "2bb10389d2062101": 1792361613.1427689,
+  "069761e4db804db8": 1792361613.142773,
+  "4a8a1e375da341a3": 1792361613.142776,
+  "49122a4d69e15ca0": 1792361614.4107227,
+  "ef8b06b249f475ba": 1792361614.4107463,
+  "d2ff7f1dcaef3f9e": 1792361615.951673,
+  "f7411eaa5cbc0c6c": 1792361615.9516978
  },
  "recent": [
-  "Iran's new response plan as ship attacks escalate",
-  "Dow Jones Futures: More AI Pain After Nasdaq Sell-Off? Meta, SpaceX, Tesla Earnings Key",
-  "ASML is the Most Important Company in the AI Ecosystem, and It Just Delivered Record Results. Here’s Where the Stock Will Be in 2028",
-  "Netanyahu says will eliminate Iran threat with Trump after his endorsement",
-  "Gulf states express solidarity with Saudi Arabia, urge dialogue on US-Iran tensions",
   "US-Israel-Iran War Latest Live News: Iran FM Abbas Araghchi Holds Key Call With Pakistan FM on ‘Regional Tensions’ & ‘Diplomatic Efforts’ to De-Escalate West Asia Crisis; Check Latest Update",
   "Israeli PM Netanyahu says Israel aims to eliminate Iranian threat and topple Tehran regime",
   "Gulf states call for conditions in Strait of Hormuz to return to pre-Feb. 28 state — Anadolu Agency",
@@ -4055,22 +4073,27 @@
   "Tesla Stock Falls as Options Market Signals Jump to $370 After Earnings",
   "US Treasuries: Ten-year yields set for biggest weekly loss in more than a year",
   "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis",
-  "Saudi coalition, Houthis trade strikes as disruption spreads"
+  "Saudi coalition, Houthis trade strikes as disruption spreads",
+  "Iran warns US, Israel: 'We're counting moments until your foolish decisions'",
+  "Ballistic Missile Launch Reported From Yazd, Iran",
+  "Iran Threatens to Turn Israel Into 'Scorched Earth' if Energy Sites Are Hit",
+  "Dow Jones Futures Rise Amid AI Fears; Can Meta, SpaceX, Tesla Earnings Save The Day?",
+  "Oil Prices Fall with WTI $3 Down as Vance Signals Possible De-escalation in Iran War"
  ],
  "initialized": true,
  "last_alert": 1792350091.8201754,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 79,
-  "new": 20,
+  "fetched": 78,
+  "new": 23,
   "rated": {
-   "low": 16,
-   "medium": 3,
+   "low": 17,
+   "medium": 5,
    "high": 1
   },
-  "posted": 3,
+  "posted": 5,
   "errors": [],
-  "time": "2026-10-18T21:53:37+00:00"
+  "time": "2026-10-18T22:13:35+00:00"
  }
 }
