@@ -3555,13 +3555,36 @@
   "5eb06734659a7cc3": 1792314498.8722916,
   "44170f65741085c3": 1792314500.079242,
   "8195fdfed42af4bd": 1792314500.0792654,
-  "c9bb1b52b6604217": 1792314500.0792723
+  "c9bb1b52b6604217": 1792314500.0792723,
+  "03b9e505c291a63b": 1792316257.3623202,
+  "93f87c8f24a79dcc": 1792316257.3623614,
+  "91baf60788668468": 1792316257.3623674,
+  "082a696933490647": 1792316257.3623822,
+  "1ef1e4a566b2c5b7": 1792316258.5763402,
+  "7c88c7e8bbf11626": 1792316258.5763845,
+  "dce9d7ec92581339": 1792316258.5763888,
+  "e952074692380fb9": 1792316258.5763938,
+  "1196a3d7eed18d54": 1792316258.5763965,
+  "bbc74aaacb08992e": 1792316258.5763981,
+  "54f74abe888c5e85": 1792316258.5764012,
+  "e41f037f6c09a3df": 1792316258.5764039,
+  "d7cce912e46c1faf": 1792316258.576406,
+  "a7a81bec24db7335": 1792316258.5764086,
+  "610a00073555deb9": 1792316258.5764108,
+  "e06dd82a38269b82": 1792316258.5764134,
+  "4e75a93865283f16": 1792316258.5764153,
+  "7b6e8d3302a501e8": 1792316258.576417,
+  "11f9c321166f2796": 1792316258.5764189,
+  "e2f7a30682d5ae1e": 1792316258.5764217,
+  "068f35dfe92c6278": 1792316259.808237,
+  "bef5af8b70e2b6a4": 1792316259.808257,
+  "a64da0c657365610": 1792316259.8082607,
+  "c790b9076991ed49": 1792316261.0059633,
+  "d2e00b1df2769ada": 1792316261.0059836,
+  "f9035eec5a2ab9ee": 1792316280.529733,
+  "5a8052120052acbd": 1792316280.529737
  },
  "recent": [
-  "The Week Ahead: Tesla, Meta and WDC Earnings in Focus as US Stock Q3 Earnings Season Enters Key Trading Window",
-  "Qatar: Mediation Between Iran and US Continues",
-  "Rubio accuses Iran of an attack on the British \"Fairford\" base; Tehran responds: \"A despicable conspiracy.\"",
-  "Kospi, Down 14.46% in a Week, Looks to Earnings and Fund Flows for Rebound",
   "Tug struck by two projectiles off UAE coast as shipping attacks surge: Maritime watchdog",
   "At OIC meeting, Araghchi puts Iran’s 7-day Hormuz plan on the table: will Trump bend the knee? | Videos",
   "Iran FM demands 'credible guarantees' for renewed US talks",
@@ -3597,22 +3620,28 @@
   "Is US ground operation in Iran on the table? JD Vance outlines Trump’s next military plan | Tehran | Videos",
   "Britain Counts Hormuz Attacks With No Warship to Stop Them",
   "As Iran war spills over, Saudis and Houthis see fighting as only path ahead",
-  "Iran appoints Mehrdad Ketabchi as defense minister"
+  "Iran appoints Mehrdad Ketabchi as defense minister",
+  "THE TIPPING POINT: ADNOC Trading Chief Flags August as Tipping Point for Oil Prices",
+  "US-Israel-Iran War Latest Live News: Araghchi Rejects ‘Coercion, Threats and Intimidation’ as Tehran Demands Credible Guarantees Before Resuming Talks With Washington",
+  "Strait of Hormuz to reopen on Day 6 if US meets Iran's conditions: Araghchi",
+  "Iran Launches Missile Attack Near UAE; IRGC Bombards Tug As Tehran Widens Hormuz Campaign"
  ],
  "initialized": true,
- "last_alert": 1792284290.3748124,
+ "last_alert": 1792316278.6949008,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 101,
-  "new": 40,
+  "fetched": 110,
+  "new": 52,
   "rated": {
-   "low": 33,
-   "medium": 6,
-   "high": 1
+   "low": 20,
+   "medium": 5,
+   "high": 2
   },
-  "posted": 6,
-  "errors": [],
-  "time": "2026-10-18T09:08:20+00:00"
+  "posted": 4,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3867)"
+  ],
+  "time": "2026-10-18T09:38:00+00:00"
  }
 }
