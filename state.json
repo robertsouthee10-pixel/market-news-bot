@@ -3050,10 +3050,11 @@
   "a1913fd038e2a717": 1792281793.0312657,
   "53be797086ca95e3": 1792281793.0312686,
   "6b1bfb98cd06c6d9": 1792281794.2455888,
-  "2c543914bc210cd8": 1792281794.245607
+  "2c543914bc210cd8": 1792281794.245607,
+  "adcea220589ff709": 1792284294.5225236,
+  "1356223bf8244409": 1792284295.8847215
  },
  "recent": [
-  "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
   "Small boat team targets VLCC in grenade attack off Saudi Arabia",
   "Egypt prepared to defend Saudi Arabia after deadly Houthi airport attack",
   "Trump Urges GOP Turnout, Says Iran War Will End 'Very Quickly'",
@@ -3092,22 +3093,25 @@
   "US-Israel-Iran War Latest Live News: Saudi Arabia Intercepts Two Houthi Missiles Targeting Khamis Mushait as Civil Defence Withdraws Security Alert",
   "US military claims Strait of Hormuz remains open, says 97% of ships transit safely despite Iranian strikes",
   "Five Key Market Events Next Week: Jensen Huang's GTC Keynote, Cancer Vaccine Data, and Big Tech Earnings",
-  "SK Hynix Faces Backlash Over Solidigm's $100B Nasdaq Listing"
+  "SK Hynix Faces Backlash Over Solidigm's $100B Nasdaq Listing",
+  "Iran claims it has submitted plans to open the Strait of Hormuz to the United States."
  ],
  "initialized": true,
- "last_alert": 1792258792.7975183,
+ "last_alert": 1792284290.3748124,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 77,
-  "new": 20,
+  "fetched": 66,
+  "new": 27,
   "rated": {
-   "low": 15,
-   "medium": 5,
-   "high": 0
+   "low": 1,
+   "medium": 0,
+   "high": 1
   },
-  "posted": 2,
-  "errors": [],
-  "time": "2026-10-18T00:03:14+00:00"
+  "posted": 1,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 4941)"
+  ],
+  "time": "2026-10-18T00:44:55+00:00"
  }
 }
