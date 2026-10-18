@@ -3773,14 +3773,29 @@
   "9fcf45fb30c3c2c4": 1792340408.124707,
   "6ccd2985a78dea25": 1792340408.1247106,
   "9c8d766172662516": 1792340408.124714,
-  "465106c4a7dad672": 1792340410.6212404
+  "465106c4a7dad672": 1792340410.6212404,
+  "e432abb64f46715e": 1792342255.130077,
+  "f332aceeb152d0e6": 1792342256.3223662,
+  "1fa5f43c37afd541": 1792342257.6104913,
+  "735e2472c70b9a15": 1792342258.9055343,
+  "c42552d019504b75": 1792342258.9055555,
+  "fce226f7b0bf71a0": 1792342258.9055607,
+  "12f5d8a9a3a664c7": 1792342258.9055657,
+  "baf9a351dbf50c0b": 1792342258.905571,
+  "3bb65ac7f346d8f4": 1792342258.905574,
+  "aecebc1db19a995e": 1792342258.905578,
+  "5ea7b8f2a30e00b3": 1792342258.905581,
+  "8af2e8d6da18f31e": 1792342258.9055846,
+  "eb432628be2ce560": 1792342260.3731182,
+  "d377b5aff02dfe77": 1792342261.7386718,
+  "35e46460b403e719": 1792342261.7386935,
+  "8ac44088d65771fe": 1792342261.7386978,
+  "c0288ad91b976307": 1792342261.7387006,
+  "3d1f11814d31ce96": 1792342261.7387047,
+  "ebbdfcc6eb94e7cd": 1792342261.7387102,
+  "df958bec679baa17": 1792342261.7387135
  },
  "recent": [
-  "Why souring sentiment on CoreWeave should matter to investors",
-  "Rezaei says Iran has prepared new military plan for any fresh attack",
-  "Trump Pauses Russia Sanctions for 60 Days as Iran War Forces White House Into Energy Dilemma",
-  "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Save AI?",
-  "AMD's 6.2% Slide Puts the Sector's Borrowing Costs in the Spotlight",
   "Trump defends Iran strikes amid gas price concerns: ‘I don’t view things politically’",
   "Hormuz Tanker Fires Test Trump's Midterm Iran Pause",
   "US Appeals Court Overturns Class Action Lawsuit Over Tesla Self-Driving Claims",
@@ -3815,24 +3830,29 @@
   "China Tightens Controls on Advanced AI Exports Amid US Rivalry",
   "Six Injured as Iran-Backed Houthi Projectile Hits Residential Area in Saudi Arabia’s Najran",
   "Trouble Moves Closer To America’s Gulf Partner As New Security Alarm Erupts Near UAE | WATCH",
-  "IDF cancels leave on Election Day amid fears of Iranian attack"
+  "IDF cancels leave on Election Day amid fears of Iranian attack",
+  "US Stock Market Prediction: Dow Jones Futures Fall, S&P 500 Futures Decline & Nasdaq Futures Point Lower Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things to Watch",
+  "Nasdaq 100's AI Boom Meets Its Auditor: Funding Costs, Not Demand, Now Set the Tone",
+  "Jackson: ‘Prices will probably go down’ if US ends war with Iran",
+  "Israeli Defense Minister Reveals Israeli-U.S. Coordination in Massive Bombing Campaign Against Iran",
+  "Iran's new response plan as ship attacks escalate"
  ],
  "initialized": true,
  "last_alert": 1792338935.5966587,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 125,
-  "new": 51,
+  "fetched": 116,
+  "new": 45,
   "rated": {
-   "low": 23,
-   "medium": 2,
-   "high": 1
+   "low": 15,
+   "medium": 5,
+   "high": 0
   },
-  "posted": 2,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3433)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4416)"
   ],
-  "time": "2026-10-18T16:20:10+00:00"
+  "time": "2026-10-18T16:51:01+00:00"
  }
 }
