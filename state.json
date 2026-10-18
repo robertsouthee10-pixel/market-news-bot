@@ -3700,10 +3700,15 @@
   "12fbf25100e98c75": 1792335667.341864,
   "606004a29bc0bbbd": 1792335667.3418696,
   "abaefc720551402d": 1792335667.341872,
-  "12e808fb5a893e70": 1792335667.3418746
+  "12e808fb5a893e70": 1792335667.3418746,
+  "37721250c2d09105": 1792337267.4284449,
+  "055bfa21dfebb199": 1792337267.428454,
+  "40ed3159e8db8a0e": 1792337267.4284592,
+  "13ba3a89bfbf81b5": 1792337267.4284618,
+  "2bc01757760f0a06": 1792337268.6813269,
+  "609de2ae00a457b0": 1792337268.681347
  },
  "recent": [
-  "Inflation Shakes Fed Outlook Crude Oil Surges and More - NVIDIA (NASDAQ:NVDA)",
   "Iran plan to open shipping lane 'still on the table'",
   "BOJ faces pressure to hike rates amid rising in...",
   "Iran Links Hormuz Security to End of US Aggression",
@@ -3742,24 +3747,26 @@
   "Iran Defense Minister Akhlaghi Threatens US Troops",
   "The South Korean won appreciated thanks to a surge in semiconductor exports.",
   "Iranian Minister Aragchi: US Offer to Reopen the Strait of Hormuz Still on the Table",
-  "Iran asserts all necessary measures taken to counter US further attacks"
+  "Iran asserts all necessary measures taken to counter US further attacks",
+  "Saudi skyscraper closes offices as Houthi disruption spreads"
  ],
  "initialized": true,
  "last_alert": 1792327415.0003562,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 124,
-  "new": 46,
+  "fetched": 123,
+  "new": 56,
   "rated": {
-   "low": 19,
+   "low": 5,
    "medium": 1,
-   "high": 1
+   "high": 0
   },
   "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 100 (char 4677)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 2879)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3658)"
   ],
-  "time": "2026-10-18T15:01:07+00:00"
+  "time": "2026-10-18T15:27:48+00:00"
  }
 }
