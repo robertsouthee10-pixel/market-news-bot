@@ -3747,11 +3747,35 @@
   "e0fb737f3b4cc33f": 1792338970.6575432,
   "53e5a4f72c5ff9a8": 1792338971.897587,
   "05c18eb4b983310d": 1792338971.8976083,
-  "f7265da792775e29": 1792338971.897613
+  "f7265da792775e29": 1792338971.897613,
+  "d70f68ee9ebb9bce": 1792340406.8807266,
+  "c68170b72e238e4e": 1792340406.8807583,
+  "731a734fe098ab76": 1792340406.8807666,
+  "45a34c1e3689c994": 1792340406.8807697,
+  "b92e3cb406134b78": 1792340406.880773,
+  "ade3e79c10e8416f": 1792340406.8807752,
+  "2d5fdd7fc6b19015": 1792340406.8807774,
+  "a7e72ad7d519ac59": 1792340406.8807795,
+  "c97727b9c3e9a0df": 1792340406.8807821,
+  "031030a32359d015": 1792340406.8807838,
+  "e1efcb0f46840e4b": 1792340406.8807874,
+  "e0353f0ee0378a20": 1792340406.8807895,
+  "538db9dca55515d0": 1792340408.1246457,
+  "2bba9104330df83f": 1792340408.124677,
+  "34226a8ad2e9dc11": 1792340408.124682,
+  "dffecd6826a011ca": 1792340408.1246865,
+  "e7d49113ba8c2c97": 1792340408.1246898,
+  "fcc6430bf1a55c52": 1792340408.1246922,
+  "32ce482c09b316db": 1792340408.1246958,
+  "78598bbbecc356cd": 1792340408.124699,
+  "24897e63f1faa529": 1792340408.1247017,
+  "49d1f9a577c7c183": 1792340408.1247044,
+  "9fcf45fb30c3c2c4": 1792340408.124707,
+  "6ccd2985a78dea25": 1792340408.1247106,
+  "9c8d766172662516": 1792340408.124714,
+  "465106c4a7dad672": 1792340410.6212404
  },
  "recent": [
-  "Warsh Avoids Signal on October Rate Move",
-  "Update on gasoline and oil prices on October 18th: WTI oil increases by more than 10% in the week",
   "Why souring sentiment on CoreWeave should matter to investors",
   "Rezaei says Iran has prepared new military plan for any fresh attack",
   "Trump Pauses Russia Sanctions for 60 Days as Iran War Forces White House Into Energy Dilemma",
@@ -3789,24 +3813,26 @@
   "Trump endorses Netanyahu for re-election, warns US could ‘finish the job’ against Iran",
   "Here are the 3 big things we're watching in the stock market this week",
   "China Tightens Controls on Advanced AI Exports Amid US Rivalry",
-  "Six Injured as Iran-Backed Houthi Projectile Hits Residential Area in Saudi Arabia’s Najran"
+  "Six Injured as Iran-Backed Houthi Projectile Hits Residential Area in Saudi Arabia’s Najran",
+  "Trouble Moves Closer To America’s Gulf Partner As New Security Alarm Erupts Near UAE | WATCH",
+  "IDF cancels leave on Election Day amid fears of Iranian attack"
  ],
  "initialized": true,
  "last_alert": 1792338935.5966587,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 119,
-  "new": 66,
+  "fetched": 125,
+  "new": 51,
   "rated": {
-   "low": 33,
-   "medium": 7,
+   "low": 23,
+   "medium": 2,
    "high": 1
   },
-  "posted": 7,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 60 (char 3351)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3433)"
   ],
-  "time": "2026-10-18T15:56:11+00:00"
+  "time": "2026-10-18T16:20:10+00:00"
  }
 }
