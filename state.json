@@ -3431,10 +3431,36 @@
   "5ece87ead74283d4": 1792321134.0951617,
   "f6a9dacc6cc61a77": 1792321134.0951803,
   "23aafb03d112df3c": 1792321135.2760563,
-  "a711775b4a607e01": 1792321135.2760847
+  "a711775b4a607e01": 1792321135.2760847,
+  "f282b85c75dbc3a5": 1792322672.627322,
+  "8e7e053e41109a8e": 1792322672.6273296,
+  "2a59b0ac3ea54e57": 1792322672.6273339,
+  "b1a4ed9efbc4c7ef": 1792322672.6273375,
+  "a9b0be5a8abbab5e": 1792322672.6273398,
+  "153f7beca175957f": 1792322672.6273434,
+  "082bc83eb50c57ce": 1792322672.6273453,
+  "5b774efa33b400e4": 1792322672.6273475,
+  "91799b2b9ed6deaa": 1792322672.6273496,
+  "5a79bce298ab9396": 1792322672.6273513,
+  "b1cdf7c4b7f85cb8": 1792322672.6273534,
+  "55ce8faae36aba4b": 1792322672.6273553,
+  "23c79dac89e0feca": 1792322672.6273575,
+  "91edf71cfa8bb677": 1792322672.6273596,
+  "6dedea4ff902e3a5": 1792322672.6273618,
+  "34a93eafa8ca812b": 1792322672.627364,
+  "e36873f366304b4f": 1792322672.6273665,
+  "38f5772ee4c773d2": 1792322672.627369,
+  "8d8f33d73a4cebd9": 1792322672.6273718,
+  "78cc8aeb62872607": 1792322672.6273735,
+  "dca055ef9420b577": 1792322672.6273754,
+  "4c9b2af1b0a00e14": 1792322672.6273777,
+  "661f1fd3de11975d": 1792322672.6273797,
+  "e046f5b307a6bb91": 1792322672.6273823,
+  "6b50345315642be0": 1792322672.6273844,
+  "7bc9becbcb803da8": 1792322675.8482797,
+  "0efe80e84d241a26": 1792322677.08868
  },
  "recent": [
-  "‘The Strait Is Closed’: Iran Turned a Threat Into Law",
   "Gold ends week at $4,165 as US inflation data weighs",
   "Goldman Lifts SK Hynix Target to 3.5 Million Won as Foreign Funds Beat a Record Retreat",
   "Iran sets up new shipping system without US involvement",
@@ -3473,27 +3499,25 @@
   "Iran urges US to accept proposal to reopen Hormuz",
   "Inflation Shakes Fed Outlook Crude Oil Surges and More - NVIDIA (NASDAQ:NVDA)",
   "Iran plan to open shipping lane 'still on the table'",
-  "BOJ faces pressure to hike rates amid rising in..."
+  "BOJ faces pressure to hike rates amid rising in...",
+  "Iran Links Hormuz Security to End of US Aggression"
  ],
  "initialized": true,
  "last_alert": 1792316278.6949008,
  "last_run": {
-  "feeds_ok": 17,
-  "feeds_failed": [
-   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
-  ],
-  "fetched": 111,
-  "new": 73,
+  "feeds_ok": 18,
+  "feeds_failed": [],
+  "fetched": 96,
+  "new": 52,
   "rated": {
-   "low": 21,
-   "medium": 2,
+   "low": 23,
+   "medium": 4,
    "high": 0
   },
-  "posted": 2,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 144 (char 3450)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4062)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4061)"
   ],
-  "time": "2026-10-18T10:58:55+00:00"
+  "time": "2026-10-18T11:24:37+00:00"
  }
 }
