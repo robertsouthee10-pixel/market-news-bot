@@ -3895,11 +3895,22 @@
   "3077b46cd67cc893": 1792350114.559651,
   "13bd33b0bd355f01": 1792350115.850012,
   "0a0b20b93c07a362": 1792350115.8500352,
-  "baf6f8d03d49d03a": 1792350115.850039
+  "baf6f8d03d49d03a": 1792350115.850039,
+  "8a2b1f557548728f": 1792351596.582104,
+  "1a67594cd3c800f0": 1792351596.5821087,
+  "6d0be0a8cedffaf2": 1792351596.5821126,
+  "5429b80f3971909e": 1792351596.582115,
+  "55ec008ede39998b": 1792351597.9296858,
+  "e253c2ad8c7f0d03": 1792351597.929709,
+  "c30910655c8dd662": 1792351597.929714,
+  "402b85b55566232c": 1792351597.929717,
+  "c7a41d02ed967aab": 1792351597.9297192,
+  "f27e4f7c4b88b12a": 1792351599.1745622,
+  "f1860a6cdb3bfbf1": 1792351599.1745842,
+  "ce2c2399ac16a7c5": 1792351599.1745875,
+  "98c5b2254dd29e1d": 1792351599.1745903
  },
  "recent": [
-  "Gulf States Ask Russia to Press Iran as Lavrov Offers a Security Plan",
-  "Trending stocks this week as tech selloff deepens, volatility surges",
   "Anthropic Reportedly Posted Quarterly Revenue Growth of 50% and Was Cash-Flow Positive. Here's Why It Might Not Be Enough to Impress Investors Before the Company's Massive IPO",
   "Why Brent crude could hit $120 amid Iran war? What it means for India as analysts warn oil prices to remain volatile",
   "Energy briefs–Iran’s continued attacks on tankers",
@@ -3937,24 +3948,26 @@
   "FOMC Polymarket Odds: Fed Rate Hike Probability Falls to 14% Ahead of October Meeting",
   "UBS Raises Microsoft (NASDAQ: MSFT) Price Target To $675, Calls Stock Valuation \"Not Stretched\"",
   "Trump says Iran ‘systematically destroyed’",
-  "Iran’s ‘new operational plan’ will drag US, Israel into unfamiliar territory: Top security official"
+  "Iran’s ‘new operational plan’ will drag US, Israel into unfamiliar territory: Top security official",
+  "SanDisk Sinks 7.2% as Chip Selloff, Inflation Data and CXMT Fears Converge Ahead of October 29 Earni",
+  "Iraqi FM Announces Baghdad Initiative for Talks Between Iran and Gulf States"
  ],
  "initialized": true,
  "last_alert": 1792350091.8201754,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 112,
-  "new": 54,
+  "fetched": 100,
+  "new": 38,
   "rated": {
-   "low": 24,
-   "medium": 5,
+   "low": 11,
+   "medium": 2,
    "high": 0
   },
-  "posted": 5,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4704)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 3402)"
   ],
-  "time": "2026-10-18T19:01:55+00:00"
+  "time": "2026-10-18T19:26:39+00:00"
  }
 }
