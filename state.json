@@ -3151,13 +3151,33 @@
   "c2a99d3c2338100b": 1792293216.549408,
   "50515193e600f198": 1792293216.5494113,
   "9cbc830fbd34dc50": 1792293216.5494149,
-  "e251ebb93b968eab": 1792293216.5494177
+  "e251ebb93b968eab": 1792293216.5494177,
+  "a54c139a0dcc94f1": 1792295264.2558212,
+  "b448a152fd03c046": 1792295264.255827,
+  "d77b3cc1c5b1a65c": 1792295264.2558298,
+  "80bb4c2c28fdf3e6": 1792295265.600533,
+  "aa14dcede9960df1": 1792295266.869277,
+  "ed4c0358788321e5": 1792295266.869296,
+  "5cf86a624c4fbffc": 1792295266.8693047,
+  "4a702ea726edca03": 1792295268.0203302,
+  "f12e4f48d299460d": 1792295268.0203507,
+  "fea0690534d0d97a": 1792295268.0203545,
+  "da9872433936b183": 1792295268.02036,
+  "394e6d388baed4a6": 1792295268.0203633,
+  "b42edb507646ac87": 1792295268.0203657,
+  "b773949009eea910": 1792295268.0203683,
+  "c542f9b74f88e099": 1792295268.020371,
+  "ff3a6f87a916689e": 1792295268.0203745,
+  "e40ed8e5f8e29b3d": 1792295268.020377,
+  "19615542d6c39fcb": 1792295268.0203788,
+  "da7da37fae77edc7": 1792295269.250454,
+  "a08bbacd3d09151c": 1792295269.2504742,
+  "1734aa179f109a9b": 1792295269.250478,
+  "e545079fdcfa2c38": 1792295269.2504804,
+  "31ceedd5f05778ec": 1792295269.2504828,
+  "a1169c51a6ac566d": 1792295269.2504857
  },
  "recent": [
-  "Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff",
-  "Riyadh residents receive 'hostile aerial threat' alert",
-  "Saudi Arabia reports incoming fire as Egypt weighs sending help",
-  "Long-Term Treasury Yields Buffeted by Hot Inflation and Cracks in AI Mania",
   "‘How many canaries have we killed in the coal mine?’ — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
   "🇺🇸🇮🇷 Iraq is sliding into the wider war, and a retired U.S. Officer says the U.S. has almost no useful military options left. Lt. Col. Anthony Aguilar told Brandon Weichert that recent explosions at Popular Mobilization Forces sites in Baghdad and reported UAV st",
   "The Nasdaq Index Just Had Its Worst Week Since June - and Netflix, Tesla and Meta Report Next",
@@ -3193,24 +3213,26 @@
   "Escalation In Middle East As Iran Hits Kurdish Bases In Erbil; Blast Hits Iraqi Militia HQ",
   "Iran aiding Houthis with intel, weapons to hit Saudi Arabia: Report | Tap to know more | Inshorts",
   "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
-  "Iran says two oil tankers caught fire in Strait of Hormuz"
+  "Iran says two oil tankers caught fire in Strait of Hormuz",
+  "Micron's Full Order Books Meet a Market in No Mood to Celebrate",
+  "AMD's European Cloud Win Cuts Through the Chip Sector's Debt Reckoning",
+  "AI Debt Doubts Clip MSCI World Tracker as Dip Buyers Keep the Faith",
+  "Middle East LNG industry remains hostage of Iran war"
  ],
  "initialized": true,
  "last_alert": 1792284290.3748124,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 64,
-  "new": 43,
+  "fetched": 60,
+  "new": 24,
   "rated": {
-   "low": 12,
+   "low": 19,
    "medium": 4,
-   "high": 2
+   "high": 1
   },
-  "posted": 5,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4921)"
-  ],
-  "time": "2026-10-18T03:13:36+00:00"
+  "posted": 4,
+  "errors": [],
+  "time": "2026-10-18T03:47:49+00:00"
  }
 }
