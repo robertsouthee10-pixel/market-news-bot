@@ -3969,10 +3969,33 @@
   "35e20e699eb20a3b": 1792357214.735194,
   "7ac53b7b3bba3160": 1792357216.0157294,
   "8e27d636a48bb8d1": 1792357216.015751,
-  "15b9fcc4e2d7c787": 1792357216.0157545
+  "15b9fcc4e2d7c787": 1792357216.0157545,
+  "7a9710fd1730a228": 1792358795.9342282,
+  "752b714e9d361268": 1792358795.934235,
+  "abe767f7cea5a92a": 1792358795.9342387,
+  "d9ec006998d5b55b": 1792358795.9342415,
+  "0af3fb244fedbecc": 1792358797.1564925,
+  "2aad88247ace9723": 1792358797.1565144,
+  "6bebb4165eb16779": 1792358797.156519,
+  "9d7807b6aab0da22": 1792358797.156522,
+  "ea42e7ef93bfb9db": 1792358797.1565254,
+  "427a3b8b1b8a11ed": 1792358797.156529,
+  "1ac6200d9a98438b": 1792358797.156532,
+  "7ffa7843385b7eb3": 1792358797.156536,
+  "71d72b811a5fbc1a": 1792358797.15654,
+  "60ccf3434049d4ab": 1792358797.156543,
+  "7aa7a60d0feb17c2": 1792358797.156546,
+  "dbd7c12c35d19b9a": 1792358797.1565495,
+  "dff1293201403087": 1792358797.156552,
+  "1d22849b11d93472": 1792358797.1565547,
+  "ddaab4491d2518a0": 1792358797.1565573,
+  "20ac226998117820": 1792358797.1565607,
+  "d1639f65d375b908": 1792358797.1565628,
+  "ef52b8b3443f7a85": 1792358797.156565,
+  "124da0129fbda480": 1792358797.1565704,
+  "682c7ba46288bd4e": 1792358797.1565735
  },
  "recent": [
-  "US Stock Market Prediction: Dow Jones Futures Fall, S&P 500 Futures Decline & Nasdaq Futures Point Lower Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things to Watch",
   "Nasdaq 100's AI Boom Meets Its Auditor: Funding Costs, Not Demand, Now Set the Tone",
   "Jackson: ‘Prices will probably go down’ if US ends war with Iran",
   "Israeli Defense Minister Reveals Israeli-U.S. Coordination in Massive Bombing Campaign Against Iran",
@@ -4011,22 +4034,23 @@
   "Iran is running out of money and can't even pay its troops as U.S. blockade chokes the economy",
   "Iran's IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz",
   "Lam Research (NASDAQ:LRCX) Stock Falls for 10 Straight Days Ahead of Earnings",
-  "Oil Price Near $110 as Iran Demands US Withdrawal but Keeps Hormuz Proposal Open"
+  "Oil Price Near $110 as Iran Demands US Withdrawal but Keeps Hormuz Proposal Open",
+  "Tesla Stock Falls as Options Market Signals Jump to $370 After Earnings"
  ],
  "initialized": true,
  "last_alert": 1792350091.8201754,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 67,
-  "new": 18,
+  "fetched": 78,
+  "new": 24,
   "rated": {
-   "low": 11,
-   "medium": 4,
-   "high": 3
+   "low": 23,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 7,
+  "posted": 1,
   "errors": [],
-  "time": "2026-10-18T21:00:16+00:00"
+  "time": "2026-10-18T21:26:37+00:00"
  }
 }
