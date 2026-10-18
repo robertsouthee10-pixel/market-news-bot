@@ -3087,7 +3087,9 @@
   "10465bf5620fa5a3": 1792286423.350139,
   "df7e2a80813bacd4": 1792286423.350145,
   "0b58c2cbde615937": 1792286424.6088886,
-  "ab2aa1135fb90d4a": 1792286424.608909
+  "ab2aa1135fb90d4a": 1792286424.608909,
+  "bd376e86e92bcea7": 1792288289.3292725,
+  "92a87129595d9ece": 1792288289.3292785
  },
  "recent": [
   "Fars News Agency: Explosion Heard in Southern Iran",
@@ -3136,15 +3138,17 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 58,
-  "new": 35,
+  "fetched": 63,
+  "new": 27,
   "rated": {
-   "low": 27,
-   "medium": 8,
+   "low": 2,
+   "medium": 0,
    "high": 0
   },
-  "posted": 7,
-  "errors": [],
-  "time": "2026-10-18T01:20:24+00:00"
+  "posted": 0,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 142 (char 4939)"
+  ],
+  "time": "2026-10-18T01:51:29+00:00"
  }
 }
