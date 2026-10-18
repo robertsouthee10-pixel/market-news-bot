@@ -4090,10 +4090,10 @@
   "2c0235be5e6708c6": 1792364625.5784962,
   "3d09953ed3b7a935": 1792364625.5785193,
   "78f32331b3b828ab": 1792364625.5785236,
-  "2f5e9ded48c57b2f": 1792364625.5785294
+  "2f5e9ded48c57b2f": 1792364625.5785294,
+  "4596e478c1a2250d": 1792366145.2815015
  },
  "recent": [
-  "SanDisk Sinks 7.2% as Chip Selloff, Inflation Data and CXMT Fears Converge Ahead of October 29 Earni",
   "Iraqi FM Announces Baghdad Initiative for Talks Between Iran and Gulf States",
   "Gulf Cooperation Council accuses Iran of attacks",
   "Chip stocks to stay wild as US midterms, rate hike loom",
@@ -4132,22 +4132,25 @@
   "Iran parliament approves Mehrdad Akhlaqi as defence minister; warns of broad response to US-Israeli attack",
   "Bond market’s big short bet gets wakeup call as AI trade wobbles",
   "Araghchi to US, Israel: Last time you tried to ‘finish the job,’ Iran emerged stronger",
-  "Iran's Mojtaba Khamenei to overturn his father's nuclear doctrine as calls for atomic bombs grow"
+  "Iran's Mojtaba Khamenei to overturn his father's nuclear doctrine as calls for atomic bombs grow",
+  "Araghchi Warns Trump After Netanyahu Endorsement"
  ],
  "initialized": true,
- "last_alert": 1792350091.8201754,
+ "last_alert": 1792366141.6456072,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 84,
-  "new": 22,
+  "fetched": 79,
+  "new": 26,
   "rated": {
-   "low": 13,
-   "medium": 8,
-   "high": 1
+   "low": 0,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 3,
-  "errors": [],
-  "time": "2026-10-18T23:03:45+00:00"
+  "posted": 1,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3313)"
+  ],
+  "time": "2026-10-18T23:29:05+00:00"
  }
 }
