@@ -3511,11 +3511,32 @@
   "58410cd8e17a0bc8": 1792325344.9726605,
   "75c6c5c6ff3a0c00": 1792325344.9726834,
   "fb0938d4233625cf": 1792325344.9726887,
-  "edae6ba6f68061c5": 1792325344.972691
+  "edae6ba6f68061c5": 1792325344.972691,
+  "a7fed42edce32f82": 1792327427.6763668,
+  "67a7c285bb2a24c1": 1792327427.676373,
+  "c08f5a8632668bd6": 1792327427.676378,
+  "f8fe76a917b589e0": 1792327427.6763823,
+  "4792b99b31ef69d4": 1792327427.6763859,
+  "1673573d5546d58d": 1792327427.676388,
+  "98cb5cef3c52866d": 1792327429.0683794,
+  "63a7e982cbaef7a4": 1792327429.068399,
+  "c4a345c075db5a04": 1792327429.068404,
+  "a01ffb77b4ffc2f3": 1792327429.068407,
+  "ef186920f10883cd": 1792327429.06841,
+  "4223c3568ffc3e1c": 1792327429.0684154,
+  "59e09f6c5fa47ebe": 1792327429.0684187,
+  "8c40951aae0aaebd": 1792327429.0684223,
+  "371dadcb0c0b284d": 1792327429.0684252,
+  "ae1b729c1ae2ed12": 1792327429.0684285,
+  "6ba56e2e0012c7ba": 1792327429.068431,
+  "3011bfddf43db864": 1792327429.0684335,
+  "d4f72c0c8297cb0e": 1792327429.068436,
+  "171f10056741c760": 1792327429.0684385,
+  "43f944f62af9957b": 1792327430.3243282,
+  "b0821c67ca387948": 1792327430.3243465,
+  "bb2f665f500c8e09": 1792327430.3243525
  },
  "recent": [
-  "OPEC Oil Output Rises in September",
-  "Iran is giving Houthis intelligence for attacks on Saudi Arabia, WSJ reports",
   "Nasdaq 100 forecast: US tech stocks extend decline as AI concerns intensify",
   "Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub",
   "Iran's IRGC: 2nd supertanker explodes after hitting mine in Hormuz Strait",
@@ -3553,25 +3574,26 @@
   "Warsh Avoids Signal on October Rate Move",
   "Update on gasoline and oil prices on October 18th: WTI oil increases by more than 10% in the week",
   "Why souring sentiment on CoreWeave should matter to investors",
-  "Rezaei says Iran has prepared new military plan for any fresh attack"
+  "Rezaei says Iran has prepared new military plan for any fresh attack",
+  "Trump Pauses Russia Sanctions for 60 Days as Iran War Forces White House Into Energy Dilemma",
+  "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Save AI?"
  ],
  "initialized": true,
- "last_alert": 1792316278.6949008,
+ "last_alert": 1792327415.0003562,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 126,
-  "new": 70,
+  "fetched": 105,
+  "new": 48,
   "rated": {
-   "low": 17,
+   "low": 20,
    "medium": 3,
    "high": 0
   },
-  "posted": 3,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4959)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4365)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 100 (char 4508)"
   ],
-  "time": "2026-10-18T12:09:04+00:00"
+  "time": "2026-10-18T12:43:50+00:00"
  }
 }
