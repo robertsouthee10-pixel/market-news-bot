@@ -3030,11 +3030,29 @@
   "653d7194cb11fb86": 1792280730.5575464,
   "aa0ad5769b5eea00": 1792280730.557551,
   "20c910f5044e2aef": 1792280730.5575578,
-  "f291c25acec8c461": 1792280732.3320165
+  "f291c25acec8c461": 1792280732.3320165,
+  "bf0260a3c3206e85": 1792281791.4232507,
+  "4c50e14055a6fa0d": 1792281791.4232588,
+  "e301a52aea13b7f4": 1792281793.0312085,
+  "e613cf19b3a26f08": 1792281793.031227,
+  "97a93d7237929f14": 1792281793.0312328,
+  "f4ba22eb7b0210e0": 1792281793.0312357,
+  "8df3847051297389": 1792281793.0312383,
+  "f3d85fb040411504": 1792281793.0312412,
+  "141ae8a9afe405cd": 1792281793.031244,
+  "d70da16cbbe744df": 1792281793.031247,
+  "210adb2ddeb51109": 1792281793.0312495,
+  "8dd39a99b46c5de8": 1792281793.0312533,
+  "8e2fbe90f0427d3a": 1792281793.0312555,
+  "2b11c6bdb6607550": 1792281793.031258,
+  "d47614d5e4858258": 1792281793.031261,
+  "c81f3f8f4f3bff80": 1792281793.0312636,
+  "a1913fd038e2a717": 1792281793.0312657,
+  "53be797086ca95e3": 1792281793.0312686,
+  "6b1bfb98cd06c6d9": 1792281794.2455888,
+  "2c543914bc210cd8": 1792281794.245607
  },
  "recent": [
-  "Window for diplomacy with Iran may be closing as Trump again threatens Pickaxe Mountain",
-  "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
   "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
   "Small boat team targets VLCC in grenade attack off Saudi Arabia",
   "Egypt prepared to defend Saudi Arabia after deadly Houthi airport attack",
@@ -3072,22 +3090,24 @@
   "Iran Just Did the Unthinkable: Tehran Is Now Attacking Commercial Ships in Record Numbers and Oil Prices are Spiking",
   "Tesla (TSLA) Gets A Lift From China’s $37 Billion Subsidies And EV Tipping Point",
   "US-Israel-Iran War Latest Live News: Saudi Arabia Intercepts Two Houthi Missiles Targeting Khamis Mushait as Civil Defence Withdraws Security Alert",
-  "US military claims Strait of Hormuz remains open, says 97% of ships transit safely despite Iranian strikes"
+  "US military claims Strait of Hormuz remains open, says 97% of ships transit safely despite Iranian strikes",
+  "Five Key Market Events Next Week: Jensen Huang's GTC Keynote, Cancer Vaccine Data, and Big Tech Earnings",
+  "SK Hynix Faces Backlash Over Solidigm's $100B Nasdaq Listing"
  ],
  "initialized": true,
  "last_alert": 1792258792.7975183,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 65,
-  "new": 18,
+  "fetched": 77,
+  "new": 20,
   "rated": {
-   "low": 14,
-   "medium": 3,
-   "high": 1
+   "low": 15,
+   "medium": 5,
+   "high": 0
   },
-  "posted": 3,
+  "posted": 2,
   "errors": [],
-  "time": "2026-10-17T23:45:32+00:00"
+  "time": "2026-10-18T00:03:14+00:00"
  }
 }
