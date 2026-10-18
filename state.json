@@ -3908,13 +3908,21 @@
   "f27e4f7c4b88b12a": 1792351599.1745622,
   "f1860a6cdb3bfbf1": 1792351599.1745842,
   "ce2c2399ac16a7c5": 1792351599.1745875,
-  "98c5b2254dd29e1d": 1792351599.1745903
+  "98c5b2254dd29e1d": 1792351599.1745903,
+  "f8637457338ea648": 1792353039.3946128,
+  "decfafa90ad299e5": 1792353039.3946192,
+  "7795a66f423f68b2": 1792353039.3946233,
+  "a6b2d59b9dd64102": 1792353040.7714791,
+  "e0b951486a76e8d4": 1792353042.0736544,
+  "b07900276326cf82": 1792353042.0736828,
+  "57ed0894c20f41d4": 1792353042.0736873,
+  "b59cdddbeb97c74a": 1792353042.0736904,
+  "8b31db6be4189f20": 1792353042.0736933,
+  "3ea57e1baa34f285": 1792353043.3625271,
+  "2eca116ed4977eca": 1792353044.967761,
+  "f2102c46e237e2c3": 1792353044.9677866
  },
  "recent": [
-  "Anthropic Reportedly Posted Quarterly Revenue Growth of 50% and Was Cash-Flow Positive. Here's Why It Might Not Be Enough to Impress Investors Before the Company's Massive IPO",
-  "Why Brent crude could hit $120 amid Iran war? What it means for India as analysts warn oil prices to remain volatile",
-  "Energy briefs–Iran’s continued attacks on tankers",
-  "Iran Defense Minister Akhlaghi Threatens US Troops",
   "The South Korean won appreciated thanks to a surge in semiconductor exports.",
   "Iranian Minister Aragchi: US Offer to Reopen the Strait of Hormuz Still on the Table",
   "Iran asserts all necessary measures taken to counter US further attacks",
@@ -3950,24 +3958,28 @@
   "Trump says Iran ‘systematically destroyed’",
   "Iran’s ‘new operational plan’ will drag US, Israel into unfamiliar territory: Top security official",
   "SanDisk Sinks 7.2% as Chip Selloff, Inflation Data and CXMT Fears Converge Ahead of October 29 Earni",
-  "Iraqi FM Announces Baghdad Initiative for Talks Between Iran and Gulf States"
+  "Iraqi FM Announces Baghdad Initiative for Talks Between Iran and Gulf States",
+  "Gulf Cooperation Council accuses Iran of attacks",
+  "Chip stocks to stay wild as US midterms, rate hike loom",
+  "Iran presses US to accept Hormuz proposal",
+  "Ship attacks in Hormuz hit record high since Iran war began"
  ],
  "initialized": true,
  "last_alert": 1792350091.8201754,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 100,
-  "new": 38,
+  "fetched": 89,
+  "new": 37,
   "rated": {
-   "low": 11,
-   "medium": 2,
-   "high": 0
+   "low": 8,
+   "medium": 3,
+   "high": 1
   },
-  "posted": 2,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 3402)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 98 (char 4946)"
   ],
-  "time": "2026-10-18T19:26:39+00:00"
+  "time": "2026-10-18T19:50:44+00:00"
  }
 }
