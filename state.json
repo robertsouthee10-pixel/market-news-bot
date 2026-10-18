@@ -3582,14 +3582,27 @@
   "c790b9076991ed49": 1792316261.0059633,
   "d2e00b1df2769ada": 1792316261.0059836,
   "f9035eec5a2ab9ee": 1792316280.529733,
-  "5a8052120052acbd": 1792316280.529737
+  "5a8052120052acbd": 1792316280.529737,
+  "428313219d8b4ce0": 1792317900.5549357,
+  "564f821099687ad3": 1792317900.5549693,
+  "7b396e17546558fd": 1792317900.5549746,
+  "c8043a2b0c3bb9ba": 1792317900.5549786,
+  "57a8a07e9673d77c": 1792317900.5549817,
+  "29a250e275e36c11": 1792317900.554985,
+  "efaeaec0c4b45874": 1792317900.5549881,
+  "8d2e6c39e7e00b90": 1792317901.8072193,
+  "57e97ae16f146dce": 1792317903.1273158,
+  "94646d8aa1884e78": 1792317903.1273386,
+  "7284d95290d7f38c": 1792317903.1273437,
+  "d7c5487b40e4d1f9": 1792317903.1273484,
+  "dde4daf614d920cb": 1792317904.351078,
+  "a66bc33cfbc8e29c": 1792317904.3510988,
+  "45ae982e5580d77a": 1792317905.8071647,
+  "cf2d84f0bf617aed": 1792317905.8071864,
+  "c4dde9f7f7b2dfb8": 1792317905.807191,
+  "21966e23e5982527": 1792317905.8071973
  },
  "recent": [
-  "Tug struck by two projectiles off UAE coast as shipping attacks surge: Maritime watchdog",
-  "At OIC meeting, Araghchi puts Iran’s 7-day Hormuz plan on the table: will Trump bend the knee? | Videos",
-  "Iran FM demands 'credible guarantees' for renewed US talks",
-  "Oil prices surge toward $110 a barrel",
-  "Crude oil forecast: Why Brent could reach $120 as IRGC shipping attacks persist",
   "South Korea's Finance Minister Says Semiconductor Boom to Last at Least Through Next Year, Pushing Back Against 2029 Oversupply Warnings",
   "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
   "‘The Strait Is Closed’: Iran Turned a Threat Into Law",
@@ -3624,24 +3637,30 @@
   "THE TIPPING POINT: ADNOC Trading Chief Flags August as Tipping Point for Oil Prices",
   "US-Israel-Iran War Latest Live News: Araghchi Rejects ‘Coercion, Threats and Intimidation’ as Tehran Demands Credible Guarantees Before Resuming Talks With Washington",
   "Strait of Hormuz to reopen on Day 6 if US meets Iran's conditions: Araghchi",
-  "Iran Launches Missile Attack Near UAE; IRGC Bombards Tug As Tehran Widens Hormuz Campaign"
+  "Iran Launches Missile Attack Near UAE; IRGC Bombards Tug As Tehran Widens Hormuz Campaign",
+  "‘If He Drops One Bomb…’: Iran’s New Defence Minister Issues Warning To Trump",
+  "Iran says it has taken measures against 'Mother of All Bombs'",
+  "Iran Warns US and Israel of \"Devastating\" Plan in Response to New Adventurism",
+  "Iran urges US to accept proposal to reopen Hormuz",
+  "Inflation Shakes Fed Outlook Crude Oil Surges and More - NVIDIA (NASDAQ:NVDA)"
  ],
  "initialized": true,
  "last_alert": 1792316278.6949008,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 110,
-  "new": 52,
+  "fetched": 109,
+  "new": 68,
   "rated": {
-   "low": 20,
+   "low": 12,
    "medium": 5,
-   "high": 2
+   "high": 1
   },
-  "posted": 4,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3867)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 2891)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 100 (char 3645)"
   ],
-  "time": "2026-10-18T09:38:00+00:00"
+  "time": "2026-10-18T10:05:05+00:00"
  }
 }
