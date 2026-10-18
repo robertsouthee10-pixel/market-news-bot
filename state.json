@@ -3534,10 +3534,38 @@
   "171f10056741c760": 1792327429.0684385,
   "43f944f62af9957b": 1792327430.3243282,
   "b0821c67ca387948": 1792327430.3243465,
-  "bb2f665f500c8e09": 1792327430.3243525
+  "bb2f665f500c8e09": 1792327430.3243525,
+  "593034020aee8588": 1792329399.865246,
+  "3a69acae6708c292": 1792329399.8652554,
+  "84961174b7e9158e": 1792329399.8652585,
+  "84715caad66afb8f": 1792329399.865262,
+  "7b0dc9cbdeb32d0d": 1792329399.8652642,
+  "c0327b5b4ec540b3": 1792329399.8652654,
+  "0ab3907ff49073df": 1792329401.3058102,
+  "e778800c29d60f83": 1792329401.305833,
+  "940aa743a253f15a": 1792329401.3058362,
+  "ed4b1e36546ed634": 1792329401.305847,
+  "fcd034e3db77c5c5": 1792329401.3058503,
+  "1d36f9464a7809a8": 1792329401.3058536,
+  "438eecdf0d8e47ff": 1792329401.3058574,
+  "31d0579da1be87b8": 1792329401.3058605,
+  "2dff44973b90e39d": 1792329401.3058631,
+  "a434218148478605": 1792329401.3058653,
+  "2bc154aea1961c46": 1792329401.305869,
+  "f7de7da120ad2bfa": 1792329401.305871,
+  "b59a366d6f7147df": 1792329401.3058732,
+  "30d350031bc36f9d": 1792329401.3058758,
+  "22a496d59524d312": 1792329401.3058777,
+  "24834e2757942a0a": 1792329401.3058798,
+  "299d0ca9c08f20d0": 1792329401.3058822,
+  "222dc3ef0fc17f7d": 1792329401.3058841,
+  "bc342e7faa5f0f1f": 1792329401.3058865,
+  "98d34b2cad059f4d": 1792329422.3509438,
+  "c0e5d8bb2fa5c27c": 1792329422.350963,
+  "d186e936890a2b5b": 1792329422.3509681,
+  "ff60ce7bfd6b4a25": 1792329422.35097
  },
  "recent": [
-  "Nasdaq 100 forecast: US tech stocks extend decline as AI concerns intensify",
   "Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub",
   "Iran's IRGC: 2nd supertanker explodes after hitting mine in Hormuz Strait",
   "5 big analyst AI moves: Meta gets Street-high PT; Salesforce double upgraded",
@@ -3576,24 +3604,25 @@
   "Why souring sentiment on CoreWeave should matter to investors",
   "Rezaei says Iran has prepared new military plan for any fresh attack",
   "Trump Pauses Russia Sanctions for 60 Days as Iran War Forces White House Into Energy Dilemma",
-  "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Save AI?"
+  "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Save AI?",
+  "AMD's 6.2% Slide Puts the Sector's Borrowing Costs in the Spotlight"
  ],
  "initialized": true,
  "last_alert": 1792327415.0003562,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 105,
-  "new": 48,
+  "fetched": 108,
+  "new": 54,
   "rated": {
-   "low": 20,
-   "medium": 3,
+   "low": 25,
+   "medium": 4,
    "high": 0
   },
-  "posted": 2,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 100 (char 4508)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4141)"
   ],
-  "time": "2026-10-18T12:43:50+00:00"
+  "time": "2026-10-18T13:17:02+00:00"
  }
 }
