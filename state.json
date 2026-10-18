@@ -3133,14 +3133,27 @@
   "ee82a8875e0bbfb7": 1792289810.7042396,
   "dbd8e4f03127c7ee": 1792289810.7042422,
   "1912358b4f8bc506": 1792289812.1305497,
-  "143a7234ff17b058": 1792289812.1305723
+  "143a7234ff17b058": 1792289812.1305723,
+  "1a9d3f9fcbfbbf91": 1792293210.3976963,
+  "c463ec9bb5d6a545": 1792293210.3977013,
+  "7cb6719d5e4d39c8": 1792293211.6278467,
+  "9774177664117717": 1792293211.6278675,
+  "16daceaa2a04c4af": 1792293211.6278732,
+  "c47a3844c795e9f7": 1792293211.6278777,
+  "e703372cf1d904c8": 1792293212.849937,
+  "b6a070d50077fb40": 1792293212.8499565,
+  "03181b8bc6af696a": 1792293214.0982502,
+  "5c3e9a1520172d34": 1792293214.0982702,
+  "4b9d9eddfc0b0c2b": 1792293215.333841,
+  "b0a8c415dccff00a": 1792293216.5493712,
+  "be48b4da786fc9f7": 1792293216.5494,
+  "7a0fdcf7b258cd28": 1792293216.5494041,
+  "c2a99d3c2338100b": 1792293216.549408,
+  "50515193e600f198": 1792293216.5494113,
+  "9cbc830fbd34dc50": 1792293216.5494149,
+  "e251ebb93b968eab": 1792293216.5494177
  },
  "recent": [
-  "KOSPI rebounds as Korea eyes rate decision, US tech reports test AI hopes - CHOSUNBIZ",
-  "Shafaq News..US redirects 130+ ships under Iran blockade",
-  "Iran: Maritime traffic in the Strait of Hormuz may return to normal within 7 days",
-  "IRGC spox. lambasts Washington for \"Mother of Bombs\" threat",
-  "CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worried About the Neocloud's Balance Sheet.",
   "Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff",
   "Riyadh residents receive 'hostile aerial threat' alert",
   "Saudi Arabia reports incoming fire as Egypt weighs sending help",
@@ -3175,24 +3188,29 @@
   "Intel (INTC) Lands Major Foundry Customer As 18A Output Tops Targets",
   "Oil's long view darkens as Iran war refuses to end",
   "Iran's FM says Tehran ready for dialogue based on mutual respect, credible guarantees",
-  "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg"
+  "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg",
+  "U.S. borrowing costs hover near 20-year highs, narrowing policymakers' options",
+  "Escalation In Middle East As Iran Hits Kurdish Bases In Erbil; Blast Hits Iraqi Militia HQ",
+  "Iran aiding Houthis with intel, weapons to hit Saudi Arabia: Report | Tap to know more | Inshorts",
+  "Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",
+  "Iran says two oil tankers caught fire in Strait of Hormuz"
  ],
  "initialized": true,
  "last_alert": 1792284290.3748124,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 58,
-  "new": 25,
+  "fetched": 64,
+  "new": 43,
   "rated": {
-   "low": 0,
-   "medium": 0,
-   "high": 0
+   "low": 12,
+   "medium": 4,
+   "high": 2
   },
-  "posted": 0,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 97 (char 4668)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4921)"
   ],
-  "time": "2026-10-18T02:50:23+00:00"
+  "time": "2026-10-18T03:13:36+00:00"
  }
 }
