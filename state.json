@@ -3816,12 +3816,41 @@
   "64652f4ea4d07e01": 1792343546.053301,
   "ecc58d722188f556": 1792343547.2259302,
   "a4fdf3f70c82f9af": 1792343547.2259498,
-  "c528852f1d3302b8": 1792343547.225954
+  "c528852f1d3302b8": 1792343547.225954,
+  "749a821e1c3c7f74": 1792346518.8897,
+  "ffaa187e4b3a9bca": 1792346518.8897073,
+  "9aeb99b9fd26d163": 1792346520.104455,
+  "11ce4bb493459b82": 1792346520.104475,
+  "ff2840e86db570ea": 1792346520.1044812,
+  "d83dce20809264eb": 1792346520.1044846,
+  "f6be205c4502a87d": 1792346520.1044888,
+  "01f2aa3f99c6379b": 1792346520.1044924,
+  "614e9b46e3da61d5": 1792346520.104495,
+  "cc8356eb1d47a911": 1792346520.1044986,
+  "be0bf1d9ad945fbb": 1792346520.1045015,
+  "d6317bc4d92b6ec2": 1792346520.1045039,
+  "824554e6e16fce9c": 1792346520.1045063,
+  "8a791b50916afec4": 1792346520.1045094,
+  "135590fe966231a5": 1792346520.1045122,
+  "a7fcab7bccc2ed10": 1792346520.1045153,
+  "28b7573073b2de0d": 1792346520.104518,
+  "f53a864baec99691": 1792346520.1045206,
+  "5d93fbd0ee6e660b": 1792346520.1045232,
+  "d920c7a280109057": 1792346520.104525,
+  "59ce95e2741e6db4": 1792346521.3905597,
+  "13e15f51fc31edc5": 1792346521.390583,
+  "704bd5d121f6df8b": 1792346521.390587,
+  "f72c281b635555b7": 1792346522.644194,
+  "0b1d7f0718a281ac": 1792346522.6442142,
+  "a478314ce73a4228": 1792346528.2013721,
+  "2f99d18f5f89ff94": 1792346528.201376,
+  "c34e90f59b803d04": 1792346528.2013783,
+  "652fc518e920cf64": 1792346528.201382,
+  "ce8e9e932bc9a38f": 1792346528.2013862,
+  "341426b894b765ac": 1792346528.2013893,
+  "0f76ceb42d1fb990": 1792346528.2013907
  },
  "recent": [
-  "As AI rally wobbles, stock market's spotlight turns to earnings",
-  "Hot Inflation and AI Debt Worries Bruise MSCI World Tracker, but the Money Keeps Coming",
-  "Iran signals possible nuclear policy shift, threatens US retaliation",
   "Apple (NASDAQ: AAPL) Hits $5 Trillion Under New CEO John Ternus As Stock Doubles The S&P 500",
   "Crude oil prices brace for volatile week as supply disruptions remain a concern: Analysts- Moneycontrol.com",
   "Mehrdad Akhlaqi Approved as Iran's New Defense Minister",
@@ -3858,25 +3887,27 @@
   "Netanyahu says will eliminate Iran threat with Trump after his endorsement",
   "Gulf states express solidarity with Saudi Arabia, urge dialogue on US-Iran tensions",
   "US-Israel-Iran War Latest Live News: Iran FM Abbas Araghchi Holds Key Call With Pakistan FM on ‘Regional Tensions’ & ‘Diplomatic Efforts’ to De-Escalate West Asia Crisis; Check Latest Update",
-  "Israeli PM Netanyahu says Israel aims to eliminate Iranian threat and topple Tehran regime"
+  "Israeli PM Netanyahu says Israel aims to eliminate Iranian threat and topple Tehran regime",
+  "Gulf states call for conditions in Strait of Hormuz to return to pre-Feb. 28 state — Anadolu Agency",
+  "Iran Proposes Seven-Day Plan, Offers Conditional Hormuz Reopening on Day Six",
+  "Shafaq News..Netanyahu urges Iran regime change; Lavrov warns of wider war"
  ],
  "initialized": true,
  "last_alert": 1792338935.5966587,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 114,
-  "new": 50,
+  "fetched": 108,
+  "new": 57,
   "rated": {
-   "low": 0,
-   "medium": 0,
+   "low": 26,
+   "medium": 6,
    "high": 0
   },
-  "posted": 0,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 4081)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 59 (char 3937)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 100 (char 2626)"
   ],
-  "time": "2026-10-18T17:40:39+00:00"
+  "time": "2026-10-18T18:02:08+00:00"
  }
 }
