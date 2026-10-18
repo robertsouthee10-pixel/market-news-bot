@@ -3491,12 +3491,29 @@
   "a7221d95f2387121": 1792324242.307157,
   "3f85ab1098b43c1e": 1792324242.30716,
   "81c8a50901564818": 1792324242.3071618,
-  "dcb49757ccd89822": 1792324242.3071644
+  "dcb49757ccd89822": 1792324242.3071644,
+  "d6c3bd3b48904002": 1792325340.7357953,
+  "f1faeb763d09bcf3": 1792325340.735802,
+  "5bf207764dfab290": 1792325340.7358046,
+  "8b5f11bccf6ca1bd": 1792325342.436571,
+  "19743110ca61025c": 1792325342.4365926,
+  "65f6373a446caeca": 1792325342.4365966,
+  "e10d06e58c825d85": 1792325342.4365995,
+  "8fae134f9de46c7f": 1792325342.436606,
+  "44acdd1594eb6747": 1792325342.436609,
+  "0151dfb34e8d9606": 1792325342.4366121,
+  "375162cc4e37636a": 1792325342.436615,
+  "2b1f1812d3333651": 1792325342.4366171,
+  "b80befa40e0b5791": 1792325342.43662,
+  "ef38f57f50d5e092": 1792325342.4366224,
+  "61f49c8c192fcc5b": 1792325343.7120674,
+  "2e227e1e96fa83b0": 1792325343.71209,
+  "58410cd8e17a0bc8": 1792325344.9726605,
+  "75c6c5c6ff3a0c00": 1792325344.9726834,
+  "fb0938d4233625cf": 1792325344.9726887,
+  "edae6ba6f68061c5": 1792325344.972691
  },
  "recent": [
-  "SOXL liquidations lead $52M chip-stock wipeout in 10 minutes while Wall Street was closed",
-  "Won-Dollar Exchange Rate Drops to Two-Year Low",
-  "Trump: Iran War Will End ‘Very Quickly’, Promises Lower Gas Prices",
   "OPEC Oil Output Rises in September",
   "Iran is giving Houthis intelligence for attacks on Saudi Arabia, WSJ reports",
   "Nasdaq 100 forecast: US tech stocks extend decline as AI concerns intensify",
@@ -3533,24 +3550,28 @@
   "What to Expect in Markets This Week: Meta, Tesla Report; Airlines, Streaming Giants’ Results Due",
   "Pakistan Closes Iran Border",
   "Oil Prices Rise After Ship Attacks, US-Iran Talks Deadlock",
-  "Warsh Avoids Signal on October Rate Move"
+  "Warsh Avoids Signal on October Rate Move",
+  "Update on gasoline and oil prices on October 18th: WTI oil increases by more than 10% in the week",
+  "Why souring sentiment on CoreWeave should matter to investors",
+  "Rezaei says Iran has prepared new military plan for any fresh attack"
  ],
  "initialized": true,
  "last_alert": 1792316278.6949008,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 109,
-  "new": 58,
+  "fetched": 126,
+  "new": 70,
   "rated": {
-   "low": 26,
-   "medium": 7,
+   "low": 17,
+   "medium": 3,
    "high": 0
   },
-  "posted": 5,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3295)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4959)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4365)"
   ],
-  "time": "2026-10-18T11:50:42+00:00"
+  "time": "2026-10-18T12:09:04+00:00"
  }
 }
