@@ -3617,13 +3617,30 @@
   "63411cfe531e3595": 1792331228.5953443,
   "ffe6671c924e050f": 1792331228.595369,
   "bde778c95e8bf9ef": 1792331229.951329,
-  "79197d0e511ed882": 1792331229.951492
+  "79197d0e511ed882": 1792331229.951492,
+  "85d794e7e397db61": 1792332489.3569467,
+  "1b5a191dfbe9ebb4": 1792332490.7310236,
+  "68e5919c4c27398b": 1792332491.9947336,
+  "3bdd7e46b5d32cf9": 1792332491.9947557,
+  "60b1bc59cb080978": 1792332493.2810924,
+  "219a95878a81f9a9": 1792332493.2811136,
+  "ed0bbe24a2b647f0": 1792332493.2811177,
+  "60828b92a9c68c62": 1792332493.2811205,
+  "e9a186c9130cc9d6": 1792332493.2811232,
+  "6bf368290e9b4aff": 1792332493.2811263,
+  "c476757611bb1e66": 1792332493.2811286,
+  "1e4e2f69093a6af1": 1792332493.2811337,
+  "58fb7da58e8f0312": 1792332493.281137,
+  "d6781342145eb978": 1792332493.2811394,
+  "a4c91da8d44b4298": 1792332493.2811432,
+  "96707f5022c1c50c": 1792332493.2811475,
+  "93b40cc8b96190a0": 1792332494.8119376,
+  "37664c86dc163858": 1792332494.8119586,
+  "251ab61b81b762ff": 1792332494.8119624,
+  "ae20148a7d8998e5": 1792332494.8119652,
+  "21ddc6d1c73a2617": 1792332494.8119683
  },
  "recent": [
-  "Is US ground operation in Iran on the table? JD Vance outlines Trump’s next military plan | Tehran | Videos",
-  "Britain Counts Hormuz Attacks With No Warship to Stop Them",
-  "As Iran war spills over, Saudis and Houthis see fighting as only path ahead",
-  "Iran appoints Mehrdad Ketabchi as defense minister",
   "THE TIPPING POINT: ADNOC Trading Chief Flags August as Tipping Point for Oil Prices",
   "US-Israel-Iran War Latest Live News: Araghchi Rejects ‘Coercion, Threats and Intimidation’ as Tehran Demands Credible Guarantees Before Resuming Talks With Washington",
   "Strait of Hormuz to reopen on Day 6 if US meets Iran's conditions: Araghchi",
@@ -3659,22 +3676,28 @@
   "Apple (NASDAQ: AAPL) Hits $5 Trillion Under New CEO John Ternus As Stock Doubles The S&P 500",
   "Crude oil prices brace for volatile week as supply disruptions remain a concern: Analysts- Moneycontrol.com",
   "Mehrdad Akhlaqi Approved as Iran's New Defense Minister",
-  "Iran FM: Hormuz Could Open Friday if US Agrees to 7-Day Proposal"
+  "Iran FM: Hormuz Could Open Friday if US Agrees to 7-Day Proposal",
+  "Iran’s Response to New Attack Will Be Unpredictable: Basij Commander",
+  "Oil prices surge to $109/barrel as Strait of Hormuz tensions worsen",
+  "Ballistic Missile Launch Reported in Iran; Link to IRGC Drills Unclear",
+  "Gulf States Ask Russia to Press Iran as Lavrov Offers a Security Plan"
  ],
  "initialized": true,
  "last_alert": 1792327415.0003562,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 97,
-  "new": 54,
+  "fetched": 124,
+  "new": 46,
   "rated": {
-   "low": 35,
-   "medium": 16,
-   "high": 3
+   "low": 15,
+   "medium": 5,
+   "high": 1
   },
-  "posted": 13,
-  "errors": [],
-  "time": "2026-10-18T13:47:09+00:00"
+  "posted": 4,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3769)"
+  ],
+  "time": "2026-10-18T14:08:14+00:00"
  }
 }
