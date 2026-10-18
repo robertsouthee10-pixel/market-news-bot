@@ -3679,10 +3679,30 @@
   "5660d9551462a967": 1792334160.8206174,
   "97fbfbed5f6060b9": 1792334160.8206205,
   "fff3f0aaf6638f7e": 1792334160.820624,
-  "570d1978e7295fe9": 1792334160.820627
+  "570d1978e7295fe9": 1792334160.820627,
+  "10897b935275fc71": 1792335666.1453414,
+  "0ecc478733af591d": 1792335666.145347,
+  "03226bc558f3f15e": 1792335666.1453507,
+  "b44cebc69c7b38a3": 1792335666.145355,
+  "ee108eabd7d626d6": 1792335666.1453576,
+  "c45dec33eacf34f9": 1792335666.1453595,
+  "2f42648e7bdf6ad2": 1792335666.1453621,
+  "25d77559039c0695": 1792335666.1453648,
+  "bad9c62c9c2b2221": 1792335666.1453667,
+  "a3847f96068f6c87": 1792335666.1453688,
+  "8edee241c61c0e31": 1792335666.145372,
+  "1a0260b16da272ad": 1792335666.1453743,
+  "0cf28596d9cdd6eb": 1792335666.145376,
+  "8a5da0f3f207a7e5": 1792335667.3418338,
+  "ede26bcb820a2340": 1792335667.3418546,
+  "3140c6a2267cea53": 1792335667.3418584,
+  "ee306bacdd10ac35": 1792335667.3418605,
+  "12fbf25100e98c75": 1792335667.341864,
+  "606004a29bc0bbbd": 1792335667.3418696,
+  "abaefc720551402d": 1792335667.341872,
+  "12e808fb5a893e70": 1792335667.3418746
  },
  "recent": [
-  "Iran urges US to accept proposal to reopen Hormuz",
   "Inflation Shakes Fed Outlook Crude Oil Surges and More - NVIDIA (NASDAQ:NVDA)",
   "Iran plan to open shipping lane 'still on the table'",
   "BOJ faces pressure to hike rates amid rising in...",
@@ -3721,22 +3741,25 @@
   "Energy briefs–Iran’s continued attacks on tankers",
   "Iran Defense Minister Akhlaghi Threatens US Troops",
   "The South Korean won appreciated thanks to a surge in semiconductor exports.",
-  "Iranian Minister Aragchi: US Offer to Reopen the Strait of Hormuz Still on the Table"
+  "Iranian Minister Aragchi: US Offer to Reopen the Strait of Hormuz Still on the Table",
+  "Iran asserts all necessary measures taken to counter US further attacks"
  ],
  "initialized": true,
  "last_alert": 1792327415.0003562,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 106,
-  "new": 41,
+  "fetched": 124,
+  "new": 46,
   "rated": {
-   "low": 28,
-   "medium": 12,
+   "low": 19,
+   "medium": 1,
    "high": 1
   },
-  "posted": 7,
-  "errors": [],
-  "time": "2026-10-18T14:36:00+00:00"
+  "posted": 1,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 100 (char 4677)"
+  ],
+  "time": "2026-10-18T15:01:07+00:00"
  }
 }
