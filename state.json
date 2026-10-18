@@ -3866,14 +3866,38 @@
   "7098a634409f39a2": 1792348318.1928368,
   "761dd36d4d8f676e": 1792348319.4313557,
   "273821a1a2196980": 1792348319.4313786,
-  "e150ce6adf58a8d5": 1792348319.4313824
+  "e150ce6adf58a8d5": 1792348319.4313824,
+  "e4f87ec75028fe03": 1792350106.2652862,
+  "ac8881026f4fd268": 1792350106.265318,
+  "e578acc758c6da1c": 1792350106.2653418,
+  "ff8c660f8acb084d": 1792350106.2653449,
+  "0398fb0f5bb607d4": 1792350107.4902809,
+  "22e8bd844b4c448a": 1792350107.490304,
+  "4a2f7973704e4cb1": 1792350107.4903076,
+  "3963cd32f7810d4f": 1792350107.4903102,
+  "1632e37a2ee0c514": 1792350107.4903128,
+  "089ac74f1a25e2af": 1792350107.4903157,
+  "df15b53fc9359406": 1792350107.490318,
+  "b0a4999d3bfcf530": 1792350107.4903204,
+  "d31fffcb3dec8dc7": 1792350107.4903545,
+  "268ee240ad20e3d2": 1792350107.4903567,
+  "4e0f502579dd82f3": 1792350108.9074574,
+  "d9e9ea3c7e21edf7": 1792350108.907483,
+  "b1a3d8fdcb940f1b": 1792350108.9074872,
+  "07859c6d6e4a1e93": 1792350108.9074905,
+  "c4585f70b9dad6c1": 1792350108.9074938,
+  "a52d924df35b4211": 1792350108.9074967,
+  "5d7318c9dabcf0f9": 1792350108.9075,
+  "0059641870cd973b": 1792350108.9075034,
+  "1a78ec3b8b7f00a7": 1792350108.9075065,
+  "3b8b13b162b8ca87": 1792350108.9075093,
+  "5f0fd1f6219b332b": 1792350110.3414874,
+  "3077b46cd67cc893": 1792350114.559651,
+  "13bd33b0bd355f01": 1792350115.850012,
+  "0a0b20b93c07a362": 1792350115.8500352,
+  "baf6f8d03d49d03a": 1792350115.850039
  },
  "recent": [
-  "Mehrdad Akhlaqi Approved as Iran's New Defense Minister",
-  "Iran FM: Hormuz Could Open Friday if US Agrees to 7-Day Proposal",
-  "Iran’s Response to New Attack Will Be Unpredictable: Basij Commander",
-  "Oil prices surge to $109/barrel as Strait of Hormuz tensions worsen",
-  "Ballistic Missile Launch Reported in Iran; Link to IRGC Drills Unclear",
   "Gulf States Ask Russia to Press Iran as Lavrov Offers a Security Plan",
   "Trending stocks this week as tech selloff deepens, volatility surges",
   "Anthropic Reportedly Posted Quarterly Revenue Growth of 50% and Was Cash-Flow Positive. Here's Why It Might Not Be Enough to Impress Investors Before the Company's Massive IPO",
@@ -3908,24 +3932,29 @@
   "Iran Proposes Seven-Day Plan, Offers Conditional Hormuz Reopening on Day Six",
   "Shafaq News..Netanyahu urges Iran regime change; Lavrov warns of wider war",
   "Nvidia Enters Correction After Rising Wedge Breakdown as AI Stock Bubble Index Jumps",
-  "ASX set to dip, tech stocks weigh on Wall Street"
+  "ASX set to dip, tech stocks weigh on Wall Street",
+  "Peter Tuchman: Nasdaq posts worst week since April 2025 tariff selloff as S&P 500 loses $1.3 trillion",
+  "FOMC Polymarket Odds: Fed Rate Hike Probability Falls to 14% Ahead of October Meeting",
+  "UBS Raises Microsoft (NASDAQ: MSFT) Price Target To $675, Calls Stock Valuation \"Not Stretched\"",
+  "Trump says Iran ‘systematically destroyed’",
+  "Iran’s ‘new operational plan’ will drag US, Israel into unfamiliar territory: Top security official"
  ],
  "initialized": true,
- "last_alert": 1792338935.5966587,
+ "last_alert": 1792350091.8201754,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 104,
-  "new": 43,
+  "fetched": 112,
+  "new": 54,
   "rated": {
-   "low": 16,
-   "medium": 2,
+   "low": 24,
+   "medium": 5,
    "high": 0
   },
-  "posted": 2,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 3687)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4704)"
   ],
-  "time": "2026-10-18T18:31:59+00:00"
+  "time": "2026-10-18T19:01:55+00:00"
  }
 }
