@@ -3993,12 +3993,29 @@
   "d1639f65d375b908": 1792358797.1565628,
   "ef52b8b3443f7a85": 1792358797.156565,
   "124da0129fbda480": 1792358797.1565704,
-  "682c7ba46288bd4e": 1792358797.1565735
+  "682c7ba46288bd4e": 1792358797.1565735,
+  "192b251041c01396": 1792360413.9496846,
+  "1d59891606402400": 1792360415.1283684,
+  "4f19f538325fcba7": 1792360415.1283882,
+  "b97eb79c9d903af2": 1792360415.1283934,
+  "6a83a5835e3e3982": 1792360415.1284015,
+  "2df4c845bf87a5b5": 1792360415.1284046,
+  "aec7becd9871cd43": 1792360415.1284096,
+  "74f536b5d0fdb59e": 1792360415.1284134,
+  "295183637810ea77": 1792360415.1284168,
+  "7685d396baf3cadb": 1792360415.1284192,
+  "6624ed5235bc77dc": 1792360415.1284223,
+  "56101b871190c3ac": 1792360415.128425,
+  "bb145225a517436a": 1792360415.1284273,
+  "312efb3005c48a29": 1792360415.1284294,
+  "d3337abab2d9e070": 1792360416.5413709,
+  "23f5a3d0b8d10533": 1792360417.7085125,
+  "30c6c392790dac1c": 1792360417.708531,
+  "4a8d5042d2833ddb": 1792360417.7085364,
+  "0ed9f09d3326a5ef": 1792360417.708541,
+  "8f68f94a5a9c180d": 1792360417.7085447
  },
  "recent": [
-  "Nasdaq 100's AI Boom Meets Its Auditor: Funding Costs, Not Demand, Now Set the Tone",
-  "Jackson: ‘Prices will probably go down’ if US ends war with Iran",
-  "Israeli Defense Minister Reveals Israeli-U.S. Coordination in Massive Bombing Campaign Against Iran",
   "Iran's new response plan as ship attacks escalate",
   "Dow Jones Futures: More AI Pain After Nasdaq Sell-Off? Meta, SpaceX, Tesla Earnings Key",
   "ASML is the Most Important Company in the AI Ecosystem, and It Just Delivered Record Results. Here’s Where the Stock Will Be in 2028",
@@ -4035,22 +4052,25 @@
   "Iran's IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz",
   "Lam Research (NASDAQ:LRCX) Stock Falls for 10 Straight Days Ahead of Earnings",
   "Oil Price Near $110 as Iran Demands US Withdrawal but Keeps Hormuz Proposal Open",
-  "Tesla Stock Falls as Options Market Signals Jump to $370 After Earnings"
+  "Tesla Stock Falls as Options Market Signals Jump to $370 After Earnings",
+  "US Treasuries: Ten-year yields set for biggest weekly loss in more than a year",
+  "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis",
+  "Saudi coalition, Houthis trade strikes as disruption spreads"
  ],
  "initialized": true,
  "last_alert": 1792350091.8201754,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 78,
-  "new": 24,
+  "fetched": 79,
+  "new": 20,
   "rated": {
-   "low": 23,
-   "medium": 1,
-   "high": 0
+   "low": 16,
+   "medium": 3,
+   "high": 1
   },
-  "posted": 1,
+  "posted": 3,
   "errors": [],
-  "time": "2026-10-18T21:26:37+00:00"
+  "time": "2026-10-18T21:53:37+00:00"
  }
 }
