@@ -3458,14 +3458,42 @@
   "e046f5b307a6bb91": 1792322672.6273823,
   "6b50345315642be0": 1792322672.6273844,
   "7bc9becbcb803da8": 1792322675.8482797,
-  "0efe80e84d241a26": 1792322677.08868
+  "0efe80e84d241a26": 1792322677.08868,
+  "899e9dbf729d316f": 1792324212.8338237,
+  "c622c40c7a18ed3f": 1792324214.086398,
+  "a617da90416113e7": 1792324214.0864255,
+  "0190b3ef15955552": 1792324214.086431,
+  "e3b281117ad27b05": 1792324214.0864344,
+  "a255177dc4082dd1": 1792324214.0864377,
+  "c6a5acceb741bc8b": 1792324214.0864408,
+  "1d5feec0bce85a30": 1792324214.0864446,
+  "bf9d57dad3094b43": 1792324214.086447,
+  "7590e84b8621fa95": 1792324214.0864499,
+  "6b0867ea32d28335": 1792324214.0864542,
+  "3a5814f7ef639e10": 1792324214.086458,
+  "ec8756b511eb42a9": 1792324215.2865517,
+  "d29637568e7b9c9e": 1792324216.8111148,
+  "abad4fc6377a465f": 1792324216.8111377,
+  "5724940b16e6e691": 1792324216.8111439,
+  "457dab109f6ee0ab": 1792324216.8111477,
+  "091766eb8adc9f15": 1792324218.0995598,
+  "7402b1034356aa12": 1792324218.099582,
+  "73ae71ea055c4559": 1792324218.0995874,
+  "b68d823073c001b1": 1792324218.0995927,
+  "3e039ebf0cbeac14": 1792324218.099596,
+  "a5165950cb2a57ba": 1792324218.0995996,
+  "2e1c9a3e169d8ed4": 1792324218.0996027,
+  "86fe656030ec2ef8": 1792324218.0996063,
+  "6e39b554c6109114": 1792324242.3071458,
+  "8a2b861f42a20317": 1792324242.3071496,
+  "355e4d687dfe137f": 1792324242.307153,
+  "bbad86f4d6251582": 1792324242.3071551,
+  "a7221d95f2387121": 1792324242.307157,
+  "3f85ab1098b43c1e": 1792324242.30716,
+  "81c8a50901564818": 1792324242.3071618,
+  "dcb49757ccd89822": 1792324242.3071644
  },
  "recent": [
-  "Gold ends week at $4,165 as US inflation data weighs",
-  "Goldman Lifts SK Hynix Target to 3.5 Million Won as Foreign Funds Beat a Record Retreat",
-  "Iran sets up new shipping system without US involvement",
-  "Broadcom's AI Story Hits a Financing Wall as Shares Retreat 4.7%",
-  "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",
   "SOXL liquidations lead $52M chip-stock wipeout in 10 minutes while Wall Street was closed",
   "Won-Dollar Exchange Rate Drops to Two-Year Low",
   "Trump: Iran War Will End ‘Very Quickly’, Promises Lower Gas Prices",
@@ -3500,24 +3528,29 @@
   "Inflation Shakes Fed Outlook Crude Oil Surges and More - NVIDIA (NASDAQ:NVDA)",
   "Iran plan to open shipping lane 'still on the table'",
   "BOJ faces pressure to hike rates amid rising in...",
-  "Iran Links Hormuz Security to End of US Aggression"
+  "Iran Links Hormuz Security to End of US Aggression",
+  "Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says",
+  "What to Expect in Markets This Week: Meta, Tesla Report; Airlines, Streaming Giants’ Results Due",
+  "Pakistan Closes Iran Border",
+  "Oil Prices Rise After Ship Attacks, US-Iran Talks Deadlock",
+  "Warsh Avoids Signal on October Rate Move"
  ],
  "initialized": true,
  "last_alert": 1792316278.6949008,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 96,
-  "new": 52,
+  "fetched": 109,
+  "new": 58,
   "rated": {
-   "low": 23,
-   "medium": 4,
+   "low": 26,
+   "medium": 7,
    "high": 0
   },
-  "posted": 1,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4061)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3295)"
   ],
-  "time": "2026-10-18T11:24:37+00:00"
+  "time": "2026-10-18T11:50:42+00:00"
  }
 }
