@@ -3600,7 +3600,22 @@
   "45ae982e5580d77a": 1792317905.8071647,
   "cf2d84f0bf617aed": 1792317905.8071864,
   "c4dde9f7f7b2dfb8": 1792317905.807191,
-  "21966e23e5982527": 1792317905.8071973
+  "21966e23e5982527": 1792317905.8071973,
+  "7dcfecfab1fe11d5": 1792319569.0733278,
+  "d086153a6c2de27b": 1792319569.0733335,
+  "aae61f1adc897b62": 1792319569.0733361,
+  "90572e7ba3077843": 1792319569.073338,
+  "43538e3578d75d53": 1792319569.0733402,
+  "9157ed350e019e73": 1792319569.0733423,
+  "12eb680cdb8fd106": 1792319569.0733438,
+  "8d960541bfae39da": 1792319569.073346,
+  "f54e174f45868a02": 1792319569.0733478,
+  "e27d915134990096": 1792319569.0733502,
+  "9c616c96f4ac01ad": 1792319569.0733516,
+  "05e4ba5147473907": 1792319569.073356,
+  "ca10dc630733a0f8": 1792319569.0733583,
+  "172d5a0530295529": 1792319569.07336,
+  "1e7b62425894df37": 1792319569.0733624
  },
  "recent": [
   "South Korea's Finance Minister Says Semiconductor Boom to Last at Least Through Next Year, Pushing Back Against 2029 Oversupply Warnings",
@@ -3649,18 +3664,18 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 109,
-  "new": 68,
+  "fetched": 104,
+  "new": 65,
   "rated": {
    "low": 12,
-   "medium": 5,
-   "high": 1
+   "medium": 3,
+   "high": 0
   },
-  "posted": 5,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 2891)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 100 (char 3645)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3580)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 4335)"
   ],
-  "time": "2026-10-18T10:05:05+00:00"
+  "time": "2026-10-18T10:32:49+00:00"
  }
 }
