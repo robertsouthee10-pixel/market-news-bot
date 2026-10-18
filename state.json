@@ -4091,7 +4091,11 @@
   "3d09953ed3b7a935": 1792364625.5785193,
   "78f32331b3b828ab": 1792364625.5785236,
   "2f5e9ded48c57b2f": 1792364625.5785294,
-  "4596e478c1a2250d": 1792366145.2815015
+  "4596e478c1a2250d": 1792366145.2815015,
+  "dc8bd3dd7805e924": 1792367584.4024966,
+  "3824895bf3831049": 1792367584.402505,
+  "7f3d84a20c780f16": 1792367584.4025083,
+  "cd94436adcba93fb": 1792367584.402511
  },
  "recent": [
   "Iraqi FM Announces Baghdad Initiative for Talks Between Iran and Gulf States",
@@ -4138,19 +4142,22 @@
  "initialized": true,
  "last_alert": 1792366141.6456072,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 79,
-  "new": 26,
+  "feeds_ok": 14,
+  "feeds_failed": [
+   "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+OR+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=CPI+OR+%22jobs+report%22+OR+payro -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=%22oil+prices%22+OR+OPEC+OR+Iran+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=Nasdaq+OR+%22AI+chips%22+OR+%22ch -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  ],
+  "fetched": 30,
+  "new": 4,
   "rated": {
-   "low": 0,
-   "medium": 1,
+   "low": 4,
+   "medium": 0,
    "high": 0
   },
-  "posted": 1,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3313)"
-  ],
-  "time": "2026-10-18T23:29:05+00:00"
+  "posted": 0,
+  "errors": [],
+  "time": "2026-10-18T23:53:04+00:00"
  }
 }
