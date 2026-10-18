@@ -4068,12 +4068,31 @@
   "ff030c39a6fdd75f": 1792363370.3852303,
   "fc4d949c551acc80": 1792363371.6962492,
   "228fcecafd8807b1": 1792363371.696271,
-  "58c3ce38ebf906ae": 1792363371.6962788
+  "58c3ce38ebf906ae": 1792363371.6962788,
+  "2468b24031aa11eb": 1792364621.62562,
+  "ba59f3b31102215c": 1792364621.6256258,
+  "fb2b7122ebc04ce9": 1792364621.6256285,
+  "1b8f817c02778419": 1792364621.625634,
+  "a04f74dbbd7c5580": 1792364623.134602,
+  "c8a2c743a8e48a31": 1792364623.1346235,
+  "d94698b063992f06": 1792364623.1346264,
+  "b386d0b02aada353": 1792364623.1346312,
+  "74daadcae22784ca": 1792364623.134634,
+  "e17e71c5f8834571": 1792364623.1346376,
+  "465a00211e274d7c": 1792364623.1346402,
+  "23dea43c61b4d292": 1792364623.1346426,
+  "a1cadf56681b1157": 1792364623.1346476,
+  "6b3c9cdf72d4c4e1": 1792364623.1346512,
+  "f12bfd2a1c89cfaa": 1792364623.134656,
+  "965c13161e35f578": 1792364624.3478756,
+  "ab6e005a4e21a79e": 1792364624.3478975,
+  "af962393b8780b79": 1792364624.3479025,
+  "2c0235be5e6708c6": 1792364625.5784962,
+  "3d09953ed3b7a935": 1792364625.5785193,
+  "78f32331b3b828ab": 1792364625.5785236,
+  "2f5e9ded48c57b2f": 1792364625.5785294
  },
  "recent": [
-  "UBS Raises Microsoft (NASDAQ: MSFT) Price Target To $675, Calls Stock Valuation \"Not Stretched\"",
-  "Trump says Iran ‘systematically destroyed’",
-  "Iran’s ‘new operational plan’ will drag US, Israel into unfamiliar territory: Top security official",
   "SanDisk Sinks 7.2% as Chip Selloff, Inflation Data and CXMT Fears Converge Ahead of October 29 Earni",
   "Iraqi FM Announces Baghdad Initiative for Talks Between Iran and Gulf States",
   "Gulf Cooperation Council accuses Iran of attacks",
@@ -4110,22 +4129,25 @@
   "Chip Stocks extend eight-day losing streak as AI infrastructure worries spread",
   "Crude oil likely to gain further next week as supply fears overshadow relief measures: Analysts",
   "China considers export controls on AI, chips",
-  "Iran parliament approves Mehrdad Akhlaqi as defence minister; warns of broad response to US-Israeli attack"
+  "Iran parliament approves Mehrdad Akhlaqi as defence minister; warns of broad response to US-Israeli attack",
+  "Bond market’s big short bet gets wakeup call as AI trade wobbles",
+  "Araghchi to US, Israel: Last time you tried to ‘finish the job,’ Iran emerged stronger",
+  "Iran's Mojtaba Khamenei to overturn his father's nuclear doctrine as calls for atomic bombs grow"
  ],
  "initialized": true,
  "last_alert": 1792350091.8201754,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 81,
-  "new": 32,
+  "fetched": 84,
+  "new": 22,
   "rated": {
-   "low": 19,
-   "medium": 12,
+   "low": 13,
+   "medium": 8,
    "high": 1
   },
-  "posted": 9,
+  "posted": 3,
   "errors": [],
-  "time": "2026-10-18T22:42:51+00:00"
+  "time": "2026-10-18T23:03:45+00:00"
  }
 }
