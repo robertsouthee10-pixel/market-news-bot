@@ -3304,14 +3304,32 @@
   "d96eac75560d6c03": 1792302255.854186,
   "0d45a63bfb403147": 1792302255.8541899,
   "23324ac56edf8eea": 1792302255.8541949,
-  "ca2219ecc2dc2354": 1792302255.8541975
+  "ca2219ecc2dc2354": 1792302255.8541975,
+  "0b73c041afae13e3": 1792303671.9135563,
+  "6508655e3b0a75b4": 1792303671.9135664,
+  "c76006822ae33fa7": 1792303671.9135697,
+  "82498501a5419ab9": 1792303673.080385,
+  "7aaaa83c47dc93bc": 1792303673.0804052,
+  "3f9d76d7e3e0b3c4": 1792303673.0804093,
+  "310b78fa99c8e638": 1792303673.080412,
+  "c2dd87f2f8e82142": 1792303674.2389443,
+  "85f5f3976437d190": 1792303674.2389655,
+  "b10ba5a5486f7246": 1792303674.2389698,
+  "0abb936c83ed6fae": 1792303674.2389736,
+  "4720dcc9bd2fdf0d": 1792303675.379391,
+  "c9da57433f2498d6": 1792303675.379414,
+  "b4aa194566675c70": 1792303675.3794181,
+  "0f5306b12f310e18": 1792303675.3794208,
+  "0cc54459c2f6762c": 1792303675.3794243,
+  "8f3b4d0151efd835": 1792303675.379427,
+  "24c79b58f0ce0abf": 1792303675.3794293,
+  "c676507ec72913fa": 1792303675.379432,
+  "84d5cbf776ade213": 1792303675.3794348,
+  "d030cae225b98865": 1792303675.3794365,
+  "4315b7572947014f": 1792303676.5260987,
+  "2237cd4b35a8e191": 1792303677.6701937
  },
  "recent": [
-  "Iran claims it has submitted plans to open the Strait of Hormuz to the United States.",
-  "How Nvidia Could Make $150 Billion Look Small",
-  "Trump asserts Iran war will end \"very quickly\"; touts military strikes on Tehran's nuclear sites",
-  "U.S. Stock Market Preview | Iran says the U.S.'s ongoing economic warfare will hinder the restoration of security in the Strait of Hormuz, pushing Brent crude up by more than 1%; software stocks rose across the board in pre-market trading, with Salesforce recei",
-  "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
   "Iran offers to help end Saudi-Houthi conflict",
   "Hegseth warns Iran to abandon nuclear ambitions or face devastating US military action",
   "Trump paused Russia sanctions to ‘analyse’ impact on global economy: Rubio",
@@ -3346,22 +3364,27 @@
   "Money flows into U.S. Treasuries on AI bubble fears",
   "US chip stocks plunge 16% in longest losing streak since 2008",
   "CENTCOM Reports 138 Vessels Redirected to Enforce Iran Blockade",
-  "US-Israel-Iran War Latest Live News: Trump Claims Iran’s Nuclear Capability Has Been Destroyed, Vows Tehran Will Not Rebuild Programme, Predicts Petrol Prices Will Fall Soon"
+  "US-Israel-Iran War Latest Live News: Trump Claims Iran’s Nuclear Capability Has Been Destroyed, Vows Tehran Will Not Rebuild Programme, Predicts Petrol Prices Will Fall Soon",
+  "US seeks 'verifiable commitment' Iran won't rebuild nuclear programme, Vance says",
+  "Houthis BOMBARD Saudi With Ballistic Missiles; Riyadh Pounded, Air Defences Scramble To Down Drones",
+  "US Defense Secretary Warns Iran of “Destruction”",
+  "The Week Ahead: Tesla, Meta and WDC Earnings in Focus as US Stock Q3 Earnings Season Enters Key Trading Window",
+  "Qatar: Mediation Between Iran and US Continues"
  ],
  "initialized": true,
  "last_alert": 1792284290.3748124,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 75,
-  "new": 43,
+  "fetched": 83,
+  "new": 23,
   "rated": {
-   "low": 37,
-   "medium": 4,
+   "low": 16,
+   "medium": 5,
    "high": 2
   },
-  "posted": 4,
+  "posted": 5,
   "errors": [],
-  "time": "2026-10-18T05:44:15+00:00"
+  "time": "2026-10-18T06:07:57+00:00"
  }
 }
