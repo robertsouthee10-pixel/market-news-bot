@@ -3205,13 +3205,33 @@
   "d82e46a8dd0683f0": 1792296823.2761424,
   "22a15a708087d056": 1792296824.4910724,
   "1492559c1ebf602d": 1792296825.7059517,
-  "ae31ab5210731a19": 1792296825.705974
+  "ae31ab5210731a19": 1792296825.705974,
+  "39b8017b2636e7e8": 1792298874.8233607,
+  "0df3e893498c3c75": 1792298874.8233669,
+  "857c67e8c41b2511": 1792298874.8233702,
+  "a26b0ff7ae5d5298": 1792298876.1557353,
+  "eca49f174e413e41": 1792298877.563672,
+  "3e7d07cf6f1e6558": 1792298877.563692,
+  "a251b182a574ceeb": 1792298877.5636961,
+  "e55c329564779e99": 1792298877.5636997,
+  "431a744674254f7c": 1792298877.5637028,
+  "99a8d74a41fc2fc4": 1792298877.5637052,
+  "450b8345ba7771e8": 1792298877.563708,
+  "c9874f1d415d4e93": 1792298877.5637157,
+  "b020815497fa050f": 1792298877.563718,
+  "0c89cd52c59e949a": 1792298877.5637205,
+  "e22d32f6e04153c6": 1792298877.5637228,
+  "8f079f8e929766b1": 1792298877.5637257,
+  "26bdeb32598555a6": 1792298877.563728,
+  "a2aada8a6bd84478": 1792298877.5637302,
+  "c63f04bdad235a32": 1792298877.5637326,
+  "ed593c06b8d1b2e0": 1792298877.5637352,
+  "0c8ed62f186ecd3a": 1792298878.8597617,
+  "ff494a8787608220": 1792298878.8597822,
+  "8cad63f1a9b3e48e": 1792298878.859787,
+  "19c682ef65bae907": 1792298880.104678
  },
  "recent": [
-  "Riyadh reports fresh drone interceptions as Cairo considers steps to defend kingdom",
-  "Hormuz Attacks Escalate as Iran Claims Tanker Hit a Mine",
-  "Farsnews | Iranian Army Spokesman: Preemptive Operations to Be Repeated if Necessary",
-  "US Military Reportedly Low On Critical ‘Bunker Buster’ Munition",
   "Trump, Republicans get warning sign with new inflation report",
   "OilPrice: Brent futures for January 2027 traded at $102.59 — OilPrice",
   "Iran Just Did the Unthinkable: Tehran Is Now Attacking Commercial Ships in Record Numbers and Oil Prices are Spiking",
@@ -3247,22 +3267,26 @@
   "Infineon Pushes Deeper Into AI Power Infrastructure as Rate Fears Clip Chip Stocks",
   "Charting the global economy: Inflationary pressures mount in US",
   "U.S. targets Iran-linked banks and oil networks",
-  "IEA's efforts to cool down oil prices."
+  "IEA's efforts to cool down oil prices.",
+  "Second Supertanker Hits Mine in Hormuz, IRGC Says",
+  "China's September refined fuel exports surge amid Iran war, diesel exports more than triple",
+  "Fed Chair Kevin Warsh Could Defy Market Expectations With Surprise October Rate Hike",
+  "US-Israel-Iran War Latest Live News: UKMTO Reports Attack on LNG Tanker Off Yemen Coast as 4-6 Million Barrels a Day Oil Supply Shortfall Raises Global Alarm"
  ],
  "initialized": true,
  "last_alert": 1792284290.3748124,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 65,
-  "new": 30,
+  "fetched": 60,
+  "new": 24,
   "rated": {
-   "low": 25,
-   "medium": 5,
-   "high": 0
+   "low": 19,
+   "medium": 4,
+   "high": 1
   },
   "posted": 4,
   "errors": [],
-  "time": "2026-10-18T04:13:45+00:00"
+  "time": "2026-10-18T04:48:00+00:00"
  }
 }
