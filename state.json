@@ -3793,15 +3793,32 @@
   "c0288ad91b976307": 1792342261.7387006,
   "3d1f11814d31ce96": 1792342261.7387047,
   "ebbdfcc6eb94e7cd": 1792342261.7387102,
-  "df958bec679baa17": 1792342261.7387135
+  "df958bec679baa17": 1792342261.7387135,
+  "aab5e65961eced97": 1792343539.9480581,
+  "d4bed2db2b03e9e4": 1792343541.185437,
+  "2830810e0699f116": 1792343541.1854484,
+  "ba832bfa8cb21712": 1792343541.1854525,
+  "43e7b2a76711c5d4": 1792343541.1854553,
+  "6bdfa07aceee2ff0": 1792343541.1854582,
+  "9d416c93e780aafc": 1792343541.1854606,
+  "25f097e9011508ce": 1792343541.185464,
+  "3a601f57146a7c8b": 1792343542.4007902,
+  "91a0d3f1b696d2d0": 1792343542.4008036,
+  "2d65eb9550148b68": 1792343543.6317353,
+  "93fa46c593324172": 1792343543.6317506,
+  "cdf640e9b7e1a43b": 1792343543.6317563,
+  "090180026d33ccc3": 1792343543.6317596,
+  "a223b886e3ae00f3": 1792343543.6317637,
+  "98975d4d187a5652": 1792343543.631766,
+  "dd81ed945886f5fb": 1792343543.6317697,
+  "d2bcc1e9939c217e": 1792343544.8243918,
+  "ace59e1164e3c4c4": 1792343544.8244114,
+  "64652f4ea4d07e01": 1792343546.053301,
+  "ecc58d722188f556": 1792343547.2259302,
+  "a4fdf3f70c82f9af": 1792343547.2259498,
+  "c528852f1d3302b8": 1792343547.225954
  },
  "recent": [
-  "Trump defends Iran strikes amid gas price concerns: ‘I don’t view things politically’",
-  "Hormuz Tanker Fires Test Trump's Midterm Iran Pause",
-  "US Appeals Court Overturns Class Action Lawsuit Over Tesla Self-Driving Claims",
-  "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-  "Global Bond Markets May Face More Volatility Amid An AI Unwind",
-  "iPhone Duo Preorders Sell Out Rapidly As Delivery Estimates Slip Into January",
   "As AI rally wobbles, stock market's spotlight turns to earnings",
   "Hot Inflation and AI Debt Worries Bruise MSCI World Tracker, but the Money Keeps Coming",
   "Iran signals possible nuclear policy shift, threatens US retaliation",
@@ -3835,24 +3852,30 @@
   "Nasdaq 100's AI Boom Meets Its Auditor: Funding Costs, Not Demand, Now Set the Tone",
   "Jackson: ‘Prices will probably go down’ if US ends war with Iran",
   "Israeli Defense Minister Reveals Israeli-U.S. Coordination in Massive Bombing Campaign Against Iran",
-  "Iran's new response plan as ship attacks escalate"
+  "Iran's new response plan as ship attacks escalate",
+  "Dow Jones Futures: More AI Pain After Nasdaq Sell-Off? Meta, SpaceX, Tesla Earnings Key",
+  "ASML is the Most Important Company in the AI Ecosystem, and It Just Delivered Record Results. Here’s Where the Stock Will Be in 2028",
+  "Netanyahu says will eliminate Iran threat with Trump after his endorsement",
+  "Gulf states express solidarity with Saudi Arabia, urge dialogue on US-Iran tensions",
+  "US-Israel-Iran War Latest Live News: Iran FM Abbas Araghchi Holds Key Call With Pakistan FM on ‘Regional Tensions’ & ‘Diplomatic Efforts’ to De-Escalate West Asia Crisis; Check Latest Update",
+  "Israeli PM Netanyahu says Israel aims to eliminate Iranian threat and topple Tehran regime"
  ],
  "initialized": true,
  "last_alert": 1792338935.5966587,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 116,
-  "new": 45,
+  "fetched": 113,
+  "new": 48,
   "rated": {
-   "low": 15,
-   "medium": 5,
-   "high": 0
+   "low": 16,
+   "medium": 6,
+   "high": 1
   },
-  "posted": 5,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4416)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 97 (char 3546)"
   ],
-  "time": "2026-10-18T16:51:01+00:00"
+  "time": "2026-10-18T17:12:27+00:00"
  }
 }
