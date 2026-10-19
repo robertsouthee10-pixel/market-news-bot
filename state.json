@@ -4095,14 +4095,35 @@
   "dc8bd3dd7805e924": 1792367584.4024966,
   "3824895bf3831049": 1792367584.402505,
   "7f3d84a20c780f16": 1792367584.4025083,
-  "cd94436adcba93fb": 1792367584.402511
+  "cd94436adcba93fb": 1792367584.402511,
+  "22b5f4050f65731e": 1792368929.266623,
+  "40b31403e5e4178c": 1792368929.2666473,
+  "c0471cb9692e6704": 1792368929.2666547,
+  "9ac6c7c36098f122": 1792368930.4980495,
+  "3fa041848ce43ca1": 1792368930.4980671,
+  "a4b584842a200f2a": 1792368931.7778609,
+  "25411d7ef7c43aac": 1792368932.9468808,
+  "5754030c14e3342a": 1792368932.946896,
+  "59e681f85314effb": 1792368932.946901,
+  "eb679aa91a6e05f5": 1792368932.9469054,
+  "a7c7aadf70491d2f": 1792368932.94691,
+  "5c747ae074c56ded": 1792368932.9469135,
+  "cfcf364e62ccb91f": 1792368932.9469173,
+  "46476d970f990621": 1792368932.9469206,
+  "50dc71d1428018f3": 1792368932.946924,
+  "880435e97282796d": 1792368932.9469264,
+  "3124eeb7ce6c403f": 1792368932.946929,
+  "e0880453f32ec152": 1792368932.9469316,
+  "f84dbaf697051026": 1792368932.9469345,
+  "9f39dfb181079638": 1792368932.9469366,
+  "76afd7e10eb25228": 1792368932.9469392,
+  "8763dc5dd5133163": 1792368932.9469414,
+  "e1a046b1571bafe6": 1792368932.9469442,
+  "38fc593d0dd5dc2f": 1792368932.946949,
+  "b0fb96913b28bb80": 1792368934.1338596,
+  "9eb37d21bf2731aa": 1792368935.4311233
  },
  "recent": [
-  "Iraqi FM Announces Baghdad Initiative for Talks Between Iran and Gulf States",
-  "Gulf Cooperation Council accuses Iran of attacks",
-  "Chip stocks to stay wild as US midterms, rate hike loom",
-  "Iran presses US to accept Hormuz proposal",
-  "Ship attacks in Hormuz hit record high since Iran war began",
   "Meta's $18 billion teen-safety deal is about to hit earnings",
   "Oil Futures Likely to React to Ukraine’s Attack on Russian Oil, Lifting of Diesel Sanctions",
   "U.S. Aircraft Attempts Iran Strike? Air Force Tanker Declares Emergency, Diverts To Israel | Report",
@@ -4137,27 +4158,29 @@
   "Bond market’s big short bet gets wakeup call as AI trade wobbles",
   "Araghchi to US, Israel: Last time you tried to ‘finish the job,’ Iran emerged stronger",
   "Iran's Mojtaba Khamenei to overturn his father's nuclear doctrine as calls for atomic bombs grow",
-  "Araghchi Warns Trump After Netanyahu Endorsement"
+  "Araghchi Warns Trump After Netanyahu Endorsement",
+  "Hossein Mohebi Warns Iran Will Hit Israel After Energy Infrastructure Attacks: how 6 outlets framed it",
+  "Oil Slips From Five-Month High as Middle East Supply Holds Near Prewar Levels",
+  "KOSPI sinks as AI credit strains hit, semiconductor concentration magnifies fall - CHOSUNBIZ",
+  "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
+  "BoC raises inflation outlook as oil prices surges"
  ],
  "initialized": true,
  "last_alert": 1792366141.6456072,
  "last_run": {
-  "feeds_ok": 14,
-  "feeds_failed": [
-   "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+OR+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
-   "https://news.google.com/rss/search?q=CPI+OR+%22jobs+report%22+OR+payro -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
-   "https://news.google.com/rss/search?q=%22oil+prices%22+OR+OPEC+OR+Iran+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
-   "https://news.google.com/rss/search?q=Nasdaq+OR+%22AI+chips%22+OR+%22ch -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
-  ],
-  "fetched": 30,
-  "new": 4,
+  "feeds_ok": 18,
+  "feeds_failed": [],
+  "fetched": 80,
+  "new": 51,
   "rated": {
-   "low": 4,
-   "medium": 0,
+   "low": 18,
+   "medium": 8,
    "high": 0
   },
-  "posted": 0,
-  "errors": [],
-  "time": "2026-10-18T23:53:04+00:00"
+  "posted": 5,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4684)"
+  ],
+  "time": "2026-10-19T00:15:35+00:00"
  }
 }
