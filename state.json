@@ -4557,12 +4557,27 @@
   "b1030e471db25e9f": 1792405957.8721201,
   "09e2dcab33303464": 1792405957.8721223,
   "53a4f856b78e9d0c": 1792405957.8721244,
-  "590c425d27152eb5": 1792405957.872126
+  "590c425d27152eb5": 1792405957.872126,
+  "fbd5ad96323c2874": 1792408056.6792524,
+  "102190f89093dd51": 1792408056.679266,
+  "1ea3709ef00d7430": 1792408056.6792698,
+  "88faf3b59f48ab00": 1792408056.6792727,
+  "ef3ce483faf0ce71": 1792408056.679275,
+  "f36d1712b6715ce3": 1792408056.679277,
+  "9e820ddffa692cb1": 1792408056.679279,
+  "9ff38311cf3d3b31": 1792408056.6792815,
+  "909d298d5786a828": 1792408057.9729643,
+  "cf0d01598ebf2bda": 1792408059.2735054,
+  "fb5f632200af7c31": 1792408059.273513,
+  "228f8f3743cc0dbd": 1792408059.2735155,
+  "4712a5d73225435d": 1792408059.273518,
+  "70bdeb7955c5c705": 1792408059.2735214,
+  "6873b0e8c5af9373": 1792408059.273523,
+  "49e7579a8c5c1f1b": 1792408059.2735252,
+  "8507ddd69795a3cc": 1792408059.2735264,
+  "98d9002a690ea76b": 1792408059.273528
  },
  "recent": [
-  "Microsoft Walks Away From Nscale’s UK Data Center as the Grid Runs Out of Power",
-  "IRGC Threatens to Turn Israel Into 'Scorched Earth Forever'",
-  "Saudi Arabia's Direct Channel to Iran Under Fire",
   "In compliance with NVIDIA's standardization requirements, Samsung will collaborate with Taiwan Semiconductor for the first time to produce HBM!",
   "LIVE: Markets open high in tech’s first earnings week as Trump-Iran tensions remain high",
   "US Embassy in UAE warns Americans of possible retaliation by Iran, resistance groups",
@@ -4599,25 +4614,30 @@
   "Qatar says energy shocks have yet to peak — Al Jazeera",
   "Stock Market Today: Chip Selloff Hits Day Eight as Nasdaq Logs Its Worst Week Since June",
   "Iran keeps seven-day Hormuz reopening proposal on table amid stalled talks",
-  "European stocks slip led by France, and oil falls on Trump's Russian sanctions waiver"
+  "European stocks slip led by France, and oil falls on Trump's Russian sanctions waiver",
+  "Trump warns of Iran-Russia alliance if Ukraine peace talks fail; criticizes Zelenskyy’s actions",
+  "EUR/USD seems to be forming a bottom as growth concerns and France budget vote come into focus",
+  "Gulf Countries Urge U.S.-Iran Dialogue, Restoration of Navigation in Strait of Hormuz"
  ],
  "initialized": true,
  "last_alert": 1792401388.4728909,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 174,
-  "new": 133,
+  "fetched": 171,
+  "new": 118,
   "rated": {
-   "low": 68,
-   "medium": 15,
+   "low": 13,
+   "medium": 5,
    "high": 0
   },
-  "posted": 11,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4255)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4631)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 100 (char 3911)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4708)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3846)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 100 (char 3263)"
   ],
-  "time": "2026-10-19T10:32:37+00:00"
+  "time": "2026-10-19T11:07:39+00:00"
  }
 }
