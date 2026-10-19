@@ -4182,10 +4182,11 @@
   "c385348d4b73cd20": 1792382145.7154958,
   "59cbdab8c1798c67": 1792382145.7154975,
   "9977631e92b316f9": 1792382145.7154999,
-  "6f7e4502655f3e13": 1792382145.7155018
+  "6f7e4502655f3e13": 1792382145.7155018,
+  "e580979dc2a2c64f": 1792384161.1034136,
+  "c656f66f7bff28de": 1792384161.1034427
  },
  "recent": [
-  "Iran is running out of money and can't even pay its troops as U.S. blockade chokes the economy",
   "Iran's IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz",
   "Lam Research (NASDAQ:LRCX) Stock Falls for 10 Straight Days Ahead of Earnings",
   "Oil Price Near $110 as Iran Demands US Withdrawal but Keeps Hormuz Proposal Open",
@@ -4224,25 +4225,27 @@
   "BP Shares Rally 3.1% as Hormuz Supply Fears Lift Crude — and a $8 Billion Debt Cut Reshapes the Ba",
   "Meta, Tesla Q3 earnings will be fighting rising AI skepticism",
   "Apple’s $1,999 iPhone bet just got its first answer",
-  "TSLA Stock Rises Overnight: Musk Bets Tesla’s Value On Optimus, Cybercab — Analyst Sees Flying ‘Halo Car’ Luring Buyers"
+  "TSLA Stock Rises Overnight: Musk Bets Tesla’s Value On Optimus, Cybercab — Analyst Sees Flying ‘Halo Car’ Luring Buyers",
+  "US issues security alert for Americans in West Asia: Warns of flight disruptions due to Iran backed attacks"
  ],
  "initialized": true,
  "last_alert": 1792377868.7257984,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 103,
-  "new": 72,
+  "fetched": 108,
+  "new": 77,
   "rated": {
-   "low": 21,
-   "medium": 3,
-   "high": 1
+   "low": 1,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 3,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4336)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4765)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 99 (char 3851)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4297)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3757)"
   ],
-  "time": "2026-10-19T03:56:17+00:00"
+  "time": "2026-10-19T04:29:21+00:00"
  }
 }
