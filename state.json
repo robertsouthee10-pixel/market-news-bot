@@ -4157,12 +4157,34 @@
   "8835fc4110320936": 1792379726.596574,
   "5337546795be46b0": 1792379726.5965793,
   "15842410983d2014": 1792379726.5965831,
-  "d173a9733127fcf8": 1792379726.5965865
+  "d173a9733127fcf8": 1792379726.5965865,
+  "ef4a53f3962562c6": 1792382142.0624897,
+  "457c6a02ecb70468": 1792382142.0624988,
+  "1ae726b566eb369c": 1792382142.0625043,
+  "e7822014080e9065": 1792382142.0625067,
+  "9aad635ba384bf61": 1792382142.0625083,
+  "54e962def2e734d3": 1792382143.2809649,
+  "d28dfecbfc442c3e": 1792382143.2809882,
+  "3e4b1f3eb8163f2b": 1792382144.5125873,
+  "bde9d646d977829e": 1792382144.5126088,
+  "781914edbe75227b": 1792382144.5126157,
+  "4bab725e3df4c84e": 1792382144.5126183,
+  "30415082e9bd0a33": 1792382145.7154431,
+  "1639160db77252d4": 1792382145.7154677,
+  "34ff9a5e4ac499ed": 1792382145.715475,
+  "d8ef2c745a543adf": 1792382145.715478,
+  "6dce11c3ac7e3424": 1792382145.7154813,
+  "b5cffe371990bc60": 1792382145.7154837,
+  "e3f1a41aa0a36349": 1792382145.7154863,
+  "10a2bfed181e5d1c": 1792382145.715489,
+  "c1d5af56a544634b": 1792382145.7154918,
+  "582b2b2e3835cfc0": 1792382145.7154937,
+  "c385348d4b73cd20": 1792382145.7154958,
+  "59cbdab8c1798c67": 1792382145.7154975,
+  "9977631e92b316f9": 1792382145.7154999,
+  "6f7e4502655f3e13": 1792382145.7155018
  },
  "recent": [
-  "S&P 500 Drops to 7,718.94 as Hot September CPI and Chip Selloff Hit Wall Street",
-  "Bessent: Gas Prices Depend on Iran War",
-  "Netflix (NASDAQ:NFLX) Stock Faces 9% Earnings Swing After 25% Selloff",
   "Iran is running out of money and can't even pay its troops as U.S. blockade chokes the economy",
   "Iran's IRGC navy says oil tanker hits mine, catches fire in Strait of Hormuz",
   "Lam Research (NASDAQ:LRCX) Stock Falls for 10 Straight Days Ahead of Earnings",
@@ -4199,25 +4221,28 @@
   "China's economic growth quickens to 4.6% as exports surge, stimulus rolls out",
   "South Korea's Samsung Electronics, SK Hynix Plunge, but Brokerages Say \"Now Is the Time to Add Semiconductor Exposure\"",
   "Weekly Market Wrap: AI debt fears hit the Nasdaq as Brent pushes back above $100",
-  "BP Shares Rally 3.1% as Hormuz Supply Fears Lift Crude — and a $8 Billion Debt Cut Reshapes the Ba"
+  "BP Shares Rally 3.1% as Hormuz Supply Fears Lift Crude — and a $8 Billion Debt Cut Reshapes the Ba",
+  "Meta, Tesla Q3 earnings will be fighting rising AI skepticism",
+  "Apple’s $1,999 iPhone bet just got its first answer",
+  "TSLA Stock Rises Overnight: Musk Bets Tesla’s Value On Optimus, Cybercab — Analyst Sees Flying ‘Halo Car’ Luring Buyers"
  ],
  "initialized": true,
  "last_alert": 1792377868.7257984,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 96,
-  "new": 66,
+  "fetched": 103,
+  "new": 72,
   "rated": {
-   "low": 12,
-   "medium": 4,
-   "high": 0
+   "low": 21,
+   "medium": 3,
+   "high": 1
   },
-  "posted": 2,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2001)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 56 (char 1636)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4336)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4765)"
   ],
-  "time": "2026-10-19T03:15:26+00:00"
+  "time": "2026-10-19T03:56:17+00:00"
  }
 }
