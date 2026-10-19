@@ -4660,11 +4660,24 @@
   "3d9a4955fa0d5bed": 1792410063.913024,
   "6ae953c73620e832": 1792410063.9130287,
   "c4c0253ec234927f": 1792410065.0746794,
-  "8f98d0ea19cc44a7": 1792410065.0747142
+  "8f98d0ea19cc44a7": 1792410065.0747142,
+  "2628d72676b67920": 1792412138.471557,
+  "bbc8f901991c8c53": 1792412138.4715643,
+  "107e52e438e0156d": 1792412138.4715672,
+  "7a4b50ad24e2df58": 1792412138.4715698,
+  "80b2f86d9fcf7c71": 1792412138.4715714,
+  "e37d8d53c4441929": 1792412138.4715743,
+  "abd04fbe945e7457": 1792412138.4715757,
+  "12e992b7df5dc1cd": 1792412138.471578,
+  "2be2cefecf1001bb": 1792412138.4715796,
+  "944c9f60dad08487": 1792412138.4715817,
+  "2eb2f0564dab8594": 1792412138.471583,
+  "2dc78d945b096a01": 1792412139.7086828,
+  "b45a68e3907d74f9": 1792412139.7087061,
+  "dc89be9ddfc6cfd5": 1792412141.075379,
+  "80fa6fa211e2ee27": 1792412141.075401
  },
  "recent": [
-  "US issues West Asia security alert amid Houthi attacks",
-  "Asian stocks fall as AI worries weigh on markets",
   "Hormuz and Black Sea Attacks Threaten Global Shipping",
   "Five things to watch in markets in the week ahead",
   "Warsh Says Little: Market Hears Hold",
@@ -4702,25 +4715,28 @@
   "Stock market today: Dow, S&P 500, Nasdaq futures mixed as the AI trade rebounds",
   "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
   "Nasdaq Composite heads into Monday after 573-point CoreWeave selloff",
-  "Bitcoin holds $80,000 support as U.S. Treasury yields ease and Fed rate hike odds drop."
+  "Bitcoin holds $80,000 support as U.S. Treasury yields ease and Fed rate hike odds drop.",
+  "Iraq says oil exports recover to near pre-war levels",
+  "Iran: US lacks capacity to restart conflict"
  ],
  "initialized": true,
  "last_alert": 1792401388.4728909,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 183,
-  "new": 135,
+  "fetched": 182,
+  "new": 90,
   "rated": {
-   "low": 58,
-   "medium": 25,
-   "high": 2
+   "low": 11,
+   "medium": 4,
+   "high": 0
   },
-  "posted": 26,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4086)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3935)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 101 (char 3640)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 56 (char 2099)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4170)"
   ],
-  "time": "2026-10-19T11:41:05+00:00"
+  "time": "2026-10-19T12:15:41+00:00"
  }
 }
