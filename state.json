@@ -4141,11 +4141,25 @@
   "66e00f9308a1bde0": 1792377894.4033194,
   "7d0492a7a65f5714": 1792377894.4033263,
   "380a00fefef58a99": 1792377894.403328,
-  "43900e1367c6a2cb": 1792377894.4033308
+  "43900e1367c6a2cb": 1792377894.4033308,
+  "4948cd5bad53713a": 1792379723.997657,
+  "6e42d6387139d421": 1792379723.9976656,
+  "a50b44fee313bbc1": 1792379723.9976704,
+  "a7d002e426da2962": 1792379723.997674,
+  "e8ca7b4096f35811": 1792379723.9976766,
+  "999db8d6acf4f337": 1792379723.9976802,
+  "faf920b0587c2c4c": 1792379725.3759084,
+  "162af77b92da8411": 1792379725.3759282,
+  "625dae98f4125e9d": 1792379725.3759325,
+  "2e417e14ff099dbf": 1792379725.3759365,
+  "da30869e299d83a1": 1792379725.3759391,
+  "c57955d4dd482f8e": 1792379726.5965524,
+  "8835fc4110320936": 1792379726.596574,
+  "5337546795be46b0": 1792379726.5965793,
+  "15842410983d2014": 1792379726.5965831,
+  "d173a9733127fcf8": 1792379726.5965865
  },
  "recent": [
-  "CENTCOM: 97% of ships crossed Strait of Hormuz safely since Iranian blockade began",
-  "Bessent: ‘We Will Own the Economy,’ but 3.7% Inflation Is an Energy Shock",
   "S&P 500 Drops to 7,718.94 as Hot September CPI and Chip Selloff Hit Wall Street",
   "Bessent: Gas Prices Depend on Iran War",
   "Netflix (NASDAQ:NFLX) Stock Faces 9% Earnings Swing After 25% Selloff",
@@ -4183,25 +4197,27 @@
   "Trump, Netanyahu threaten renewed Iran strikes, Tehran warns of response",
   "Philadelphia Semiconductor Index Plunges 3.83%, Triggering Catch-Up Selloff; Taiwan Stocks Open Down More Than 860 Points, Testing 46,200",
   "China's economic growth quickens to 4.6% as exports surge, stimulus rolls out",
-  "South Korea's Samsung Electronics, SK Hynix Plunge, but Brokerages Say \"Now Is the Time to Add Semiconductor Exposure\""
+  "South Korea's Samsung Electronics, SK Hynix Plunge, but Brokerages Say \"Now Is the Time to Add Semiconductor Exposure\"",
+  "Weekly Market Wrap: AI debt fears hit the Nasdaq as Brent pushes back above $100",
+  "BP Shares Rally 3.1% as Hormuz Supply Fears Lift Crude — and a $8 Billion Debt Cut Reshapes the Ba"
  ],
  "initialized": true,
  "last_alert": 1792377868.7257984,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 89,
-  "new": 58,
+  "fetched": 96,
+  "new": 66,
   "rated": {
-   "low": 6,
-   "medium": 2,
+   "low": 12,
+   "medium": 4,
    "high": 0
   },
-  "posted": 1,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 3948)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 101 (char 2390)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2001)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 56 (char 1636)"
   ],
-  "time": "2026-10-19T02:44:54+00:00"
+  "time": "2026-10-19T03:15:26+00:00"
  }
 }
