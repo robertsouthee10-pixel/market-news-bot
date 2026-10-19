@@ -4461,11 +4461,22 @@
   "40fdb18693ff48cc": 1792401453.9110377,
   "0992234fd425ee80": 1792401453.9110606,
   "662cb6ff0beba23a": 1792401453.9110641,
-  "8a9c75c4ae3b549c": 1792401453.9110663
+  "8a9c75c4ae3b549c": 1792401453.9110663,
+  "fecfe25767678b2d": 1792403890.798642,
+  "3dcf0a3cd6ac9501": 1792403890.7986727,
+  "15161b43ebb7f5ff": 1792403890.7986765,
+  "6596e8c583719699": 1792403890.7986798,
+  "71d6aa335e11785c": 1792403890.7986834,
+  "3d82adfe30c82faf": 1792403890.798686,
+  "b7188f86d00b804a": 1792403890.7986915,
+  "45b0b11bbe6f8bda": 1792403890.7986941,
+  "5da49df8d4be636e": 1792403892.0589294,
+  "93ee5043418c4c48": 1792403892.0589519,
+  "5f99ee45d49700c9": 1792403892.0589552,
+  "486300cdf8c972ea": 1792403892.058958,
+  "338d54d9d6ebde1f": 1792403892.0589604
  },
  "recent": [
-  "Rubio says Iran’s economy is being crippled as it loses control of Strait of Hormuz",
-  "Uncertainty mounts over a potential Fed rate hike in October: Markets bet on a pause, but economists warn that the policy outlook remains far from clear.",
   "Iran says offer to reopen Hormuz within seven days remains on table",
   "Iran's Guards Say Oil Tanker on Fire after Hitting Mine in Hormuz",
   "VanEck Semiconductor ETF plunges 10% as funds s...",
@@ -4503,25 +4514,29 @@
   "IMO records 113 incidents in Strait of Hormuz area — Cyprus Mail",
   "US Stock Market Today: S&P 500 Futures Drop As Trade Inflation Fears Return",
   "Tehran seeks to punish Trump in midterms with oil price pain, Iranian officials say",
-  "Gold Price Today Australia (19 October 2026): XAU/USD Eyes $4,200 as Fed Rate Hike Bets Ease"
+  "Gold Price Today Australia (19 October 2026): XAU/USD Eyes $4,200 as Fed Rate Hike Bets Ease",
+  "Iran rejects Saudi accusation of fuelling Houthi escalation as attacks target kingdom, Yemen",
+  "Stock Market Today, Oct. 19 – Futures Rise as Oil Prices Fall, Earnings in Focus"
  ],
  "initialized": true,
  "last_alert": 1792401388.4728909,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 154,
-  "new": 105,
+  "fetched": 157,
+  "new": 113,
   "rated": {
-   "low": 43,
-   "medium": 12,
+   "low": 9,
+   "medium": 4,
    "high": 0
   },
-  "posted": 12,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4375)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4621)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 60 (char 4074)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 5024)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4404)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 97 (char 4737)"
   ],
-  "time": "2026-10-19T09:17:33+00:00"
+  "time": "2026-10-19T09:58:12+00:00"
  }
 }
