@@ -4133,10 +4133,17 @@
   "74706fa01cfc1366": 1792375885.7916088,
   "796a3f786e4f6ce0": 1792375887.29367,
   "116777ad95755b53": 1792375887.293694,
-  "15715c9acf1752bf": 1792375887.293699
+  "15715c9acf1752bf": 1792375887.293699,
+  "c9dde93bc7dde010": 1792377893.1844828,
+  "e86fa2823833bf51": 1792377894.4032898,
+  "025524a87c131275": 1792377894.403313,
+  "cf5e3c64529e1825": 1792377894.4033167,
+  "66e00f9308a1bde0": 1792377894.4033194,
+  "7d0492a7a65f5714": 1792377894.4033263,
+  "380a00fefef58a99": 1792377894.403328,
+  "43900e1367c6a2cb": 1792377894.4033308
  },
  "recent": [
-  "High oil prices fuel renewed inflation fears",
   "CENTCOM: 97% of ships crossed Strait of Hormuz safely since Iranian blockade began",
   "Bessent: ‘We Will Own the Economy,’ but 3.7% Inflation Is an Energy Shock",
   "S&P 500 Drops to 7,718.94 as Hot September CPI and Chip Selloff Hit Wall Street",
@@ -4175,25 +4182,26 @@
   "BoC raises inflation outlook as oil prices surges",
   "Trump, Netanyahu threaten renewed Iran strikes, Tehran warns of response",
   "Philadelphia Semiconductor Index Plunges 3.83%, Triggering Catch-Up Selloff; Taiwan Stocks Open Down More Than 860 Points, Testing 46,200",
-  "China's economic growth quickens to 4.6% as exports surge, stimulus rolls out"
+  "China's economic growth quickens to 4.6% as exports surge, stimulus rolls out",
+  "South Korea's Samsung Electronics, SK Hynix Plunge, but Brokerages Say \"Now Is the Time to Add Semiconductor Exposure\""
  ],
  "initialized": true,
- "last_alert": 1792366141.6456072,
+ "last_alert": 1792377868.7257984,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 87,
-  "new": 60,
+  "fetched": 89,
+  "new": 58,
   "rated": {
-   "low": 8,
-   "medium": 1,
-   "high": 1
+   "low": 6,
+   "medium": 2,
+   "high": 0
   },
-  "posted": 2,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 60 (char 3613)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 98 (char 4681)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 3948)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 101 (char 2390)"
   ],
-  "time": "2026-10-19T02:11:27+00:00"
+  "time": "2026-10-19T02:44:54+00:00"
  }
 }
