@@ -4121,10 +4121,11 @@
   "e1a046b1571bafe6": 1792368932.9469442,
   "38fc593d0dd5dc2f": 1792368932.946949,
   "b0fb96913b28bb80": 1792368934.1338596,
-  "9eb37d21bf2731aa": 1792368935.4311233
+  "9eb37d21bf2731aa": 1792368935.4311233,
+  "5616df282e67acf5": 1792373945.9844124,
+  "572644158c490fd4": 1792373945.984436
  },
  "recent": [
-  "Meta's $18 billion teen-safety deal is about to hit earnings",
   "Oil Futures Likely to React to Ukraine’s Attack on Russian Oil, Lifting of Diesel Sanctions",
   "U.S. Aircraft Attempts Iran Strike? Air Force Tanker Declares Emergency, Diverts To Israel | Report",
   "High oil prices fuel renewed inflation fears",
@@ -4163,25 +4164,26 @@
   "Oil Slips From Five-Month High as Middle East Supply Holds Near Prewar Levels",
   "KOSPI sinks as AI credit strains hit, semiconductor concentration magnifies fall - CHOSUNBIZ",
   "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
-  "BoC raises inflation outlook as oil prices surges"
+  "BoC raises inflation outlook as oil prices surges",
+  "Trump, Netanyahu threaten renewed Iran strikes, Tehran warns of response"
  ],
  "initialized": true,
  "last_alert": 1792366141.6456072,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 76,
-  "new": 45,
+  "fetched": 80,
+  "new": 52,
   "rated": {
    "low": 0,
-   "medium": 0,
-   "high": 0
+   "medium": 1,
+   "high": 1
   },
-  "posted": 0,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2715)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 140 (char 4086)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 9 column 59 (char 1471)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 100 (char 4243)"
   ],
-  "time": "2026-10-19T01:04:03+00:00"
+  "time": "2026-10-19T01:39:05+00:00"
  }
 }
