@@ -1,8 +1,5 @@
 {
  "seen": {
-  "0dcc6784b4748f82": 1792237876.534544,
-  "64121e66ba9057f3": 1792237877.6957958,
-  "dc4818ae4e0bb2e9": 1792237877.6958199,
   "4d7f72c489ae61a8": 1792239017.687613,
   "75a5226e635e8238": 1792239017.6876192,
   "812fb865dc91cfe2": 1792239017.6876254,
@@ -4773,12 +4770,27 @@
   "9f305d5b7767a611": 1792496150.1011398,
   "52f18bf4aaed0186": 1792496150.101143,
   "d1ac43288edbd271": 1792496150.1011465,
-  "80ca7708e7b719f4": 1792496150.1011488
+  "80ca7708e7b719f4": 1792496150.1011488,
+  "353ca217cca5ba24": 1792498112.0660563,
+  "f2bea941cd9e5cf7": 1792498112.0660887,
+  "a16f56caabce1e8f": 1792498112.0660942,
+  "76a8ce7f2e9a9b4f": 1792498112.066099,
+  "ebd2593a84f8f615": 1792498112.066103,
+  "c8c253109be32ce5": 1792498112.066106,
+  "0cc040a2e0745c68": 1792498113.362268,
+  "a85c81623c5a68a4": 1792498113.36229,
+  "0a053bea5bb927de": 1792498113.3622947,
+  "7e623e10922340c2": 1792498113.3622994,
+  "2862522c3a34fad3": 1792498113.3623028,
+  "67409fd4ec5f3c64": 1792498113.362306,
+  "15fd26ca711740c5": 1792498113.3623104,
+  "9db1d944c4d5a67a": 1792498113.3623133,
+  "14057c119fe7461d": 1792498113.3623161,
+  "458745de1e8e7dbb": 1792498114.6062799,
+  "97417f9c47192788": 1792498114.6062984,
+  "fc61aab0b7f639b2": 1792498114.6063068
  },
  "recent": [
-  "Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",
-  "US strikes Konarak base with Hellfire missiles as Iran vows end to nuclear taboo",
-  "Iran keeps Strait of Hormuz reopening proposal on the table",
   "Saudi-Led Coalition Says It Intercepts Iran-Backed Houthi Ballistic Missile Targeting Riyadh",
   "Iran warns any US attack will be met with retaliation, dismisses claims of no-response deal",
   "Pakistan army chief to visit Iran for US mediation talks",
@@ -4815,28 +4827,32 @@
   "S&P, Nasdaq futures slip amid renewed pressure on tech stocks",
   "Iran prolongs talks in stalemate to influence US midterms, officials say",
   "U.S. oil surges to top $107, Brent crude at five-month high amid Mideast tensions",
-  "Field Marshal Asim Munir Arrives in Tehran for US-Iran Talks"
+  "Field Marshal Asim Munir Arrives in Tehran for US-Iran Talks",
+  "US issues security alerts across 12 Middle East nations",
+  "Netanyahu says overthrowing Iran’s government is key to ‘Israel’s’ security",
+  "Hegseth Secretly Meets Netanyahu as US and Israel Weigh Renewed Iran War"
  ],
  "initialized": true,
- "last_alert": 1792486381.049726,
+ "last_alert": 1792498017.8794622,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 197,
-  "new": 133,
+  "fetched": 213,
+  "new": 168,
   "rated": {
-   "low": 7,
-   "medium": 1,
-   "high": 0
+   "low": 13,
+   "medium": 4,
+   "high": 1
   },
-  "posted": 0,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 100 (char 4618)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3520)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 97 (char 4274)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3300)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 144 (char 3524)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4433)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 99 (char 4342)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4349)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 100 (char 4473)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 62 (char 4520)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3964)"
   ],
-  "time": "2026-10-20T11:35:50+00:00"
+  "time": "2026-10-20T12:08:34+00:00"
  }
 }
