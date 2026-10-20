@@ -4712,13 +4712,27 @@
   "61f0d0ed6cd2de84": 1792464982.5836868,
   "3feece6ae1d65f05": 1792464982.5836895,
   "4d4f931acca0430a": 1792464982.5836926,
-  "3f8adc6c1f4c9f55": 1792464982.583695
+  "3f8adc6c1f4c9f55": 1792464982.583695,
+  "a18a9e44265964cf": 1792466715.7499368,
+  "46ded06baf791c1e": 1792466715.7499416,
+  "6262dda6ac074dae": 1792466715.7499447,
+  "dbe97bacbcdf3422": 1792466715.7499504,
+  "ae84cc81dd4847f6": 1792466715.7499528,
+  "6619e87f10ddcade": 1792466715.749954,
+  "96b2566df62c3bc7": 1792466717.0133784,
+  "6709e4a02147d1a1": 1792466717.0134022,
+  "8a3854a526ae4abe": 1792466717.013405,
+  "672d752c71af538a": 1792466718.2315722,
+  "ee12f0c3b78a30b2": 1792466719.4830434,
+  "25002eaeee421b07": 1792466719.4830651,
+  "a5bf4869723d7379": 1792466719.4830682,
+  "c970cc7ec8192e83": 1792466719.4830706,
+  "b831a3f9c35e4c35": 1792466719.4830742,
+  "9f361c4b7b677101": 1792466720.9721057,
+  "175a7eeb9ac08782": 1792466720.9721303,
+  "65ab42ffac0433a0": 1792466720.972134
  },
  "recent": [
-  "Utilities Slide as Treasury Yields Rebound - Utilities Roundup",
-  "Tesla Rises on a Foundry Agreement With Intel as JPMorgan Upgrades the Stock",
-  "Sandisk, Datadog, Amazon Lead S&P 500 As AI Stocks Rebound",
-  "This Nvidia-Backed Cloud Computing Firm Is Reportedly In Talks To Sign A $45B Compute Deal With Anthropic",
   "AI Stocks Rebound. Chip Sector Snaps Historic Losing Streak.",
   "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
   "Oil Prices Top $100 Again... This Time, the \"Oil Route\" Is Key [Click e-Market]",
@@ -4754,24 +4768,28 @@
   "Amazon Expands 3M Data Center Partnership - Amazon.com (NASDAQ:AMZN)",
   "Trump signals possible US hostage breakthrough, says Russia and China did ‘very little’ for Iran",
   "[MARKET ANALYSIS] T-notes steady after Monday's selloff; JGB futures track UST weakness",
-  "U.S. Sanctions Target Iran’s Leaders and Revolutionary Guards Officers"
+  "U.S. Sanctions Target Iran’s Leaders and Revolutionary Guards Officers",
+  "Amazon launches new software tool to compete with Nvidia in the AI ​​market.",
+  "Is Washington Preparing To Strike Iran Again? Hegseth's Israel Visit Puts Tehran In Focus",
+  "U.S. Treasury yields will not peak unless oil prices decline.",
+  "Lam Research (LRCX) Q3 Earnings: What To Expect"
  ],
  "initialized": true,
  "last_alert": 1792462826.0701694,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 124,
-  "new": 59,
+  "fetched": 115,
+  "new": 43,
   "rated": {
-   "low": 30,
-   "medium": 4,
+   "low": 13,
+   "medium": 5,
    "high": 0
   },
-  "posted": 2,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 97 (char 4869)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3981)"
   ],
-  "time": "2026-10-20T02:56:22+00:00"
+  "time": "2026-10-20T03:25:20+00:00"
  }
 }
