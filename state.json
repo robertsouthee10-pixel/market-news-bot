@@ -1,13 +1,5 @@
 {
  "seen": {
-  "32aba7752c1101f5": 1792236286.8372908,
-  "2ae795081b056af4": 1792236286.837298,
-  "f824ec62add69175": 1792236288.038372,
-  "c10a7d2fcbc3af07": 1792236288.0383916,
-  "bfd0bdb190bc7851": 1792236288.0383976,
-  "16bcbf217b42fcbf": 1792236288.0384018,
-  "9b1e7edabf14826b": 1792236288.038406,
-  "aa22b1abed39e3be": 1792236289.3589566,
   "0dcc6784b4748f82": 1792237876.534544,
   "64121e66ba9057f3": 1792237877.6957958,
   "dc4818ae4e0bb2e9": 1792237877.6958199,
@@ -4773,7 +4765,15 @@
   "3226b1389fda1b70": 1792494203.5078413,
   "bb82d3d2e3057be8": 1792494203.5078607,
   "65ff8a93e0773c19": 1792494203.5078657,
-  "9bdca2de4d45d225": 1792494203.5078685
+  "9bdca2de4d45d225": 1792494203.5078685,
+  "f1385d3c34ac966f": 1792496150.101116,
+  "e6040f783b13440b": 1792496150.101126,
+  "6bd34ffca315b5f7": 1792496150.1011305,
+  "df82bb234aca9c8b": 1792496150.1011343,
+  "9f305d5b7767a611": 1792496150.1011398,
+  "52f18bf4aaed0186": 1792496150.101143,
+  "d1ac43288edbd271": 1792496150.1011465,
+  "80ca7708e7b719f4": 1792496150.1011488
  },
  "recent": [
   "Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",
@@ -4822,18 +4822,21 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 184,
-  "new": 121,
+  "fetched": 197,
+  "new": 133,
   "rated": {
-   "low": 44,
-   "medium": 19,
-   "high": 8
+   "low": 7,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 14,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4750)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4053)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 100 (char 4618)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3520)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 97 (char 4274)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3300)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 144 (char 3524)"
   ],
-  "time": "2026-10-20T11:03:23+00:00"
+  "time": "2026-10-20T11:35:50+00:00"
  }
 }
