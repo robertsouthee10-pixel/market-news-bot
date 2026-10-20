@@ -1,25 +1,5 @@
 {
  "seen": {
-  "747fd4b5b5991ab6": 1792203240.2974303,
-  "815dc9ec5de55d70": 1792203240.2974372,
-  "99489565b7550b9e": 1792203240.2974405,
-  "1f57d97a9c918c31": 1792203240.297443,
-  "0f32d5c715ffdb0f": 1792203241.7089407,
-  "10382b43a28bbc20": 1792203241.7089639,
-  "f048439968059ab0": 1792203243.1440785,
-  "f3c284dbaa8f484b": 1792203243.1441007,
-  "3172350c3befef02": 1792203244.401009,
-  "d0edcf8f7954cee8": 1792203245.609333,
-  "dd931e68a58ed1b7": 1792203245.609352,
-  "d8cb7feaa8203d48": 1792203246.8681645,
-  "5796c5cddf8c5b96": 1792203246.8681834,
-  "df1f5f684cb54266": 1792203246.868187,
-  "aa92b1d80899046f": 1792203246.8681903,
-  "d6e4ca9cecb24580": 1792203246.8681927,
-  "c5f6924ffb150f22": 1792203248.2104754,
-  "1bab5b1613b05ee5": 1792203248.210495,
-  "535b33aaab2db51d": 1792203248.2105,
-  "9cc7131270d84cf4": 1792203248.2105033,
   "0845cc027ce68c5e": 1792205313.3650289,
   "714d96f115cd349d": 1792205313.3650544,
   "456c8f2e5143832e": 1792205314.624467,
@@ -4713,10 +4693,12 @@
   "f6dcded054ed5bc0": 1792461273.8317008,
   "0fe9b32823534e60": 1792461273.831703,
   "433908dbfc17e53d": 1792461273.8317058,
-  "91f01d9320aedae3": 1792461273.8317175
+  "91f01d9320aedae3": 1792461273.8317175,
+  "7e32a942ac7a2a88": 1792462848.1308565,
+  "32621a88355381e4": 1792462849.401117,
+  "27cdbd6b8e1547ef": 1792462849.4011424
  },
  "recent": [
-  "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Dollar Rebounds",
   "US official denies Iran's claim that American forces targeted Konarak naval base: 'Inaccurate, as usual' | Hindustan Times",
   "Iran adds 122 ships to Strait of Hormuz blacklist",
   "Utilities Slide as Treasury Yields Rebound - Utilities Roundup",
@@ -4755,24 +4737,26 @@
   "Oil eases as markets assess Russian energy waiver, Middle East supply risks",
   "Today’s Market Recap: U.S. Stocks Rebound as Nasdaq Gains 1.11%, Memory Chip Stocks Rally, SanDisk Jumps 5.5%",
   "Trump on Iran: \"We're knocking the shit out of them ... we could leave right now\"",
-  "Amazon Expands 3M Data Center Partnership - Amazon.com (NASDAQ:AMZN)"
+  "Amazon Expands 3M Data Center Partnership - Amazon.com (NASDAQ:AMZN)",
+  "Trump signals possible US hostage breakthrough, says Russia and China did ‘very little’ for Iran"
  ],
  "initialized": true,
- "last_alert": 1792450787.9245899,
+ "last_alert": 1792462826.0701694,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 139,
-  "new": 62,
+  "fetched": 136,
+  "new": 53,
   "rated": {
-   "low": 31,
-   "medium": 6,
+   "low": 2,
+   "medium": 1,
    "high": 0
   },
-  "posted": 4,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 100 (char 4610)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 4 column 58 (char 471)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 4 column 58 (char 483)"
   ],
-  "time": "2026-10-20T01:54:33+00:00"
+  "time": "2026-10-20T02:20:49+00:00"
  }
 }
