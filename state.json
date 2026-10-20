@@ -1,26 +1,5 @@
 {
  "seen": {
-  "72e7bf0f72365c13": 1792278047.9636686,
-  "dc28fb419821e05e": 1792278047.9636788,
-  "e76efcdddb79bc1f": 1792278047.9636827,
-  "afa3cfab9bc3fdaa": 1792278047.9636862,
-  "e470358614c290a5": 1792278047.9636881,
-  "c70b272a8f196746": 1792278047.96369,
-  "48f8025e8f1a6970": 1792278047.9636922,
-  "0869bf483b80d1bb": 1792278047.963694,
-  "fda7d8de7aff111e": 1792278047.9636958,
-  "cf929b238fab97c1": 1792278047.9637,
-  "17b369cacce583f7": 1792278047.963702,
-  "ebb1543d53646908": 1792278047.963704,
-  "cce9fc153ec6b3bb": 1792278049.1443028,
-  "d2de52c7e760fc47": 1792278049.1443233,
-  "2e476fafd08f53bc": 1792278049.1443286,
-  "444da819c28a51bd": 1792278049.1443326,
-  "223dc4ce3f066929": 1792278049.1443353,
-  "6bd277566a6c3429": 1792278050.3635404,
-  "a2511f2738513af3": 1792278050.3635626,
-  "b85447c520fc1c87": 1792278050.3635676,
-  "991818e1b3ca89c7": 1792278050.3635707,
   "73f05a3f3b767148": 1792279459.5291967,
   "693767906f898462": 1792279459.5292027,
   "a54d7360afc1315e": 1792279460.7448118,
@@ -5022,7 +5001,9 @@
   "7d62b85e18e90749": 1792536122.4475389,
   "550dcaf060d6745d": 1792536122.447544,
   "e7d28fd1965acf01": 1792536122.4475474,
-  "6b3b9179abda4e48": 1792536123.7608287
+  "6b3b9179abda4e48": 1792536123.7608287,
+  "9ec014fae6e808fe": 1792537779.440489,
+  "fe50ed9ea479ff15": 1792537779.4405036
  },
  "recent": [
   "Stock Market Today: Dow Pops, Oil Falls On U.S.-Iran Hopes; Hasbro Rockets, Toys With An Entry (Live Coverage)",
@@ -5071,18 +5052,19 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 187,
-  "new": 71,
+  "fetched": 163,
+  "new": 77,
   "rated": {
-   "low": 14,
-   "medium": 7,
+   "low": 1,
+   "medium": 1,
    "high": 0
   },
-  "posted": 4,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2939)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3373)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 59 (char 2436)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4923)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 101 (char 3622)"
   ],
-  "time": "2026-10-20T22:42:03+00:00"
+  "time": "2026-10-20T23:09:39+00:00"
  }
 }
