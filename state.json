@@ -1,26 +1,5 @@
 {
  "seen": {
-  "9e604efeb75f45c7": 1792195207.1086404,
-  "c88171e6eb5fc027": 1792195207.108666,
-  "35329368518e3c08": 1792195207.1086762,
-  "0e25591d54f02b02": 1792195207.1086795,
-  "a98b74be0ffd4df2": 1792195207.1086833,
-  "c63290ef0d5d895e": 1792195208.4270582,
-  "8a609363c9f659cb": 1792195208.4270787,
-  "3263470755f943cf": 1792195209.6762166,
-  "60f915abe24e08b0": 1792195209.6762357,
-  "d53e2c1ae88be350": 1792195209.6762402,
-  "e132d484618cda9c": 1792195210.9655836,
-  "0fef696e6b44305d": 1792195210.965604,
-  "c97d9467a36bcb98": 1792195210.9656084,
-  "0d1b64d7000affce": 1792195210.9656115,
-  "baabb7cddbb0fdfd": 1792195210.965617,
-  "b36c256c9b40261f": 1792195210.9656196,
-  "664835bdbd496215": 1792195210.9656217,
-  "a534700546cd66fc": 1792195212.26589,
-  "812e375ee538e7ee": 1792195212.2659092,
-  "d303518bdcb848c1": 1792195212.2659132,
-  "e7e8840152182eda": 1792195212.2659159,
   "f302fe0cfcbd9968": 1792199783.616862,
   "9e340cb047f225c5": 1792199783.6168692,
   "548f2baad9af7111": 1792199784.8246891,
@@ -4714,11 +4693,32 @@
   "9cf2e4e701bc92ad": 1792454341.0812843,
   "ae1495c9936066c7": 1792454342.3307981,
   "be05a61912379535": 1792454342.330821,
-  "c3e9775c981e49e7": 1792454342.3308258
+  "c3e9775c981e49e7": 1792454342.3308258,
+  "50e52ccb1140b4a7": 1792456819.2796457,
+  "6c68afefecb3a354": 1792456819.2796717,
+  "a2b6bdf8ec1d4f0b": 1792456819.2796829,
+  "df178e586f7c6d5d": 1792456819.279686,
+  "f06f3b54c6dbe961": 1792456819.2796886,
+  "ba8065633e96f837": 1792456819.2796962,
+  "3707ee36032d9975": 1792456820.694011,
+  "41fc58fecfdd8b19": 1792456820.694035,
+  "70646825fd40a591": 1792456820.6940377,
+  "f5e071d1cb06ed9b": 1792456820.6940408,
+  "eec7e3b5dc626de0": 1792456820.6940434,
+  "bf064e9aef3f93a3": 1792456820.6940465,
+  "fe9f2c14c1d2e9e6": 1792456820.6940491,
+  "416202deafdc676a": 1792456820.6940513,
+  "32dfe66b2c508429": 1792456820.6940553,
+  "9e577d80aef30cc0": 1792456820.6940582,
+  "e819148bd8a79335": 1792456820.6940608,
+  "0dd0eca2f8585682": 1792456820.6940656,
+  "13719e41d3a0cb5f": 1792456820.6940684,
+  "31d58fa593a604e9": 1792456820.6940713,
+  "7fb8d6639dc928ec": 1792456820.6940744,
+  "f986ddffdc4abc4c": 1792456820.6940768,
+  "d556453b886dcca1": 1792456820.6940787
  },
  "recent": [
-  "US tech stocks rise as Nasdaq gains 290 points; West Texas crude tops $103",
-  "How the Iran war is ruining Saudi Arabia’s plans",
   "United States Cautions Citizens in the Middle East Amid Rising Houthi Aggression and Iranian Threats",
   "Tech Stocks Rebound on Bargain Hunting as Treasury Yields Climb",
   "Saudi oil exports to reach their second-highest level since outbreak of Iran-US war",
@@ -4756,24 +4756,26 @@
   "Fed's Warsh sees US economic tailwinds, mum on rate-path view",
   "Stocks Lead Rebound on Wall Street as Tech: Explained",
   "Middle East security alert: U.S. warns citizens as Iran-backed Houthi violence ramps up",
-  "Houthi strike sends Brent to $109.55 while WTI hits $103.66"
+  "Houthi strike sends Brent to $109.55 while WTI hits $103.66",
+  "Gold tumbles below $4,150 amid elevated US Treasury yields | FXStreet",
+  "Inflation in September eases slightly to 1.8%"
  ],
  "initialized": true,
  "last_alert": 1792450787.9245899,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 150,
-  "new": 42,
+  "fetched": 148,
+  "new": 48,
   "rated": {
-   "low": 12,
-   "medium": 5,
+   "low": 17,
+   "medium": 6,
    "high": 0
   },
-  "posted": 5,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3125)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 142 (char 4846)"
   ],
-  "time": "2026-10-19T23:59:02+00:00"
+  "time": "2026-10-20T00:40:20+00:00"
  }
 }
