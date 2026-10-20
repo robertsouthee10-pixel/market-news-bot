@@ -1,21 +1,5 @@
 {
  "seen": {
-  "73f05a3f3b767148": 1792279459.5291967,
-  "693767906f898462": 1792279459.5292027,
-  "a54d7360afc1315e": 1792279460.7448118,
-  "7190e6a4843db3b7": 1792279460.744844,
-  "40e8fc5a7fda14fb": 1792279460.744857,
-  "3c938ea0fb25ffc0": 1792279460.7448616,
-  "f4a356a9823338f1": 1792279460.7448654,
-  "6e2dc3c98e402c0b": 1792279461.9773471,
-  "1d59e8ff99a57148": 1792279463.189155,
-  "c8891314f96aaaca": 1792279463.189176,
-  "663cd5d5a14bdb75": 1792279463.1891804,
-  "ed9c24464ab82f8c": 1792279463.1891851,
-  "bf19c4624aec03aa": 1792279464.3777735,
-  "459824ed4f8ea1cc": 1792279464.3777928,
-  "e3919e57362476d6": 1792279464.377798,
-  "800cd0644fa44289": 1792279465.5698135,
   "c28e6ec803e3991d": 1792280727.9312918,
   "8ced2528955865e8": 1792280727.931298,
   "3629e37d60ec991a": 1792280727.9313006,
@@ -5003,12 +4987,37 @@
   "e7d28fd1965acf01": 1792536122.4475474,
   "6b3b9179abda4e48": 1792536123.7608287,
   "9ec014fae6e808fe": 1792537779.440489,
-  "fe50ed9ea479ff15": 1792537779.4405036
+  "fe50ed9ea479ff15": 1792537779.4405036,
+  "f2165ca201af9da6": 1792539495.7772465,
+  "34afee88870b2015": 1792539495.777253,
+  "2b174b7acdefaf37": 1792539495.777256,
+  "8e6b811b89a8ed2c": 1792539495.777259,
+  "54905bc2fc5d9683": 1792539495.7772627,
+  "b9187dcce65705bd": 1792539495.7772672,
+  "6399f7b590af0e68": 1792539495.7772706,
+  "a87cf179edc96c9b": 1792539495.777273,
+  "4d592a2895efdc7e": 1792539495.7772748,
+  "006ffe0b4dea784d": 1792539495.777277,
+  "17a15e85fe4d1bce": 1792539497.0171344,
+  "af6cbcfe388c6a6c": 1792539497.017155,
+  "edd3c582c02aafa2": 1792539497.0171595,
+  "7908955f3fee5d08": 1792539497.0171647,
+  "3039e3fedeeb05d1": 1792539497.0171678,
+  "654a98bb12085541": 1792539498.1813223,
+  "02f444f3acd688bd": 1792539498.1813426,
+  "b0ad41ffad134bae": 1792539498.181347,
+  "c02592a44fa362e6": 1792539498.1813505,
+  "a1da8fc1514e787e": 1792539498.1813529,
+  "741ff4cc7599796f": 1792539498.1813579,
+  "9e730e1c3f59078f": 1792539498.1813614,
+  "e05d95ef3c1ff805": 1792539498.1813645,
+  "71c0d30981258ef8": 1792539498.1813667,
+  "7ef927b4cbcfef43": 1792539498.18137,
+  "f66cf94015ac689b": 1792539536.6410515,
+  "e5f2d81df57db84b": 1792539536.641072,
+  "ee0dc3e4ec7559af": 1792539536.6410754
  },
  "recent": [
-  "Stock Market Today: Dow Pops, Oil Falls On U.S.-Iran Hopes; Hasbro Rockets, Toys With An Entry (Live Coverage)",
-  "Qatar and Pakistan have offered to transfer interest on $6 billion to Iran",
-  "Netanyahu Says Israel Still Committed to Removing Iran’s Regime",
   "Tasnim: Ukraine deploys small drones in countries surrounding Iran",
   "Iran’s IRGC warns of stronger response if US resumes attacks",
   "SpaceX's Q3 revenue beats expectations: Earnings breakdown",
@@ -5045,26 +5054,29 @@
   "International Business: Oil prices hit $111 per barrel",
   "Why Is 3M (MMM) Stock Rocketing Higher Today",
   "Oil steadies as traders weigh conflicting signals on Iran talks",
-  "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally"
+  "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+  "U.S. stocks rise as oil reversal eases Treasury yield pressure",
+  "U.S. Stocks Close | A U.S.-Iran \"compromise deal\" stirs the market, with the Dow up 1%; tech stocks face mild pressure; most popular Chinese stocks listed in the U.S. advance, with Li Auto rising more than 5% and XPeng gaining over 7%; oil prices swing shar",
+  "Iran tells Pakistan army chief no talks with Washington until demands are met, World News"
  ],
  "initialized": true,
  "last_alert": 1792534198.9027297,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 163,
-  "new": 77,
+  "fetched": 172,
+  "new": 103,
   "rated": {
-   "low": 1,
-   "medium": 1,
-   "high": 0
+   "low": 23,
+   "medium": 4,
+   "high": 1
   },
-  "posted": 0,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 59 (char 2436)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4923)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 101 (char 3622)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 101 (char 4092)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 101 (char 4473)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 100 (char 4622)"
   ],
-  "time": "2026-10-20T23:09:39+00:00"
+  "time": "2026-10-20T23:38:56+00:00"
  }
 }
