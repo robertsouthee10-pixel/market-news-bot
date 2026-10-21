@@ -1,23 +1,5 @@
 {
  "seen": {
-  "428313219d8b4ce0": 1792317900.5549357,
-  "564f821099687ad3": 1792317900.5549693,
-  "7b396e17546558fd": 1792317900.5549746,
-  "c8043a2b0c3bb9ba": 1792317900.5549786,
-  "57a8a07e9673d77c": 1792317900.5549817,
-  "29a250e275e36c11": 1792317900.554985,
-  "efaeaec0c4b45874": 1792317900.5549881,
-  "8d2e6c39e7e00b90": 1792317901.8072193,
-  "57e97ae16f146dce": 1792317903.1273158,
-  "94646d8aa1884e78": 1792317903.1273386,
-  "7284d95290d7f38c": 1792317903.1273437,
-  "d7c5487b40e4d1f9": 1792317903.1273484,
-  "dde4daf614d920cb": 1792317904.351078,
-  "a66bc33cfbc8e29c": 1792317904.3510988,
-  "45ae982e5580d77a": 1792317905.8071647,
-  "cf2d84f0bf617aed": 1792317905.8071864,
-  "c4dde9f7f7b2dfb8": 1792317905.807191,
-  "21966e23e5982527": 1792317905.8071973,
   "7dcfecfab1fe11d5": 1792319569.0733278,
   "d086153a6c2de27b": 1792319569.0733335,
   "aae61f1adc897b62": 1792319569.0733361,
@@ -5008,12 +4990,37 @@
   "2ecb17a951e5ab19": 1792576535.5383842,
   "bfdbcd59d11e4f09": 1792576535.5383883,
   "f8d9035ae994a33d": 1792576535.5383916,
-  "c1068afd3d8e2765": 1792576536.8264697
+  "c1068afd3d8e2765": 1792576536.8264697,
+  "600274490255d399": 1792578339.8611326,
+  "cfaaaacccae95eb6": 1792578339.8611379,
+  "5068657c570891b6": 1792578341.0852287,
+  "3d373d231baf6f74": 1792578341.0852532,
+  "fdc8a48861f2cbd2": 1792578341.0852573,
+  "fc8c8c490862dbdf": 1792578341.085265,
+  "8fe4b335e4f9e4ad": 1792578341.085268,
+  "2f8de6e747c10405": 1792578341.0852711,
+  "495d680893410a71": 1792578341.0852735,
+  "c9b3fa1e89b040f5": 1792578341.0852761,
+  "e14e87cf9d5b643c": 1792578341.0852785,
+  "19c39cd4eb9a7afb": 1792578341.0852814,
+  "6b9c2e79f13f6b3a": 1792578341.0852835,
+  "623559ecd60fa783": 1792578341.085286,
+  "101c1c9e0ac1a2b6": 1792578342.352893,
+  "d58611775ba45eb5": 1792578343.5990078,
+  "e146e04ee787a0fd": 1792578343.5990305,
+  "bad7289c33796574": 1792578343.5990343,
+  "df42101e87e1e80a": 1792578343.5990367,
+  "403ecf009c62042c": 1792578343.5990417,
+  "709949499a53e39b": 1792578343.5990446,
+  "8b43f1615a010966": 1792578343.599047,
+  "7b4d9a6a27de6aea": 1792578343.59905,
+  "72c22468a350866d": 1792578343.599052,
+  "746f87ec2a61db6d": 1792578343.5990536,
+  "17d0f03ac4bad980": 1792578380.7002616,
+  "e8489c44e6a733fa": 1792578380.700266,
+  "3c48e9b3241972a3": 1792578380.7002707
  },
  "recent": [
-  "Dow Surges Over 500 Points As Oil Prices Fall: Investor Sentiment Improves, Greed Index Moves To ‘Fear’ Zone",
-  "Iran says Saudi Arabia, Houthis silent on offer to broker talks",
-  "Houthis Unleash Hell On Yemen; 73 Saudi-Backed Troops Killed In Three Ballistic Missile Strikes",
   "The KOSPI closed strongly on the 21st on the back of a rebound in semiconductor stocks.The KOSPI ros..",
   "Pakistan, Qatar Propose Release of $6 Billion Funds to Iran, Renewed Nuclear Inspections To End Conflict",
   "Araghchi says Strait of Hormuz will stay closed until US agrees to Iran's terms",
@@ -5050,27 +5057,31 @@
   "IRGC spokesman: Strait of Hormuz is 100% closed; US unable to reopen it even for few hours",
   "‘Just Victory, No Reconciliation’: Iran Reveals ‘WAR PLAN’ After Humiliating Trump Messenger | Watch",
   "Ship attacked near Strait of Hormuz: maritime agency",
-  "Non-Iran Middle East oil exports recover to prewar levels with Hormuz alternatives"
+  "Non-Iran Middle East oil exports recover to prewar levels with Hormuz alternatives",
+  "Persian Gulf Oil Exports Rise as Shipping Costs Surge",
+  "\"It is final, ready for total war\": Will the US withstand retaliation if it attacks Iran? - IRGC refutes crash",
+  "Trump, Putin offer to end Ukraine, Iran wars"
  ],
  "initialized": true,
  "last_alert": 1792571928.9807928,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 177,
-  "new": 110,
+  "fetched": 199,
+  "new": 153,
   "rated": {
-   "low": 6,
-   "medium": 4,
-   "high": 0
+   "low": 21,
+   "medium": 6,
+   "high": 1
   },
   "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 4059)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3971)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4183)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 100 (char 4689)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 142 (char 3809)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 98 (char 4266)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2441)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 4804)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 4265)"
   ],
-  "time": "2026-10-21T09:55:36+00:00"
+  "time": "2026-10-21T10:26:20+00:00"
  }
 }
