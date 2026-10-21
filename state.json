@@ -1,27 +1,5 @@
 {
  "seen": {
-  "2468b24031aa11eb": 1792364621.62562,
-  "ba59f3b31102215c": 1792364621.6256258,
-  "fb2b7122ebc04ce9": 1792364621.6256285,
-  "1b8f817c02778419": 1792364621.625634,
-  "a04f74dbbd7c5580": 1792364623.134602,
-  "c8a2c743a8e48a31": 1792364623.1346235,
-  "d94698b063992f06": 1792364623.1346264,
-  "b386d0b02aada353": 1792364623.1346312,
-  "74daadcae22784ca": 1792364623.134634,
-  "e17e71c5f8834571": 1792364623.1346376,
-  "465a00211e274d7c": 1792364623.1346402,
-  "23dea43c61b4d292": 1792364623.1346426,
-  "a1cadf56681b1157": 1792364623.1346476,
-  "6b3c9cdf72d4c4e1": 1792364623.1346512,
-  "f12bfd2a1c89cfaa": 1792364623.134656,
-  "965c13161e35f578": 1792364624.3478756,
-  "ab6e005a4e21a79e": 1792364624.3478975,
-  "af962393b8780b79": 1792364624.3479025,
-  "2c0235be5e6708c6": 1792364625.5784962,
-  "3d09953ed3b7a935": 1792364625.5785193,
-  "78f32331b3b828ab": 1792364625.5785236,
-  "2f5e9ded48c57b2f": 1792364625.5785294,
   "4596e478c1a2250d": 1792366145.2815015,
   "dc8bd3dd7805e924": 1792367584.4024966,
   "3824895bf3831049": 1792367584.402505,
@@ -5541,7 +5519,10 @@
   "32f5a090d97c9fa1": 1792622971.5443332,
   "724fcd86a65ea824": 1792622972.826706,
   "c5bee5c7195107e2": 1792622974.2444267,
-  "3d4d1eb085ca6122": 1792622979.0304585
+  "3d4d1eb085ca6122": 1792622979.0304585,
+  "3f63747a94c3d9ad": 1792624387.2456045,
+  "b2eb557a91649dc3": 1792624387.2456102,
+  "60e34020e6cfd4c1": 1792624387.245616
  },
  "recent": [
   "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
@@ -5590,18 +5571,19 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 167,
-  "new": 76,
+  "fetched": 160,
+  "new": 78,
   "rated": {
-   "low": 21,
-   "medium": 4,
-   "high": 1
+   "low": 3,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 4,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4449)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 140 (char 3870)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 3187)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 1 column 2818 (char 2817)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3958)"
   ],
-  "time": "2026-10-21T22:49:39+00:00"
+  "time": "2026-10-21T23:13:07+00:00"
  }
 }
