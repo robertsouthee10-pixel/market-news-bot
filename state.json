@@ -5067,15 +5067,41 @@
   "de586e8a8e42d429": 1792549948.039921,
   "5fdf2e9f1426b34f": 1792549948.0399241,
   "94a52d91d77e597c": 1792549948.039929,
-  "1c26572ace63db69": 1792549948.0399313
+  "1c26572ace63db69": 1792549948.0399313,
+  "5dea2767ae6e2f4c": 1792552021.5787184,
+  "d8b1269b73d05586": 1792552021.578723,
+  "c3c634d4dcd21346": 1792552021.5787275,
+  "fcd9df6ca743e5f6": 1792552021.5787294,
+  "cf65515ee5569545": 1792552021.5787313,
+  "2aed426096a43c42": 1792552023.2602952,
+  "9d4712e4b87f9a4b": 1792552023.2603147,
+  "0d58b09a6989cc4e": 1792552023.2603226,
+  "954c21198be3785a": 1792552024.4749362,
+  "6004a46341635435": 1792552024.4749565,
+  "b03e8e58ca3629b5": 1792552024.4749603,
+  "38e1ee8b801c7806": 1792552024.4749632,
+  "7a662fa3bf22afce": 1792552025.6755955,
+  "bf0645494d700505": 1792552025.6756172,
+  "d6dbdff9842bb5ac": 1792552026.8436568,
+  "0778296de61fdeba": 1792552026.8436782,
+  "ec0639aeeef2249c": 1792552026.8436823,
+  "7a5aa9ca595644c9": 1792552026.8436859,
+  "9800394d75d5bd17": 1792552026.8436887,
+  "a07a2687a64310d9": 1792552026.8436906,
+  "3c8fb4f6e6eeef3f": 1792552026.8436937,
+  "c42a9591463d1574": 1792552026.8436964,
+  "bce43e1892cdbc85": 1792552026.8436995,
+  "721d11879657f47e": 1792552026.8437042,
+  "d9739e3d215776b3": 1792552026.843707,
+  "052620ba26428a0b": 1792552035.5056252,
+  "5fc3a9fed319c54d": 1792552035.5056474,
+  "4e1265247f3f283e": 1792552035.505652,
+  "e5e8fa2cf31917cb": 1792552035.5056555,
+  "d3791298f4f35afa": 1792552035.5056589,
+  "a36fc3cd421439de": 1792552036.6461291,
+  "580bc5675ed93b8b": 1792552036.646149
  },
  "recent": [
-  "U.S. stocks rise as oil reversal eases Treasury yield pressure",
-  "U.S. Stocks Close | A U.S.-Iran \"compromise deal\" stirs the market, with the Dow up 1%; tech stocks face mild pressure; most popular Chinese stocks listed in the U.S. advance, with Li Auto rising more than 5% and XPeng gaining over 7%; oil prices swing shar",
-  "Iran tells Pakistan army chief no talks with Washington until demands are met, World News",
-  "Small caps pops as market rally broadens beyond Big Tech",
-  "Stock Market Today: Dow Jumps On U.S.-Iran Hopes; This Warren Buffett Stock Offers Entry (Live Coverage)",
-  "Anthropic’s cloud partnerships are getting messy",
   "Musk Says Tesla, SpaceX Have Formed Special Committees to Consider Merger",
   "After the initial wave of buying, investors will assess whether semiconductor stocks have bottomed out.",
   "Why AI Chip Stocks Nvidia, Broadcom, and Micron Climb After Hours — and What Wall Street Sees Next",
@@ -5109,25 +5135,30 @@
   "Brent Crude Nears $110/Barrel After US Secretary Rubio Calls Iran Truce Deal 'Difficult'",
   "Oil Prices Rise On Middle East Supply Concerns, Red Sea Shipping Risks",
   "S. Korea's Daily Exports Hit Record $4.74 Billion on Semiconductor Boom",
-  "Wall Street rose as oil prices and US bond yields fell."
+  "Wall Street rose as oil prices and US bond yields fell.",
+  "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute ‘Several Times Over,’ Analyst Dismisses Glut Fears",
+  "Asian stocks climb as strong earnings buoy Wall Street",
+  "Why Iran Is In No Hurry To Strike Deal With Trump Before November 3 Midterm Test",
+  "Trump Says Iran War Could End Soon",
+  "$6 Billion For Nuclear Concessions? Inside Pakistan-Qatar Plan To Avert Renewed US-Iran War",
+  "Gold Slips To US$4,117 An Oz As Iran War Clouds Fed Outlook"
  ],
  "initialized": true,
  "last_alert": 1792548059.8298578,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 138,
-  "new": 60,
+  "fetched": 127,
+  "new": 57,
   "rated": {
-   "low": 5,
-   "medium": 5,
-   "high": 0
+   "low": 22,
+   "medium": 9,
+   "high": 1
   },
-  "posted": 1,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2327)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3587)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 101 (char 2408)"
   ],
-  "time": "2026-10-21T02:32:28+00:00"
+  "time": "2026-10-21T03:07:16+00:00"
  }
 }
