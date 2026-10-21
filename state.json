@@ -1,29 +1,5 @@
 {
  "seen": {
-  "39b8017b2636e7e8": 1792298874.8233607,
-  "0df3e893498c3c75": 1792298874.8233669,
-  "857c67e8c41b2511": 1792298874.8233702,
-  "a26b0ff7ae5d5298": 1792298876.1557353,
-  "eca49f174e413e41": 1792298877.563672,
-  "3e7d07cf6f1e6558": 1792298877.563692,
-  "a251b182a574ceeb": 1792298877.5636961,
-  "e55c329564779e99": 1792298877.5636997,
-  "431a744674254f7c": 1792298877.5637028,
-  "99a8d74a41fc2fc4": 1792298877.5637052,
-  "450b8345ba7771e8": 1792298877.563708,
-  "c9874f1d415d4e93": 1792298877.5637157,
-  "b020815497fa050f": 1792298877.563718,
-  "0c89cd52c59e949a": 1792298877.5637205,
-  "e22d32f6e04153c6": 1792298877.5637228,
-  "8f079f8e929766b1": 1792298877.5637257,
-  "26bdeb32598555a6": 1792298877.563728,
-  "a2aada8a6bd84478": 1792298877.5637302,
-  "c63f04bdad235a32": 1792298877.5637326,
-  "ed593c06b8d1b2e0": 1792298877.5637352,
-  "0c8ed62f186ecd3a": 1792298878.8597617,
-  "ff494a8787608220": 1792298878.8597822,
-  "8cad63f1a9b3e48e": 1792298878.859787,
-  "19c682ef65bae907": 1792298880.104678,
   "0b428628c8d7c0f9": 1792300357.756928,
   "e2c3b8ab18cb2e70": 1792300357.7569332,
   "5da8f0190541c9e4": 1792300357.7569356,
@@ -5050,15 +5026,21 @@
   "85d0d74c708e5647": 1792556122.6467998,
   "33945f0f8438fef7": 1792556123.8648753,
   "b833f5b2f9745ec6": 1792556125.199974,
-  "71e9b4dea081eb92": 1792556125.1999953
+  "71e9b4dea081eb92": 1792556125.1999953,
+  "83cf2b13244a82b6": 1792558356.0875022,
+  "1093009273f7d4aa": 1792558356.0875082,
+  "f0bf97bb27795b4c": 1792558357.2908237,
+  "f1ea2c4ee0327fd6": 1792558358.5198045,
+  "0618e01680713d62": 1792558359.744264,
+  "b67773c4290173b2": 1792558359.7442846,
+  "ef4690da8e0a5bfb": 1792558361.039103,
+  "80ba67c90ece0f35": 1792558361.0391245,
+  "ccff4429d5481b1e": 1792558361.039129,
+  "d5fdee150e6a6f31": 1792558361.0391343,
+  "dc50529a02b145a0": 1792558362.2098184,
+  "8ab26d030320c91c": 1792558363.3721008
  },
  "recent": [
-  "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-  "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?",
-  "Bessent Weighs In on French Bond Turmoil for First Time: Doesn't Expect Contagion, but Confirms Safe-Haven Flows Back Into US Treasuries",
-  "No uranium will leave Iran, Tehran tells Asim Munir amid US talks deadlock",
-  "Iran claims two oil tankers struck mines in the Hormuz Strait.",
-  "Oil slide on Iran mediation hopes lifts South Korea stocks over 2% - CHOSUNBIZ",
   "Hormuz stays shut until US accepts 7-day deal, says Araghchi; Rezaei, says Iran won't surrender enriched uranium",
   "Trump: Oil to drop like a rock after Iran war ends",
   "Netanyahu Says He Discussed Eliminating Iran’s Regime With Trump, Including Hezbollah: how 14 outlets framed it",
@@ -5092,26 +5074,34 @@
   "A survey of 100 economists unanimously predicts another rate hike by the Federal Reserve in December. With action paused in October, persistent inflation and economic resilience have placed policymakers in a dilemma.",
   "Gold Falls As Elevated Oil Prices Stoke Inflation Fears And Tight Policy Outlook By Kedia Advisory",
   "Silver Gains As US Treasury Yields Ease Near One-Month Lows On Weak Housing Data By Kedia Advisory",
-  "Gulf oil exports surpass pre-war levels despite attacks in Hormuz"
+  "Gulf oil exports surpass pre-war levels despite attacks in Hormuz",
+  "Araqchi states that the US accepts Iran's conditions to reopen Hormuz but incorporates its own demands.",
+  "Oil prices gain after 18 Hormuz attacks in two weeks",
+  "Crude Oil Falls After US And Iran Reportedly Back Preliminary Mediation Proposal By Kedia Advisory",
+  "Iran outlines conditions for US talks during CDF Munir’s visit",
+  "Brent Crude Crosses $109 as Tanker Attacks Threaten Oil Supply",
+  "Araghchi: No Response to Iran Mediation Initiative..."
  ],
  "initialized": true,
  "last_alert": 1792548059.8298578,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 145,
-  "new": 79,
-  "rated": {
-   "low": 0,
-   "medium": 4,
-   "high": 0
-  },
-  "posted": 3,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 148 (char 4643)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3717)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4888)"
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
   ],
-  "time": "2026-10-21T04:15:25+00:00"
+  "fetched": 131,
+  "new": 87,
+  "rated": {
+   "low": 5,
+   "medium": 5,
+   "high": 2
+  },
+  "posted": 6,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 145 (char 2884)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3867)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3959)"
+  ],
+  "time": "2026-10-21T04:52:43+00:00"
  }
 }
