@@ -1,7 +1,5 @@
 {
  "seen": {
-  "bd376e86e92bcea7": 1792288289.3292725,
-  "92a87129595d9ece": 1792288289.3292785,
   "70afe4a3310607a6": 1792289790.8155015,
   "b50f3a5405c78238": 1792289790.8155315,
   "86dc378ea3acfffb": 1792289790.8155348,
@@ -5078,14 +5076,34 @@
   "e058a9504c8337cd": 1792545803.611397,
   "220fc037aa2cca6a": 1792545803.6114001,
   "30d8a29a01527787": 1792545803.6114025,
-  "4c7a4a0008964c9e": 1792545804.7993965
+  "4c7a4a0008964c9e": 1792545804.7993965,
+  "2c5cb10bb7231e16": 1792548033.5507736,
+  "81e9832a74fbbbd6": 1792548033.5507796,
+  "8122929eb18db993": 1792548037.5408685,
+  "45646ded00078329": 1792548037.5408876,
+  "a8cb2525b95c48bb": 1792548037.5408914,
+  "f9fe38aa91de4c44": 1792548037.5408945,
+  "90157ce91e007f62": 1792548038.8096778,
+  "e4cb1e587006f927": 1792548038.8096974,
+  "07972c259ac22e8a": 1792548038.8097022,
+  "82236c106e080c8a": 1792548038.8097053,
+  "ca4e61df3ce22fd9": 1792548040.1245863,
+  "163ef11e4072147e": 1792548041.6478267,
+  "41fd158aed0fde23": 1792548041.6478453,
+  "0bf1d7daf1240b4e": 1792548041.6478493,
+  "763bfc742f4b9da8": 1792548042.8894973,
+  "498ca7d3b84bfd6f": 1792548042.8895173,
+  "157bf8915acf4207": 1792548042.8895214,
+  "3fe2aacdda390c81": 1792548042.8895242,
+  "75a34343ad13cf2a": 1792548042.8895285,
+  "5c86123cf8582278": 1792548042.8895319,
+  "58c018954c0cddc5": 1792548042.8895342,
+  "a76559904b63c946": 1792548042.8895383,
+  "8580787e6ff2dc3c": 1792548042.8895435,
+  "36068e5956998612": 1792548042.8895457,
+  "c03891a0c5dc6b11": 1792548042.8895495
  },
  "recent": [
-  "SpaceX-Tesla merger? Musk speaks on 'tap-dancing through a minefield'",
-  "Korea cushions Iran war oil supply shock as Japan's imports plunge",
-  "International Business: Oil prices hit $111 per barrel",
-  "Why Is 3M (MMM) Stock Rocketing Higher Today",
-  "Oil steadies as traders weigh conflicting signals on Iran talks",
   "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
   "U.S. stocks rise as oil reversal eases Treasury yield pressure",
   "U.S. Stocks Close | A U.S.-Iran \"compromise deal\" stirs the market, with the Dow up 1%; tech stocks face mild pressure; most popular Chinese stocks listed in the U.S. advance, with Li Auto rising more than 5% and XPeng gaining over 7%; oil prices swing shar",
@@ -5120,22 +5138,29 @@
   "US President announces $1.5 billion investment in semiconductor chip production in North Carolina",
   "Oil price tipped to hit $US150 if Iran war drags on",
   "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3",
-  "Japan exports climb 16.7% in September on AI chips, cars"
+  "Japan exports climb 16.7% in September on AI chips, cars",
+  "Trump Weighs Next Move Against Iran: ‘The Nice Way or the Not Nice Way’",
+  "Anas Alhajji: Brent crude trades above $109 as oil prices rise",
+  "Brent Crude Nears $110/Barrel After US Secretary Rubio Calls Iran Truce Deal 'Difficult'",
+  "Oil Prices Rise On Middle East Supply Concerns, Red Sea Shipping Risks",
+  "S. Korea's Daily Exports Hit Record $4.74 Billion on Semiconductor Boom"
  ],
  "initialized": true,
- "last_alert": 1792534198.9027297,
+ "last_alert": 1792548059.8298578,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 141,
-  "new": 34,
+  "fetched": 156,
+  "new": 50,
   "rated": {
-   "low": 24,
-   "medium": 8,
-   "high": 2
+   "low": 18,
+   "medium": 7,
+   "high": 0
   },
-  "posted": 6,
-  "errors": [],
-  "time": "2026-10-21T01:23:24+00:00"
+  "posted": 5,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 145 (char 4017)"
+  ],
+  "time": "2026-10-21T02:00:59+00:00"
  }
 }
