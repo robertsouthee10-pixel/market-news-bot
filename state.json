@@ -1,17 +1,5 @@
 {
  "seen": {
-  "f8637457338ea648": 1792353039.3946128,
-  "decfafa90ad299e5": 1792353039.3946192,
-  "7795a66f423f68b2": 1792353039.3946233,
-  "a6b2d59b9dd64102": 1792353040.7714791,
-  "e0b951486a76e8d4": 1792353042.0736544,
-  "b07900276326cf82": 1792353042.0736828,
-  "57ed0894c20f41d4": 1792353042.0736873,
-  "b59cdddbeb97c74a": 1792353042.0736904,
-  "8b31db6be4189f20": 1792353042.0736933,
-  "3ea57e1baa34f285": 1792353043.3625271,
-  "2eca116ed4977eca": 1792353044.967761,
-  "f2102c46e237e2c3": 1792353044.9677866,
   "12e27d854f7e31b0": 1792354002.23067,
   "ea2c2e534360b543": 1792355692.9863799,
   "8e6547b5fb4c7fc5": 1792355692.9864116,
@@ -5464,14 +5452,39 @@
   "847088e7482183aa": 1792611251.499602,
   "9972f95eb953f483": 1792611251.4996047,
   "00107e76a36cd852": 1792611251.4996068,
-  "a02b47631e5fe9c2": 1792611251.4996088
+  "a02b47631e5fe9c2": 1792611251.4996088,
+  "d3843b40f7aed27f": 1792613150.8050296,
+  "d1afa408dd8c8cca": 1792613150.8050354,
+  "d9537bf64935542f": 1792613150.8050401,
+  "9192c13363ed8154": 1792613150.8050425,
+  "c47587bfa880fda3": 1792613150.805044,
+  "d3b25d67099e8fe6": 1792613150.8050456,
+  "1d9489bd003a3c97": 1792613150.8050475,
+  "4a4ab8d4593434d3": 1792613150.805049,
+  "7bcb69b574bf7747": 1792613152.1370752,
+  "6c6ff825be6a9140": 1792613152.1371403,
+  "19ac3bc7268cae49": 1792613152.1371446,
+  "573315b54534bed0": 1792613152.137147,
+  "49f788d2ff757d60": 1792613152.1371498,
+  "26f8b622c3408ba6": 1792613152.1371553,
+  "af4e01ce4750161b": 1792613153.5615544,
+  "c6a233b9b2bd0bfa": 1792613153.561582,
+  "fc513207b6a2fadb": 1792613153.5615864,
+  "fe62968e2cb305e5": 1792613154.8263397,
+  "aebad3d3424150aa": 1792613154.826368,
+  "4d6e37b732e040c3": 1792613154.8263726,
+  "5eb493628e583f34": 1792613154.8263764,
+  "b1a90acff2b75bb7": 1792613156.1284127,
+  "be0479959c95322e": 1792613156.1284392,
+  "7072fc47e4b1f961": 1792613156.1284432,
+  "5f511095f53db922": 1792613156.128446,
+  "1934e87fcc050151": 1792613176.554133,
+  "e9ae92813e0060f0": 1792613176.554141,
+  "cc28d92d5215eda8": 1792613176.5541434,
+  "972a74048006009a": 1792613178.1537697,
+  "22113a6be5b9e6c3": 1792613178.153797
  },
  "recent": [
-  "Nasdaq climbs over 1% as SpaceX, Super Micro improve AI sentiment",
-  "CME : Treasury yields fall on housing data.",
-  "S&P 500 Today LIVE: Index Climbs 0.51% as Tech Stocks Rebound, Oil Prices Ease and Investors Track Netflix, SpaceX, Apple & Nvidia Earnings | Check Top Gainers-Losers, Why S&P 500 Is Higher Today",
-  "Russia is ready to help resolve Iran-US dispute, Putin says",
-  "Araqchi Declares Iran in a “State of War” Amid U.S. Pressure and Sanctions",
   "Meta and Tesla bulls get confidence boost after SpaceX earnings",
   "Iran strikes force Pentagon to reassess US bases across region: Report",
   "Iranian FM: Iran Will Not Bow to Any Power, Offers Hormuz Deal",
@@ -5506,26 +5519,31 @@
   "CME : Gold futures rebound as traders look ahead to FOMC meeting.",
   "Crude Oil Prices Rally After Close on US State Department Warning",
   "Iranian Foreign Minister warns US and Israel may launch another war against Iran",
-  "Explosions heard near Strait of Hormuz, Iran state media says"
+  "Explosions heard near Strait of Hormuz, Iran state media says",
+  "Stock Market Today: Nasdaq Charges Higher As Meta, Tesla Earnings Loom; United Airlines Jumps (Live Coverage)",
+  "Iran holds Hormuz, Yemen won’t bow",
+  "Why Super Micro Computer Stock Popped Today",
+  "Teradyne, Vishay Intertechnology, Allegro MicroSystems, Entegris, and AMD shares are soaring, what you need to know",
+  "Nasdaq leads Wall Street to higher close as SpaceX, Super Micro boost AI sentiment"
  ],
  "initialized": true,
  "last_alert": 1792609142.183753,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 207,
-  "new": 106,
+  "fetched": 197,
+  "new": 105,
   "rated": {
-   "low": 21,
-   "medium": 6,
-   "high": 4
+   "low": 19,
+   "medium": 9,
+   "high": 2
   },
-  "posted": 8,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 98 (char 5450)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 4002)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4139)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 101 (char 4435)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4952)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 102 (char 4113)"
   ],
-  "time": "2026-10-21T19:34:11+00:00"
+  "time": "2026-10-21T20:06:18+00:00"
  }
 }
