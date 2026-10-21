@@ -1,28 +1,5 @@
 {
  "seen": {
-  "0b73c041afae13e3": 1792303671.9135563,
-  "6508655e3b0a75b4": 1792303671.9135664,
-  "c76006822ae33fa7": 1792303671.9135697,
-  "82498501a5419ab9": 1792303673.080385,
-  "7aaaa83c47dc93bc": 1792303673.0804052,
-  "3f9d76d7e3e0b3c4": 1792303673.0804093,
-  "310b78fa99c8e638": 1792303673.080412,
-  "c2dd87f2f8e82142": 1792303674.2389443,
-  "85f5f3976437d190": 1792303674.2389655,
-  "b10ba5a5486f7246": 1792303674.2389698,
-  "0abb936c83ed6fae": 1792303674.2389736,
-  "4720dcc9bd2fdf0d": 1792303675.379391,
-  "c9da57433f2498d6": 1792303675.379414,
-  "b4aa194566675c70": 1792303675.3794181,
-  "0f5306b12f310e18": 1792303675.3794208,
-  "0cc54459c2f6762c": 1792303675.3794243,
-  "8f3b4d0151efd835": 1792303675.379427,
-  "24c79b58f0ce0abf": 1792303675.3794293,
-  "c676507ec72913fa": 1792303675.379432,
-  "84d5cbf776ade213": 1792303675.3794348,
-  "d030cae225b98865": 1792303675.3794365,
-  "4315b7572947014f": 1792303676.5260987,
-  "2237cd4b35a8e191": 1792303677.6701937,
   "61d51e72d17562c6": 1792305836.07819,
   "6eedfb33ccbd58ab": 1792305836.078196,
   "83d74701dd85260b": 1792305837.3643763,
@@ -5046,11 +5023,19 @@
   "cf7939ffb1cef166": 1792562124.1895015,
   "d7802804f9bada00": 1792562124.1895225,
   "ecb9ee761210c613": 1792562124.1895266,
-  "6e11411832109630": 1792562124.1895294
+  "6e11411832109630": 1792562124.1895294,
+  "7797c211e75b2fce": 1792564079.2307158,
+  "9300f37d3648a99c": 1792564079.2307255,
+  "4e1b3dc102d3badc": 1792564079.2307286,
+  "9cb7c8a758123fcf": 1792564080.7205825,
+  "187d1c0974e448df": 1792564080.7206054,
+  "86f9a320b405436b": 1792564080.7206087,
+  "ba75f99b937ed949": 1792564081.924743,
+  "abdb90b8e7d36e55": 1792564081.9247656,
+  "a7d8661df5d633d8": 1792564081.92477,
+  "e17f3f1533657f88": 1792564081.924774
  },
  "recent": [
-  "Brent Crude Nears $110/Barrel After US Secretary Rubio Calls Iran Truce Deal 'Difficult'",
-  "Oil Prices Rise On Middle East Supply Concerns, Red Sea Shipping Risks",
   "S. Korea's Daily Exports Hit Record $4.74 Billion on Semiconductor Boom",
   "Wall Street rose as oil prices and US bond yields fell.",
   "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute ‘Several Times Over,’ Analyst Dismisses Glut Fears",
@@ -5088,25 +5073,28 @@
   "'If Provoked, We Will Hit Europe': Iran Warns European Nations Amid U.S. Tensions",
   "Israel: Netanyahu pushes for a resumption of attacks on Iran",
   "Oil prices rise on supply risks and diesel shor...",
-  "Dollar Hovers Near Three-Week Low as Treasury Yields Fall"
+  "Dollar Hovers Near Three-Week Low as Treasury Yields Fall",
+  "UK inflation jumps to 3.5% — cementing rate hike expectations",
+  "Oil Prices Rise as Middle East Tensions Raise Supply Fears"
  ],
  "initialized": true,
  "last_alert": 1792560018.2144563,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 149,
-  "new": 98,
+  "fetched": 143,
+  "new": 85,
   "rated": {
-   "low": 33,
-   "medium": 14,
-   "high": 1
+   "low": 7,
+   "medium": 3,
+   "high": 0
   },
-  "posted": 11,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 144 (char 4621)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3249)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3428)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3380)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 148 (char 5082)"
   ],
-  "time": "2026-10-21T05:55:24+00:00"
+  "time": "2026-10-21T06:28:01+00:00"
  }
 }
