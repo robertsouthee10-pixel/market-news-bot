@@ -1,23 +1,5 @@
 {
  "seen": {
-  "1a9d3f9fcbfbbf91": 1792293210.3976963,
-  "c463ec9bb5d6a545": 1792293210.3977013,
-  "7cb6719d5e4d39c8": 1792293211.6278467,
-  "9774177664117717": 1792293211.6278675,
-  "16daceaa2a04c4af": 1792293211.6278732,
-  "c47a3844c795e9f7": 1792293211.6278777,
-  "e703372cf1d904c8": 1792293212.849937,
-  "b6a070d50077fb40": 1792293212.8499565,
-  "03181b8bc6af696a": 1792293214.0982502,
-  "5c3e9a1520172d34": 1792293214.0982702,
-  "4b9d9eddfc0b0c2b": 1792293215.333841,
-  "b0a8c415dccff00a": 1792293216.5493712,
-  "be48b4da786fc9f7": 1792293216.5494,
-  "7a0fdcf7b258cd28": 1792293216.5494041,
-  "c2a99d3c2338100b": 1792293216.549408,
-  "50515193e600f198": 1792293216.5494113,
-  "9cbc830fbd34dc50": 1792293216.5494149,
-  "e251ebb93b968eab": 1792293216.5494177,
   "a54c139a0dcc94f1": 1792295264.2558212,
   "b448a152fd03c046": 1792295264.255827,
   "d77b3cc1c5b1a65c": 1792295264.2558298,
@@ -5099,12 +5081,28 @@
   "e5e8fa2cf31917cb": 1792552035.5056555,
   "d3791298f4f35afa": 1792552035.5056589,
   "a36fc3cd421439de": 1792552036.6461291,
-  "580bc5675ed93b8b": 1792552036.646149
+  "580bc5675ed93b8b": 1792552036.646149,
+  "b40a3687a06a5a79": 1792553931.4049203,
+  "f8b46bb2b5980778": 1792553932.6242294,
+  "9161b23b83afdb19": 1792553932.6242518,
+  "a7d784d7073c8e18": 1792553932.6242568,
+  "64cb4b9b6e36a367": 1792553932.6242602,
+  "de2fd38f0d51e081": 1792553932.6242635,
+  "02c91d6b613277e0": 1792553932.6242726,
+  "f2c6556f2cb192e8": 1792553932.624276,
+  "6592409b65d16eb3": 1792553932.6242788,
+  "e3fe45d52bceaae5": 1792553933.9206169,
+  "87f04338ba397035": 1792553933.9206378,
+  "e62aa0b03a4ecd94": 1792553933.9206426,
+  "cfaef9cbbf284326": 1792553933.920646,
+  "522568297a0ef855": 1792553935.13055,
+  "68742813538a7009": 1792553935.130573,
+  "f0128cd15280d887": 1792553935.1305776,
+  "586b5cc9e5f6878f": 1792553935.1305819,
+  "ad2860cc4c03f3e5": 1792553935.1305842,
+  "fd44376632a3bc98": 1792553935.1305904
  },
  "recent": [
-  "Musk Says Tesla, SpaceX Have Formed Special Committees to Consider Merger",
-  "After the initial wave of buying, investors will assess whether semiconductor stocks have bottomed out.",
-  "Why AI Chip Stocks Nvidia, Broadcom, and Micron Climb After Hours — and What Wall Street Sees Next",
   "Oil prices end lower in volatile session amid reports of U.S.-Iran diplomacy (USO:NYSEARCA)",
   "Brent falls as Iran's president discusses mediation with Pakistani army chief, Money News",
   "Iran’s Araghchi says indirect negotiations with US are continuing through intermediary countries",
@@ -5141,24 +5139,27 @@
   "Why Iran Is In No Hurry To Strike Deal With Trump Before November 3 Midterm Test",
   "Trump Says Iran War Could End Soon",
   "$6 Billion For Nuclear Concessions? Inside Pakistan-Qatar Plan To Avert Renewed US-Iran War",
-  "Gold Slips To US$4,117 An Oz As Iran War Clouds Fed Outlook"
+  "Gold Slips To US$4,117 An Oz As Iran War Clouds Fed Outlook",
+  "Britain sends fighter jets to defend Saudi Arabia amid Houthi attacks",
+  "US-Iran war | Tehran: Must end port blockade, oil sanctions and regional attacks",
+  "A survey of 100 economists unanimously predicts another rate hike by the Federal Reserve in December. With action paused in October, persistent inflation and economic resilience have placed policymakers in a dilemma."
  ],
  "initialized": true,
  "last_alert": 1792548059.8298578,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 127,
-  "new": 57,
+  "fetched": 126,
+  "new": 44,
   "rated": {
-   "low": 22,
-   "medium": 9,
-   "high": 1
+   "low": 16,
+   "medium": 3,
+   "high": 0
   },
-  "posted": 6,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 101 (char 2408)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4156)"
   ],
-  "time": "2026-10-21T03:07:16+00:00"
+  "time": "2026-10-21T03:38:55+00:00"
  }
 }
