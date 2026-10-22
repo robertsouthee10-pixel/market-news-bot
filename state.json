@@ -1,31 +1,5 @@
 {
  "seen": {
-  "22b5f4050f65731e": 1792368929.266623,
-  "40b31403e5e4178c": 1792368929.2666473,
-  "c0471cb9692e6704": 1792368929.2666547,
-  "9ac6c7c36098f122": 1792368930.4980495,
-  "3fa041848ce43ca1": 1792368930.4980671,
-  "a4b584842a200f2a": 1792368931.7778609,
-  "25411d7ef7c43aac": 1792368932.9468808,
-  "5754030c14e3342a": 1792368932.946896,
-  "59e681f85314effb": 1792368932.946901,
-  "eb679aa91a6e05f5": 1792368932.9469054,
-  "a7c7aadf70491d2f": 1792368932.94691,
-  "5c747ae074c56ded": 1792368932.9469135,
-  "cfcf364e62ccb91f": 1792368932.9469173,
-  "46476d970f990621": 1792368932.9469206,
-  "50dc71d1428018f3": 1792368932.946924,
-  "880435e97282796d": 1792368932.9469264,
-  "3124eeb7ce6c403f": 1792368932.946929,
-  "e0880453f32ec152": 1792368932.9469316,
-  "f84dbaf697051026": 1792368932.9469345,
-  "9f39dfb181079638": 1792368932.9469366,
-  "76afd7e10eb25228": 1792368932.9469392,
-  "8763dc5dd5133163": 1792368932.9469414,
-  "e1a046b1571bafe6": 1792368932.9469442,
-  "38fc593d0dd5dc2f": 1792368932.946949,
-  "b0fb96913b28bb80": 1792368934.1338596,
-  "9eb37d21bf2731aa": 1792368935.4311233,
   "5616df282e67acf5": 1792373945.9844124,
   "572644158c490fd4": 1792373945.984436,
   "bb5e141bd8a6e906": 1792375884.4781384,
@@ -5602,11 +5576,28 @@
   "165178b8c81139ad": 1792627674.9650893,
   "22decf310b86e7b6": 1792627674.9651096,
   "87fa43a8b6ed094d": 1792627674.9651136,
-  "617fe0917b231d01": 1792627674.9651175
+  "617fe0917b231d01": 1792627674.9651175,
+  "e64c3d5971dfa4fa": 1792630274.3332455,
+  "7b08b54fe20870bd": 1792630275.530842,
+  "8ed799d28376c73b": 1792630275.5308664,
+  "c5bbd10d1dc5f214": 1792630275.5308697,
+  "9736757e109badb2": 1792630275.530873,
+  "ac1b6ab6c7d62ce6": 1792630275.5308769,
+  "2aaf632cf3df5501": 1792630275.5308795,
+  "9e1f7539372b7f13": 1792630275.530882,
+  "1b2a804350b0295c": 1792630275.5308838,
+  "36f173fab30e9d1c": 1792630275.5309148,
+  "f9a34b5abbd6e388": 1792630275.5309172,
+  "3a9a57903a678b69": 1792630275.53092,
+  "99ca550ee75c4ba2": 1792630275.5309222,
+  "c7583b712cef7dc6": 1792630275.5309255,
+  "fc95d785d26c0641": 1792630275.5309281,
+  "b5328a60aacd04f8": 1792630275.5309308,
+  "3f992c7d62c11ef2": 1792630276.8310232,
+  "d9f3a9f9051e3d40": 1792630276.8310447,
+  "833a51f69f3069f9": 1792630276.8310492
  },
  "recent": [
-  "Report: Israel Air Force Conducts Mission Near Iranian Border",
-  "Iran Just Offered to End the War and Open the Strait of Hormuz but the Bill Won't Be One Donald Trump Will Like",
   "Gold edges up on Federal Reserve uncertainty, Middle East unrest",
   "Southwest Airlines cuts 2026 profit forecast on higher fuel",
   "Tesla (NASDAQ:TSLA) Shares Climb 3.4% - Should You Buy?",
@@ -5644,25 +5635,28 @@
   "🇮🇱 🇮🇷 🇺🇸 Israeli jets just flew all the way to Iran’s border days before Israel votes... and US officials reportedly worry it was meant to bait Iran into firing first. Trita Parsi says if Iran strikes, Netanyahu escapes the blame for starting it, and if Trump pivots to a deal",
   "Explosions heard in Iran’s Hormozgan province near Strait of Hormuz: State media",
   "SpaceX shares soar on possible tie-up with Tesla",
-  "Tesla’s stock falls as Elon Musk leaves investors wanting more"
+  "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+  "Ray Dalio warns US bond bear market has a long way to go as debt supply swamps demand",
+  "Oil prices rise as M.East tensions fuel fears of supply disruptions"
  ],
  "initialized": true,
  "last_alert": 1792620825.6184,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 150,
-  "new": 75,
+  "fetched": 140,
+  "new": 94,
   "rated": {
-   "low": 20,
-   "medium": 4,
-   "high": 1
+   "low": 10,
+   "medium": 9,
+   "high": 0
   },
   "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 56 (char 1739)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4197)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4955)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3314)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 97 (char 5108)"
   ],
-  "time": "2026-10-22T00:08:10+00:00"
+  "time": "2026-10-22T00:51:16+00:00"
  }
 }
