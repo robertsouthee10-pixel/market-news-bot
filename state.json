@@ -1,30 +1,5 @@
 {
  "seen": {
-  "ef4a53f3962562c6": 1792382142.0624897,
-  "457c6a02ecb70468": 1792382142.0624988,
-  "1ae726b566eb369c": 1792382142.0625043,
-  "e7822014080e9065": 1792382142.0625067,
-  "9aad635ba384bf61": 1792382142.0625083,
-  "54e962def2e734d3": 1792382143.2809649,
-  "d28dfecbfc442c3e": 1792382143.2809882,
-  "3e4b1f3eb8163f2b": 1792382144.5125873,
-  "bde9d646d977829e": 1792382144.5126088,
-  "781914edbe75227b": 1792382144.5126157,
-  "4bab725e3df4c84e": 1792382144.5126183,
-  "30415082e9bd0a33": 1792382145.7154431,
-  "1639160db77252d4": 1792382145.7154677,
-  "34ff9a5e4ac499ed": 1792382145.715475,
-  "d8ef2c745a543adf": 1792382145.715478,
-  "6dce11c3ac7e3424": 1792382145.7154813,
-  "b5cffe371990bc60": 1792382145.7154837,
-  "e3f1a41aa0a36349": 1792382145.7154863,
-  "10a2bfed181e5d1c": 1792382145.715489,
-  "c1d5af56a544634b": 1792382145.7154918,
-  "582b2b2e3835cfc0": 1792382145.7154937,
-  "c385348d4b73cd20": 1792382145.7154958,
-  "59cbdab8c1798c67": 1792382145.7154975,
-  "9977631e92b316f9": 1792382145.7154999,
-  "6f7e4502655f3e13": 1792382145.7155018,
   "e580979dc2a2c64f": 1792384161.1034136,
   "c656f66f7bff28de": 1792384161.1034427,
   "1b06d1ab272c6807": 1792386532.514039,
@@ -5768,13 +5743,23 @@
   "e2200d3f25cb5915": 1792640583.2252905,
   "d45e3d18ca3ab9b9": 1792640583.2253141,
   "1d0dda4d48dd9709": 1792640586.5573287,
-  "a066f1a9e08ae09c": 1792640586.5573325
+  "a066f1a9e08ae09c": 1792640586.5573325,
+  "d8f21a2fd5462781": 1792642700.562618,
+  "977aebfaf1592571": 1792642700.5626245,
+  "932a1b37b5332fe1": 1792642700.5626276,
+  "3deef0f1bbbdca5e": 1792642700.56263,
+  "a41121cbe0ff88b0": 1792642700.562633,
+  "55f67fed4f85aa3d": 1792642701.8039072,
+  "263376afa0c3fae4": 1792642701.8039281,
+  "bd919dab6df5e529": 1792642703.1153579,
+  "143053974b37b9f3": 1792642703.1153815,
+  "b94bfc4374502a34": 1792642703.115387,
+  "cce8752f331a5802": 1792642703.11539,
+  "c5b7b036a62ba763": 1792642704.3680108,
+  "0eb7a904ef55952d": 1792642705.6213012,
+  "fde8806cfc8e7d6c": 1792642705.621322
  },
  "recent": [
-  "Tesla says it will start selling Cybercabs by end of year",
-  "Trump administration taps heating oil reserve in bid to lower prices as election looms",
-  "Gold Price Today: Bullion slips as rising inflation, rate hike expectations weigh; focus on Fed meeting next week",
-  "Oil prices remained relatively stable as prospects for Russia-Ukraine peace talks improved.",
   "Iran firm on stand amid US move",
   "Trump says US 'could leave Iran now' but wants outcome to last ‘for a long time’",
   "Analysts revamp Super Micro stock price targets after 10% surge on revenue boost",
@@ -5810,24 +5795,29 @@
   "Video | Israel Had Planned To Bomb Iran In October, Stopped Because Of Trump: Report",
   "One killed, eight injured after latest Houthi attack on Saudi Arabia's King Fahd airport | LIVE BLOG",
   "US 'secretly' scales back troops, diplomats in West Asia as Trump mulls renewing attack on Iran",
-  "China's stock market sinks into bear territory as CSI 300 extends 10-week rout"
+  "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+  "Global Market: Japan’s Nikkei falls as chip stocks retreat on AI spending concerns",
+  "US-Israel-Iran War Latest Live Updates: Will US and Israel Resume Attacks on Iran Before Next Week’s Israeli Elections? Tehran Warns of Wider Retaliation",
+  "Middle East latest: Pezeshkian says US must recognise Iran's rights before talks can resume",
+  "US Markets Rally as Tech, AI Stocks Jump; Dow Gains 360"
  ],
  "initialized": true,
  "last_alert": 1792632248.7102792,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 146,
-  "new": 77,
+  "fetched": 147,
+  "new": 64,
   "rated": {
-   "low": 36,
-   "medium": 15,
-   "high": 1
+   "low": 5,
+   "medium": 6,
+   "high": 3
   },
-  "posted": 8,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 140 (char 3379)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4734)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4961)"
   ],
-  "time": "2026-10-22T03:43:06+00:00"
+  "time": "2026-10-22T04:18:25+00:00"
  }
 }
