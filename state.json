@@ -5595,15 +5595,41 @@
   "b5328a60aacd04f8": 1792630275.5309308,
   "3f992c7d62c11ef2": 1792630276.8310232,
   "d9f3a9f9051e3d40": 1792630276.8310447,
-  "833a51f69f3069f9": 1792630276.8310492
+  "833a51f69f3069f9": 1792630276.8310492,
+  "ae87b738275162a0": 1792632265.236311,
+  "1f9f798c001995f0": 1792632265.2363408,
+  "07de1e48178e3c5e": 1792632265.2363446,
+  "936a3fa8ff53ac58": 1792632265.2363477,
+  "cad18523e34fbef9": 1792632265.23635,
+  "27fbe8211ef23c9c": 1792632265.2363527,
+  "cc9d096d4b305a28": 1792632265.2363555,
+  "0595bf5ad9de05c2": 1792632265.2363584,
+  "bb454f45c3d9e222": 1792632266.5850964,
+  "7f597bda3c3d81ac": 1792632266.585119,
+  "5ce3d3d6486bcecc": 1792632266.5851228,
+  "565b5c5a0a992a7a": 1792632267.8178718,
+  "91d680b111fdc84d": 1792632267.817892,
+  "e3d66911b2ff2b3a": 1792632267.8178954,
+  "bd72af564d5975ca": 1792632267.8179,
+  "0ffbb3598cd6619b": 1792632269.0584633,
+  "c287c99cbd50a863": 1792632269.0584846,
+  "336f51e7d85a3c38": 1792632269.058489,
+  "6eb77a1f996c1799": 1792632269.058492,
+  "eb887b8c2d28b84c": 1792632269.0584946,
+  "668563447b268e1d": 1792632269.0584974,
+  "ddc2ff37e98031ad": 1792632269.0585003,
+  "7bce386e02f5732b": 1792632269.0585093,
+  "9a56a7f82890fcf2": 1792632269.0585113,
+  "fc95fac0f896edc7": 1792632269.0585132,
+  "ed84f24c83ad1932": 1792632304.6853483,
+  "be67938c44a4b249": 1792632304.6853688,
+  "d8a2686f7ba91ab5": 1792632304.6853728,
+  "ef0ac37671d9e6f9": 1792632304.685375,
+  "e402d8ae3b8777c8": 1792632304.6853776,
+  "51c47c71cd44a593": 1792632304.6853797,
+  "29be8f49a2d0f4a7": 1792632305.987966
  },
  "recent": [
-  "Gold edges up on Federal Reserve uncertainty, Middle East unrest",
-  "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-  "Tesla (NASDAQ:TSLA) Shares Climb 3.4% - Should You Buy?",
-  "Netflix (NASDAQ:NFLX) Announces Q4 2026 Earnings Guidance",
-  "Oil slightly up as traders parse possible Russia-Ukraine progress, supply fears",
-  "Diplomats Race to Head Off Escalation With Iran",
   "US relocates aircraft from military base in Qatar",
   "U.S. Scales Back Military Presence Across Middle East Amid Iran Threats, NBC Reports",
   "Who is Israel targeting in Iran? Names revealed",
@@ -5637,26 +5663,31 @@
   "SpaceX shares soar on possible tie-up with Tesla",
   "Tesla’s stock falls as Elon Musk leaves investors wanting more",
   "Ray Dalio warns US bond bear market has a long way to go as debt supply swamps demand",
-  "Oil prices rise as M.East tensions fuel fears of supply disruptions"
+  "Oil prices rise as M.East tensions fuel fears of supply disruptions",
+  "Tesla says it will start selling Cybercabs by end of year",
+  "Trump administration taps heating oil reserve in bid to lower prices as election looms",
+  "Gold Price Today: Bullion slips as rising inflation, rate hike expectations weigh; focus on Fed meeting next week",
+  "Oil prices remained relatively stable as prospects for Russia-Ukraine peace talks improved.",
+  "Iran firm on stand amid US move",
+  "Trump says US 'could leave Iran now' but wants outcome to last ‘for a long time’"
  ],
  "initialized": true,
- "last_alert": 1792620825.6184,
+ "last_alert": 1792632248.7102792,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 140,
-  "new": 94,
+  "fetched": 141,
+  "new": 82,
   "rated": {
-   "low": 10,
-   "medium": 9,
-   "high": 0
+   "low": 20,
+   "medium": 8,
+   "high": 4
   },
-  "posted": 2,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4955)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3314)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 97 (char 5108)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 62 (char 4059)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 100 (char 1405)"
   ],
-  "time": "2026-10-22T00:51:16+00:00"
+  "time": "2026-10-22T01:25:05+00:00"
  }
 }
