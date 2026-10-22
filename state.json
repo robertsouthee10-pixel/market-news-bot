@@ -1,39 +1,5 @@
 {
  "seen": {
-  "efc4162afb88a465": 1792396648.4898536,
-  "f0d4fd531a2e2928": 1792396649.8581398,
-  "80f41f7f934d22a7": 1792396651.5199351,
-  "05dc21360b898fd8": 1792396652.717207,
-  "5426d888ab885645": 1792396652.717228,
-  "63b49d9919d07065": 1792396652.717232,
-  "d218499bde9e478b": 1792396652.7172391,
-  "b5e058601a7c14da": 1792396653.9503446,
-  "e2c43fc7e30727c0": 1792396655.2041953,
-  "6362f2d17c14379a": 1792396656.5264835,
-  "274422f37000fa3f": 1792396656.5265088,
-  "9ed45803fec97b44": 1792396656.5265155,
-  "5344dac7400a1f90": 1792396656.5265188,
-  "b2869368c698b386": 1792396656.5265224,
-  "b1b63ef608cb1240": 1792396656.526526,
-  "bdd61526dcf38b64": 1792396656.5265288,
-  "786132ac5de0b7e2": 1792396656.5265326,
-  "975a5e83cb66d7bd": 1792396656.526536,
-  "c460c8de3142581c": 1792396656.5265381,
-  "20150ee44f721b67": 1792396656.5265415,
-  "933c188611568b9d": 1792396656.5265446,
-  "07525e692a860f7f": 1792396656.5265477,
-  "8665ebeb2630eb29": 1792396656.5265505,
-  "6807186e24da3bfa": 1792396656.5265532,
-  "d8bc6a14c02886c2": 1792396657.7449884,
-  "7202a9c01ae5c341": 1792396697.915907,
-  "553ede7437874bb3": 1792396697.915911,
-  "3f4a41bb21ff8f69": 1792396697.9159129,
-  "398b8c239b4b7e19": 1792396697.915916,
-  "8822798d0f7a7d2f": 1792396697.9159188,
-  "8ea08156d275cd95": 1792396699.222088,
-  "f9cb58b5e8f819d6": 1792396699.2221112,
-  "9019c3d49b90ef60": 1792396699.2221153,
-  "ed032e5a934868b0": 1792396699.2221181,
   "bbd1b32ae39ae2ee": 1792399040.1644812,
   "3952c46d03524cac": 1792399041.3580632,
   "93c0adc28cc85f48": 1792399041.3580856,
@@ -5683,7 +5649,8 @@
   "fb3a151121760ede": 1792654278.538636,
   "270aae548aff0039": 1792654278.5386395,
   "ceb3f0a5e4ac9959": 1792654278.5386424,
-  "a5c4245c08bf0b7a": 1792654278.5386453
+  "a5c4245c08bf0b7a": 1792654278.5386453,
+  "62eff17c81dd0dc5": 1792656914.8516045
  },
  "recent": [
   "Iran warns of offensive response to any attack by US or Israel",
@@ -5728,26 +5695,26 @@
   "Trump Says No Regrets Over Iran War, Weighs New Strikes"
  ],
  "initialized": true,
- "last_alert": 1792644975.6797156,
+ "last_alert": 1792656832.4417481,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 201,
-  "new": 156,
+  "fetched": 178,
+  "new": 151,
   "rated": {
-   "low": 5,
+   "low": 1,
    "medium": 0,
-   "high": 1
+   "high": 0
   },
-  "posted": 1,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 101 (char 4107)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 97 (char 3769)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 4070)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 151 (char 2364)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 144 (char 5087)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 140 (char 5049)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4510)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 99 (char 4743)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 140 (char 4203)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 62 (char 3937)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 140 (char 3270)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 140 (char 2803)"
   ],
-  "time": "2026-10-22T07:31:18+00:00"
+  "time": "2026-10-22T08:15:14+00:00"
  }
 }
