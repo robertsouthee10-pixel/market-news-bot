@@ -1,13 +1,5 @@
 {
  "seen": {
-  "c9dde93bc7dde010": 1792377893.1844828,
-  "e86fa2823833bf51": 1792377894.4032898,
-  "025524a87c131275": 1792377894.403313,
-  "cf5e3c64529e1825": 1792377894.4033167,
-  "66e00f9308a1bde0": 1792377894.4033194,
-  "7d0492a7a65f5714": 1792377894.4033263,
-  "380a00fefef58a99": 1792377894.403328,
-  "43900e1367c6a2cb": 1792377894.4033308,
   "4948cd5bad53713a": 1792379723.997657,
   "6e42d6387139d421": 1792379723.9976656,
   "a50b44fee313bbc1": 1792379723.9976704,
@@ -5720,12 +5712,29 @@
   "81e4af478fa476e2": 1792636473.2195406,
   "85e1641919f3e2c8": 1792636473.2195427,
   "8b15e69b9bf8682b": 1792636474.4955475,
-  "86b402bc675e79cc": 1792636475.787762
+  "86b402bc675e79cc": 1792636475.787762,
+  "5d5f27585481cc6a": 1792638565.3523364,
+  "d3183dc9649101ae": 1792638565.3523667,
+  "33086114d10ee105": 1792638565.3523707,
+  "87caadd43c9ff1d1": 1792638565.352378,
+  "e556bf32b9157873": 1792638565.3523803,
+  "ef9b60c5bad57fbb": 1792638565.352383,
+  "f29314b17abeab6c": 1792638565.3523858,
+  "4fe28190f130c7e8": 1792638565.3523886,
+  "f19bbe7d52f06dfb": 1792638565.3523917,
+  "3ab6df47caf2505e": 1792638565.352395,
+  "aeb0eb35aff6eddd": 1792638565.3523967,
+  "479a56591e6d0e17": 1792638565.3523993,
+  "7d40bc2ee87a1bfe": 1792638565.3524013,
+  "0032ed862cf0033c": 1792638565.3524048,
+  "217165b92502357e": 1792638567.8546076,
+  "657b42c10eb790de": 1792638567.854639,
+  "200be86002d45465": 1792638567.8546429,
+  "86098c3ad1b5f417": 1792638567.8546467,
+  "dd3cafb556d20cef": 1792638569.095024,
+  "1ca1133476254c8e": 1792638569.0950475
  },
  "recent": [
-  "Nasdaq leads Wall St to higher close on Space",
-  "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-  "Iran urges UN to condemn US naval blockade",
   "US Pulls Diplomats From Saudi Arabia as Conflict Escalates",
   "[Good Morning Market] Semiconductor Stocks Rebound Amid AI Jitters... \"Oversold Sectors Could Bounce Back\"",
   "🇮🇱 🇮🇷 🇺🇸 Israeli jets just flew all the way to Iran’s border days before Israel votes... and US officials reportedly worry it was meant to bait Iran into firing first. Trita Parsi says if Iran strikes, Netanyahu escapes the blame for starting it, and if Trump pivots to a deal",
@@ -5762,24 +5771,28 @@
   "West Asia Tensions flare, Khamenei-Ghalibaf meet as Iran prepares to match any fresh US offensive",
   "US evacuating Middle East bases as Trump weighs new Iran strikes - NBC",
   "Iran’s Tells Trump to Prove US Wants to End War Diplomatically",
-  "Trump is suddenly taking a more cautious approach toward Iran—yet is simultaneously ramping up military buildup"
+  "Trump is suddenly taking a more cautious approach toward Iran—yet is simultaneously ramping up military buildup",
+  "Hormuz Flashpoint: Explosions Reported As Israeli Jets Trace Potential Attack Route To Iran",
+  "Was Israel provoking Tehran? IDF fighter jets fly near Iranian border in high-stakes ‘drills’",
+  "Iran Ready to Give Trump Another Chance at Peace, Says Foreign Minister Abbas Araghchi: 'If US Chooses Wa"
  ],
  "initialized": true,
  "last_alert": 1792632248.7102792,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 164,
-  "new": 66,
+  "fetched": 153,
+  "new": 70,
   "rated": {
-   "low": 27,
-   "medium": 13,
+   "low": 14,
+   "medium": 5,
    "high": 1
   },
-  "posted": 6,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 4387)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 98 (char 4935)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 183 (char 4414)"
   ],
-  "time": "2026-10-22T02:34:35+00:00"
+  "time": "2026-10-22T03:09:29+00:00"
  }
 }
