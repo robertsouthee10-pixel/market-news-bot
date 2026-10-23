@@ -1,38 +1,5 @@
 {
  "seen": {
-  "7f3186b16ebd144a": 1792505633.5406542,
-  "6fc4ed3aff3b069a": 1792505633.5406623,
-  "0e7b56b6daf3e9ed": 1792505634.761473,
-  "41aaf78eb0ee61bd": 1792505634.761495,
-  "ad1d1d3191cc6155": 1792505634.7615004,
-  "7b483073f76bbe6c": 1792505636.1874573,
-  "e632dba16c480260": 1792505638.01653,
-  "4936a6473e1e760f": 1792505638.0165539,
-  "e355ffe9716d0271": 1792505638.0165572,
-  "70a4e5a2e8602e50": 1792505638.0165603,
-  "5459c6c97536b0e0": 1792505638.0165634,
-  "b793938de54b08b9": 1792505638.0165684,
-  "24e998cfec09adf8": 1792505638.0165708,
-  "fcb1e43c7e511adf": 1792505638.016574,
-  "8bff2faaf335c0a3": 1792505639.2937818,
-  "5cfc7a6a611d88fe": 1792505639.2938075,
-  "711890061b50b5a3": 1792505639.293811,
-  "df52eb18bdb86bbd": 1792505639.293815,
-  "b61fb8a575970a63": 1792505639.2938175,
-  "841e5e1fa9166e75": 1792505640.6161683,
-  "2b8aeef5d1be6609": 1792505641.8410544,
-  "2243d2aca40a79ef": 1792505643.1137638,
-  "0bc24e62df035c7d": 1792505643.1137898,
-  "c856a8aa1a2d4b1f": 1792505643.1137938,
-  "bed2f317bde70866": 1792505643.1137962,
-  "209851bedfbb16c8": 1792505672.7385957,
-  "d97c02da52c4fb93": 1792505672.7386208,
-  "81e209e295dbdeed": 1792505673.9790287,
-  "91f77c5b78a5f99b": 1792505673.9790523,
-  "77ac9e1ff2a2204f": 1792505673.9790554,
-  "a322da2718c08885": 1792505673.979058,
-  "dfed16153109dee7": 1792505673.9790673,
-  "6d348b3b313f14da": 1792505675.1872072,
   "7c16acb1d7f64801": 1792507886.6269627,
   "8ad2e2ad90fd3b06": 1792507886.6269734,
   "30811e9bb9a0e161": 1792507886.626976,
@@ -4798,11 +4765,27 @@
   "fbffec0eeb666708": 1792764561.0827575,
   "cacbe86969dd7daa": 1792764561.082759,
   "f6e55ccdd0852b43": 1792764562.361932,
-  "0295d63cdf24075b": 1792764562.3619595
+  "0295d63cdf24075b": 1792764562.3619595,
+  "2f5c8633dbbb7458": 1792766884.447329,
+  "aefcf618a5498aa4": 1792766885.6619804,
+  "31873f3c8dab9b94": 1792766885.662006,
+  "006bca099132985f": 1792766885.6620107,
+  "83715a755d6b338e": 1792766885.6620147,
+  "e5b5d40af6130c2e": 1792766885.662018,
+  "43da02687c9b20d8": 1792766886.8479083,
+  "b211c109b7803b66": 1792766886.847928,
+  "db895e7ad276c280": 1792766886.847934,
+  "cf5ddc7abf1da1ad": 1792766886.847939,
+  "844441c983e36115": 1792766886.8479428,
+  "0ffd34c393b2aa71": 1792766886.8479464,
+  "a9534bb5b85ce14c": 1792766886.8479497,
+  "e730f58decc03cc9": 1792766886.8479528,
+  "1abc26f0f3496a49": 1792766886.8479555,
+  "cd8ccc35d610c60d": 1792766886.8479576,
+  "7af36d0631076e42": 1792766886.84796,
+  "ce7b6078b7ea9e6e": 1792766886.8479626
  },
  "recent": [
-  "Nasdaq, Dow, S&P 500 Futures Drop Premarket: NVDA, AMD, META, CRWV, MRNA, WDC, BE In Focus",
-  "The Hardware Ceiling: ByteDance, Alibaba, and Tencent Bet $35B on the RTX PRO 5500",
   "Nasdaq 100 Slides as Meta Posts Strong Results and Drops 6%",
   "Kowsari: Rising Oil Prices Expose Falsehood of Trump's Claims Regarding Strait of Hormuz",
   "Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally",
@@ -4840,29 +4823,31 @@
   "This Company Behind the World’s AI Chips Could Be a Huge Winner",
   "Stocks extend declines, 10-year Treasury holds below 5%: AlphaCheck",
   "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-  "Apple Duo goes on sale in-store as iPhone 18 demand disappoints"
+  "Apple Duo goes on sale in-store as iPhone 18 demand disappoints",
+  "Microsoft Earnings Report To Focus On AI Momentum, Capex",
+  "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem"
  ],
  "initialized": true,
  "last_alert": 1792764544.484439,
  "last_run": {
   "feeds_ok": 14,
   "feeds_failed": [
-   "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+OR+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
-   "https://news.google.com/rss/search?q=CPI+OR+%22jobs+report%22+OR+payro -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
-   "https://news.google.com/rss/search?q=%22oil+prices%22+OR+OPEC+OR+Iran+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
-   "https://news.google.com/rss/search?q=Nasdaq+OR+%22AI+chips%22+OR+%22ch -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+   "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+OR+ -> 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?",
+   "https://news.google.com/rss/search?q=CPI+OR+%22jobs+report%22+OR+payro -> 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?",
+   "https://news.google.com/rss/search?q=%22oil+prices%22+OR+OPEC+OR+Iran+ -> 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?",
+   "https://news.google.com/rss/search?q=Nasdaq+OR+%22AI+chips%22+OR+%22ch -> 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?"
   ],
-  "fetched": 109,
-  "new": 46,
+  "fetched": 106,
+  "new": 43,
   "rated": {
    "low": 16,
-   "medium": 4,
-   "high": 1
+   "medium": 2,
+   "high": 0
   },
-  "posted": 5,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 101 (char 3302)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 100 (char 2946)"
   ],
-  "time": "2026-10-23T14:09:22+00:00"
+  "time": "2026-10-23T14:48:06+00:00"
  }
 }
