@@ -1,25 +1,5 @@
 {
  "seen": {
-  "2be35f9befff27d4": 1792468906.876384,
-  "6d3280b03417c775": 1792468908.1176202,
-  "98199b7f66bcdfe2": 1792468908.1176395,
-  "e324ffebd31554d0": 1792468908.117644,
-  "950b133d5d739d0b": 1792468908.1176474,
-  "6f43741f273b48f3": 1792468909.3559396,
-  "3af5dba89c67a0a6": 1792468909.3559587,
-  "1e55595a06faca6a": 1792468909.3559632,
-  "4e0f75623ee283b3": 1792468910.792468,
-  "07573787f85f1a08": 1792468910.7924995,
-  "961afa1ab3d8faac": 1792468910.7925036,
-  "587c69109cabf5ac": 1792468910.7925076,
-  "b147ffda8fe4fdd0": 1792468910.792511,
-  "3e2ae178ea33192c": 1792468910.7925143,
-  "e7e9ae7af4733120": 1792468910.792518,
-  "ce0c839176c1b965": 1792468910.7925208,
-  "331f724eaa2d9eab": 1792468912.0567617,
-  "b6ba3495d00c2036": 1792468912.0567803,
-  "d7ddc5036b9eed92": 1792468912.0567849,
-  "9b19ec4092097522": 1792468912.0567892,
   "766c91d58b7d6487": 1792470760.244584,
   "826f946a5be3bc05": 1792470760.244591,
   "337f38d186f862c9": 1792470760.244595,
@@ -5263,19 +5243,20 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 115,
-  "new": 86,
+  "fetched": 125,
+  "new": 98,
   "rated": {
-   "low": 3,
-   "medium": 6,
-   "high": 2
+   "low": 0,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 7,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 98 (char 2960)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4565)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 106 (char 2144)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4491)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 56 (char 747)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3319)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 143 (char 1979)"
   ],
-  "time": "2026-10-23T03:46:28+00:00"
+  "time": "2026-10-23T04:18:47+00:00"
  }
 }
