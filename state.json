@@ -1,8 +1,5 @@
 {
  "seen": {
-  "7e32a942ac7a2a88": 1792462848.1308565,
-  "32621a88355381e4": 1792462849.401117,
-  "27cdbd6b8e1547ef": 1792462849.4011424,
   "7911f864d3135936": 1792464955.6170235,
   "a067f6e924a41d8c": 1792464955.6170294,
   "7c21d512a4f8addc": 1792464955.6170323,
@@ -5248,12 +5245,19 @@
   "31a26680c790a81e": 1792718749.4266553,
   "561feeb0d7f6860e": 1792718749.4266582,
   "7a2bacdffce16b3c": 1792718750.6816776,
-  "9b3b6e65b06c78b1": 1792718750.6816983
+  "9b3b6e65b06c78b1": 1792718750.6816983,
+  "8d563b85ed126195": 1792722977.451073,
+  "36ae142407379f6d": 1792722977.4510818,
+  "2cb79cd3dc320c8a": 1792722977.4510853,
+  "442a85cfc893f160": 1792722978.7829435,
+  "677c9b8ae40b9e24": 1792722978.7829707,
+  "d498dd66b65a028d": 1792722978.7829747,
+  "49e2e34a3db5ac31": 1792722978.7829773,
+  "25e21a02ed0dd499": 1792722979.9846277,
+  "1388fe4ee501d483": 1792722981.3576574,
+  "a2f1f0a13aa92ff2": 1792722981.3576837
  },
  "recent": [
-  "Intel (NASDAQ:INTC) Stock Falls 8% on Analyst Downgrade",
-  "Trump warns of more strikes on Iran",
-  "October Marks Highest Number of Strait of Hormuz Attacks",
   "Oil prices jump above $112, Bitcoin falls 4.2% amid inflation and growth concerns ahead of Fed decision.",
   "Trump Says US ‘Not Negotiating’ With Iran, Something Will Happen ‘Fairly Soon’",
   "Stocks fall as AI jitters ease bets on Fed hikes",
@@ -5290,27 +5294,31 @@
   "(LEAD) Seoul shares open sharply lower amid persistent AI woes, rising oil prices",
   "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
   "Iran threatens to target US data centres",
-  "Rundunar sojin Iran ta IRGC ta yi barazanar kai wa maƙwabtanta hari matuƙar aka kai musu hari daga ƙasashensu"
+  "Rundunar sojin Iran ta IRGC ta yi barazanar kai wa maƙwabtanta hari matuƙar aka kai musu hari daga ƙasashensu",
+  "Fears of return to war grow as Iran reports attacks on seven tankers",
+  "Report: Iran Threatens Gulf Targets if US, Israel Strike",
+  "Yen shines as AI jitters spur safe-haven rush"
  ],
  "initialized": true,
  "last_alert": 1792716298.9387095,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 154,
-  "new": 99,
-  "rated": {
-   "low": 0,
-   "medium": 0,
-   "high": 0
-  },
-  "posted": 0,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 62 (char 2099)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 98 (char 3216)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 58 (char 296)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 97 (char 3617)"
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
   ],
-  "time": "2026-10-23T02:04:49+00:00"
+  "fetched": 126,
+  "new": 85,
+  "rated": {
+   "low": 7,
+   "medium": 2,
+   "high": 1
+  },
+  "posted": 3,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 101 (char 3778)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 101 (char 2150)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 97 (char 4600)"
+  ],
+  "time": "2026-10-23T02:36:21+00:00"
  }
 }
