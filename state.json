@@ -4576,10 +4576,11 @@
   "66709e01b5961129": 1792783833.8892224,
   "a4d8de50533ea908": 1792783833.8892267,
   "97d9a5ef776a7a1b": 1792783833.8892295,
-  "c225ef08a3235808": 1792783835.1358168
+  "c225ef08a3235808": 1792783835.1358168,
+  "0ca33016e158808a": 1792785610.8392477,
+  "7b64f806de7fb4c0": 1792785612.0850177
  },
  "recent": [
-  "Nasdaq Turns Green With Chip Stocks Rebounding",
   "How Apple dethroned Nvidia to become world's most valuable company",
   "Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel",
   "Apple Stock Hits Record High On iPhone Duo Launch",
@@ -4618,24 +4619,27 @@
   "Futures Slip as Big Tech Falters, Oil Extends Relentless Advance",
   "Big Win for Trump: Gulf Oil Shipments and Experts Are Coming Back to Pre Iran War Levels But the Problems Keep Growing",
   "Stock Market Today: Dow Sheds 600 Points As Oil Jumps; Samsara Breaks Out (Live Coverage)",
-  "Iran Claims Parliament Speaker Has Met with Missing ‘Supreme Leader’"
+  "Iran Claims Parliament Speaker Has Met with Missing ‘Supreme Leader’",
+  "Oil Prices Jump $3 on Houthi Attacks, Oil Spill, Highest Settlement Since April"
  ],
  "initialized": true,
  "last_alert": 1792775648.3165147,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 213,
-  "new": 100,
+  "fetched": 215,
+  "new": 77,
   "rated": {
-   "low": 55,
-   "medium": 17,
-   "high": 3
+   "low": 1,
+   "medium": 0,
+   "high": 1
   },
-  "posted": 12,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 140 (char 3804)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 102 (char 4447)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 185 (char 3234)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 5101)"
   ],
-  "time": "2026-10-23T19:30:35+00:00"
+  "time": "2026-10-23T20:00:12+00:00"
  }
 }
