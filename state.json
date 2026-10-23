@@ -1,22 +1,5 @@
 {
  "seen": {
-  "0c4d7f250fcdfc58": 1792472827.4836955,
-  "2ccd0c9b89772046": 1792472827.4837022,
-  "2e131a2edf965249": 1792472827.483705,
-  "299288a2173509ca": 1792472827.4837072,
-  "365cfc97ffbcdff8": 1792472827.4837084,
-  "979be2fb91c6e73d": 1792472827.4837105,
-  "7f633f748817dcb3": 1792472827.483712,
-  "d2eeac1bfaee7d00": 1792472827.4837136,
-  "61b51bd622097324": 1792472827.4837153,
-  "6d656e18ebdd6ab1": 1792472827.4837177,
-  "04fc6a0729202574": 1792472827.4837189,
-  "135c64e361c7ee94": 1792472827.4837203,
-  "6e25dd33e479276e": 1792472827.4837215,
-  "66bac8eccbf73209": 1792472827.4837232,
-  "c224800275f1a85c": 1792472827.483728,
-  "a8cd1f97c7146750": 1792472827.4837291,
-  "2578e05e7efb4dda": 1792472827.4837308,
   "580f04746a70d8ed": 1792474704.0826385,
   "65b8caeea99bff2b": 1792474704.0826457,
   "d5e20d20639565eb": 1792474704.0826497,
@@ -5176,10 +5159,14 @@
   "335bec89ae75285a": 1792731361.2938714,
   "b0707ed8762f8a2f": 1792731362.523317,
   "562d3a758c4c3f6a": 1792731362.5233414,
-  "a6c3f51b72709684": 1792731363.8928404
+  "a6c3f51b72709684": 1792731363.8928404,
+  "1f9a314d8be9469e": 1792733066.811811,
+  "9e4ba062cf489c1c": 1792733066.8118167,
+  "f7b56108b734816f": 1792733066.8118203,
+  "55659c760c55d47f": 1792733066.8118234,
+  "07afc69d24afb868": 1792733068.186583
  },
  "recent": [
-  "Morning Wrap: ASX 200 to fall, Meta drags Nasdaq to worst day since June, Brent tops US$112 a barrel",
   "Iran's Shadow Tanker Fleet Has Officially Run Dry, and So Has the Lifeline Keeping the Regime Afloat",
   "US Intelligence Warns Iran Unlikely to Ease Hormuz Strait Chokehold Soon",
   "Western Digital (NASDAQ:WDC) Posts Quarterly Earnings Results, Beats Estimates By $0.53 EPS",
@@ -5218,26 +5205,27 @@
   "Turkey convenes seven-nation talks on Iran, Yemen and Ukraine",
   "Tech Stocks Plunge on AI Investment Burden",
   "Oil Prices Hit Five-Month High as Houthi Attacks Raise Saudi Supply Fears",
-  "IDF chief says no Iran strike needed before election"
+  "IDF chief says no Iran strike needed before election",
+  "Iran unveils offensive doctrine, US issues warning: Is war imminent?"
  ],
  "initialized": true,
  "last_alert": 1792727138.09611,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 105,
-  "new": 89,
+  "fetched": 103,
+  "new": 80,
   "rated": {
-   "low": 7,
-   "medium": 4,
-   "high": 3
+   "low": 3,
+   "medium": 0,
+   "high": 2
   },
-  "posted": 5,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 4110)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 142 (char 3400)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4620)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 190 (char 4678)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 4144)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3771)"
   ],
-  "time": "2026-10-23T04:56:03+00:00"
+  "time": "2026-10-23T05:24:28+00:00"
  }
 }
