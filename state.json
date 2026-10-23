@@ -1,26 +1,5 @@
 {
  "seen": {
-  "3369e83edc66127f": 1792536118.4876854,
-  "b4e11849c969ce5b": 1792536119.8226643,
-  "3a9188b9b6322df2": 1792536119.8226895,
-  "19fa15b0b564a659": 1792536119.8226953,
-  "7e35cd2b09f2b8fa": 1792536119.8227007,
-  "b1dc92599f3fe137": 1792536119.8227067,
-  "906054920f6b877b": 1792536119.8227115,
-  "4911fb1b98b3a302": 1792536119.822714,
-  "e348625e071431b3": 1792536119.8227167,
-  "02bc7972a223bc82": 1792536121.101224,
-  "fe8c48c2169901fe": 1792536121.1012468,
-  "bea3d8e3e2b23022": 1792536121.1012526,
-  "76df3e3373baf4d9": 1792536121.1012564,
-  "1a7060ff15acdcbe": 1792536122.4475076,
-  "0b2e085814737c44": 1792536122.447528,
-  "7dea254d9c32398e": 1792536122.4475331,
-  "d441388e2d648692": 1792536122.4475358,
-  "7d62b85e18e90749": 1792536122.4475389,
-  "550dcaf060d6745d": 1792536122.447544,
-  "e7d28fd1965acf01": 1792536122.4475474,
-  "6b3b9179abda4e48": 1792536123.7608287,
   "9ec014fae6e808fe": 1792537779.440489,
   "fe50ed9ea479ff15": 1792537779.4405036,
   "f2165ca201af9da6": 1792539495.7772465,
@@ -4487,15 +4466,28 @@
   "eec8182240474128": 1792795133.6497726,
   "5371fed600fa8444": 1792795134.9591818,
   "698fe46117ed01e0": 1792795136.2080638,
-  "1dba75537d55b29f": 1792795136.2080867
+  "1dba75537d55b29f": 1792795136.2080867,
+  "b66b1cd7ee426065": 1792796863.8260403,
+  "52ffc1d80be192f7": 1792796865.0516968,
+  "8150006bc023ebff": 1792796865.051716,
+  "eb57b8e890fee539": 1792796865.0517256,
+  "29285f6207234fb2": 1792796866.312947,
+  "05577474f9a7b16e": 1792796866.3129678,
+  "af9d315573257765": 1792796866.3129716,
+  "7f261ab2f2eabee1": 1792796866.3129752,
+  "708bb5f6e48fa169": 1792796867.5783222,
+  "880acdce255b56d7": 1792796867.578342,
+  "ca976d5127603f8e": 1792796868.8125927,
+  "21c30f914abfcd75": 1792796868.8126135,
+  "83a7ba34f8cf27db": 1792796868.8126178,
+  "72ce7ae3f4268ab3": 1792796870.0760672,
+  "08f3d3219a31e8a5": 1792796870.076119,
+  "76259078a58d53ca": 1792796870.076124,
+  "32f3a451931b8c87": 1792796870.076127,
+  "ee508fa77334f756": 1792796871.341159,
+  "d0167bad3602f478": 1792796871.341183
  },
  "recent": [
-  "Gold falls below $4,000 as Oil surge deepens weekly rout ahead of Fed",
-  "Tom Brack: The possibility of striking Iran within days is very high",
-  "Futures Slip as Big Tech Falters, Oil Extends Relentless Advance",
-  "Big Win for Trump: Gulf Oil Shipments and Experts Are Coming Back to Pre Iran War Levels But the Problems Keep Growing",
-  "Stock Market Today: Dow Sheds 600 Points As Oil Jumps; Samsara Breaks Out (Live Coverage)",
-  "Iran Claims Parliament Speaker Has Met with Missing ‘Supreme Leader’",
   "Oil Prices Jump $3 on Houthi Attacks, Oil Spill, Highest Settlement Since April",
   "Update: US Equity Indexes Mixed as Technology Attempts Recovery Amid Surging Crude Oil",
   "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
@@ -4529,25 +4521,31 @@
   "Iran Has Plans to Hit Gulf Undersea Cables if War Resumes, Officials Say",
   "Oil Tops $117 as Fears of Wider Middle East War Reignite Inflation Anxiety",
   "S&P 500 Today: Stock Market Index Drops to 7,623.68 as Oil Surges and the 10-Year Treasury Yield Hovers at 5% Ahead of the Fed",
-  "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
+  "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+  "Nasdaq Slides to 25,955.34 Amid AI Spending Worries, Surging Energy Prices and Semiconductor Sell-Off",
+  "US and Iran trade new threats, diplomacy yields no breakthrough",
+  "S&P500: Defensive Stocks Slide as Nasdaq Finds Narrow Chip Support",
+  "Soaring oil prices stoke inflation concerns, putting pressure on both stocks and bonds",
+  "Earnings flood, Fed meeting will test rickety AI market rally",
+  "Oil prices today, October 24th: Brent reaches a 6-month high, surpassing $116."
  ],
  "initialized": true,
  "last_alert": 1792787421.3161762,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 180,
-  "new": 91,
+  "fetched": 158,
+  "new": 69,
   "rated": {
-   "low": 27,
-   "medium": 10,
-   "high": 4
+   "low": 13,
+   "medium": 6,
+   "high": 0
   },
-  "posted": 13,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 3963)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4340)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 100 (char 2759)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 150 (char 4481)"
   ],
-  "time": "2026-10-23T22:38:56+00:00"
+  "time": "2026-10-23T23:07:51+00:00"
  }
 }
