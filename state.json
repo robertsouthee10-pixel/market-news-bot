@@ -1,7 +1,5 @@
 {
  "seen": {
-  "9ec014fae6e808fe": 1792537779.440489,
-  "fe50ed9ea479ff15": 1792537779.4405036,
   "f2165ca201af9da6": 1792539495.7772465,
   "34afee88870b2015": 1792539495.777253,
   "2b174b7acdefaf37": 1792539495.777256,
@@ -4485,11 +4483,26 @@
   "76259078a58d53ca": 1792796870.076124,
   "32f3a451931b8c87": 1792796870.076127,
   "ee508fa77334f756": 1792796871.341159,
-  "d0167bad3602f478": 1792796871.341183
+  "d0167bad3602f478": 1792796871.341183,
+  "dbaecc2efd7a2d5e": 1792798591.8207147,
+  "d6e10b32319a40b2": 1792798591.8207211,
+  "d22678ddd43c4429": 1792798591.8207245,
+  "a57670b563b96d97": 1792798591.8207276,
+  "39cdb556f28c3615": 1792798593.0888517,
+  "8eb09176ee02eebb": 1792798593.0888772,
+  "20375380554a3453": 1792798593.0888817,
+  "ce5afaaabada5bb4": 1792798593.0888848,
+  "800609a8152bf6f2": 1792798594.2741315,
+  "093d72c261582929": 1792798594.2741542,
+  "c12da9b3e387be45": 1792798594.2741601,
+  "009eaef899422e0b": 1792798594.2741642,
+  "ff66dca21239e121": 1792798594.2741673,
+  "45f3287171dc1c6e": 1792798594.2741706,
+  "bfb020c1cf191f88": 1792798594.2741735,
+  "fa109a51e322b174": 1792798594.2741764,
+  "8490e9dc1368dbe8": 1792798594.2741783
  },
  "recent": [
-  "Oil Prices Jump $3 on Houthi Attacks, Oil Spill, Highest Settlement Since April",
-  "Update: US Equity Indexes Mixed as Technology Attempts Recovery Amid Surging Crude Oil",
   "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
   "Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chipmaking Prowess: ‘If There's One Country That Could Manufacture Things at Scale’",
   "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
@@ -4527,25 +4540,27 @@
   "S&P500: Defensive Stocks Slide as Nasdaq Finds Narrow Chip Support",
   "Soaring oil prices stoke inflation concerns, putting pressure on both stocks and bonds",
   "Earnings flood, Fed meeting will test rickety AI market rally",
-  "Oil prices today, October 24th: Brent reaches a 6-month high, surpassing $116."
+  "Oil prices today, October 24th: Brent reaches a 6-month high, surpassing $116.",
+  "Trump says US could end Iran war soon or further weaken Tehran before turning to Cuba",
+  "Middle East physical oil prices are falling while Brent crude soars to six-month highs"
  ],
  "initialized": true,
- "last_alert": 1792787421.3161762,
+ "last_alert": 1792798560.2010083,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 158,
-  "new": 69,
+  "fetched": 153,
+  "new": 67,
   "rated": {
-   "low": 13,
+   "low": 11,
    "medium": 6,
    "high": 0
   },
-  "posted": 6,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 100 (char 2759)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 150 (char 4481)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 7 column 97 (char 992)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 56 (char 280)"
   ],
-  "time": "2026-10-23T23:07:51+00:00"
+  "time": "2026-10-23T23:36:34+00:00"
  }
 }
