@@ -1,23 +1,5 @@
 {
  "seen": {
-  "a18a9e44265964cf": 1792466715.7499368,
-  "46ded06baf791c1e": 1792466715.7499416,
-  "6262dda6ac074dae": 1792466715.7499447,
-  "dbe97bacbcdf3422": 1792466715.7499504,
-  "ae84cc81dd4847f6": 1792466715.7499528,
-  "6619e87f10ddcade": 1792466715.749954,
-  "96b2566df62c3bc7": 1792466717.0133784,
-  "6709e4a02147d1a1": 1792466717.0134022,
-  "8a3854a526ae4abe": 1792466717.013405,
-  "672d752c71af538a": 1792466718.2315722,
-  "ee12f0c3b78a30b2": 1792466719.4830434,
-  "25002eaeee421b07": 1792466719.4830651,
-  "a5bf4869723d7379": 1792466719.4830682,
-  "c970cc7ec8192e83": 1792466719.4830706,
-  "b831a3f9c35e4c35": 1792466719.4830742,
-  "9f361c4b7b677101": 1792466720.9721057,
-  "175a7eeb9ac08782": 1792466720.9721303,
-  "65ab42ffac0433a0": 1792466720.972134,
   "2be35f9befff27d4": 1792468906.876384,
   "6d3280b03417c775": 1792468908.1176202,
   "98199b7f66bcdfe2": 1792468908.1176395,
@@ -5221,16 +5203,20 @@
   "49e2e34a3db5ac31": 1792722978.7829773,
   "25e21a02ed0dd499": 1792722979.9846277,
   "1388fe4ee501d483": 1792722981.3576574,
-  "a2f1f0a13aa92ff2": 1792722981.3576837
+  "a2f1f0a13aa92ff2": 1792722981.3576837,
+  "333c5fcade60fa1e": 1792727179.8142295,
+  "ec9b1544c0e2b946": 1792727179.8142347,
+  "fbd9e7f6d1cf1cc8": 1792727179.814237,
+  "b6222c7432d5addb": 1792727181.1065814,
+  "301a8d8ae2b4faca": 1792727182.4234202,
+  "dce50b3b6f267650": 1792727182.423444,
+  "0b7ae6d1d7ad5d49": 1792727183.789431,
+  "9ab733e1494f1aa4": 1792727185.0731955,
+  "5be784c09867347d": 1792727186.3646066,
+  "ac2240a9b3e8cd6e": 1792727187.594651,
+  "312ac7f560dc69af": 1792727188.979131
  },
  "recent": [
-  "Oil prices jump above $112, Bitcoin falls 4.2% amid inflation and growth concerns ahead of Fed decision.",
-  "Trump Says US ‘Not Negotiating’ With Iran, Something Will Happen ‘Fairly Soon’",
-  "Stocks fall as AI jitters ease bets on Fed hikes",
-  "Treasury Yields Fall Below 5% as AI Concerns Rattle Markets",
-  "Worrying signals behind the Iran-US negotiations",
-  "Japanese Yen Surges Across FX Majors as Risk Aversion Intensifies",
-  "Nasdaq Composite Powers Past 26,600 as SpaceX Hits Historic Maiden Profit and Super Micro Rekindles AI Optimism Despite Netflix Slump",
   "Market Today: Nasdaq Tumbles, Meta Fined, Moderna Drops on Data Leak",
   "Oil prices surge on reports US considering more Iran strikes",
   "Netanyahu claims Iran is building nuclear bomb to attack Israel",
@@ -5263,26 +5249,33 @@
   "Rundunar sojin Iran ta IRGC ta yi barazanar kai wa maƙwabtanta hari matuƙar aka kai musu hari daga ƙasashensu",
   "Fears of return to war grow as Iran reports attacks on seven tankers",
   "Report: Iran Threatens Gulf Targets if US, Israel Strike",
-  "Yen shines as AI jitters spur safe-haven rush"
+  "Yen shines as AI jitters spur safe-haven rush",
+  "Meta found a new way to pay for its AI boom",
+  "'We May Go A Little Further': Trump Signals Escalation In Iran Conflict As Talks Remain Stalled",
+  "Fed expected to pause rates before hiking in December",
+  "🇺🇸🇮🇷🇮🇱 Photos of Iran's strikes on Gulf bases show the hangars where America keeps its spare parts burned... which leaves the US Navy with a one and done war Those canopies in Bahrain and the UAE held the parts that keep jets flying, so planes now go",
+  "Trump signals possible further action on Iran",
+  "US and Israel deepen plans to attack Iran after elections",
+  "Gold rebounds from three-month low as Fed hike bets cap recovery"
  ],
  "initialized": true,
- "last_alert": 1792716298.9387095,
+ "last_alert": 1792727138.09611,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 117,
-  "new": 72,
+  "fetched": 115,
+  "new": 86,
   "rated": {
-   "low": 0,
-   "medium": 0,
-   "high": 0
+   "low": 3,
+   "medium": 6,
+   "high": 2
   },
-  "posted": 0,
+  "posted": 7,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3757)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2733)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3924)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 98 (char 2960)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4565)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 106 (char 2144)"
   ],
-  "time": "2026-10-23T03:11:21+00:00"
+  "time": "2026-10-23T03:46:28+00:00"
  }
 }
