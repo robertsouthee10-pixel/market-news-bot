@@ -1,39 +1,5 @@
 {
  "seen": {
-  "7911f864d3135936": 1792464955.6170235,
-  "a067f6e924a41d8c": 1792464955.6170294,
-  "7c21d512a4f8addc": 1792464955.6170323,
-  "4cc2b45c95d987ca": 1792464955.6170347,
-  "ffea571bf399118f": 1792464955.6170368,
-  "dee67a3fb9713163": 1792464955.617039,
-  "289c8a0d0ad711bd": 1792464956.9825647,
-  "6a23d5fb9614593b": 1792464956.9825852,
-  "ade006da0f7d3c42": 1792464956.9825907,
-  "649d0d16f7dd336c": 1792464956.982598,
-  "851b07d191a2b50b": 1792464956.9826026,
-  "a171ebb6473dd853": 1792464956.9826095,
-  "6b1e8e048e76215c": 1792464956.9826136,
-  "2d19bd18a05febf3": 1792464956.9826157,
-  "b6bd94f14c2448d4": 1792464958.2206006,
-  "8b5c6f073e369fe9": 1792464958.2206256,
-  "87de659e91721ccf": 1792464958.2206306,
-  "d699b7f06c638bb9": 1792464958.2206337,
-  "8f1152d69e92d0cf": 1792464958.2206378,
-  "e8d4afb3aad47d9e": 1792464958.2206414,
-  "0ed69edffe7d13c8": 1792464958.2206442,
-  "396ea45dca738dfe": 1792464958.2206476,
-  "d78fe84a894e2323": 1792464958.220651,
-  "21807516a6c351c1": 1792464958.2206573,
-  "aeab5a8147a10947": 1792464958.220661,
-  "981d0a74302389e8": 1792464982.5836723,
-  "82b71dc1822f8832": 1792464982.5836773,
-  "026b899b1b7b943a": 1792464982.5836797,
-  "aa6492ae168edb79": 1792464982.5836818,
-  "96aca99d24ffc92b": 1792464982.5836837,
-  "61f0d0ed6cd2de84": 1792464982.5836868,
-  "3feece6ae1d65f05": 1792464982.5836895,
-  "4d4f931acca0430a": 1792464982.5836926,
-  "3f8adc6c1f4c9f55": 1792464982.583695,
   "a18a9e44265964cf": 1792466715.7499368,
   "46ded06baf791c1e": 1792466715.7499416,
   "6262dda6ac074dae": 1792466715.7499447,
@@ -5302,23 +5268,21 @@
  "initialized": true,
  "last_alert": 1792716298.9387095,
  "last_run": {
-  "feeds_ok": 17,
-  "feeds_failed": [
-   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
-  ],
-  "fetched": 126,
-  "new": 85,
+  "feeds_ok": 18,
+  "feeds_failed": [],
+  "fetched": 117,
+  "new": 72,
   "rated": {
-   "low": 7,
-   "medium": 2,
-   "high": 1
+   "low": 0,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 3,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 101 (char 3778)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 101 (char 2150)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 97 (char 4600)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3757)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2733)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3924)"
   ],
-  "time": "2026-10-23T02:36:21+00:00"
+  "time": "2026-10-23T03:11:21+00:00"
  }
 }
