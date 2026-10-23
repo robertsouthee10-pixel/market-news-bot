@@ -1,24 +1,5 @@
 {
  "seen": {
-  "5890a92e18c6b492": 1792476668.1684713,
-  "012a7e0bd3fc8bde": 1792476668.1684778,
-  "d25bbe43c344439b": 1792476668.168482,
-  "70aa7f4953c20956": 1792476668.1684854,
-  "b6fdc032c1e615eb": 1792476668.1684883,
-  "5e905f9b10d4f2e3": 1792476668.1684914,
-  "67c2486d2c23f65c": 1792476668.1685112,
-  "d87c42772850587c": 1792476668.1685143,
-  "9c1ac564a44ca3fe": 1792476668.1685174,
-  "e96e81d75bef7fde": 1792476668.1685233,
-  "9aa3f6c4b5bb2ce8": 1792476668.1685266,
-  "4950b7e3b78bdd3d": 1792476668.1685295,
-  "4f54d762d0d73a8f": 1792476669.6268468,
-  "78972179d13cfb0b": 1792476669.6268678,
-  "996d11f4b192eb12": 1792476670.8926346,
-  "4c6c9608e09f9417": 1792476672.1702206,
-  "d484f2f210e8160d": 1792476672.1702433,
-  "5de344627d563a55": 1792476672.170247,
-  "1eec005196c980c1": 1792476672.17025,
   "93252523ce119238": 1792479272.2451725,
   "8ba2b58efdc5d11c": 1792479272.2451801,
   "5d89c21f06affb84": 1792479272.2451837,
@@ -5130,11 +5111,15 @@
   "d1f74a71e3205c80": 1792735182.7594688,
   "2df5adbfff09c1be": 1792735182.7594886,
   "3730faed1ccfd1a5": 1792735182.759492,
-  "ba72da6dcb4e619e": 1792735182.7594993
+  "ba72da6dcb4e619e": 1792735182.7594993,
+  "30a40a6281fbbf9f": 1792737502.9104574,
+  "e9b9b6f4ebe9d3bb": 1792737502.9104624,
+  "1e48f32453cfbb19": 1792737504.178331,
+  "468fc8e0e6197b78": 1792737504.178353,
+  "de7dea8499a0773d": 1792737504.1783636,
+  "5cfcd4faede8b645": 1792737505.5271797
  },
  "recent": [
-  "Saudi Strike Sends Oil Above $113; Gold Breaks Below $4,050 in Capitulation-Style Selloff",
-  "Tensions escalate between Yemen's Iran-aligned Houthi rebels and Saudi Arabia",
   "Investors are punishing Big Tech's biggest spenders. Meta is the latest casualty.",
   "AI debt and French bonds face a stress test — why it may not be over",
   "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
@@ -5172,26 +5157,29 @@
   "Iran unveils offensive doctrine, US issues warning: Is war imminent?",
   "US lifting sanctions on 'dark fleet' not expected to solve tanker crisis",
   "Oil Prices Fall as Trump Moves to Boost US Oil Production Amid Middle East Tensions",
-  "Iran Issues Ultimatum to Middle East Countries Over Support for US"
+  "Iran Issues Ultimatum to Middle East Countries Over Support for US",
+  "Trump Rules Out Iran Strikes Before Midterms as Pentagon Prepares Plans for New Attacks",
+  "Oil: Hormuz risks and freight costs drive prices higher – Rabobank"
  ],
  "initialized": true,
  "last_alert": 1792727138.09611,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 104,
-  "new": 85,
+  "fetched": 128,
+  "new": 106,
   "rated": {
-   "low": 4,
-   "medium": 6,
+   "low": 2,
+   "medium": 4,
    "high": 0
   },
-  "posted": 3,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 4941)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 142 (char 2418)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 140 (char 3290)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 62 (char 4352)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3805)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 139 (char 4562)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3249)"
   ],
-  "time": "2026-10-23T05:59:42+00:00"
+  "time": "2026-10-23T06:38:25+00:00"
  }
 }
