@@ -1,22 +1,5 @@
 {
  "seen": {
-  "794be7438481a57a": 1792454335.8838542,
-  "a4cff48f34c6a17c": 1792454335.8838606,
-  "7643d0625350528e": 1792454335.883865,
-  "b91879def47e4d51": 1792454335.8838682,
-  "ce38646f980b7c36": 1792454335.8838704,
-  "bf70caac2b807722": 1792454335.8838725,
-  "aa99a50b847ea1d8": 1792454335.8838751,
-  "a18a64f2988c2d16": 1792454335.883877,
-  "261610b4494fa1a9": 1792454335.8838792,
-  "dcddfe632004c593": 1792454335.8838813,
-  "35c4316dc9d5aa6e": 1792454337.1823301,
-  "47ba98405eabb357": 1792454338.3736362,
-  "7de63f044474c54d": 1792454339.8201568,
-  "9cf2e4e701bc92ad": 1792454341.0812843,
-  "ae1495c9936066c7": 1792454342.3307981,
-  "be05a61912379535": 1792454342.330821,
-  "c3e9775c981e49e7": 1792454342.3308258,
   "50e52ccb1140b4a7": 1792456819.2796457,
   "6c68afefecb3a354": 1792456819.2796717,
   "a2b6bdf8ec1d4f0b": 1792456819.2796829,
@@ -5329,11 +5312,11 @@
   "94250c16ad243a72": 1792710454.1196961,
   "0818daf5f917607b": 1792712215.0939205,
   "dd8e1d0c581dae4b": 1792712215.09393,
-  "dafa20470396c0d5": 1792712215.0939357
+  "dafa20470396c0d5": 1792712215.0939357,
+  "2a13d7e99ff78da4": 1792713744.1730704,
+  "960ff0015a1876aa": 1792713745.6375186
  },
  "recent": [
-  "Trump accuses Iran of fabricating ship attacks to drive up oil prices",
-  "Intel Lobbying Rises as Senate Advances Chip Export Controls",
   "Stock Market Today, Oct. 22: CoreWeave Slides on Bernstein Downgrade and Financing Worries",
   "Musk wants to merge SpaceX and Tesla: Here's what to know",
   "Iran’s trade squeeze spreads from sea to land",
@@ -5371,27 +5354,29 @@
   "SpaceX says Tesla merger needs Musk’s approval, discloses megapack purchases (SPCX:NASDAQ)",
   "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
   "US troops evacuated from Middle East as Trump 'considers major Iran strikes'",
-  "Ed Miliband set for crucial talks over Strait of Hormuz crisis and Houthi attacks on Saudi Arabia"
+  "Ed Miliband set for crucial talks over Strait of Hormuz crisis and Houthi attacks on Saudi Arabia",
+  "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
+  "AMD, Monolithic Power Systems, MACOM, Vishay Intertechnology, and Semtech shares plummet, what you need to know"
  ],
  "initialized": true,
  "last_alert": 1792704650.2014685,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 194,
-  "new": 103,
+  "fetched": 180,
+  "new": 102,
   "rated": {
-   "low": 2,
-   "medium": 0,
-   "high": 1
+   "low": 0,
+   "medium": 2,
+   "high": 0
   },
-  "posted": 0,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 100 (char 3824)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 97 (char 3971)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4472)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 100 (char 4652)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4371)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 4507)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3999)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3667)"
   ],
-  "time": "2026-10-22T23:36:55+00:00"
+  "time": "2026-10-23T00:02:25+00:00"
  }
 }
