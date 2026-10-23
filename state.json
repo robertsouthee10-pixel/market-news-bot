@@ -1,32 +1,5 @@
 {
  "seen": {
-  "2cd522258ec4b924": 1792459138.361488,
-  "59462cdd6d08d0b5": 1792459139.7132876,
-  "a501f4e87775733d": 1792459139.7133067,
-  "f90915a500d7d223": 1792459139.713313,
-  "d14f27898faeeb64": 1792459139.7133164,
-  "ecb454d08cd06114": 1792459139.7133212,
-  "daa9a027460bfbc4": 1792459139.7133248,
-  "eaa23f3e48691df6": 1792459139.7133281,
-  "cb2d3eb2dbf9cd42": 1792459139.7133315,
-  "a0748d6923ea4da3": 1792459139.7133348,
-  "dddfaeea065148be": 1792459140.9935293,
-  "656d61effc34c4be": 1792459140.9935505,
-  "5bd79158d41c6bff": 1792459142.5506046,
-  "692f7c1bc4ea09fe": 1792459142.5506282,
-  "ef4470f338012eb9": 1792459143.8548117,
-  "fbc957c72b0f218a": 1792459145.1242197,
-  "87880846cd00f339": 1792459145.1242394,
-  "09885bf187685bc2": 1792459146.5003746,
-  "5961523a47034996": 1792459146.5003972,
-  "df23a3209969be17": 1792459146.5004034,
-  "a5b0ab28e58969d9": 1792459146.500407,
-  "6b210f668d31b213": 1792459147.780208,
-  "92a877f5299afb7c": 1792459147.7802274,
-  "2d2b3a0e80d6cd76": 1792459147.7802315,
-  "1fad57c5cdd2f5ba": 1792459147.780236,
-  "303388f94a7efbc6": 1792459168.3991306,
-  "f12106520b15c6a2": 1792459169.6723914,
   "5dfe37ee61463a7e": 1792461242.9397275,
   "34c42bffda6edf43": 1792461242.9397357,
   "f7496a4195ec2b3a": 1792461242.9397397,
@@ -5306,10 +5279,15 @@
   "cbfe17a014323ac1": 1792716345.9157856,
   "ec2b53bd0aab53ef": 1792716345.9157894,
   "837e0de553bda4e8": 1792716347.2862387,
-  "eac1d385ca571881": 1792716347.2862585
+  "eac1d385ca571881": 1792716347.2862585,
+  "8db4c6de8dde5539": 1792718749.4266446,
+  "0fd74879f863aa68": 1792718749.4266515,
+  "31a26680c790a81e": 1792718749.4266553,
+  "561feeb0d7f6860e": 1792718749.4266582,
+  "7a2bacdffce16b3c": 1792718750.6816776,
+  "9b3b6e65b06c78b1": 1792718750.6816983
  },
  "recent": [
-  "Oil Prices Jump After Houthi Strikes and Iranian Shipping Attacks",
   "Intel (NASDAQ:INTC) Stock Falls 8% on Analyst Downgrade",
   "Trump warns of more strikes on Iran",
   "October Marks Highest Number of Strait of Hormuz Attacks",
@@ -5348,26 +5326,27 @@
   "AMD, Monolithic Power Systems, MACOM, Vishay Intertechnology, and Semtech shares plummet, what you need to know",
   "(LEAD) Seoul shares open sharply lower amid persistent AI woes, rising oil prices",
   "U.S. Treasury yields crater, 10-yr closes at one-month low on safe-haven demand",
-  "Iran threatens to target US data centres"
+  "Iran threatens to target US data centres",
+  "Rundunar sojin Iran ta IRGC ta yi barazanar kai wa maƙwabtanta hari matuƙar aka kai musu hari daga ƙasashensu"
  ],
  "initialized": true,
  "last_alert": 1792716298.9387095,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 157,
-  "new": 90,
+  "fetched": 147,
+  "new": 81,
   "rated": {
-   "low": 12,
-   "medium": 3,
+   "low": 5,
+   "medium": 1,
    "high": 0
   },
-  "posted": 3,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2969)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 100 (char 4441)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 102 (char 3385)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2818)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4376)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 140 (char 3379)"
   ],
-  "time": "2026-10-23T00:45:47+00:00"
+  "time": "2026-10-23T01:25:50+00:00"
  }
 }
