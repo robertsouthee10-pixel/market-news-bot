@@ -1,15 +1,5 @@
 {
  "seen": {
-  "7797c211e75b2fce": 1792564079.2307158,
-  "9300f37d3648a99c": 1792564079.2307255,
-  "4e1b3dc102d3badc": 1792564079.2307286,
-  "9cb7c8a758123fcf": 1792564080.7205825,
-  "187d1c0974e448df": 1792564080.7206054,
-  "86f9a320b405436b": 1792564080.7206087,
-  "ba75f99b937ed949": 1792564081.924743,
-  "abdb90b8e7d36e55": 1792564081.9247656,
-  "a7d8661df5d633d8": 1792564081.92477,
-  "e17f3f1533657f88": 1792564081.924774,
   "2fe621bcc961dd71": 1792567222.624884,
   "d6742092d2bcd8a0": 1792567222.6248894,
   "e888120a63349b46": 1792567222.6248918,
@@ -4410,7 +4400,9 @@
   "3d0503eb391e33c0": 1792822439.1950727,
   "1eae19d26b119a2e": 1792822439.1950753,
   "c78e55a3c89848ae": 1792822460.0816486,
-  "af938adb4cd7a111": 1792822461.2659802
+  "af938adb4cd7a111": 1792822461.2659802,
+  "30a6798cba5fb7c5": 1792825229.9211824,
+  "2d0b65f4df009ebe": 1792825229.9211884
  },
  "recent": [
   "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus",
@@ -4459,17 +4451,19 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 120,
+  "fetched": 106,
   "new": 77,
   "rated": {
-   "low": 33,
-   "medium": 18,
-   "high": 1
+   "low": 2,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 8,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 4711)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 106 (char 4632)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3081)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 144 (char 4290)"
   ],
-  "time": "2026-10-24T06:14:21+00:00"
+  "time": "2026-10-24T07:00:29+00:00"
  }
 }
