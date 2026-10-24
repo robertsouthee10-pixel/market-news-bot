@@ -3966,14 +3966,45 @@
   "bd829aea22e64ae3": 1792859935.922577,
   "10c883407a29a244": 1792859935.9225805,
   "2fdd35ceb8253bd3": 1792859935.9225829,
-  "8722c0074cb7c5ea": 1792859935.9225848
+  "8722c0074cb7c5ea": 1792859935.9225848,
+  "ac9b51dea9f3cae6": 1792861679.4167476,
+  "2469a4e8118ea68a": 1792861679.4167533,
+  "e3634e0728783ec9": 1792861680.6160264,
+  "1c1ca858b1ece609": 1792861680.6160486,
+  "82172c7b5bf72b1b": 1792861680.616053,
+  "9ba48a5b5273ba9e": 1792861680.616056,
+  "0bb7ae5d6403ecf9": 1792861680.6160588,
+  "f4bf6b6da178ee5b": 1792861680.616062,
+  "7864d80b30743876": 1792861680.6160645,
+  "547f99a77e2b7a42": 1792861680.616068,
+  "b5769501d1aed1de": 1792861680.6160724,
+  "3da31c4e586085bd": 1792861680.616076,
+  "4f444370eb25ae7d": 1792861681.9006371,
+  "ceee59ce37a6eeca": 1792861681.9006586,
+  "4ac545f382936436": 1792861683.2324154,
+  "e474c98b04639a3a": 1792861683.2324367,
+  "699ed95cbbde0355": 1792861683.2324438,
+  "5e3f4dd1a576b6fa": 1792861683.232447,
+  "7badf90cf10df53b": 1792861683.23245,
+  "822d039782e205ec": 1792861683.2324526,
+  "d946a4f1334d30b7": 1792861683.232455,
+  "0e5d80548ff24fba": 1792861683.2324574,
+  "1eb9bc10f3b6ff6d": 1792861683.2324598,
+  "5ec61818d4969b17": 1792861683.2324624,
+  "213a9ea6f8a24312": 1792861684.4180157,
+  "d338dc06da18cbd2": 1792861708.6671386,
+  "ad872f56ff5cf760": 1792861708.6671424,
+  "b33edc08e2ea4c03": 1792861709.8537912,
+  "ce9358d8744e380b": 1792861709.8538122,
+  "d54d12d72f8edf62": 1792861709.8538187,
+  "4926474081c33ca2": 1792861709.8538218,
+  "dc21eff395649e8e": 1792861709.8538256,
+  "ba15b4f54c57c52e": 1792861709.8538284,
+  "ef9357b71963046d": 1792861709.853832,
+  "d53a845236645ba7": 1792861709.853835,
+  "530e00614cebd4cf": 1792861709.8538387
  },
  "recent": [
-  "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings; What To Do Amid Mixed Signals",
-  "Investors seek clear Fed strategy as Chair Wars...",
-  "Opposition To Military Action Against Iran, Demand To Reopen Strait Of Hormuz",
-  "Wall Street Closes Lower as Oil Prices Surge and Tech Stocks Drop",
-  "US Consumer Sentiment Declines Amid Fuel Price Hikes and Cost-of-Living Concerns",
   "Nvidia's Huang Pitches Chips as Loan Collateral to Unlock $500 Billion for AI Buildout",
   "US intelligence warns that Iran has advanced assassination plans targeting American diplomats and officials",
   "Crude Oil Prices Climb, Indian Rupee Weakens, and Dalal Street Faces Another Setback",
@@ -4008,24 +4039,29 @@
   "PC Sales Just Crashed 21% as AI Eats the World’s Memory Chips",
   "The AI Power Bill Comes Due: Will GE Vernova’s Q3 Earnings Oct. 28 Prove Its $176B Backlog Is Real?",
   "IRGC Navy: Two Oil Tankers Hit Mines in Strait of Hormuz",
-  "Iran remains open to talks with US under Pakistan-brokered deal, envoy says"
+  "Iran remains open to talks with US under Pakistan-brokered deal, envoy says",
+  "US evacuates Mideast diplomats; Israel urges Iran strike",
+  "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+  "Amazon’s AWS Has Already Sold “a Good Chunk” of 2028 Capacity",
+  "Report: Trump Orders Iran Strike Plan, No Target Date Set",
+  "US Intelligence Warns of Advanced Iranian Plans to Target US Personnel Abroad"
  ],
  "initialized": true,
  "last_alert": 1792856375.305634,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 131,
-  "new": 30,
+  "fetched": 140,
+  "new": 61,
   "rated": {
-   "low": 3,
-   "medium": 1,
-   "high": 1
+   "low": 28,
+   "medium": 5,
+   "high": 3
   },
-  "posted": 0,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 3904)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 4124)"
   ],
-  "time": "2026-10-24T16:38:55+00:00"
+  "time": "2026-10-24T17:08:29+00:00"
  }
 }
