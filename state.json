@@ -1,17 +1,5 @@
 {
  "seen": {
-  "83cf2b13244a82b6": 1792558356.0875022,
-  "1093009273f7d4aa": 1792558356.0875082,
-  "f0bf97bb27795b4c": 1792558357.2908237,
-  "f1ea2c4ee0327fd6": 1792558358.5198045,
-  "0618e01680713d62": 1792558359.744264,
-  "b67773c4290173b2": 1792558359.7442846,
-  "ef4690da8e0a5bfb": 1792558361.039103,
-  "80ba67c90ece0f35": 1792558361.0391245,
-  "ccff4429d5481b1e": 1792558361.039129,
-  "d5fdee150e6a6f31": 1792558361.0391343,
-  "dc50529a02b145a0": 1792558362.2098184,
-  "8ab26d030320c91c": 1792558363.3721008,
   "e745193e813f691d": 1792559994.5294106,
   "4961c9acf398cff9": 1792559995.7499342,
   "a5bfacf0ff13ccfe": 1792559995.7499616,
@@ -4404,12 +4392,32 @@
   "bf474faba7a7f773": 1792817401.3895404,
   "96937474089a5a10": 1792817401.3895435,
   "8946859664f9258e": 1792817401.3895462,
-  "3a5a466f34a37aae": 1792817403.570961
+  "3a5a466f34a37aae": 1792817403.570961,
+  "b6136a1cb1b0e227": 1792818883.4888618,
+  "68bb146e94456989": 1792818883.4888668,
+  "c383475f5855dd57": 1792818884.740877,
+  "af77aabf9473373d": 1792818884.740899,
+  "5ab861602b47ea0b": 1792818884.7409039,
+  "4cc3ef374cdb69ee": 1792818886.0227067,
+  "97a3cd8012ff78e4": 1792818886.0227268,
+  "0ebc3a3b3e5b8d76": 1792818886.0227304,
+  "25fe4059e1c564ee": 1792818887.3778281,
+  "81c70dada9c1a7de": 1792818887.3778517,
+  "dcd4e6e90ff1e5c3": 1792818887.377857,
+  "9f4003a666a2f793": 1792818887.3778603,
+  "75bdcb90c5b1502e": 1792818887.3778644,
+  "d7bff2a36f5f4190": 1792818887.3778675,
+  "026724fec993af85": 1792818887.3778715,
+  "b70c4e52fcc679a0": 1792818887.3778756,
+  "1ce52a8886bd12f8": 1792818887.3778782,
+  "3b98ee5512eacb09": 1792818887.3778818,
+  "49f19caa3cf47b43": 1792818887.3778849,
+  "a598038152dd9071": 1792818887.3778882,
+  "07394910eb6d35fc": 1792818887.377891,
+  "09102038939027be": 1792818887.3778949,
+  "b4cbbc28045dbc51": 1792818887.377898
  },
  "recent": [
-  "Gold Price Today: Below $4,000 as October Hike Odds Near 7% and Newmont Reports $1,454 Mining Costs",
-  "Iran Has Plans to Hit Gulf Undersea Cables if War Resumes, Officials Say",
-  "Oil Tops $117 as Fears of Wider Middle East War Reignite Inflation Anxiety",
   "S&P 500 Today: Stock Market Index Drops to 7,623.68 as Oil Surges and the 10-Year Treasury Yield Hovers at 5% Ahead of the Fed",
   "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
   "Nasdaq Slides to 25,955.34 Amid AI Spending Worries, Surging Energy Prices and Semiconductor Sell-Off",
@@ -4446,7 +4454,10 @@
   "Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1 Billion a Year Ago",
   "Oil prices rise amid market volatility as Fed d...",
   "Iran: US ships will never be allowed in Persian Gulf",
-  "Oil exports from Persian Gulf \"surpassed pre-conflict levels\", claims US Treasury Secy Bessent"
+  "Oil exports from Persian Gulf \"surpassed pre-conflict levels\", claims US Treasury Secy Bessent",
+  "Massive oil slick seen weeks after tanker struck off UAE’s coast",
+  "Oil nears $117 as Gulf security fears threaten supply recovery",
+  "US-Iran Tensions Rise as Envoy Says Weekend Strike Is Possible"
  ],
  "initialized": true,
  "last_alert": 1792809488.4175766,
@@ -4454,16 +4465,16 @@
   "feeds_ok": 18,
   "feeds_failed": [],
   "fetched": 98,
-  "new": 76,
+  "new": 48,
   "rated": {
-   "low": 33,
-   "medium": 18,
+   "low": 17,
+   "medium": 6,
    "high": 0
   },
-  "posted": 8,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 58 (char 1555)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3829)"
   ],
-  "time": "2026-10-24T04:50:03+00:00"
+  "time": "2026-10-24T05:14:47+00:00"
  }
 }
