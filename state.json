@@ -3933,7 +3933,8 @@
   "deb36b99460bd3e8": 1792868744.6872704,
   "66b07059f8569a6b": 1792868744.6872735,
   "3ab7442af42c2ca0": 1792868744.6872764,
-  "977d99915a640c16": 1792868744.6872804
+  "977d99915a640c16": 1792868744.6872804,
+  "d4e102acaeee6692": 1792870289.5825446
  },
  "recent": [
   "‘We May Do Another Little Epic Fury’: Ten Days Out, Who Speaks for the President on Iran?",
@@ -3978,19 +3979,21 @@
   "Further escalation between US and Iran would have no winners, says French FM"
  ],
  "initialized": true,
- "last_alert": 1792856375.305634,
+ "last_alert": 1792870287.399946,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 122,
-  "new": 35,
+  "fetched": 125,
+  "new": 26,
   "rated": {
-   "low": 26,
-   "medium": 5,
-   "high": 4
+   "low": 1,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 5,
-  "errors": [],
-  "time": "2026-10-24T19:05:44+00:00"
+  "posted": 0,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 144 (char 4435)"
+  ],
+  "time": "2026-10-24T19:31:29+00:00"
  }
 }
