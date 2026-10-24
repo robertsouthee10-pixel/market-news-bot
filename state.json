@@ -3871,11 +3871,30 @@
   "e06a9d449eb88e30": 1792884082.8501115,
   "eb3cbe612f4b912d": 1792884082.8501139,
   "61b76c7bcc9035ee": 1792884082.8501155,
-  "1c9591da1883512f": 1792884082.8501177
+  "1c9591da1883512f": 1792884082.8501177,
+  "c6b153dda5e0d02d": 1792885471.1246445,
+  "bb7c4937bb3fddfe": 1792885471.1246536,
+  "ba114952cee5fa30": 1792885471.124657,
+  "3fb48916c8dee481": 1792885471.12466,
+  "ad8f2c43fc20f391": 1792885471.124662,
+  "6af56fa1869075f1": 1792885471.1246645,
+  "25b3839143b1d71c": 1792885471.1246672,
+  "2a9c40d6385bff23": 1792885471.1246698,
+  "8b0b6c51974fd9cd": 1792885471.1246717,
+  "f20b73f04057539d": 1792885471.1246736,
+  "fc77e87b40ae24ca": 1792885471.1246758,
+  "2e5af0cdfc42c818": 1792885472.2804887,
+  "cdc4fedc4c0e9e1c": 1792885472.2805142,
+  "72bad00225fa0682": 1792885472.2805188,
+  "b33414df29c8fbe5": 1792885473.5058193,
+  "b837a552d16599f3": 1792885473.505842,
+  "79fa1b2a3626b941": 1792885473.505847,
+  "50b5765a54e23ad1": 1792885473.5058541,
+  "e101fcac550bb700": 1792885473.505859,
+  "c247e9c50950be0f": 1792885473.5058613,
+  "f58b2d5b71d4bdf0": 1792885473.5058641
  },
  "recent": [
-  "IRGC warns ‘apocalyptic war’ will reverberate beyond Iran",
-  "No Persian Gulf for old carriers",
   "Sailors from the USS George Washington prepare for a potential escalation in the war against Iran",
   "Bitcoin Falls Below $80,000 as U.S. Evacuates Personnel Amid Iran Attack Concerns",
   "Trump’s ‘Epic Fury’ Warning Deepens Middle East Jitters",
@@ -3913,22 +3932,24 @@
   "Putin puts Trump ahead of Iran in bid to mediate war",
   "Trump votes in Florida midterms, defends controversial ad, doubles down on Iran war",
   "Magnificent Seven Earnings Preview: Is the AI Boom Facing Its Biggest Test Yet?",
-  "No offer made to US, no proposal sent to Pakistan mediator on Strait of Hormuz reopening: Iranian Media rejects reports"
+  "No offer made to US, no proposal sent to Pakistan mediator on Strait of Hormuz reopening: Iranian Media rejects reports",
+  "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country's history",
+  "Bitcoin faces midterm election cycle losses and ETF outflows ahead of Fed decision."
  ],
  "initialized": true,
  "last_alert": 1792870287.399946,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 79,
-  "new": 24,
+  "fetched": 70,
+  "new": 21,
   "rated": {
-   "low": 22,
-   "medium": 0,
-   "high": 2
+   "low": 16,
+   "medium": 2,
+   "high": 3
   },
-  "posted": 0,
+  "posted": 2,
   "errors": [],
-  "time": "2026-10-24T23:21:22+00:00"
+  "time": "2026-10-24T23:44:33+00:00"
  }
 }
