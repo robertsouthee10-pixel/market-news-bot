@@ -3924,11 +3924,23 @@
   "435357336144f4ad": 1792874784.4542885,
   "31a6fcc755b827dd": 1792874784.454291,
   "0b150c88ff21d9c5": 1792874784.4542935,
-  "1ef861b1654528cb": 1792874785.6965384
+  "1ef861b1654528cb": 1792874785.6965384,
+  "915eb5e0032d928b": 1792876132.1004353,
+  "2c3c4d57551cac94": 1792876132.1004403,
+  "e922e8e108a5dcdc": 1792876133.485363,
+  "abbecc3e90dfc2f6": 1792876134.9378388,
+  "1f610ec2a21a9888": 1792876134.937863,
+  "fd6249674d758665": 1792876134.9378684,
+  "c4ae27b1740fd5c5": 1792876134.9378717,
+  "d35a533415245da4": 1792876134.937874,
+  "8d6a9cf6f7b21b32": 1792876134.9378762,
+  "27968b08c9de9b23": 1792876134.937881,
+  "3a5da5052c252c7e": 1792876134.9378834,
+  "0847aa27c49f0d63": 1792876134.937886,
+  "764677caebc2e683": 1792876134.9378886,
+  "5a639b1a44e53fd7": 1792876134.9378903
  },
  "recent": [
-  "Iran and 11 Countries Issue Joint Statement on Attacks Against Nuclear Facilities",
-  "US-Israel-Iran War Latest News: US Releases Updated Travel Advisories for Multiple Countries Across Middle East; Houthis Target Yemen’s Aden With Ballistic Missiles",
   "Goldman Sachs warns on the Hormuz crisis and rising fuel costs",
   "Reports of Explosion, Possible Damage to Giant Oil Tanker in Strait of Hormuz",
   "Putin Stares Down Trump, Nuclear Experts Stay Put As US Warships Prepare For Strike On Iran | WATCH",
@@ -3966,22 +3978,24 @@
   "Oil is hovering above $100 a barrel globally",
   "Iran's Increased Threats Against US Personnel",
   "Trump: There's a possibility we may strike Iran",
-  "🇮🇷🇮🇱 Iran may be preparing a DIRECT tit-for-tat response if the next war starts The logic being discussed is brutal: Hit Iran’s nuclear sites, Iran hits Dimona. Kill Iranian leaders, Iran targets yours. Hit Iranian energy, Iran hits Gulf energy and infrastructure. At th"
+  "🇮🇷🇮🇱 Iran may be preparing a DIRECT tit-for-tat response if the next war starts The logic being discussed is brutal: Hit Iran’s nuclear sites, Iran hits Dimona. Kill Iranian leaders, Iran targets yours. Hit Iranian energy, Iran hits Gulf energy and infrastructure. At th",
+  "Trump: We May Attack Iran Tomorrow Or We May Get A Great Deal, Either Way We Win",
+  "Elon Musk Just Gave Fantastic News for Nvidia Investors"
  ],
  "initialized": true,
  "last_alert": 1792870287.399946,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 111,
-  "new": 21,
+  "fetched": 92,
+  "new": 14,
   "rated": {
-   "low": 17,
-   "medium": 2,
-   "high": 2
+   "low": 10,
+   "medium": 1,
+   "high": 3
   },
   "posted": 2,
   "errors": [],
-  "time": "2026-10-24T20:46:25+00:00"
+  "time": "2026-10-24T21:08:54+00:00"
  }
 }
