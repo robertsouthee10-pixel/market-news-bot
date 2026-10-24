@@ -1,24 +1,5 @@
 {
  "seen": {
-  "b40a3687a06a5a79": 1792553931.4049203,
-  "f8b46bb2b5980778": 1792553932.6242294,
-  "9161b23b83afdb19": 1792553932.6242518,
-  "a7d784d7073c8e18": 1792553932.6242568,
-  "64cb4b9b6e36a367": 1792553932.6242602,
-  "de2fd38f0d51e081": 1792553932.6242635,
-  "02c91d6b613277e0": 1792553932.6242726,
-  "f2c6556f2cb192e8": 1792553932.624276,
-  "6592409b65d16eb3": 1792553932.6242788,
-  "e3fe45d52bceaae5": 1792553933.9206169,
-  "87f04338ba397035": 1792553933.9206378,
-  "e62aa0b03a4ecd94": 1792553933.9206426,
-  "cfaef9cbbf284326": 1792553933.920646,
-  "522568297a0ef855": 1792553935.13055,
-  "68742813538a7009": 1792553935.130573,
-  "f0128cd15280d887": 1792553935.1305776,
-  "586b5cc9e5f6878f": 1792553935.1305819,
-  "ad2860cc4c03f3e5": 1792553935.1305842,
-  "fd44376632a3bc98": 1792553935.1305904,
   "85d0d74c708e5647": 1792556122.6467998,
   "33945f0f8438fef7": 1792556123.8648753,
   "b833f5b2f9745ec6": 1792556125.199974,
@@ -4420,20 +4401,23 @@
  "initialized": true,
  "last_alert": 1792809488.4175766,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 111,
-  "new": 56,
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
+  ],
+  "fetched": 109,
+  "new": 65,
   "rated": {
-   "low": 2,
-   "medium": 4,
+   "low": 0,
+   "medium": 0,
    "high": 0
   },
-  "posted": 2,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3955)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 142 (char 3823)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 3282)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 142 (char 2300)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 192 (char 2685)"
   ],
-  "time": "2026-10-24T03:10:18+00:00"
+  "time": "2026-10-24T03:43:24+00:00"
  }
 }
