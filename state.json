@@ -1,15 +1,5 @@
 {
  "seen": {
-  "c93c82bb732ec9f3": 1792549946.841436,
-  "aae24b29810896c3": 1792549948.0398881,
-  "497259c7c7d21ece": 1792549948.039907,
-  "2a7b3fa3fa190bc9": 1792549948.0399117,
-  "e01945d9ccee2fb9": 1792549948.0399148,
-  "680049562026775a": 1792549948.0399182,
-  "de586e8a8e42d429": 1792549948.039921,
-  "5fdf2e9f1426b34f": 1792549948.0399241,
-  "94a52d91d77e597c": 1792549948.039929,
-  "1c26572ace63db69": 1792549948.0399313,
   "5dea2767ae6e2f4c": 1792552021.5787184,
   "d8b1269b73d05586": 1792552021.578723,
   "c3c634d4dcd21346": 1792552021.5787275,
@@ -4397,12 +4387,21 @@
   "82ef3be544889737": 1792807698.0022697,
   "cd7e17f3d05ae85d": 1792807698.0022745,
   "d688ab0be57d12c3": 1792807698.0022774,
-  "19b056a4f8e8dd39": 1792807698.0022807
+  "19b056a4f8e8dd39": 1792807698.0022807,
+  "c4eb4c35ae95c9b2": 1792809517.9045699,
+  "58a14a514ddb86c6": 1792809517.904601,
+  "6a921c7bc259089d": 1792809517.904608,
+  "16b9d3d36cbdf7f9": 1792809517.9046137,
+  "d7ca319cc37518b0": 1792809517.904616,
+  "3045afc17428c1e5": 1792809519.2453775,
+  "eb0f4ca5bfa75ee1": 1792809519.2453988,
+  "d8cb7feaa8203d48": 1792809520.471368,
+  "8ba52aa51dd0df7d": 1792809520.4713907,
+  "79c2b2622b66899d": 1792809520.4713953,
+  "2147cf605a91ac0f": 1792809520.4713986,
+  "1e8b28373b9ff949": 1792809520.4714022
  },
  "recent": [
-  "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran",
-  "Yet two other supertankers hit mines in Hormuz: IRGC",
-  "Trump dropping some Canada tariffs but 'replacing' them with other products",
   "Iran war could last another year, Trump ambassador says",
   "Large explosions reported in southern Iran; fighter jets airborne",
   "Gold and Treasury Yields Reverse Course as Havens Rally",
@@ -4439,25 +4438,28 @@
   "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
   "'Will do another little Epic Fury': Trump warns Iran of fresh strikes, threatens Cuba too",
   "Video | US Envoy Says Iran Could Be Hit 'Absolutely'; Trump Distances Himself",
-  "Super Micro's $4 Billion Revenue Surprise Sends Credo Technology (NASDAQ: CRDO) And AI Networking Stocks Surging"
+  "Super Micro's $4 Billion Revenue Surprise Sends Credo Technology (NASDAQ: CRDO) And AI Networking Stocks Surging",
+  "What Could Berkshire Hathaway (BRK.B) Gain From An Early AI Funding Round?",
+  "Oil Prices Surge to Highest Levels in Five Months Amid Middle East Tensions",
+  "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia"
  ],
  "initialized": true,
- "last_alert": 1792798560.2010083,
+ "last_alert": 1792809488.4175766,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 140,
-  "new": 74,
+  "fetched": 112,
+  "new": 62,
   "rated": {
-   "low": 18,
-   "medium": 7,
+   "low": 9,
+   "medium": 3,
    "high": 0
   },
-  "posted": 4,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3244)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 147 (char 1977)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3811)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 141 (char 918)"
   ],
-  "time": "2026-10-24T02:08:34+00:00"
+  "time": "2026-10-24T02:38:40+00:00"
  }
 }
