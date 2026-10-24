@@ -1,39 +1,5 @@
 {
  "seen": {
-  "c593fdb8643a5602": 1792545790.1375,
-  "3879561c0ecd6027": 1792545790.1375086,
-  "09a4e3036abc8fba": 1792545790.137512,
-  "f2f86e431a8afe42": 1792545790.1375144,
-  "d2ac3a197d1a45b4": 1792545790.1375172,
-  "2ccabb8e8b7bd518": 1792545790.1375198,
-  "5614d1b8f27e55aa": 1792545790.1375217,
-  "02785e777e18a2e2": 1792545790.1375241,
-  "2eb4d0e5c10323a2": 1792545790.1375272,
-  "3ee8673b49794ee3": 1792545790.1375296,
-  "5e073bf64aaf4bf8": 1792545791.3448987,
-  "23b9e273266943f2": 1792545791.3449225,
-  "92e1d42a00256204": 1792545792.5469873,
-  "ba6e0352ef05498b": 1792545792.547008,
-  "9e38d8f95d602af7": 1792545792.547015,
-  "b14b347fcf08d7f8": 1792545792.5470183,
-  "82c2b69e0324268d": 1792545793.759514,
-  "337945d15658297d": 1792545793.759536,
-  "5db6d8487504f9fc": 1792545793.7595406,
-  "9f64171d873b9ed3": 1792545793.7595446,
-  "0b5b7e6e22417ae6": 1792545793.7595475,
-  "e4cd707bb4407854": 1792545793.7595499,
-  "849b33919e9a98ef": 1792545795.1590474,
-  "ee8042f49d2e64fd": 1792545795.1590672,
-  "2bde67e77145a750": 1792545796.3838017,
-  "97dbb78eb202eab7": 1792545803.6113796,
-  "0223b831adf10358": 1792545803.6113849,
-  "f917a8a670e47fdd": 1792545803.6113877,
-  "6a4642d0e3678d6a": 1792545803.6113896,
-  "9c55c33015376fb8": 1792545803.6113927,
-  "e058a9504c8337cd": 1792545803.611397,
-  "220fc037aa2cca6a": 1792545803.6114001,
-  "30d8a29a01527787": 1792545803.6114025,
-  "4c7a4a0008964c9e": 1792545804.7993965,
   "2c5cb10bb7231e16": 1792548033.5507736,
   "81e9832a74fbbbd6": 1792548033.5507796,
   "8122929eb18db993": 1792548037.5408685,
@@ -4415,11 +4381,25 @@
   "ef834b3ae75e80a8": 1792802921.0673296,
   "4f666e711cbaae83": 1792802921.067332,
   "d7454783cb0aabab": 1792802921.067335,
-  "b6890747599c3ad8": 1792802921.067338
+  "b6890747599c3ad8": 1792802921.067338,
+  "3278ddd0076b1192": 1792805369.7339633,
+  "80416603df1d7abf": 1792805369.73397,
+  "c38e73142837a956": 1792805369.733973,
+  "0b6c7d4f70f67cba": 1792805369.7339754,
+  "7e49755603b63ef0": 1792805369.733978,
+  "a95f3053f2ea1396": 1792805369.7339802,
+  "d67bafd7b104910f": 1792805369.7339818,
+  "92b412e9c3d20e5b": 1792805369.733984,
+  "b7158fffdc2afb67": 1792805369.7339861,
+  "c4c3634dbb812f06": 1792805369.7339883,
+  "bbc6c7163d0c552b": 1792805369.7339904,
+  "655ed327ab47d6d5": 1792805371.0159576,
+  "ebfedec6fd2a8010": 1792805371.0159748,
+  "370046805e671b24": 1792805371.0159788,
+  "1db5154ecfb5d637": 1792805372.255125,
+  "c394213d759a9025": 1792805372.2551444
  },
  "recent": [
-  "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do In Mixed Market",
-  "S&P 500 Posts Slight Weekly Drop Amid AI Spending Worries",
   "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
   "Russell 2000 falls 8 points as oil hits a June high",
   "Trump Warns of New Military Operation Against Iran if Tehran Rejects Talks",
@@ -4457,24 +4437,29 @@
   "Germany, France and UK ready to negotiate with Iran, says German FM",
   "Oil prices jump US$3 on Houthi attacks, oil spill, highest settlement since April",
   "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
-  "US strikes on Iran now serve the blockade"
+  "US strikes on Iran now serve the blockade",
+  "Trump's U.N. ambassador says Iran war could drag on for another year",
+  "Iran Assassination Plots at 'Advanced Stages': US Intel"
  ],
  "initialized": true,
  "last_alert": 1792798560.2010083,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 122,
-  "new": 65,
-  "rated": {
-   "low": 32,
-   "medium": 5,
-   "high": 3
-  },
-  "posted": 6,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 190 (char 2248)"
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
   ],
-  "time": "2026-10-24T00:48:41+00:00"
+  "fetched": 133,
+  "new": 66,
+  "rated": {
+   "low": 13,
+   "medium": 3,
+   "high": 0
+  },
+  "posted": 2,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3400)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 101 (char 3573)"
+  ],
+  "time": "2026-10-24T01:29:32+00:00"
  }
 }
