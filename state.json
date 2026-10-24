@@ -1,37 +1,5 @@
 {
  "seen": {
-  "5dea2767ae6e2f4c": 1792552021.5787184,
-  "d8b1269b73d05586": 1792552021.578723,
-  "c3c634d4dcd21346": 1792552021.5787275,
-  "fcd9df6ca743e5f6": 1792552021.5787294,
-  "cf65515ee5569545": 1792552021.5787313,
-  "2aed426096a43c42": 1792552023.2602952,
-  "9d4712e4b87f9a4b": 1792552023.2603147,
-  "0d58b09a6989cc4e": 1792552023.2603226,
-  "954c21198be3785a": 1792552024.4749362,
-  "6004a46341635435": 1792552024.4749565,
-  "b03e8e58ca3629b5": 1792552024.4749603,
-  "38e1ee8b801c7806": 1792552024.4749632,
-  "7a662fa3bf22afce": 1792552025.6755955,
-  "bf0645494d700505": 1792552025.6756172,
-  "d6dbdff9842bb5ac": 1792552026.8436568,
-  "0778296de61fdeba": 1792552026.8436782,
-  "ec0639aeeef2249c": 1792552026.8436823,
-  "7a5aa9ca595644c9": 1792552026.8436859,
-  "9800394d75d5bd17": 1792552026.8436887,
-  "a07a2687a64310d9": 1792552026.8436906,
-  "3c8fb4f6e6eeef3f": 1792552026.8436937,
-  "c42a9591463d1574": 1792552026.8436964,
-  "bce43e1892cdbc85": 1792552026.8436995,
-  "721d11879657f47e": 1792552026.8437042,
-  "d9739e3d215776b3": 1792552026.843707,
-  "052620ba26428a0b": 1792552035.5056252,
-  "5fc3a9fed319c54d": 1792552035.5056474,
-  "4e1265247f3f283e": 1792552035.505652,
-  "e5e8fa2cf31917cb": 1792552035.5056555,
-  "d3791298f4f35afa": 1792552035.5056589,
-  "a36fc3cd421439de": 1792552036.6461291,
-  "580bc5675ed93b8b": 1792552036.646149,
   "b40a3687a06a5a79": 1792553931.4049203,
   "f8b46bb2b5980778": 1792553932.6242294,
   "9161b23b83afdb19": 1792553932.6242518,
@@ -4399,11 +4367,15 @@
   "8ba52aa51dd0df7d": 1792809520.4713907,
   "79c2b2622b66899d": 1792809520.4713953,
   "2147cf605a91ac0f": 1792809520.4713986,
-  "1e8b28373b9ff949": 1792809520.4714022
+  "1e8b28373b9ff949": 1792809520.4714022,
+  "01ef59f04a38b311": 1792811415.583424,
+  "7e6c4fee7d2fdea0": 1792811415.5834332,
+  "4aa117875c112866": 1792811415.5834363,
+  "03467987d5e12135": 1792811416.8001516,
+  "60d75d7fd0d0d6eb": 1792811416.8001654,
+  "e247e3b9b3e1e5f8": 1792811418.0773263
  },
  "recent": [
-  "Iran war could last another year, Trump ambassador says",
-  "Large explosions reported in southern Iran; fighter jets airborne",
   "Gold and Treasury Yields Reverse Course as Havens Rally",
   "Meta Spent Its Way To Negative Cash Flow. The Stock Noticed.",
   "Utilities Down as Treasury Yields Rebound - Utilities Roundup",
@@ -4441,25 +4413,27 @@
   "Super Micro's $4 Billion Revenue Surprise Sends Credo Technology (NASDAQ: CRDO) And AI Networking Stocks Surging",
   "What Could Berkshire Hathaway (BRK.B) Gain From An Early AI Funding Round?",
   "Oil Prices Surge to Highest Levels in Five Months Amid Middle East Tensions",
-  "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia"
+  "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia",
+  "US cuts embassy staffing amid Iran threat concerns",
+  "Pakistan talks peace with Iran, defends Saudis against Tehran’s proxies"
  ],
  "initialized": true,
  "last_alert": 1792809488.4175766,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 112,
-  "new": 62,
+  "fetched": 111,
+  "new": 56,
   "rated": {
-   "low": 9,
-   "medium": 3,
+   "low": 2,
+   "medium": 4,
    "high": 0
   },
-  "posted": 3,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3811)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 141 (char 918)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3955)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 142 (char 3823)"
   ],
-  "time": "2026-10-24T02:38:40+00:00"
+  "time": "2026-10-24T03:10:18+00:00"
  }
 }
