@@ -4317,7 +4317,13 @@
   "902c7ef77546b00f": 1792829181.490176,
   "ec74db8c5fa9b645": 1792829181.490179,
   "89e37291fb7657ee": 1792829181.4901824,
-  "f2a653fef03f4adc": 1792829181.4901855
+  "f2a653fef03f4adc": 1792829181.4901855,
+  "464260257fa59382": 1792831041.5601597,
+  "678d2335f0c61898": 1792831041.5601723,
+  "d09a7f2779e66462": 1792831041.5601768,
+  "9dfbf92f4a7514c8": 1792831041.5601795,
+  "b4c09de2470242e6": 1792831041.5601826,
+  "147b54ef3785ca2b": 1792831041.5601847
  },
  "recent": [
   "Super Micro's $4 Billion Revenue Surprise Sends Credo Technology (NASDAQ: CRDO) And AI Networking Stocks Surging",
@@ -4366,18 +4372,18 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 107,
-  "new": 62,
+  "fetched": 85,
+  "new": 56,
   "rated": {
-   "low": 9,
-   "medium": 3,
+   "low": 5,
+   "medium": 1,
    "high": 0
   },
-  "posted": 3,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4310)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 5053)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 102 (char 4798)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3811)"
   ],
-  "time": "2026-10-24T08:06:21+00:00"
+  "time": "2026-10-24T08:37:21+00:00"
  }
 }
