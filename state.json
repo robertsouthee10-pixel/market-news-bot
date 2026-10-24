@@ -4193,12 +4193,45 @@
   "7600ec2b6ef8ef8e": 1792839877.0460474,
   "175ec6e3d27b28ca": 1792839877.046051,
   "1826da8828c77553": 1792839877.0460534,
-  "24361eab243ec43e": 1792839877.0460553
+  "24361eab243ec43e": 1792839877.0460553,
+  "7e86bb61088d75bc": 1792841621.4058576,
+  "469ffb21ba4a3309": 1792841622.6566002,
+  "382a3aa6f9b36eab": 1792841622.6566255,
+  "96919985e01a8f32": 1792841622.6566288,
+  "623f4bbbe2d4f440": 1792841622.656631,
+  "28a69acf010f27a6": 1792841622.6566334,
+  "19af79ba7b0c15b9": 1792841622.6566374,
+  "84603d3cfbce2159": 1792841622.656641,
+  "5cd14866f0f45e71": 1792841622.6566439,
+  "71209817020f39a8": 1792841622.656647,
+  "2eb0c9c5e171e9b4": 1792841622.6566496,
+  "b18c262176d95f85": 1792841622.6566525,
+  "1648180960b031b1": 1792841622.6566548,
+  "9fe455ffee1b7717": 1792841624.019539,
+  "27006fb459d6b906": 1792841624.0195665,
+  "b46bf7382ab7182a": 1792841624.019572,
+  "6cf16dbeb30f4b88": 1792841624.0195775,
+  "13145ba2624cbe7c": 1792841624.019581,
+  "d9229d798baebabf": 1792841625.6880822,
+  "78529ee7f94c4a6b": 1792841625.6881115,
+  "f85274d6afecddc5": 1792841625.6881154,
+  "5a977350e73d60c7": 1792841625.6881187,
+  "31b4a94e0d55bdc0": 1792841625.688122,
+  "fefce6fb447c194a": 1792841625.6881244,
+  "f96f9de1f3059bfa": 1792841625.6881268,
+  "9cf7d23c3b12e846": 1792841646.9300725,
+  "2062c8169ce86d90": 1792841646.9300764,
+  "91e2394a0bf53429": 1792841646.9300795,
+  "2de63e9587a7c204": 1792841646.9300814,
+  "bb0e903bf0a3bd53": 1792841646.9300847,
+  "47dedba32de8d183": 1792841646.9300869,
+  "51139c233ae60cf7": 1792841646.9300888,
+  "9629d08616109b0b": 1792841646.9300907,
+  "4c910098ee770e1b": 1792841646.9300926,
+  "3ff42706a065b3e8": 1792841646.9300942,
+  "3850636391fccf4b": 1792841646.9300957
  },
  "recent": [
-  "Iran Substantially Increased Efforts To Target U.S. Personnel, Memo Warns: 7 outlets compared",
-  "Bitcoin pulls back from near $85,000 ahead of F...",
-  "Trump says oil prices will fall soon",
   "Pakistan, Saudi Arabia, Türkiye, Egypt urge diplomacy to end US-Iran war",
   "5 signs US and Iran may be headed for their biggest military showdown yet",
   "Trump threatens further attacks on Iran; Tehran warns it will target internet cables in the Gulf",
@@ -4235,24 +4268,27 @@
   "3 Key Things to Monitor When Tech Giants Report Earnings",
   "Nigerian Bonny Light hits $115 a barrel as Strait of Hormuz attacks surge",
   "Iran-US Standoff: Calm Before the Storm?",
-  "Dow Gains as AI Financing Fears Push Nasdaq Lower and Treasury Yields Below 5%"
+  "Dow Gains as AI Financing Fears Push Nasdaq Lower and Treasury Yields Below 5%",
+  "Saudi forces say intercepted two Houthi missiles targeting Yanbu, Taif",
+  "Russell 2000 gains 2% as Nasdaq and S&P 500 fall",
+  "Suspicious F-35 incident in Iran as Trump signals a new Epic Fury operation soon"
  ],
  "initialized": true,
  "last_alert": 1792832863.8631573,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 87,
-  "new": 31,
+  "fetched": 94,
+  "new": 61,
   "rated": {
-   "low": 6,
-   "medium": 0,
-   "high": 0
+   "low": 30,
+   "medium": 4,
+   "high": 2
   },
-  "posted": 0,
+  "posted": 3,
   "errors": [
-   "Claude: ValueError: no JSON array in model reply: ```json\n[\n{\"id\": 0, \"impact\": \"low\", \"nq\": \"neutral\", \"moves\": [{\"asset\": \"TSLA"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 5397)"
   ],
-  "time": "2026-10-24T11:04:37+00:00"
+  "time": "2026-10-24T11:34:06+00:00"
  }
 }
