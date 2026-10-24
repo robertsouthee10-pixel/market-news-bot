@@ -4354,10 +4354,12 @@
   "4aa117875c112866": 1792811415.5834363,
   "03467987d5e12135": 1792811416.8001516,
   "60d75d7fd0d0d6eb": 1792811416.8001654,
-  "e247e3b9b3e1e5f8": 1792811418.0773263
+  "e247e3b9b3e1e5f8": 1792811418.0773263,
+  "87e1845157470fb1": 1792815299.349881,
+  "bc1785481bbe4ac7": 1792815300.635142,
+  "b9de47585e739985": 1792815300.6351733
  },
  "recent": [
-  "Gold and Treasury Yields Reverse Course as Havens Rally",
   "Meta Spent Its Way To Negative Cash Flow. The Stock Noticed.",
   "Utilities Down as Treasury Yields Rebound - Utilities Roundup",
   "Wall Street closes lower to end rocky week",
@@ -4396,28 +4398,27 @@
   "Oil Prices Surge to Highest Levels in Five Months Amid Middle East Tensions",
   "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia",
   "US cuts embassy staffing amid Iran threat concerns",
-  "Pakistan talks peace with Iran, defends Saudis against Tehran’s proxies"
+  "Pakistan talks peace with Iran, defends Saudis against Tehran’s proxies",
+  "Hormuz Ship Attacks Hit Record High in October"
  ],
  "initialized": true,
  "last_alert": 1792809488.4175766,
  "last_run": {
-  "feeds_ok": 17,
-  "feeds_failed": [
-   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
-  ],
-  "fetched": 109,
-  "new": 65,
+  "feeds_ok": 18,
+  "feeds_failed": [],
+  "fetched": 108,
+  "new": 78,
   "rated": {
-   "low": 0,
-   "medium": 0,
+   "low": 1,
+   "medium": 2,
    "high": 0
   },
-  "posted": 0,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 3282)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 142 (char 2300)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 192 (char 2685)"
+   "Claude: ValueError: no JSON array in model reply: ",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 3290)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 194 (char 4422)"
   ],
-  "time": "2026-10-24T03:43:24+00:00"
+  "time": "2026-10-24T04:15:00+00:00"
  }
 }
