@@ -1,31 +1,5 @@
 {
  "seen": {
-  "e1553e4d79ff40b1": 1792622969.022521,
-  "faf9b8c46e3697b7": 1792622969.0225275,
-  "dbf70d1c1c6c4e49": 1792622969.0225306,
-  "98ebb9041f51b34a": 1792622969.0225334,
-  "b02a6015608c0871": 1792622969.0225353,
-  "edc7ac8e5bf0bfe2": 1792622969.0225396,
-  "705b263a813069dc": 1792622969.022542,
-  "cda29d920f318ef7": 1792622969.0225444,
-  "fed1e4a1bd1a53ca": 1792622969.0225463,
-  "876603b4f4171dec": 1792622969.0225477,
-  "efaa4dee804f8ccf": 1792622969.0225506,
-  "1a6a95b1add383a8": 1792622969.0225527,
-  "bd6ca4b1b33618f6": 1792622969.0225546,
-  "3211c2558a5527af": 1792622970.2865078,
-  "6dd1bf3d192031f2": 1792622970.2865276,
-  "ea2f0901f244efab": 1792622970.286532,
-  "3807e77733e8edb7": 1792622970.2865353,
-  "becfb25e37383e29": 1792622970.286538,
-  "68e73e15114210e7": 1792622971.544303,
-  "8f8d9783033d5700": 1792622971.544322,
-  "c2f05bca18681b46": 1792622971.5443265,
-  "328da53572ce832c": 1792622971.5443296,
-  "32f5a090d97c9fa1": 1792622971.5443332,
-  "724fcd86a65ea824": 1792622972.826706,
-  "c5bee5c7195107e2": 1792622974.2444267,
-  "3d4d1eb085ca6122": 1792622979.0304585,
   "3f63747a94c3d9ad": 1792624387.2456045,
   "b2eb557a91649dc3": 1792624387.2456102,
   "60e34020e6cfd4c1": 1792624387.245616,
@@ -3861,11 +3835,24 @@
   "81dd8b2e60e324dd": 1792881126.9462607,
   "53a09cc87e1918da": 1792881126.9462852,
   "ca54ebba7857a691": 1792881128.1447546,
-  "8e983d7be8b46b58": 1792881128.144775
+  "8e983d7be8b46b58": 1792881128.144775,
+  "fbb556c83957ee3e": 1792882677.0126464,
+  "46b4f85c416bf810": 1792882677.0126534,
+  "f8fae18793e242db": 1792882677.0126598,
+  "25831d732617cba4": 1792882678.4351928,
+  "9030cfe98083ebd4": 1792882678.4352653,
+  "fb71eb66baa93d5c": 1792882678.4352703,
+  "a15e5d54f9278fae": 1792882678.435273,
+  "9d9719607be6185e": 1792882678.4352756,
+  "e065c30505435a52": 1792882678.4352791,
+  "dd6d148762839d8a": 1792882678.4352818,
+  "4457e97e7069c2bd": 1792882678.4352844,
+  "673ad6943ab6195b": 1792882678.435287,
+  "847b5bdb214d948d": 1792882679.676523,
+  "43bd579b66917e91": 1792882679.6765454,
+  "14a9297a62bc9cba": 1792882679.67655
  },
  "recent": [
-  "Preparation For Major Attack On Iran: Bunker-Buster Bombs Loaded Onto US Carrier",
-  "US rearms carrier near Iran as Houthi attacks,",
   "IRGC warns ‘apocalyptic war’ will reverberate beyond Iran",
   "No Persian Gulf for old carriers",
   "Sailors from the USS George Washington prepare for a potential escalation in the war against Iran",
@@ -3903,22 +3890,24 @@
   "Iran-backed Houthis warn against using Riyadh airport as it announces reopening",
   "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
   "Putin puts Trump ahead of Iran in bid to mediate war",
-  "Trump votes in Florida midterms, defends controversial ad, doubles down on Iran war"
+  "Trump votes in Florida midterms, defends controversial ad, doubles down on Iran war",
+  "Magnificent Seven Earnings Preview: Is the AI Boom Facing Its Biggest Test Yet?",
+  "No offer made to US, no proposal sent to Pakistan mediator on Strait of Hormuz reopening: Iranian Media rejects reports"
  ],
  "initialized": true,
  "last_alert": 1792870287.399946,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 79,
-  "new": 16,
+  "fetched": 74,
+  "new": 15,
   "rated": {
-   "low": 12,
-   "medium": 3,
-   "high": 1
+   "low": 9,
+   "medium": 4,
+   "high": 2
   },
   "posted": 2,
   "errors": [],
-  "time": "2026-10-24T22:32:08+00:00"
+  "time": "2026-10-24T22:57:59+00:00"
  }
 }
