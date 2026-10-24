@@ -1,33 +1,5 @@
 {
  "seen": {
-  "f2165ca201af9da6": 1792539495.7772465,
-  "34afee88870b2015": 1792539495.777253,
-  "2b174b7acdefaf37": 1792539495.777256,
-  "8e6b811b89a8ed2c": 1792539495.777259,
-  "54905bc2fc5d9683": 1792539495.7772627,
-  "b9187dcce65705bd": 1792539495.7772672,
-  "6399f7b590af0e68": 1792539495.7772706,
-  "a87cf179edc96c9b": 1792539495.777273,
-  "4d592a2895efdc7e": 1792539495.7772748,
-  "006ffe0b4dea784d": 1792539495.777277,
-  "17a15e85fe4d1bce": 1792539497.0171344,
-  "af6cbcfe388c6a6c": 1792539497.017155,
-  "edd3c582c02aafa2": 1792539497.0171595,
-  "7908955f3fee5d08": 1792539497.0171647,
-  "3039e3fedeeb05d1": 1792539497.0171678,
-  "654a98bb12085541": 1792539498.1813223,
-  "02f444f3acd688bd": 1792539498.1813426,
-  "b0ad41ffad134bae": 1792539498.181347,
-  "c02592a44fa362e6": 1792539498.1813505,
-  "a1da8fc1514e787e": 1792539498.1813529,
-  "741ff4cc7599796f": 1792539498.1813579,
-  "9e730e1c3f59078f": 1792539498.1813614,
-  "e05d95ef3c1ff805": 1792539498.1813645,
-  "71c0d30981258ef8": 1792539498.1813667,
-  "7ef927b4cbcfef43": 1792539498.18137,
-  "f66cf94015ac689b": 1792539536.6410515,
-  "e5f2d81df57db84b": 1792539536.641072,
-  "ee0dc3e4ec7559af": 1792539536.6410754,
   "4227728587a35475": 1792541014.9034066,
   "b24722f5a8ccd848": 1792541014.9034107,
   "6f982780895c09eb": 1792541014.903413,
@@ -4500,10 +4472,16 @@
   "45f3287171dc1c6e": 1792798594.2741706,
   "bfb020c1cf191f88": 1792798594.2741735,
   "fa109a51e322b174": 1792798594.2741764,
-  "8490e9dc1368dbe8": 1792798594.2741783
+  "8490e9dc1368dbe8": 1792798594.2741783,
+  "b11da1d8eddcc29d": 1792800128.814587,
+  "99cbf8f682d5a12c": 1792800128.8146465,
+  "6171cf733facb77b": 1792800128.8146513,
+  "eb30ca07e1ac59b1": 1792800128.814654,
+  "a4d0363c073de664": 1792800128.8146567,
+  "c2f39d88ebc78104": 1792800128.8146598,
+  "1c6820b089de7840": 1792800128.8146625
  },
  "recent": [
-  "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
   "Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chipmaking Prowess: ‘If There's One Country That Could Manufacture Things at Scale’",
   "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
   "Update: US Equity Indexes Fall as Rising Iran Tensions Push Crude Oil Higher",
@@ -4542,25 +4520,27 @@
   "Earnings flood, Fed meeting will test rickety AI market rally",
   "Oil prices today, October 24th: Brent reaches a 6-month high, surpassing $116.",
   "Trump says US could end Iran war soon or further weaken Tehran before turning to Cuba",
-  "Middle East physical oil prices are falling while Brent crude soars to six-month highs"
+  "Middle East physical oil prices are falling while Brent crude soars to six-month highs",
+  "UPDATES: US War on Iran, Day 239 - Attacks on Shipping in Strait Of Hormuz Highest Since March"
  ],
  "initialized": true,
  "last_alert": 1792798560.2010083,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 153,
-  "new": 67,
+  "fetched": 163,
+  "new": 82,
   "rated": {
-   "low": 11,
-   "medium": 6,
-   "high": 0
+   "low": 5,
+   "medium": 1,
+   "high": 1
   },
-  "posted": 2,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 7 column 97 (char 992)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 56 (char 280)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3346)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 144 (char 3255)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3878)"
   ],
-  "time": "2026-10-23T23:36:34+00:00"
+  "time": "2026-10-24T00:02:08+00:00"
  }
 }
