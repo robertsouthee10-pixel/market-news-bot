@@ -1,30 +1,5 @@
 {
  "seen": {
-  "2c5cb10bb7231e16": 1792548033.5507736,
-  "81e9832a74fbbbd6": 1792548033.5507796,
-  "8122929eb18db993": 1792548037.5408685,
-  "45646ded00078329": 1792548037.5408876,
-  "a8cb2525b95c48bb": 1792548037.5408914,
-  "f9fe38aa91de4c44": 1792548037.5408945,
-  "90157ce91e007f62": 1792548038.8096778,
-  "e4cb1e587006f927": 1792548038.8096974,
-  "07972c259ac22e8a": 1792548038.8097022,
-  "82236c106e080c8a": 1792548038.8097053,
-  "ca4e61df3ce22fd9": 1792548040.1245863,
-  "163ef11e4072147e": 1792548041.6478267,
-  "41fd158aed0fde23": 1792548041.6478453,
-  "0bf1d7daf1240b4e": 1792548041.6478493,
-  "763bfc742f4b9da8": 1792548042.8894973,
-  "498ca7d3b84bfd6f": 1792548042.8895173,
-  "157bf8915acf4207": 1792548042.8895214,
-  "3fe2aacdda390c81": 1792548042.8895242,
-  "75a34343ad13cf2a": 1792548042.8895285,
-  "5c86123cf8582278": 1792548042.8895319,
-  "58c018954c0cddc5": 1792548042.8895342,
-  "a76559904b63c946": 1792548042.8895383,
-  "8580787e6ff2dc3c": 1792548042.8895435,
-  "36068e5956998612": 1792548042.8895457,
-  "c03891a0c5dc6b11": 1792548042.8895495,
   "c93c82bb732ec9f3": 1792549946.841436,
   "aae24b29810896c3": 1792549948.0398881,
   "497259c7c7d21ece": 1792549948.039907,
@@ -4397,13 +4372,34 @@
   "ebfedec6fd2a8010": 1792805371.0159748,
   "370046805e671b24": 1792805371.0159788,
   "1db5154ecfb5d637": 1792805372.255125,
-  "c394213d759a9025": 1792805372.2551444
+  "c394213d759a9025": 1792805372.2551444,
+  "5c7fa54b287d19ff": 1792807692.8469353,
+  "b3700a0d5731f6bb": 1792807692.8469431,
+  "332239278dd6f4b7": 1792807692.8469481,
+  "f2dc816364308924": 1792807692.8469517,
+  "927372015ce01484": 1792807694.2309551,
+  "57d227552485bce7": 1792807694.2309773,
+  "f2815b90ea1233eb": 1792807694.230982,
+  "4c22124c6c9f8d46": 1792807694.2309859,
+  "47efce16c3d783a6": 1792807695.5033674,
+  "505c97f241a2855a": 1792807696.711211,
+  "d9bebd54aa9a672b": 1792807696.7112331,
+  "b9c7436aa7832c5a": 1792807696.7112372,
+  "22830689616ada3d": 1792807696.7112396,
+  "34580b78b75737c8": 1792807696.711242,
+  "9846fb952a66e730": 1792807696.7112482,
+  "2fa0fcde6fe02664": 1792807696.711251,
+  "bf91f592e0c5302b": 1792807696.7112534,
+  "2c232167f3bebb16": 1792807696.7112558,
+  "b538ae6ae0d4f13a": 1792807696.711259,
+  "ae56eaa0518922c8": 1792807696.7112627,
+  "8d5e7b4f887cf608": 1792807698.002249,
+  "82ef3be544889737": 1792807698.0022697,
+  "cd7e17f3d05ae85d": 1792807698.0022745,
+  "d688ab0be57d12c3": 1792807698.0022774,
+  "19b056a4f8e8dd39": 1792807698.0022807
  },
  "recent": [
-  "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
-  "Russell 2000 falls 8 points as oil hits a June high",
-  "Trump Warns of New Military Operation Against Iran if Tehran Rejects Talks",
-  "US envoy raises prospect of Iran strikes this weekend as Trump expresses surprise",
   "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran",
   "Yet two other supertankers hit mines in Hormuz: IRGC",
   "Trump dropping some Canada tariffs but 'replacing' them with other products",
@@ -4439,27 +4435,29 @@
   "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
   "US strikes on Iran now serve the blockade",
   "Trump's U.N. ambassador says Iran war could drag on for another year",
-  "Iran Assassination Plots at 'Advanced Stages': US Intel"
+  "Iran Assassination Plots at 'Advanced Stages': US Intel",
+  "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
+  "'Will do another little Epic Fury': Trump warns Iran of fresh strikes, threatens Cuba too",
+  "Video | US Envoy Says Iran Could Be Hit 'Absolutely'; Trump Distances Himself",
+  "Super Micro's $4 Billion Revenue Surprise Sends Credo Technology (NASDAQ: CRDO) And AI Networking Stocks Surging"
  ],
  "initialized": true,
  "last_alert": 1792798560.2010083,
  "last_run": {
-  "feeds_ok": 17,
-  "feeds_failed": [
-   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
-  ],
-  "fetched": 133,
-  "new": 66,
+  "feeds_ok": 18,
+  "feeds_failed": [],
+  "fetched": 140,
+  "new": 74,
   "rated": {
-   "low": 13,
-   "medium": 3,
+   "low": 18,
+   "medium": 7,
    "high": 0
   },
-  "posted": 2,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3400)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 101 (char 3573)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3244)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 147 (char 1977)"
   ],
-  "time": "2026-10-24T01:29:32+00:00"
+  "time": "2026-10-24T02:08:34+00:00"
  }
 }
