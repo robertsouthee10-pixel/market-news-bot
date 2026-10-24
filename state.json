@@ -4084,10 +4084,42 @@
   "c57638544beb43f1": 1792849718.334992,
   "52e46596fe2736a2": 1792849718.3349943,
   "0d5eaf61dc0167f7": 1792849718.3349965,
-  "a905f395c1a1a3d1": 1792849718.3349988
+  "a905f395c1a1a3d1": 1792849718.3349988,
+  "bc8adc8f513039d1": 1792851027.9390101,
+  "cd012acd0d7bbc0a": 1792851027.9390168,
+  "552ddaba6a035dc7": 1792851027.93902,
+  "eb8cd67c51a80176": 1792851027.9390225,
+  "2104f7db70b89ea3": 1792851027.9390247,
+  "746c7262645b476b": 1792851027.9390266,
+  "1ccb13aab9abe9bf": 1792851027.9390285,
+  "dbe6be83c34b6db4": 1792851027.9390304,
+  "8895a75eb769c369": 1792851027.9390347,
+  "a942e716da4f690a": 1792851027.9390373,
+  "daf20368f546e546": 1792851027.9390397,
+  "447570b252b08694": 1792851027.939042,
+  "cbbdb5d602e1f079": 1792851027.9390442,
+  "5a8339d1838618fd": 1792851027.9390461,
+  "357dd1af46b2fcc8": 1792851027.939049,
+  "658206a418eb95fd": 1792851027.939052,
+  "1f59ea92a3e85224": 1792851027.9390538,
+  "be5aea9b1736aa98": 1792851027.9390597,
+  "efd3b6d894b607fb": 1792851027.9390616,
+  "eb97c67cae51baa0": 1792851027.9390638,
+  "94c5d5dc802f6b77": 1792851027.9390662,
+  "9b27d357d1cb4c60": 1792851027.939068,
+  "84f98582dc2df767": 1792851027.9390702,
+  "fb8d7782e9feb1d9": 1792851027.9390724,
+  "5c0d8847612f5025": 1792851027.939074,
+  "c308cff90c8393c6": 1792851034.316395,
+  "d1ec44bb59fcb474": 1792851034.3163989,
+  "7edc6f8d1dbecc9f": 1792851035.62705,
+  "525e2711cce153b1": 1792851035.627072,
+  "3b11fa67cb68104e": 1792851035.6270764,
+  "de37614b343ff8ba": 1792851035.6270819,
+  "d3b2e236b21b0379": 1792851035.627087,
+  "2f93ee97be8b8f33": 1792851035.6270912
  },
  "recent": [
-  "Is the United States preparing to launch another attack on Iran?",
   "From Hormuz to data centers: How Iran’s threats are raising stakes of renewed war",
   "President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus, and Things Could Get Ugly for Wall Street",
   "US reducing staffing at 4 West Asian embassies over threats from Iran",
@@ -4126,24 +4158,23 @@
   "Apple Just Passed Nvidia as the World’s Most Valuable Company on iPhone Duo Day",
   "Reuters: Iran is preparing a plan in case of new U.S. attacks. The internet is at risk",
   "Iran’s Pezeshkian blames US for interim deal failure, keeps door open to talks",
-  "Trump, Netanyahu threats show desperation: Iran adviser"
+  "Trump, Netanyahu threats show desperation: Iran adviser",
+  "Something Strange Is Happening in Israel: Netanyahu Says Iranian Regime Must Be Overthrown and to 'Finish the Job'"
  ],
  "initialized": true,
  "last_alert": 1792845486.5024083,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 102,
-  "new": 38,
+  "fetched": 105,
+  "new": 33,
   "rated": {
-   "low": 11,
+   "low": 31,
    "medium": 2,
    "high": 0
   },
-  "posted": 0,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4565)"
-  ],
-  "time": "2026-10-24T13:48:38+00:00"
+  "posted": 1,
+  "errors": [],
+  "time": "2026-10-24T14:10:35+00:00"
  }
 }
