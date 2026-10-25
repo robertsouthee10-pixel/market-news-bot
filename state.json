@@ -3656,7 +3656,9 @@
   "07521bf289444c2d": 1792964490.1075954,
   "26541e2e40f08669": 1792964490.1075993,
   "6f58c89fecccae4d": 1792964490.1076014,
-  "a4eee3bcaa00ce26": 1792964490.1076045
+  "a4eee3bcaa00ce26": 1792964490.1076045,
+  "1aacd7d9d7a79211": 1792965931.851181,
+  "d1970ca24f769060": 1792965931.8511903
  },
  "recent": [
   "US Central Command chief conducts Apache helicopter tour over Strait of Hormuz",
@@ -3703,20 +3705,22 @@
  "initialized": true,
  "last_alert": 1792956630.802984,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 110,
-  "new": 58,
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
+  ],
+  "fetched": 108,
+  "new": 52,
   "rated": {
-   "low": 5,
-   "medium": 3,
+   "low": 0,
+   "medium": 2,
    "high": 0
   },
-  "posted": 2,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4733)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3652)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 142 (char 4595)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4180)"
   ],
-  "time": "2026-10-25T21:41:30+00:00"
+  "time": "2026-10-25T22:05:31+00:00"
  }
 }
