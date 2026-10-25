@@ -1,11 +1,5 @@
 {
  "seen": {
-  "0a47b8880ba40f7d": 1792654277.221749,
-  "e8e04cb6bab03a28": 1792654278.538615,
-  "fb3a151121760ede": 1792654278.538636,
-  "270aae548aff0039": 1792654278.5386395,
-  "ceb3f0a5e4ac9959": 1792654278.5386424,
-  "a5c4245c08bf0b7a": 1792654278.5386453,
   "62eff17c81dd0dc5": 1792656914.8516045,
   "50a5b0880964bebb": 1792659419.6683807,
   "679cb5b7f9a74386": 1792659419.6683998,
@@ -3744,11 +3738,12 @@
   "f6f5ebff989b7323": 1792913064.3544183,
   "51d01b7bbf01b488": 1792913064.354421,
   "54a0505e079596f9": 1792913064.3544235,
-  "b7bb50e456c39839": 1792913065.8227475
+  "b7bb50e456c39839": 1792913065.8227475,
+  "f509240ca45c8520": 1792915176.5563154,
+  "7be11c686f057ecf": 1792915177.8079014,
+  "52ea805926b773a8": 1792915179.02422
  },
  "recent": [
-  "Iranians Face Anxious Wait as Threat of Attack Looms",
-  "Trump’s threat to strike Iran raises public concerns, congressional questions",
   "Iran threatens Gulf data centres, energy sites as prospect of fresh US strikes grows",
   "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
   "Bank of America resets Tesla forecast as Robotaxi miles double",
@@ -3786,24 +3781,27 @@
   "Trump weighs Iran strikes amid warship deployment: Report",
   "Iran vows 'several times greater' response to any strike",
   "AI Sell-off Exposes the Cost of Financing the Technology Boom",
-  "Iran Rejects Hormuz Deal, Prepares for New US Strike..."
+  "Iran Rejects Hormuz Deal, Prepares for New US Strike...",
+  "US withdraws from Iraq, leaving it at Iran's mercy",
+  "Iran Offers to Reopen Strait of Hormuz if US Lifts Blockade"
  ],
  "initialized": true,
- "last_alert": 1792902641.879661,
+ "last_alert": 1792915157.508789,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 85,
-  "new": 56,
+  "fetched": 76,
+  "new": 53,
   "rated": {
-   "low": 22,
-   "medium": 7,
-   "high": 2
+   "low": 1,
+   "medium": 1,
+   "high": 1
   },
-  "posted": 3,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4993)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 4198)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 97 (char 4122)"
   ],
-  "time": "2026-10-25T07:24:25+00:00"
+  "time": "2026-10-25T07:59:39+00:00"
  }
 }
