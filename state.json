@@ -3765,15 +3765,17 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 76,
-  "new": 36,
+  "fetched": 78,
+  "new": 24,
   "rated": {
-   "low": 27,
-   "medium": 9,
+   "low": 0,
+   "medium": 0,
    "high": 0
   },
-  "posted": 4,
-  "errors": [],
-  "time": "2026-10-25T05:36:07+00:00"
+  "posted": 0,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4615)"
+  ],
+  "time": "2026-10-25T06:06:42+00:00"
  }
 }
