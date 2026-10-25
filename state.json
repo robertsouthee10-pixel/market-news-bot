@@ -1,46 +1,5 @@
 {
  "seen": {
-  "3caf561665dfa72d": 1792636457.9882576,
-  "91c87d86969ed1f3": 1792636457.9882889,
-  "af197310b6d4c254": 1792636457.9882948,
-  "e42148b5949f0161": 1792636457.9883,
-  "25426391008e53e0": 1792636457.988304,
-  "bbc34037710181f1": 1792636457.9883065,
-  "caeb1e28c2e926be": 1792636457.9883099,
-  "1e50c13e4195b6d9": 1792636457.9883125,
-  "b13ae99fd3bca54f": 1792636457.9883204,
-  "d030db06f1b1d4cb": 1792636457.988324,
-  "79e06aa6dbf272ef": 1792636457.988327,
-  "987430b46dd4781a": 1792636459.3283868,
-  "19b1806a79233591": 1792636460.5874162,
-  "e3e160d73df27ad2": 1792636460.5874448,
-  "0557fdb3b628e7b6": 1792636460.58745,
-  "a9e01e149752eaf4": 1792636460.5874538,
-  "5fad7a7cf5ba3068": 1792636460.587458,
-  "f541f05bd2e7542b": 1792636460.5874615,
-  "f65a13ec2d2a1f91": 1792636460.5874653,
-  "9fa0b894479e4a0a": 1792636460.5874686,
-  "d052275264d2459a": 1792636460.5874712,
-  "906bd7c6f2a70860": 1792636460.5874743,
-  "ee815d9d0f8ada0e": 1792636460.587477,
-  "079ed19f03353262": 1792636460.5874798,
-  "163174f45f25f49a": 1792636460.5874834,
-  "32c1dbc832c4e70e": 1792636471.819602,
-  "b9cf2ee48a7544e4": 1792636471.8196063,
-  "db29b6884dbe2c46": 1792636471.8196092,
-  "c05098df082699d2": 1792636471.8196125,
-  "74cf2c83e7b34f9e": 1792636473.2194774,
-  "88d2d5090468f387": 1792636473.2195034,
-  "02918402a2ff52b6": 1792636473.2195084,
-  "0440a05d152b2178": 1792636473.2195132,
-  "f104a55775d610ca": 1792636473.219517,
-  "0287a48a59d9fb7d": 1792636473.2195199,
-  "f5a59c2c866bc1cf": 1792636473.2195227,
-  "aeb71174d649e5fc": 1792636473.2195373,
-  "81e4af478fa476e2": 1792636473.2195406,
-  "85e1641919f3e2c8": 1792636473.2195427,
-  "8b15e69b9bf8682b": 1792636474.4955475,
-  "86b402bc675e79cc": 1792636475.787762,
   "5d5f27585481cc6a": 1792638565.3523364,
   "d3183dc9649101ae": 1792638565.3523667,
   "33086114d10ee105": 1792638565.3523707,
@@ -3788,10 +3747,14 @@
   "eef2efd0b9ca6d6e": 1792894724.474708,
   "9d969944de05c969": 1792894725.6819303,
   "84760ba6a9f53c49": 1792894725.6819522,
-  "6822cc47739e54d4": 1792894726.9582102
+  "6822cc47739e54d4": 1792894726.9582102,
+  "36461bc8cc69102b": 1792896877.7717025,
+  "18d5d58defcb519b": 1792896877.7717092,
+  "1fadfbbfe6540ce2": 1792896878.9879746,
+  "fc5d5e44c3c0d98f": 1792896878.9879963,
+  "0c71891810039764": 1792896878.988007
  },
  "recent": [
-  "Trump: There's a possibility we may strike Iran",
   "🇮🇷🇮🇱 Iran may be preparing a DIRECT tit-for-tat response if the next war starts The logic being discussed is brutal: Hit Iran’s nuclear sites, Iran hits Dimona. Kill Iranian leaders, Iran targets yours. Hit Iranian energy, Iran hits Gulf energy and infrastructure. At th",
   "Trump: We May Attack Iran Tomorrow Or We May Get A Great Deal, Either Way We Win",
   "Elon Musk Just Gave Fantastic News for Nvidia Investors",
@@ -3830,22 +3793,25 @@
   "The AI trade is shifting from chip stocks to cybersecurity",
   "Samsung, SK Hynix Expected to Post Combined Operating Profit Exceeding KRW 180 Trillion in Q3",
   "US carrier rearms as Iran trade routes narrow: Report",
-  "Americans evacuate Middle East after US intelligence chief warns Iranian death plot is in"
+  "Americans evacuate Middle East after US intelligence chief warns Iranian death plot is in",
+  "Tehran warns of nuclear options and infrastructure strikes if US attacks Iran"
  ],
  "initialized": true,
  "last_alert": 1792888900.0823202,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 64,
-  "new": 17,
+  "fetched": 66,
+  "new": 30,
   "rated": {
-   "low": 11,
-   "medium": 4,
-   "high": 2
+   "low": 3,
+   "medium": 1,
+   "high": 1
   },
-  "posted": 4,
-  "errors": [],
-  "time": "2026-10-25T02:18:46+00:00"
+  "posted": 1,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 106 (char 4513)"
+  ],
+  "time": "2026-10-25T02:54:38+00:00"
  }
 }
