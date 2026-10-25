@@ -1,16 +1,5 @@
 {
  "seen": {
-  "27ff5a05716b4890": 1792651425.481881,
-  "54978ef92f4f7a6d": 1792651426.6940098,
-  "2051fd7b27079ae6": 1792651426.6940303,
-  "8b5b4cfdd45b36bb": 1792651427.9479067,
-  "c12ddbeef3fbfeac": 1792651427.9479268,
-  "e2d91e6ac9d3216f": 1792651427.9479325,
-  "ad039979aa832406": 1792651427.9479358,
-  "0aab735f7af4d25c": 1792651429.1831205,
-  "06af4af741e183c4": 1792651429.1831388,
-  "70b904c93cee3d20": 1792651429.1831427,
-  "6b66099e201aa8ea": 1792651430.3662736,
   "0a47b8880ba40f7d": 1792654277.221749,
   "e8e04cb6bab03a28": 1792654278.538615,
   "fb3a151121760ede": 1792654278.538636,
@@ -3724,12 +3713,40 @@
   "bf9a682d793391c9": 1792910624.6763425,
   "fae656ba843635db": 1792910624.6763623,
   "4b61662f28ce5ad7": 1792910624.6763663,
-  "36e01d571ef90f6a": 1792910624.67637
+  "36e01d571ef90f6a": 1792910624.67637,
+  "d503251147412f0f": 1792913038.9214926,
+  "d95ace24776d78ba": 1792913038.9214983,
+  "628ed7d00b5afac1": 1792913038.9215016,
+  "c6de311a028b2320": 1792913038.9215043,
+  "60301b3589abe0ef": 1792913038.9215066,
+  "208a8c31d024a4e4": 1792913040.184352,
+  "fff065e02c348501": 1792913040.1843715,
+  "dd6df048e4e358ff": 1792913040.1843793,
+  "26a272424005797f": 1792913040.184383,
+  "397f7106bb873fef": 1792913040.184386,
+  "03a784d96040dc13": 1792913040.1843884,
+  "e21bfca1bd1add0d": 1792913040.184391,
+  "0f487683e646ebc0": 1792913040.1843936,
+  "903ed3e5c1cffd10": 1792913040.1843963,
+  "689dce8530656ebe": 1792913040.1843996,
+  "2d946c619cab4b8a": 1792913040.1844025,
+  "8d13b1226f45715e": 1792913040.1844044,
+  "faf61969e7c11b9d": 1792913041.833644,
+  "5e1cc461a01685ae": 1792913041.833663,
+  "c0d30982953d8e61": 1792913041.833667,
+  "03c4bb545a40a422": 1792913041.83367,
+  "07458f39f1e457f4": 1792913041.8336744,
+  "29d39dde7401dd88": 1792913041.8336773,
+  "bf9528a3cc681ced": 1792913041.8336802,
+  "6dd6effd1c6f57cf": 1792913041.8336833,
+  "49f0567a449681ef": 1792913064.3544106,
+  "662fda0868fc32bc": 1792913064.3544152,
+  "f6f5ebff989b7323": 1792913064.3544183,
+  "51d01b7bbf01b488": 1792913064.354421,
+  "54a0505e079596f9": 1792913064.3544235,
+  "b7bb50e456c39839": 1792913065.8227475
  },
  "recent": [
-  "Trump: \"While oil prices are temporarily high ... the United States oil and gas business is making hundreds of billions of dollars\"",
-  "Trump Hints at Sunday Iran Attack or Deal",
-  "Trump: Oil prices to fall dramatically soon",
   "Iranians Face Anxious Wait as Threat of Attack Looms",
   "Trump’s threat to strike Iran raises public concerns, congressional questions",
   "Iran threatens Gulf data centres, energy sites as prospect of fresh US strikes grows",
@@ -3766,7 +3783,10 @@
   "US warplanes over southern Iraq? IRGC-linked outlet reports flights amid Trump’s Iran strike threat | Videos",
   "US orders Urgent Embassy Staff Evacuation from Saudi Arabia amid Iran threats",
   "Tehran strikes Iranian Kurdish base in Iraq with drones: Iranian media",
-  "Trump weighs Iran strikes amid warship deployment: Report"
+  "Trump weighs Iran strikes amid warship deployment: Report",
+  "Iran vows 'several times greater' response to any strike",
+  "AI Sell-off Exposes the Cost of Financing the Technology Boom",
+  "Iran Rejects Hormuz Deal, Prepares for New US Strike..."
  ],
  "initialized": true,
  "last_alert": 1792902641.879661,
@@ -3774,17 +3794,16 @@
   "feeds_ok": 18,
   "feeds_failed": [],
   "fetched": 85,
-  "new": 61,
+  "new": 56,
   "rated": {
-   "low": 6,
-   "medium": 1,
-   "high": 4
+   "low": 22,
+   "medium": 7,
+   "high": 2
   },
-  "posted": 2,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4431)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3853)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4993)"
   ],
-  "time": "2026-10-25T06:43:44+00:00"
+  "time": "2026-10-25T07:24:25+00:00"
  }
 }
