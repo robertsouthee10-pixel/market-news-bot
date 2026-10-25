@@ -1,22 +1,5 @@
 {
  "seen": {
-  "245f3f183ef858d7": 1792702864.2664576,
-  "082faa5d0e55c39e": 1792702864.266493,
-  "6ed8850ef61a9971": 1792702865.5238326,
-  "eeaf9fa434ad2b51": 1792702865.523854,
-  "aecd22fe84655266": 1792702865.523859,
-  "1c42407c0e9ae08c": 1792702867.1898506,
-  "9cbbb2a4a5beaecd": 1792702868.530189,
-  "d09be535b857aab8": 1792702869.82221,
-  "07488134e1ead22e": 1792702871.0704775,
-  "5317e7cd971ccc07": 1792702872.5048835,
-  "981b595d8c36b573": 1792702872.5049057,
-  "5b4338768448ab32": 1792702872.5049098,
-  "823d033b93a572aa": 1792702872.5049124,
-  "2906c0246aee3a56": 1792702872.504917,
-  "275cea51e0d39a4d": 1792702873.9392445,
-  "89d9e584841f75cb": 1792702873.9392648,
-  "93ee46819c39d4fc": 1792702875.2921488,
   "aef0a1f2134cf333": 1792704713.646966,
   "bae34fc88f2ff3c2": 1792704713.646972,
   "37ad01ceeffb8eed": 1792704713.646975,
@@ -3721,10 +3704,14 @@
   "c495b81c812465d4": 1792961269.3949072,
   "35064395bef95c46": 1792961270.5536587,
   "4452d787b3047737": 1792961270.5536783,
-  "5e383badc7a0b7c4": 1792961270.5536828
+  "5e383badc7a0b7c4": 1792961270.5536828,
+  "fc7534a971e84cbc": 1792962639.9051464,
+  "2557844ff6aaa0ec": 1792962641.120392,
+  "816fe7c81327fa34": 1792962641.1204152,
+  "6e0ddc5105ef5175": 1792962641.1204195,
+  "c79657705b1d5a17": 1792962641.1204238
  },
  "recent": [
-  "Trump says US could strike Iran as soon as tomorrow",
   "Trump has 'a decision to make' on Iran as concerns over renewed strikes deepen",
   "President Trump says he does not care about high fuel prices — The Hill",
   "US Central Command chief conducts Apache helicopter tour over Strait of Hormuz",
@@ -3763,24 +3750,26 @@
   "AI Capex Payoff Put to the Test as US Tech Earnings and Fed Meeting Mark Market Inflection Point",
   "US intel warns Iran is planning lethal plots against Americans",
   "“We Can’t Let Them Have A Nuclear Weapon,” Trump Warns Iran",
-  "White House Fears Netanyahu Nuclear Post Could Trigger Iran Attack"
+  "White House Fears Netanyahu Nuclear Post Could Trigger Iran Attack",
+  "Iran says messages still pass to U.S. as regional tensions mount, and other Mideast news"
  ],
  "initialized": true,
  "last_alert": 1792956630.802984,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 107,
-  "new": 36,
+  "fetched": 118,
+  "new": 55,
   "rated": {
-   "low": 8,
-   "medium": 3,
+   "low": 4,
+   "medium": 1,
    "high": 0
   },
-  "posted": 2,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 4157)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 144 (char 4729)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3806)"
   ],
-  "time": "2026-10-25T20:47:50+00:00"
+  "time": "2026-10-25T21:10:41+00:00"
  }
 }
