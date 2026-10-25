@@ -1,20 +1,5 @@
 {
  "seen": {
-  "9457c66f46ad2443": 1792665987.0094678,
-  "cfa7d0e53db2cb77": 1792665987.0094748,
-  "5c70cf25bacf0bd1": 1792665988.219681,
-  "5bb53cb7b895e429": 1792665990.2746894,
-  "60ea72a000ed0fac": 1792665991.7802162,
-  "244cfe81aee84af9": 1792665991.7802389,
-  "1349792ab6e8fd6b": 1792665991.7802432,
-  "60887e69432d4a75": 1792665992.9394422,
-  "890f1f1f18ee0136": 1792665992.9394648,
-  "1c1e9c0135123280": 1792665994.0942483,
-  "a190a1d8ae27f3e1": 1792665994.0942693,
-  "4ece827fe5da69da": 1792665994.094273,
-  "ffdefc669095d5d5": 1792665994.0942786,
-  "d180c54e27b5ac87": 1792665994.0942822,
-  "96947f8198aab488": 1792665994.0942852,
   "b51dc7550847b590": 1792667859.0675287,
   "e074fd74f53f5f42": 1792667860.255318,
   "c8a073c0148beda0": 1792667860.2553349,
@@ -3862,10 +3847,14 @@
   "76c498e1c448d090": 1792924294.0077865,
   "90b77160ac9280e4": 1792924294.0077915,
   "05d78c1d3ef4422e": 1792924294.0077958,
-  "b6fa64ad30db0224": 1792924295.5500214
+  "b6fa64ad30db0224": 1792924295.5500214,
+  "61620afc8f632cf1": 1792926047.5304804,
+  "b6a28753a24cfd4b": 1792926047.530486,
+  "aaecfd4d1b1507f3": 1792926048.7741036,
+  "5ae4de7d96fcc82d": 1792926048.7741246,
+  "b38f24485355f4f9": 1792926048.7741332
  },
  "recent": [
-  "Two supertankers carrying millions of barrels of crude oil catch fire, Iran says",
   "Oil at $116, FOMC and Big Tech Earnings Collide in a 'Week of Destiny' — Wall Street Braces for Volatility",
   "Trump Hints at Possible US Strike on Iran as Hormuz Talks Remain Uncertain",
   "Trump Says Iran Strikes Possible as He Leaves Door Open For Deal",
@@ -3904,24 +3893,28 @@
   "Iran urges renewed peace talks despite Trump threats",
   "Trump weighs more strikes or a deal with Iran",
   "Trump Says Iran Leader Killings Complicate US Negotiations",
-  "Western Digital: Cracks In Its AI Supercycle Are Worsening (Downgrade) (NASDAQ:WDC)"
+  "Western Digital: Cracks In Its AI Supercycle Are Worsening (Downgrade) (NASDAQ:WDC)",
+  "Iran threatens to 'make Israel uninhabitable in no more than an hour' if attacked again - Region - World"
  ],
  "initialized": true,
- "last_alert": 1792915157.508789,
+ "last_alert": 1792926024.9839404,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 100,
-  "new": 48,
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
+  ],
+  "fetched": 103,
+  "new": 55,
   "rated": {
-   "low": 15,
-   "medium": 8,
+   "low": 4,
+   "medium": 1,
    "high": 0
   },
-  "posted": 6,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4361)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 142 (char 4826)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4520)"
   ],
-  "time": "2026-10-25T10:31:35+00:00"
+  "time": "2026-10-25T11:00:48+00:00"
  }
 }
