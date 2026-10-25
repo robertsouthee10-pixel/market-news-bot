@@ -1,17 +1,5 @@
 {
  "seen": {
-  "fd742d3727938630": 1792663925.4740186,
-  "40c893b9baa80177": 1792663926.712173,
-  "efcb2c107c199ab9": 1792663926.7121973,
-  "d676eca9693f9b6f": 1792663926.7122087,
-  "8322f1781349dfa6": 1792663926.7122123,
-  "079e16ac4b66665f": 1792663927.9364002,
-  "bb08a6b9c899b991": 1792663927.936425,
-  "bcd2ea4e5e8c032c": 1792663927.936428,
-  "a72000890cd150fb": 1792663929.1819491,
-  "9dcfd3e31028733e": 1792663929.1819706,
-  "2bf54e5ea3777e7f": 1792663929.181974,
-  "257544e701eabb53": 1792663929.1819825,
   "9457c66f46ad2443": 1792665987.0094678,
   "cfa7d0e53db2cb77": 1792665987.0094748,
   "5c70cf25bacf0bd1": 1792665988.219681,
@@ -3851,15 +3839,32 @@
   "03378904bee2d18b": 1792922559.885929,
   "e3fc973f9d1c80f9": 1792922559.8859317,
   "d6a5e6ee641379cc": 1792922565.0428996,
-  "08fb60420c0b33c8": 1792922565.0429046
+  "08fb60420c0b33c8": 1792922565.0429046,
+  "5d48b1542c47768f": 1792924287.972491,
+  "ca9f32e8ce00e101": 1792924287.9724958,
+  "433ef1cc2b52a1c2": 1792924289.1306984,
+  "c636899508887c67": 1792924289.13072,
+  "760ee874abe048ef": 1792924289.1307242,
+  "f227297c50de310e": 1792924290.2779264,
+  "88fc46f96c892032": 1792924290.2779515,
+  "7f942a667707e381": 1792924290.2779553,
+  "0950a9343ffdd4fe": 1792924291.5914872,
+  "69130e8c6cc3347b": 1792924291.5915086,
+  "ae4cdd383c349282": 1792924291.591513,
+  "d87b8026b1a695a9": 1792924292.7626617,
+  "e95599e3ac6bc298": 1792924292.7626827,
+  "70ca9edf58131e8b": 1792924292.762686,
+  "f481a80d9e1b259e": 1792924292.7626905,
+  "f10ea1d05a8363ff": 1792924292.7626934,
+  "28a2bf6aaa3ceef0": 1792924292.7626965,
+  "fb131c600886f167": 1792924292.7626984,
+  "299ef97c4673ac35": 1792924294.007766,
+  "76c498e1c448d090": 1792924294.0077865,
+  "90b77160ac9280e4": 1792924294.0077915,
+  "05d78c1d3ef4422e": 1792924294.0077958,
+  "b6fa64ad30db0224": 1792924295.5500214
  },
  "recent": [
-  "US-Israel-Iran War Latest Live Updates: ‘Possibility I Will’: Trump Says US Could Attack Iran Again, Keeps Military Strikes on Table While Offering Tehran a Chance for Major Agreement",
-  "Commodities to be on edge as oil surges and Fed takes centre stage",
-  "Conflict in Iran could result in more American casualties, memo says",
-  "US Prepared for Prolonged Standoff with Iran",
-  "Tehran Has Made No New Proposal to Pakistani Mediators",
-  "CENTCOM Moves Aircraft From Middle East Bases Over Iran",
   "Two supertankers carrying millions of barrels of crude oil catch fire, Iran says",
   "Oil at $116, FOMC and Big Tech Earnings Collide in a 'Week of Destiny' — Wall Street Braces for Volatility",
   "Trump Hints at Possible US Strike on Iran as Hormuz Talks Remain Uncertain",
@@ -3893,24 +3898,30 @@
   "Iran warns the US and Israel about the consequences if a new outbreak of conflict breaks out",
   "Psychological terror, Trump: I will attack, Obama intervenes - Iran: New proposal is a lie, fiery hell in the Persian Gulf and Israel",
   "Iran-Backed Militia Accuses US of Airspace Violations as Baghdad Probes Suspected Israeli Strikes",
-  "Global markets face new pressure as oil prices extend energy shock"
+  "Global markets face new pressure as oil prices extend energy shock",
+  "On Cam: Trump Send CHILLING Warning To Iran As Nuclear Showdown Intensifies",
+  "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount",
+  "Iran urges renewed peace talks despite Trump threats",
+  "Trump weighs more strikes or a deal with Iran",
+  "Trump Says Iran Leader Killings Complicate US Negotiations",
+  "Western Digital: Cracks In Its AI Supercycle Are Worsening (Downgrade) (NASDAQ:WDC)"
  ],
  "initialized": true,
  "last_alert": 1792915157.508789,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 93,
-  "new": 52,
+  "fetched": 100,
+  "new": 48,
   "rated": {
-   "low": 23,
-   "medium": 4,
+   "low": 15,
+   "medium": 8,
    "high": 0
   },
-  "posted": 2,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4613)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4361)"
   ],
-  "time": "2026-10-25T10:02:45+00:00"
+  "time": "2026-10-25T10:31:35+00:00"
  }
 }
