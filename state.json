@@ -3824,11 +3824,36 @@
   "1ec90baa2c1aef0f": 1792920713.5091803,
   "79eb42fa38330c34": 1792920713.5091853,
   "3e545eb4e30c0d6f": 1792920713.5091882,
-  "fb3f630008cfa44e": 1792920714.786603
+  "fb3f630008cfa44e": 1792920714.786603,
+  "187326d6391f6dbb": 1792922557.3771667,
+  "c27861ca5d48ffe8": 1792922557.3771715,
+  "eb781bd3b7551a0f": 1792922557.3771737,
+  "20acaf46a9430bbd": 1792922557.3771753,
+  "abbab8edb190a1aa": 1792922557.377177,
+  "1f717ed0cc693cdf": 1792922557.377179,
+  "bba7fff2bbc412ff": 1792922557.3771803,
+  "afdfed9f4593331b": 1792922557.3771825,
+  "f106f16d9a5b7bdc": 1792922557.3771842,
+  "a89c7f9c32c41d2a": 1792922557.3771856,
+  "cc77c15e87559c3c": 1792922557.3771873,
+  "11f1cc7e961fcc93": 1792922557.3771896,
+  "0a311251d725c7b5": 1792922557.3771913,
+  "4e736a52c72ceb51": 1792922558.6110108,
+  "3fe100ae2d90e0bf": 1792922558.6110368,
+  "2824068916365aa5": 1792922558.6110456,
+  "4c387a32e4916c99": 1792922559.8858895,
+  "702e17feaeb7f56e": 1792922559.8859127,
+  "70bd9ae84a0ec41b": 1792922559.8859165,
+  "adf3e309305b9065": 1792922559.8859196,
+  "3f37ef4a8068843c": 1792922559.8859217,
+  "ea7e8291ef9d2ac1": 1792922559.8859248,
+  "3e58c9a468840266": 1792922559.885927,
+  "03378904bee2d18b": 1792922559.885929,
+  "e3fc973f9d1c80f9": 1792922559.8859317,
+  "d6a5e6ee641379cc": 1792922565.0428996,
+  "08fb60420c0b33c8": 1792922565.0429046
  },
  "recent": [
-  "Elon Musk Says Tesla’s Megapacks Are Nearly Sold Out Through 2027 as Energy Demand Surges: 'Ramping Production as Quickly as Possible'",
-  "Iran to make Israel uninhabitable in under an hour",
   "US-Israel-Iran War Latest Live Updates: ‘Possibility I Will’: Trump Says US Could Attack Iran Again, Keeps Military Strikes on Table While Offering Tehran a Chance for Major Agreement",
   "Commodities to be on edge as oil surges and Fed takes centre stage",
   "Conflict in Iran could result in more American casualties, memo says",
@@ -3866,22 +3891,26 @@
   "US Embassies on Alert Across Middle East as Iran Plots Against Americans Reach ‘Advanced Stages:’ Report",
   "Saudis intercept Houthi drones, missiles from Yemen as conflict intensifies",
   "Iran warns the US and Israel about the consequences if a new outbreak of conflict breaks out",
-  "Psychological terror, Trump: I will attack, Obama intervenes - Iran: New proposal is a lie, fiery hell in the Persian Gulf and Israel"
+  "Psychological terror, Trump: I will attack, Obama intervenes - Iran: New proposal is a lie, fiery hell in the Persian Gulf and Israel",
+  "Iran-Backed Militia Accuses US of Airspace Violations as Baghdad Probes Suspected Israeli Strikes",
+  "Global markets face new pressure as oil prices extend energy shock"
  ],
  "initialized": true,
  "last_alert": 1792915157.508789,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 81,
-  "new": 42,
+  "fetched": 93,
+  "new": 52,
   "rated": {
-   "low": 30,
-   "medium": 12,
+   "low": 23,
+   "medium": 4,
    "high": 0
   },
-  "posted": 8,
-  "errors": [],
-  "time": "2026-10-25T09:31:54+00:00"
+  "posted": 2,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4613)"
+  ],
+  "time": "2026-10-25T10:02:45+00:00"
  }
 }
