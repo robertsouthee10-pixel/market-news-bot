@@ -1,8 +1,5 @@
 {
  "seen": {
-  "089af73fd9a9fe30": 1792651422.9921513,
-  "c9f315a8cdc56627": 1792651422.9921572,
-  "5dba22e64ea47b4c": 1792651424.2847347,
   "27ff5a05716b4890": 1792651425.481881,
   "54978ef92f4f7a6d": 1792651426.6940098,
   "2051fd7b27079ae6": 1792651426.6940303,
@@ -3716,11 +3713,20 @@
   "61cf0637f52ae936": 1792906567.1408036,
   "8bac8bddd0c372e0": 1792906567.1408057,
   "8337af7fbbe84216": 1792906567.140809,
-  "7e34ddbc21aa963c": 1792906567.1408112
+  "7e34ddbc21aa963c": 1792906567.1408112,
+  "f463992c3baa0c8c": 1792910622.0752037,
+  "b646b36941b3d16d": 1792910622.07521,
+  "22ae5d1cc0819b5b": 1792910623.397127,
+  "8184b5c513840579": 1792910623.3971505,
+  "4369088f9b5ee114": 1792910623.3971543,
+  "a0d9775a3d038b80": 1792910623.3971581,
+  "ea86ba0b513081c1": 1792910623.3971615,
+  "bf9a682d793391c9": 1792910624.6763425,
+  "fae656ba843635db": 1792910624.6763623,
+  "4b61662f28ce5ad7": 1792910624.6763663,
+  "36e01d571ef90f6a": 1792910624.67637
  },
  "recent": [
-  "Houthis Strike Saudi Airports And Oil Facilities, Saudi Intercepts Missiles Over Mecca And Medina",
-  "Report: US military has strike plans ready for Iran",
   "Trump: \"While oil prices are temporarily high ... the United States oil and gas business is making hundreds of billions of dollars\"",
   "Trump Hints at Sunday Iran Attack or Deal",
   "Trump: Oil prices to fall dramatically soon",
@@ -3758,24 +3764,27 @@
   "Iran's 7-day plan set on Hormuz not yet conveyed to US side",
   "Trump Prepares for Iran Escalation After US, Israeli Polls",
   "US warplanes over southern Iraq? IRGC-linked outlet reports flights amid Trump’s Iran strike threat | Videos",
-  "US orders Urgent Embassy Staff Evacuation from Saudi Arabia amid Iran threats"
+  "US orders Urgent Embassy Staff Evacuation from Saudi Arabia amid Iran threats",
+  "Tehran strikes Iranian Kurdish base in Iraq with drones: Iranian media",
+  "Trump weighs Iran strikes amid warship deployment: Report"
  ],
  "initialized": true,
  "last_alert": 1792902641.879661,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 78,
-  "new": 24,
+  "fetched": 85,
+  "new": 61,
   "rated": {
-   "low": 0,
-   "medium": 0,
-   "high": 0
+   "low": 6,
+   "medium": 1,
+   "high": 4
   },
-  "posted": 0,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4615)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4431)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3853)"
   ],
-  "time": "2026-10-25T06:06:42+00:00"
+  "time": "2026-10-25T06:43:44+00:00"
  }
 }
