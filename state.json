@@ -1,42 +1,5 @@
 {
  "seen": {
-  "a65a657ec1c91bed": 1792700670.2256346,
-  "d98c9dcaf5c42383": 1792700670.225639,
-  "f46d6576778b4dc1": 1792700670.225642,
-  "0fea976c9b791d51": 1792700670.2256446,
-  "793c068bc4e23875": 1792700670.2256489,
-  "a438a3573730c2fb": 1792700670.2256508,
-  "b6ad0311abe24988": 1792700670.2256546,
-  "a7538189f9c6aa60": 1792700670.2256563,
-  "4c69690139e489fd": 1792700670.2256587,
-  "cd2abe8323a5edaf": 1792700670.2256598,
-  "c761aa1d38f82ca2": 1792700671.5797122,
-  "80755868f94f8e73": 1792700671.5797396,
-  "52fbc9d4356b6c77": 1792700671.579744,
-  "050069fb7c4fe86f": 1792700671.579747,
-  "1136d5e58ffd7166": 1792700671.5797498,
-  "3e8677b3eb429d32": 1792700672.8722868,
-  "80e9da808d456491": 1792700674.1557093,
-  "1c602a907c08411a": 1792700674.1557333,
-  "b10b8b85e9c8a0d1": 1792700675.3938437,
-  "c09929363afe0824": 1792700675.393868,
-  "b444b2952fe659aa": 1792700675.393872,
-  "d9a64e6ec7f99cbb": 1792700675.3938744,
-  "a53ad8f90da89f64": 1792700675.3938773,
-  "3b63ced04bf6412f": 1792700675.3938794,
-  "6f632073da949536": 1792700675.3938823,
-  "7747bba2fc28174a": 1792700753.0696714,
-  "d58b68c54ab8272d": 1792700753.069698,
-  "09d92eea6532a2fe": 1792700753.0697014,
-  "c6261bb299507a2a": 1792700754.3753524,
-  "a600ab57786495bd": 1792700754.3753815,
-  "6ca5b1460174e8e8": 1792700754.3753853,
-  "52395710f5d07ba3": 1792700754.3753893,
-  "a493b8cc84b6d2d2": 1792700754.375393,
-  "0a191896cc80100a": 1792700754.3753953,
-  "458ed200e54b7613": 1792700754.3753982,
-  "0a844d468cc33a9d": 1792700754.375401,
-  "3674b20c9a026c2b": 1792700754.3754032,
   "245f3f183ef858d7": 1792702864.2664576,
   "082faa5d0e55c39e": 1792702864.266493,
   "6ed8850ef61a9971": 1792702865.5238326,
@@ -3747,11 +3710,20 @@
   "dfe5ff5d8e283068": 1792959409.282582,
   "4e296eeca29a6641": 1792959409.2825863,
   "01168e65702ff1a4": 1792959409.282589,
-  "50b86e91864e5e98": 1792959409.2825918
+  "50b86e91864e5e98": 1792959409.2825918,
+  "50b3bb7a3ad64584": 1792961268.228871,
+  "9ea4cb0aad586146": 1792961268.2288783,
+  "09e2926caa66c44e": 1792961268.2288814,
+  "2a12ab7e83b2c25e": 1792961268.2288837,
+  "79f4ddb8e5e09c79": 1792961269.3948781,
+  "4d3a69ec0c7d3c76": 1792961269.3948967,
+  "b2e1b2fe26ccd8e2": 1792961269.394901,
+  "c495b81c812465d4": 1792961269.3949072,
+  "35064395bef95c46": 1792961270.5536587,
+  "4452d787b3047737": 1792961270.5536783,
+  "5e383badc7a0b7c4": 1792961270.5536828
  },
  "recent": [
-  "Iran Hormuz Talks Stall as Oil Tops $116",
-  "Iran says messages are still being passed to the US amid war concerns",
   "Trump says US could strike Iran as soon as tomorrow",
   "Trump has 'a decision to make' on Iran as concerns over renewed strikes deepen",
   "President Trump says he does not care about high fuel prices — The Hill",
@@ -3789,22 +3761,26 @@
   "Stock futures set to trade ahead of key Fed int...",
   "Iranian Army Says It Shot Down US LUCAS Drone That Was Flying Over Southern Iran",
   "AI Capex Payoff Put to the Test as US Tech Earnings and Fed Meeting Mark Market Inflection Point",
-  "US intel warns Iran is planning lethal plots against Americans"
+  "US intel warns Iran is planning lethal plots against Americans",
+  "“We Can’t Let Them Have A Nuclear Weapon,” Trump Warns Iran",
+  "White House Fears Netanyahu Nuclear Post Could Trigger Iran Attack"
  ],
  "initialized": true,
  "last_alert": 1792956630.802984,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 112,
+  "fetched": 107,
   "new": 36,
   "rated": {
-   "low": 25,
-   "medium": 9,
-   "high": 2
+   "low": 8,
+   "medium": 3,
+   "high": 0
   },
-  "posted": 10,
-  "errors": [],
-  "time": "2026-10-25T20:16:49+00:00"
+  "posted": 2,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 4157)"
+  ],
+  "time": "2026-10-25T20:47:50+00:00"
  }
 }
