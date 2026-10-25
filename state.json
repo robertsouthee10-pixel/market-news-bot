@@ -1,31 +1,5 @@
 {
  "seen": {
-  "13c8d53f7ecc6e41": 1792672078.2286267,
-  "72b6b2ffd53dbfd3": 1792672078.2286348,
-  "e2f6edfaecf703a4": 1792672078.2286384,
-  "f61afd4f22fffb0b": 1792672078.2286408,
-  "a31bdc877d10b74a": 1792672078.2286432,
-  "3ff9dde726ef86f9": 1792672078.2286448,
-  "4f70e3cb041ff21b": 1792672078.228647,
-  "b109791d669a9572": 1792672078.2286487,
-  "8290776a4e87725b": 1792672079.555299,
-  "1138c93101c27623": 1792672079.5553243,
-  "b4df4184d4031aa2": 1792672080.8435645,
-  "1488a550c6e2d219": 1792672080.8435905,
-  "c5ec8d23e1a7bae3": 1792672080.8435948,
-  "aa14d3c7dded3e5e": 1792672082.0976214,
-  "d83536005adac708": 1792672082.0976496,
-  "61f37668d8815950": 1792672082.0976543,
-  "82eab453299c925c": 1792672082.097658,
-  "96e35b590dbaf5d1": 1792672082.0976603,
-  "1a954bea70b3313d": 1792672083.394896,
-  "e1d4f7c94c7e41ab": 1792672084.6563287,
-  "973da11ff4a40e2c": 1792672084.6563518,
-  "1478d309d43ea2ca": 1792672084.6563551,
-  "b1a247676257a9aa": 1792672084.6563575,
-  "afdaed7361413961": 1792672084.6563601,
-  "75bd29604a428b49": 1792672084.6563632,
-  "25425493e7bef130": 1792672135.3000047,
   "8039ca63533c1a5a": 1792672136.6761827,
   "7a5ab00ef6db27f5": 1792672136.6762056,
   "b02a8cc09393026d": 1792672136.6762094,
@@ -3860,14 +3834,25 @@
   "21dada8141f5feac": 1792929477.7820776,
   "1e3945a78ccf0f9e": 1792929477.7820847,
   "fdbd1e84cc661be8": 1792929479.0249145,
-  "ce47b1dc8568e649": 1792929480.2180877
+  "ce47b1dc8568e649": 1792929480.2180877,
+  "dbc4106c0dd6c93b": 1792931331.4878716,
+  "fd4d4efb1e01c82c": 1792931331.487897,
+  "1cd41cba1242b1c9": 1792931332.8283393,
+  "43ec69b3e544d13c": 1792931332.8283572,
+  "5721b61301ec77a8": 1792931332.8283615,
+  "f7fe513b93469ad3": 1792931332.828365,
+  "9b8ec04164bdb691": 1792931332.828368,
+  "85002dac2d2bf110": 1792931334.0873225,
+  "6a2dea741bf0f41d": 1792931334.087341,
+  "efa09902f0c258ff": 1792931334.0873451,
+  "734109963bf3c929": 1792931335.3459027,
+  "4e7ee4a483b8a8a2": 1792931336.5840027,
+  "5e41c6b47b3f1252": 1792931336.5840216,
+  "c4063ba637e1f4c9": 1792931336.5840259,
+  "7a2cf09f94852e58": 1792931336.5840297,
+  "2975c043024839ed": 1792931336.5840328
  },
  "recent": [
-  "Trump: Iran regime crushed, no one left to negotiate with",
-  "Nasdaq Index: AI Spending Fears Put Alphabet, Microsoft and Amazon in Focus",
-  "US-Israel-Iran War Latest Live Updates: Brent Crude Surges Past $117 as Fresh Strike Fears Mount, Could Oil Hit $150 a Barrel?",
-  "Iranian FM warns against military action, claims Iran repelled two previous attempts",
-  "The Pentagon is preparing a wide range of offensive options against Iran",
   "Iran plans to cut Gulf internet cables and block repairs if war resumes, officials say",
   "Saudi-led coalition destroyed 10 Iran-Backed Houthi missiles targeting southern Saudi Arabia",
   "Dalal Street Week Ahead: FOMC meeting, Q2 earnings among 10 key factors to watch",
@@ -3902,22 +3887,29 @@
   "Dow Jones Futures Loom; Microsoft, Google, Amazon Earnings Due In Doom-And-Bloom Market",
   "Nasdaq-100 posts worst week in 18 months, but h...",
   "Fed policy, Q2 earnings, crude oil prices among key market triggers next week",
-  "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus"
+  "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+  "Earnings Week Ahead: MSFT, GOOGL, AMZN, XOM, BA, VZ, and more (NASDAQ:MSFT)",
+  "Hormuz management to never return to pre-war era: Araghchi",
+  "Iraq closes Iran crossings, shores up Jordan, Syria borders",
+  "Gold Price Sunday: $3,996 Into Fed Week, Bear $3,890",
+  "Silver Falls 5.4% Globally in a Week as Fed Policy and Inflation Data Set the Next Direction"
  ],
  "initialized": true,
  "last_alert": 1792926024.9839404,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 98,
+  "fetched": 96,
   "new": 41,
   "rated": {
-   "low": 30,
-   "medium": 10,
-   "high": 1
+   "low": 11,
+   "medium": 5,
+   "high": 0
   },
-  "posted": 9,
-  "errors": [],
-  "time": "2026-10-25T11:58:00+00:00"
+  "posted": 5,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 102 (char 4529)"
+  ],
+  "time": "2026-10-25T12:28:56+00:00"
  }
 }
