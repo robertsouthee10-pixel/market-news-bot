@@ -3687,12 +3687,34 @@
   "b3823bd36fd624c2": 1792956639.1267734,
   "12eaafbea2c394da": 1792956640.413088,
   "e8f36e3788f5c66d": 1792956641.6493776,
-  "6d477ab48b75dc30": 1792956641.649398
+  "6d477ab48b75dc30": 1792956641.649398,
+  "444b2fea37e86c03": 1792958145.7020016,
+  "d0126d2b49260cbc": 1792958145.7020078,
+  "e6d8c165db85aaab": 1792958145.702011,
+  "c078a79727cfefe2": 1792958145.7020135,
+  "8a7dacb200d0d27e": 1792958145.702016,
+  "96b94f2fdd246b81": 1792958147.0232792,
+  "c87108936e46de26": 1792958147.0232992,
+  "080a6b33ce5df839": 1792958147.0233037,
+  "be12bcc893b79549": 1792958148.348352,
+  "7ec642d90535bdf9": 1792958148.3483744,
+  "3341a8612edd1b63": 1792958148.3483787,
+  "beaeaeacf2526d3a": 1792958150.1437926,
+  "f8fa6b17bd43066d": 1792958150.143814,
+  "1e93c137f0afd45e": 1792958150.1438208,
+  "78de8835701c4173": 1792958150.143826,
+  "94d22b0927b73658": 1792958150.1438296,
+  "32bf1f540654ef92": 1792958150.1438339,
+  "32b121f358639fb7": 1792958150.1438375,
+  "12051cfd7418706d": 1792958150.143841,
+  "81056548b4e07f1a": 1792958150.1438441,
+  "ab0dca9d44de6e0d": 1792958150.1438472,
+  "78bf9265129dbfbe": 1792958150.1438503,
+  "f5d00be11b3b3e42": 1792958150.1438556,
+  "b6b7a0c288323eeb": 1792958150.1438591,
+  "61244b7b6cec731d": 1792958150.1438646
  },
  "recent": [
-  "Trump says US will not attack Iran today",
-  "Oil Price Surge May Push Petrol Costs Higher As Iran Conflict Deepens",
-  "The Hidden $496 Billion Catalyst Waiting to Ignite Amazon Stock on Oct. 29",
   "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
   "What Is Meta Platforms (META) Telling Investors With Its Sundial Deal And New Stock?",
   "Iran tears Down a US Drone in Southern Bandar Abbas Region",
@@ -3729,24 +3751,27 @@
   "The U.S. and Israel have drawn up plans to renew strikes against Iran, creating a sense of anxiety and dread among war-weary residents. “People are under enormous pressure and are being crushed by the economic siege,” said one man who lives in Kerma",
   "Stocks fall again as S&P 500 dips 0.5% amid vol...",
   "Microsoft Stock Before Wednesday's Results: The 45% Azure Guide, and $50 Billion Capex Quarter",
-  "Middle East latest: US tells staff not to use Saudi airports without 'special authorisation'"
+  "Middle East latest: US tells staff not to use Saudi airports without 'special authorisation'",
+  "US-Israel-Iran War Latest News: Flights Resume at Saudi Arabia’s King Khalid International Airport; Iran’s Ghalibaf Urges People to Reduce Natural Gas Consumption by 10%",
+  "Maritime Crisis Deepens In Strait Of Hormuz As Nearly 500 Ships Stranded, Another Oil Tanker Attacked Near Oman",
+  "Dow Jones Futures Due With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?"
  ],
  "initialized": true,
  "last_alert": 1792956630.802984,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 113,
-  "new": 32,
+  "fetched": 117,
+  "new": 50,
   "rated": {
-   "low": 4,
-   "medium": 3,
-   "high": 0
+   "low": 15,
+   "medium": 4,
+   "high": 6
   },
   "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 100 (char 3064)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 59 (char 3178)"
   ],
-  "time": "2026-10-25T19:30:41+00:00"
+  "time": "2026-10-25T19:55:50+00:00"
  }
 }
