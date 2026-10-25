@@ -1,8 +1,5 @@
 {
  "seen": {
-  "0818daf5f917607b": 1792712215.0939205,
-  "dd8e1d0c581dae4b": 1792712215.09393,
-  "dafa20470396c0d5": 1792712215.0939357,
   "2a13d7e99ff78da4": 1792713744.1730704,
   "960ff0015a1876aa": 1792713745.6375186,
   "230938a1c7abb3e6": 1792716344.677551,
@@ -3564,7 +3561,10 @@
   "2a6f80c88ce0b8ba": 1792970450.594381,
   "aa92d0c2ecaf3406": 1792970452.0279143,
   "ce8839eb50a1ba2c": 1792970452.0279424,
-  "7989f0a915d5a0cb": 1792970453.2683446
+  "7989f0a915d5a0cb": 1792970453.2683446,
+  "7da14036ee6f4ed6": 1792971912.4266427,
+  "c63de9b6f807c0ca": 1792971912.4266489,
+  "02214ce8560f561d": 1792971912.4266539
  },
  "recent": [
   "Microsoft Stock Before Wednesday's Results: The 45% Azure Guide, and $50 Billion Capex Quarter",
@@ -3613,15 +3613,17 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 100,
-  "new": 40,
+  "fetched": 92,
+  "new": 28,
   "rated": {
-   "low": 25,
-   "medium": 15,
+   "low": 2,
+   "medium": 1,
    "high": 0
   },
-  "posted": 13,
-  "errors": [],
-  "time": "2026-10-25T23:20:53+00:00"
+  "posted": 0,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 97 (char 2396)"
+  ],
+  "time": "2026-10-25T23:45:12+00:00"
  }
 }
