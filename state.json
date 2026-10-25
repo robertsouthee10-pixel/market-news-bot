@@ -3689,14 +3689,26 @@
   "b2de1c8a0c787fae": 1792947918.124096,
   "be14956997fcf995": 1792947918.124098,
   "a58f69a212f08958": 1792947918.1241002,
-  "682e0725d8de5ffd": 1792947919.2953653
+  "682e0725d8de5ffd": 1792947919.2953653,
+  "c4af1f836d732218": 1792949567.4591303,
+  "689cf9d762b64fe1": 1792949567.4591382,
+  "b5c63916196fa15a": 1792949568.8248136,
+  "3b7ee50c265b892e": 1792949568.8248324,
+  "d789f19a600df674": 1792949568.8248365,
+  "e5ffb0a739a0f39e": 1792949568.8248417,
+  "b87a17e05eeef278": 1792949570.0810611,
+  "4150b1d898a377a4": 1792949570.0810823,
+  "07282b86030d4ea2": 1792949570.0810864,
+  "9afbebaedb3fbd4a": 1792949570.0810902,
+  "d8981251bba3475c": 1792949571.414109,
+  "2dd76d08bffe6362": 1792949571.4141288,
+  "e039f6f41af3105c": 1792949571.414135,
+  "b07dae49d776ee38": 1792949572.848115,
+  "dbd7917eb623f50b": 1792949572.848135,
+  "56eacfe2d90daac5": 1792949572.8481848,
+  "156c074c5bc3531c": 1792949574.0968792
  },
  "recent": [
-  "Qatari delegation arrives in Tehran to mediate between Iran and U.S.",
-  "Wall Street loses ground under pressure from rising oil prices",
-  "Trump Says \"Gotta Stop\" Killing Iran Leaders To Know Who US Is Dealing With",
-  "Fed Decision, 3.6% Inflation Forecast and $11B Bitcoin Options Expiry Set Up a Critical Week",
-  "Iran's Ghalibaf urges public to cut gas use by 10%",
   "Gold, silver face another test as oil surge puts Fed's policy decision in focus: Analysts",
   "‘Strait of Hormuz Will Not Be the Same’: Iran Warns US, Israel Against Fresh Strikes as Trump Floats Deal",
   "Consumer Tech (Oct 19-23): OpenAI Reportedly Seeks $30 Billion, Tesla Cuts 2026 Capex Forecast, Anthropic",
@@ -3731,22 +3743,29 @@
   "Iranians brace for renewed war as Trump, Netanyahu sharpen threats ahead of elections",
   "Iran warns Germany it will be attacked if war resumes",
   "Iran Plans Gulf Cable Attacks if US-Israel Strikes Resume",
-  "Resumption of war would not change its stances: Iran"
+  "Resumption of war would not change its stances: Iran",
+  "Donald Trump keeps military option open amid Iran negotiations",
+  "Iran Hormuz Talks Stall as Oil Tops $116",
+  "Iran says messages are still being passed to the US amid war concerns",
+  "Trump says US could strike Iran as soon as tomorrow",
+  "Trump has 'a decision to make' on Iran as concerns over renewed strikes deepen"
  ],
  "initialized": true,
  "last_alert": 1792942469.1762419,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 123,
-  "new": 60,
+  "fetched": 127,
+  "new": 42,
   "rated": {
-   "low": 42,
-   "medium": 16,
+   "low": 9,
+   "medium": 6,
    "high": 2
   },
-  "posted": 10,
-  "errors": [],
-  "time": "2026-10-25T17:05:19+00:00"
+  "posted": 5,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4068)"
+  ],
+  "time": "2026-10-25T17:32:54+00:00"
  }
 }
