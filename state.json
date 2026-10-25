@@ -1,6 +1,5 @@
 {
  "seen": {
-  "62eff17c81dd0dc5": 1792656914.8516045,
   "50a5b0880964bebb": 1792659419.6683807,
   "679cb5b7f9a74386": 1792659419.6683998,
   "1609ea2f7b9630ae": 1792659419.668409,
@@ -3741,11 +3740,19 @@
   "b7bb50e456c39839": 1792913065.8227475,
   "f509240ca45c8520": 1792915176.5563154,
   "7be11c686f057ecf": 1792915177.8079014,
-  "52ea805926b773a8": 1792915179.02422
+  "52ea805926b773a8": 1792915179.02422,
+  "200a2f3e4c603377": 1792916961.9261117,
+  "1914ec9159f6de30": 1792916961.9261355,
+  "5b06d1aadd404247": 1792916961.9261398,
+  "425a7a0cb9b7158e": 1792916963.0794837,
+  "a9c86ec832bfb2af": 1792916963.079503,
+  "1725e74add70be74": 1792916963.0795069,
+  "f55a066d78d95290": 1792916963.07951,
+  "060d881e3bb90770": 1792916963.0795128,
+  "a75626db016e0021": 1792916963.0795155,
+  "160071a47e7fb5f2": 1792916963.0795183
  },
  "recent": [
-  "Iran threatens Gulf data centres, energy sites as prospect of fresh US strikes grows",
-  "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
   "Bank of America resets Tesla forecast as Robotaxi miles double",
   "Trump says he is cutting back on killing Iranian leaders as he attempts to end war",
   "Federal Reserve Pauses October, Eyes December Hike",
@@ -3783,25 +3790,27 @@
   "AI Sell-off Exposes the Cost of Financing the Technology Boom",
   "Iran Rejects Hormuz Deal, Prepares for New US Strike...",
   "US withdraws from Iraq, leaving it at Iran's mercy",
-  "Iran Offers to Reopen Strait of Hormuz if US Lifts Blockade"
+  "Iran Offers to Reopen Strait of Hormuz if US Lifts Blockade",
+  "Iran Says Resumption of War Would Not Change Its Stances",
+  "Iran says it shot down US LUCAS drone over Bandar Abbas amid fresh threats of war"
  ],
  "initialized": true,
  "last_alert": 1792915157.508789,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 76,
-  "new": 53,
+  "fetched": 84,
+  "new": 60,
   "rated": {
-   "low": 1,
-   "medium": 1,
-   "high": 1
+   "low": 8,
+   "medium": 2,
+   "high": 0
   },
   "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 4198)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 97 (char 4122)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4386)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 4254)"
   ],
-  "time": "2026-10-25T07:59:39+00:00"
+  "time": "2026-10-25T08:29:23+00:00"
  }
 }
