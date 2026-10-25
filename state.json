@@ -3779,12 +3779,38 @@
   "48045e4853c29aee": 1792937268.7968564,
   "355d2ce9263f4166": 1792937270.8154466,
   "8c31f2d165c0c32c": 1792937270.815451,
-  "80a68a2d310cd032": 1792937270.8154533
+  "80a68a2d310cd032": 1792937270.8154533,
+  "647baf4e0fbea5ad": 1792939020.7888918,
+  "e2ff3ccc0c8e0a14": 1792939020.7889304,
+  "f9a09dec0fe25dad": 1792939020.788935,
+  "839e68e0b20199f6": 1792939020.788938,
+  "d8a37e793f039b3a": 1792939020.7889411,
+  "09bfc4442643f6b8": 1792939020.7889438,
+  "f69135e471598c5f": 1792939020.7889473,
+  "72d0caa1489815ae": 1792939020.7889504,
+  "bf404757e7805903": 1792939020.7889533,
+  "00ca466dd843ae8c": 1792939020.788957,
+  "8e68b45a803f8464": 1792939020.7889607,
+  "90242f5538b6c7c3": 1792939022.1171343,
+  "ac20fb091843bea3": 1792939022.117154,
+  "d0ca0c8d016176ec": 1792939022.1171591,
+  "5cb547a654479961": 1792939022.1171618,
+  "e4a48c479a8cc7dd": 1792939022.1171653,
+  "eb6135d3b2be1ae9": 1792939022.1171675,
+  "16eafc323656f289": 1792939022.1171718,
+  "28adb5d9b36fa473": 1792939022.1171746,
+  "45b46329a160c1be": 1792939022.1171782,
+  "467b14e132fd7ab2": 1792939022.1171808,
+  "944d4195b061ba5c": 1792939022.1171837,
+  "05fc4de687750c22": 1792939022.1171863,
+  "e2076fdf3d4b67c6": 1792939022.1171887,
+  "687b05b0c686e45a": 1792939023.566408,
+  "1f863166418eeb02": 1792939028.368823,
+  "47ab9172fff36aa3": 1792939028.3688276,
+  "652557ee8b8729b2": 1792939028.368831,
+  "862de81a53e9069f": 1792939028.3688335
  },
  "recent": [
-  "Iran’s Supreme Leader seeks US-Israeli war compensation, Trump threatens fresh strikes",
-  "Report: Hezbollah tells Berri it won't intervene if war is waged on Iran",
-  "Live: US and Iran say peace deal reached, signing planned in Geneva",
   "Iran and Oman Reach Understanding on Coordinates of Route Through Hormuz, Iran Ministry Says",
   "Crude Nears $120 Amid West Asia Risks & Fed Rate Decision",
   "Goldman cuts Kospi 12-month target by 25% as AI trade unravels",
@@ -3821,7 +3847,10 @@
   "Gold, silver face another test as oil surge puts Fed's policy decision in focus: Analysts",
   "‘Strait of Hormuz Will Not Be the Same’: Iran Warns US, Israel Against Fresh Strikes as Trump Floats Deal",
   "Consumer Tech (Oct 19-23): OpenAI Reportedly Seeks $30 Billion, Tesla Cuts 2026 Capex Forecast, Anthropic",
-  "More than a third of S&P 500 companies are about to report earnings as market confidence cracks"
+  "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+  "Constellation Energy Pledges 890 MW of Uprates for Google: “Growing Energy Needs”",
+  "Iran Has a Problem: No Crude Oil Was Loaded Onto a Single Tanker in September, an Unprecedented Shutdown Driven by US Naval Blockade",
+  "RPT-Wall St Week Ahead-Earnings Flood, Fed Meeting Will Test Rickety AI Market Rally"
  ],
  "initialized": true,
  "last_alert": 1792926024.9839404,
@@ -3829,14 +3858,14 @@
   "feeds_ok": 18,
   "feeds_failed": [],
   "fetched": 94,
-  "new": 28,
+  "new": 29,
   "rated": {
-   "low": 22,
-   "medium": 5,
-   "high": 1
+   "low": 23,
+   "medium": 6,
+   "high": 0
   },
   "posted": 3,
   "errors": [],
-  "time": "2026-10-25T14:07:50+00:00"
+  "time": "2026-10-25T14:37:08+00:00"
  }
 }
