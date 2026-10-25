@@ -1,19 +1,5 @@
 {
  "seen": {
-  "d8f21a2fd5462781": 1792642700.562618,
-  "977aebfaf1592571": 1792642700.5626245,
-  "932a1b37b5332fe1": 1792642700.5626276,
-  "3deef0f1bbbdca5e": 1792642700.56263,
-  "a41121cbe0ff88b0": 1792642700.562633,
-  "55f67fed4f85aa3d": 1792642701.8039072,
-  "263376afa0c3fae4": 1792642701.8039281,
-  "bd919dab6df5e529": 1792642703.1153579,
-  "143053974b37b9f3": 1792642703.1153815,
-  "b94bfc4374502a34": 1792642703.115387,
-  "cce8752f331a5802": 1792642703.11539,
-  "c5b7b036a62ba763": 1792642704.3680108,
-  "0eb7a904ef55952d": 1792642705.6213012,
-  "fde8806cfc8e7d6c": 1792642705.621322,
   "75d4a727153d5a99": 1792644952.50257,
   "0a79be2708db69b5": 1792644952.5025773,
   "5715146d7c1ff92c": 1792644953.8353715,
@@ -3770,19 +3756,21 @@
   "Commodities to be on edge as oil surges and Fed takes centre stage"
  ],
  "initialized": true,
- "last_alert": 1792888900.0823202,
+ "last_alert": 1792902641.879661,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 68,
-  "new": 30,
+  "fetched": 69,
+  "new": 24,
   "rated": {
-   "low": 23,
-   "medium": 6,
-   "high": 1
+   "low": 0,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 5,
-  "errors": [],
-  "time": "2026-10-25T03:59:24+00:00"
+  "posted": 0,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4331)"
+  ],
+  "time": "2026-10-25T04:30:41+00:00"
  }
 }
