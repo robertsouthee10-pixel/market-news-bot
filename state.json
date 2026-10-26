@@ -1,7 +1,5 @@
 {
  "seen": {
-  "2a13d7e99ff78da4": 1792713744.1730704,
-  "960ff0015a1876aa": 1792713745.6375186,
   "230938a1c7abb3e6": 1792716344.677551,
   "4c05277e4de226d7": 1792716344.6775773,
   "90bc955661c3cf7e": 1792716344.6775818,
@@ -3564,11 +3562,13 @@
   "7989f0a915d5a0cb": 1792970453.2683446,
   "7da14036ee6f4ed6": 1792971912.4266427,
   "c63de9b6f807c0ca": 1792971912.4266489,
-  "02214ce8560f561d": 1792971912.4266539
+  "02214ce8560f561d": 1792971912.4266539,
+  "7072effe8ceb330c": 1792973155.775513,
+  "585ac8beddc4c6c2": 1792973155.7755413,
+  "f2f390dafe7be9ed": 1792973157.2333038,
+  "4bb8e86d87f4951c": 1792973157.2333236
  },
  "recent": [
-  "Microsoft Stock Before Wednesday's Results: The 45% Azure Guide, and $50 Billion Capex Quarter",
-  "Middle East latest: US tells staff not to use Saudi airports without 'special authorisation'",
   "US-Israel-Iran War Latest News: Flights Resume at Saudi Arabia’s King Khalid International Airport; Iran’s Ghalibaf Urges People to Reduce Natural Gas Consumption by 10%",
   "Maritime Crisis Deepens In Strait Of Hormuz As Nearly 500 Ships Stranded, Another Oil Tanker Attacked Near Oman",
   "Dow Jones Futures Due With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
@@ -3606,24 +3606,27 @@
   "The Week Ahead: US rate decision, PCE inflation, Microsoft earnings",
   "WTI and Brent Crude Oil Prices Retreat Ahead of Midterms as Iran War Rhetoric Eases",
   "Fed October Rate-Hike Odds Fall Below 15% Despite Inflation Surge as Markets Bet on Pause",
-  "Trump renews endorsement of Netanyahu: We have to finish the job we started"
+  "Trump renews endorsement of Netanyahu: We have to finish the job we started",
+  "US President Donald Trump says “will not attack Iran today”",
+  "Oil Prices Rise on Fears of Middle East Conflict Escalation"
  ],
  "initialized": true,
  "last_alert": 1792967463.0910664,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 92,
-  "new": 28,
+  "fetched": 100,
+  "new": 54,
   "rated": {
    "low": 2,
-   "medium": 1,
+   "medium": 2,
    "high": 0
   },
-  "posted": 0,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 97 (char 2396)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 149 (char 4425)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4393)"
   ],
-  "time": "2026-10-25T23:45:12+00:00"
+  "time": "2026-10-26T00:05:57+00:00"
  }
 }
