@@ -3601,14 +3601,20 @@
   "b66efeaaeda36298": 1792979057.9200215,
   "f0da2d9adafb0109": 1792979057.9200263,
   "2dde690c428b95a7": 1792979057.9200294,
-  "18e25f19f8f73cf1": 1792979059.147983
+  "18e25f19f8f73cf1": 1792979059.147983,
+  "2a94f6d30b859b94": 1792981261.3548446,
+  "9dbde5a55df30f31": 1792981262.5183747,
+  "3b10b5beaffa4c74": 1792981263.7212148,
+  "fbd66e743efc139b": 1792981263.721234,
+  "c63f95396e703f5d": 1792981263.7212384,
+  "b2f7dcab54b88006": 1792981264.8943398,
+  "7257ca6c9ea62e4c": 1792981264.8943624,
+  "119cbca314a325d5": 1792981264.894367,
+  "5fb2a45c582ac8f0": 1792981266.1541474,
+  "5c9eed63273fe877": 1792981267.355884,
+  "57bfb0f33bf9ef4d": 1792981267.3559031
  },
  "recent": [
-  "Rising crude prices, West Asia tensions to weigh on Indian markets",
-  "Trump claims US strikes 'blew the hell out of' Iran's nuclear capacity, says Hormuz oil transit exceeds pre-war levels",
-  "Australian Stock Market Today: ASX Futures Ease On Sticky US Inflation Expectations",
-  "New threats could push US and Iran toward war",
-  "Trump Says Oil Rise 'Smaller Price to Pay' to Stop Iran's Nuclear Ambitions",
   "Iran US war to escalate into major crisis ahead of US midterm elections 2026? Here's what Tehran, Donald T",
   "Dow Jones and Nasdaq Futures Rebound as Oil Prices Ease Ahead of Fed Decision",
   "Elon Musk Says 200+ AI Cloud Firms Face Wipeout: Will CoreWeave Survive?",
@@ -3643,25 +3649,31 @@
   "Oil Tops $117 as Trump Warns of New Strikes on Iran; Won Seen Swinging in 1,320 Range",
   "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
   "No Leaders Left: Trump Mocks Iran, Says He Cannot Find Anyone To Negotiate With",
-  "FOMC and Inflation Data Test Risk Appetite"
+  "FOMC and Inflation Data Test Risk Appetite",
+  "POTUS Iran Action",
+  "Australian shares dip as oil nears conflict peak",
+  "CoreWeave, Nebius, and IREN Stocks Extend Losses in Sunday Overnight Trading. What’s Behind the Drop?",
+  "Currency markets subdued ahead of pivotal central bank week",
+  "🇺🇸🇮🇷 The next Iran war could send oil to $150 The world survived the first energy shock by burning through inventories while China slashed imports. That cushion is largely gone. El-Erian warns that another disruption to Hormuz and the Red Sea could push"
  ],
  "initialized": true,
  "last_alert": 1792979076.786556,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 113,
-  "new": 72,
+  "fetched": 119,
+  "new": 86,
   "rated": {
-   "low": 17,
-   "medium": 7,
-   "high": 1
+   "low": 6,
+   "medium": 5,
+   "high": 0
   },
-  "posted": 8,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 56 (char 1399)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 101 (char 3863)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 9 column 56 (char 1605)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 142 (char 3719)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 140 (char 4088)"
   ],
-  "time": "2026-10-26T01:44:52+00:00"
+  "time": "2026-10-26T02:21:07+00:00"
  }
 }
