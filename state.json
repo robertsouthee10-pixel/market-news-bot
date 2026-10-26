@@ -1,15 +1,5 @@
 {
  "seen": {
-  "8d563b85ed126195": 1792722977.451073,
-  "36ae142407379f6d": 1792722977.4510818,
-  "2cb79cd3dc320c8a": 1792722977.4510853,
-  "442a85cfc893f160": 1792722978.7829435,
-  "677c9b8ae40b9e24": 1792722978.7829707,
-  "d498dd66b65a028d": 1792722978.7829747,
-  "49e2e34a3db5ac31": 1792722978.7829773,
-  "25e21a02ed0dd499": 1792722979.9846277,
-  "1388fe4ee501d483": 1792722981.3576574,
-  "a2f1f0a13aa92ff2": 1792722981.3576837,
   "333c5fcade60fa1e": 1792727179.8142295,
   "ec9b1544c0e2b946": 1792727179.8142347,
   "fbd9e7f6d1cf1cc8": 1792727179.814237,
@@ -3612,16 +3602,23 @@
   "119cbca314a325d5": 1792981264.894367,
   "5fb2a45c582ac8f0": 1792981266.1541474,
   "5c9eed63273fe877": 1792981267.355884,
-  "57bfb0f33bf9ef4d": 1792981267.3559031
+  "57bfb0f33bf9ef4d": 1792981267.3559031,
+  "a464da0aaa34db11": 1792983567.492094,
+  "430d0bf6dcda3ea8": 1792983567.4920998,
+  "725fd84ea5f3f32b": 1792983568.6774542,
+  "96768b037f36803f": 1792983569.9304335,
+  "7e385e75e0922ebf": 1792983571.0777137,
+  "335fa42ce440e4b0": 1792983571.0777345,
+  "9350cb173867b4d5": 1792983571.0777433,
+  "711f50585c9ed084": 1792983572.2822986,
+  "ac9d3062380c3563": 1792983572.2823184,
+  "264ebbfec93e8e28": 1792983572.2823222,
+  "6a689189e10bed24": 1792983573.4205554,
+  "5c51ba108c97e079": 1792983574.5832021,
+  "e490fcb942277836": 1792983574.5832243,
+  "9a51a688837183b9": 1792983575.8791034
  },
  "recent": [
-  "Iran US war to escalate into major crisis ahead of US midterm elections 2026? Here's what Tehran, Donald T",
-  "Dow Jones and Nasdaq Futures Rebound as Oil Prices Ease Ahead of Fed Decision",
-  "Elon Musk Says 200+ AI Cloud Firms Face Wipeout: Will CoreWeave Survive?",
-  "Futures Rise; Three Titans Loom",
-  "Rate 'Superweek' Begins... U.S., EU, and Japan Expected to Hold Rates",
-  "SpaceX Closes $40B GPU Deal as Musk Warns AI Firms Could Fail",
-  "Oil edges lower from six-month high as traders assess Iran risks",
   "🇮🇷🇺🇸 Iran doesn't need to close the Strait of Hormuz to break global shipping. Brandon Weichert spoke with maritime analyst Sal Mercogliano, who estimates that 5% to 15% of ships passing through Hormuz are now being attacked. Yet tankers keep sailing.",
   "FOMC and Big Tech Earnings Drive U.S. Stock Futures Higher",
   "Oil Prices Rise Despite Middle East Export Recovery",
@@ -3654,26 +3651,32 @@
   "Australian shares dip as oil nears conflict peak",
   "CoreWeave, Nebius, and IREN Stocks Extend Losses in Sunday Overnight Trading. What’s Behind the Drop?",
   "Currency markets subdued ahead of pivotal central bank week",
-  "🇺🇸🇮🇷 The next Iran war could send oil to $150 The world survived the first energy shock by burning through inventories while China slashed imports. That cushion is largely gone. El-Erian warns that another disruption to Hormuz and the Red Sea could push"
+  "🇺🇸🇮🇷 The next Iran war could send oil to $150 The world survived the first energy shock by burning through inventories while China slashed imports. That cushion is largely gone. El-Erian warns that another disruption to Hormuz and the Red Sea could push",
+  "Shares fall in Asia after a decline on Wall Street, and oil prices fall more than 1%",
+  "Netanyahu faces pushback from army chief over Iran-linked military operation as Israel heads to polls: Report",
+  "Iran: Hormuz Strait's routes, management not to return to pre-war era",
+  "Politics, not strategy, could mean more Israeli strikes on Iran | World News",
+  "Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus",
+  "Trump weighs deal or more strikes against Iran",
+  "Gold Hovers Near Three-Month Low Ahead Of Fed Policy Meeting"
  ],
  "initialized": true,
  "last_alert": 1792979076.786556,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 119,
-  "new": 86,
+  "fetched": 100,
+  "new": 64,
   "rated": {
    "low": 6,
-   "medium": 5,
-   "high": 0
+   "medium": 6,
+   "high": 2
   },
-  "posted": 5,
+  "posted": 7,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 9 column 56 (char 1605)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 142 (char 3719)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 140 (char 4088)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 3583)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4188)"
   ],
-  "time": "2026-10-26T02:21:07+00:00"
+  "time": "2026-10-26T02:59:35+00:00"
  }
 }
