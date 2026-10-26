@@ -3655,12 +3655,12 @@
   "Officials from Mecca pact countries to meet officials in Iran, sources say"
  ],
  "initialized": true,
- "last_alert": 1792979076.786556,
+ "last_alert": 1792990439.6974201,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 101,
-  "new": 74,
+  "fetched": 119,
+  "new": 97,
   "rated": {
    "low": 0,
    "medium": 0,
@@ -3668,10 +3668,11 @@
   },
   "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4091)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 149 (char 2640)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 188 (char 2854)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3368)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 103 (char 3395)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 146 (char 3152)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 99 (char 3987)"
   ],
-  "time": "2026-10-26T04:14:45+00:00"
+  "time": "2026-10-26T04:54:48+00:00"
  }
 }
