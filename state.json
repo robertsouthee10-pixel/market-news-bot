@@ -1,11 +1,5 @@
 {
  "seen": {
-  "8db4c6de8dde5539": 1792718749.4266446,
-  "0fd74879f863aa68": 1792718749.4266515,
-  "31a26680c790a81e": 1792718749.4266553,
-  "561feeb0d7f6860e": 1792718749.4266582,
-  "7a2bacdffce16b3c": 1792718750.6816776,
-  "9b3b6e65b06c78b1": 1792718750.6816983,
   "8d563b85ed126195": 1792722977.451073,
   "36ae142407379f6d": 1792722977.4510818,
   "2cb79cd3dc320c8a": 1792722977.4510853,
@@ -3582,17 +3576,34 @@
   "7c72eb0bb6d3944c": 1792976370.01139,
   "7df24b51ff782c68": 1792976370.0113916,
   "eab2c9d372e6a55e": 1792976370.0113935,
-  "fe07fb1e2c39ab83": 1792976371.1639721
+  "fe07fb1e2c39ab83": 1792976371.1639721,
+  "d4938eee401869a4": 1792979048.8874955,
+  "55db7be788665a70": 1792979050.1782713,
+  "2bbf9a83b0e011d7": 1792979050.1782978,
+  "eecf33f1b9b5574a": 1792979051.4844952,
+  "ecd1dd7a74fd77d9": 1792979051.4845147,
+  "aa29faf3d2f4a24b": 1792979051.4845216,
+  "cd5b85b016dbd546": 1792979052.7511353,
+  "5d70343940f86c7c": 1792979054.0320992,
+  "f4f95bbb03aea194": 1792979054.032122,
+  "a4bf9733c01ac138": 1792979055.4006472,
+  "ca048793344e447b": 1792979055.4006734,
+  "3573a8101fa94b7a": 1792979055.4006772,
+  "3818a6225bffda34": 1792979055.4006793,
+  "f06ad977aea56992": 1792979055.4006832,
+  "47a0429bd4e9a52c": 1792979055.4006858,
+  "e24c22cdd6ef41af": 1792979055.4006896,
+  "14ab71414a9efbc7": 1792979056.6984065,
+  "bec0a66f2ca84b6e": 1792979056.6984324,
+  "9a013f2080e58fd7": 1792979056.6984358,
+  "0deeaede231e28b1": 1792979056.6984391,
+  "3d04814b6a29a91c": 1792979057.919997,
+  "b66efeaaeda36298": 1792979057.9200215,
+  "f0da2d9adafb0109": 1792979057.9200263,
+  "2dde690c428b95a7": 1792979057.9200294,
+  "18e25f19f8f73cf1": 1792979059.147983
  },
  "recent": [
-  "Iranian Army Says It Shot Down US LUCAS Drone That Was Flying Over Southern Iran",
-  "AI Capex Payoff Put to the Test as US Tech Earnings and Fed Meeting Mark Market Inflection Point",
-  "US intel warns Iran is planning lethal plots against Americans",
-  "“We Can’t Let Them Have A Nuclear Weapon,” Trump Warns Iran",
-  "White House Fears Netanyahu Nuclear Post Could Trigger Iran Attack",
-  "Iran says messages still pass to U.S. as regional tensions mount, and other Mideast news",
-  "\"US Considering Iran Strike After Midterms\"… Trump and Obama Clash",
-  "Israeli Media: IDF Chief Resisted Netanyahu Order for Military Action Related to Iran",
   "Rising crude prices, West Asia tensions to weigh on Indian markets",
   "Trump claims US strikes 'blew the hell out of' Iran's nuclear capacity, says Hormuz oil transit exceeds pre-war levels",
   "Australian Stock Market Today: ASX Futures Ease On Sticky US Inflation Expectations",
@@ -3624,24 +3635,33 @@
   "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report",
   "US-Israel Joint Strike on Iran 'When, Not If,' Officials Say",
   "U.S.-Iran tensions sink South Korea stocks as oil jumps - CHOSUNBIZ",
-  "Kospi Opens Lower Ahead Of Samsung, SK Hynix Earnings"
+  "Kospi Opens Lower Ahead Of Samsung, SK Hynix Earnings",
+  "Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days.",
+  "Meta Has a New ‘North Star’ — Mark Zuckerberg Explains Why He’s Betting Big on Personal Superintelligence, AI Models and Smart Glasses",
+  "Netanyahu warns Iran against 'disrupting' Israeli elections",
+  "US Military Action Against Iran Gains Urgency Ahead of Elections",
+  "Oil Tops $117 as Trump Warns of New Strikes on Iran; Won Seen Swinging in 1,320 Range",
+  "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
+  "No Leaders Left: Trump Mocks Iran, Says He Cannot Find Anyone To Negotiate With",
+  "FOMC and Inflation Data Test Risk Appetite"
  ],
  "initialized": true,
- "last_alert": 1792967463.0910664,
+ "last_alert": 1792979076.786556,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 94,
-  "new": 56,
+  "fetched": 113,
+  "new": 72,
   "rated": {
-   "low": 20,
-   "medium": 10,
+   "low": 17,
+   "medium": 7,
    "high": 1
   },
-  "posted": 10,
+  "posted": 8,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 99 (char 3273)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 56 (char 1399)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 101 (char 3863)"
   ],
-  "time": "2026-10-26T00:59:31+00:00"
+  "time": "2026-10-26T01:44:52+00:00"
  }
 }
