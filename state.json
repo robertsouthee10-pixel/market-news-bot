@@ -1,13 +1,5 @@
 {
  "seen": {
-  "e27bde91c45c7d3e": 1792749390.7797189,
-  "768d6d9a10ac07c9": 1792749390.7797258,
-  "dffd43fa76ba807d": 1792749390.7797298,
-  "5058b12d5bfe3b2c": 1792749390.7797325,
-  "c1823e53567cf044": 1792749390.779735,
-  "5792c0d9b0207af0": 1792749390.7797372,
-  "ba80f79919d56f68": 1792749390.7797396,
-  "957fe7ebc1cac23b": 1792749390.7797418,
   "9fd68fb136a7d69a": 1792751126.6163416,
   "6bdb4d49075011fb": 1792751126.616347,
   "9c98bacf21704b35": 1792751126.61635,
@@ -3635,7 +3627,9 @@
   "8edca8a44982dd90": 1793006180.0158887,
   "a29a56283f31d8e7": 1793006180.0158923,
   "2249e331aca47b91": 1793006180.0158944,
-  "e26954c0badabc6b": 1793006180.015897
+  "e26954c0badabc6b": 1793006180.015897,
+  "ce352689944e586b": 1793009055.9275417,
+  "309ecc26fac50dfd": 1793009055.9275484
  },
  "recent": [
   "Iran Hosts Regional Defense Talks as Saudi Arabia Intercepts Houthi Missile",
@@ -3684,19 +3678,22 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 190,
-  "new": 156,
+  "fetched": 181,
+  "new": 152,
   "rated": {
-   "low": 58,
-   "medium": 21,
-   "high": 2
+   "low": 2,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 17,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4510)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3429)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 185 (char 3522)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 56 (char 702)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4109)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 100 (char 2940)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3875)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2953)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 3579)"
   ],
-  "time": "2026-10-26T09:16:20+00:00"
+  "time": "2026-10-26T10:04:15+00:00"
  }
 }
