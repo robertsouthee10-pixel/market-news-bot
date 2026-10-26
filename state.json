@@ -1,16 +1,5 @@
 {
  "seen": {
-  "333c5fcade60fa1e": 1792727179.8142295,
-  "ec9b1544c0e2b946": 1792727179.8142347,
-  "fbd9e7f6d1cf1cc8": 1792727179.814237,
-  "b6222c7432d5addb": 1792727181.1065814,
-  "301a8d8ae2b4faca": 1792727182.4234202,
-  "dce50b3b6f267650": 1792727182.423444,
-  "0b7ae6d1d7ad5d49": 1792727183.789431,
-  "9ab733e1494f1aa4": 1792727185.0731955,
-  "5be784c09867347d": 1792727186.3646066,
-  "ac2240a9b3e8cd6e": 1792727187.594651,
-  "312ac7f560dc69af": 1792727188.979131,
   "75e2a4caf64dd111": 1792731357.58569,
   "082ca1483c7688d5": 1792731357.5856955,
   "c31341d98a226d5c": 1792731358.804679,
@@ -3670,19 +3659,19 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 125,
-  "new": 80,
+  "fetched": 101,
+  "new": 74,
   "rated": {
-   "low": 4,
-   "medium": 1,
+   "low": 0,
+   "medium": 0,
    "high": 0
   },
-  "posted": 1,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 183 (char 3810)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3523)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 97 (char 3942)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4091)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 149 (char 2640)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 188 (char 2854)"
   ],
-  "time": "2026-10-26T03:34:34+00:00"
+  "time": "2026-10-26T04:14:45+00:00"
  }
 }
