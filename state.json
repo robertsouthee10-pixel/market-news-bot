@@ -1,24 +1,5 @@
 {
  "seen": {
-  "75e2a4caf64dd111": 1792731357.58569,
-  "082ca1483c7688d5": 1792731357.5856955,
-  "c31341d98a226d5c": 1792731358.804679,
-  "d84918ca57138e02": 1792731358.8047006,
-  "99db3031c1d28287": 1792731358.8047051,
-  "577b710e22157174": 1792731358.8047075,
-  "2f0e8487f85d4bf6": 1792731358.8047109,
-  "da5f348b0346c14f": 1792731358.8047135,
-  "ddbf7b2a50668e4c": 1792731360.0677056,
-  "3dd90cd1bad9ae1b": 1792731360.067729,
-  "335bec89ae75285a": 1792731361.2938714,
-  "b0707ed8762f8a2f": 1792731362.523317,
-  "562d3a758c4c3f6a": 1792731362.5233414,
-  "a6c3f51b72709684": 1792731363.8928404,
-  "1f9a314d8be9469e": 1792733066.811811,
-  "9e4ba062cf489c1c": 1792733066.8118167,
-  "f7b56108b734816f": 1792733066.8118203,
-  "55659c760c55d47f": 1792733066.8118234,
-  "07afc69d24afb868": 1792733068.186583,
   "f29abb8f7a5fe46a": 1792735179.0464838,
   "a67607d87236213c": 1792735180.2921176,
   "b72d09ae7e5eb66e": 1792735180.2921376,
@@ -3610,10 +3591,11 @@
   "0d3b2005d65e444c": 1792985674.4939694,
   "a591ab79ac993ff2": 1792985674.4939904,
   "3e13e3881d9d182c": 1792985674.493995,
-  "0d595d88fff8bcd2": 1792985674.493999
+  "0d595d88fff8bcd2": 1792985674.493999,
+  "4eb4079f90705e09": 1792992361.4564028,
+  "ede41519c9853e16": 1792992362.676959
  },
  "recent": [
-  "FOMC and Big Tech Earnings Drive U.S. Stock Futures Higher",
   "Oil Prices Rise Despite Middle East Export Recovery",
   "Nasdaq 100 faces renewed selling pressure below key moving averages",
   "The Week Ahead: US rate decision, PCE inflation, Microsoft earnings",
@@ -3652,27 +3634,28 @@
   "Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus",
   "Trump weighs deal or more strikes against Iran",
   "Gold Hovers Near Three-Month Low Ahead Of Fed Policy Meeting",
-  "Officials from Mecca pact countries to meet officials in Iran, sources say"
+  "Officials from Mecca pact countries to meet officials in Iran, sources say",
+  "US touts role in Gulf oil exports as CENTCOM chief flies over Hormuz Strait"
  ],
  "initialized": true,
  "last_alert": 1792990439.6974201,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 119,
-  "new": 97,
+  "fetched": 122,
+  "new": 102,
   "rated": {
-   "low": 0,
-   "medium": 0,
+   "low": 1,
+   "medium": 1,
    "high": 0
   },
-  "posted": 0,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3368)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 103 (char 3395)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 146 (char 3152)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 99 (char 3987)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3564)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 142 (char 4115)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 148 (char 4780)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 100 (char 4647)"
   ],
-  "time": "2026-10-26T04:54:48+00:00"
+  "time": "2026-10-26T05:26:02+00:00"
  }
 }
