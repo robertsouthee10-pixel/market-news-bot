@@ -1,11 +1,5 @@
 {
  "seen": {
-  "30a40a6281fbbf9f": 1792737502.9104574,
-  "e9b9b6f4ebe9d3bb": 1792737502.9104624,
-  "1e48f32453cfbb19": 1792737504.178331,
-  "468fc8e0e6197b78": 1792737504.178353,
-  "de7dea8499a0773d": 1792737504.1783636,
-  "5cfcd4faede8b645": 1792737505.5271797,
   "d0c9e6506446dea4": 1792740339.7868528,
   "b6c3b6089e6936c8": 1792740339.7868805,
   "1a3eea6bf3ba93df": 1792740339.7868903,
@@ -3624,12 +3618,26 @@
   "e049b69c853f91c6": 1792994678.0007994,
   "4e2daf1cbc894025": 1792994678.0008025,
   "77379379933e8b09": 1792994678.0008059,
-  "ebe698270c34dd56": 1792994678.000808
+  "ebe698270c34dd56": 1792994678.000808,
+  "47f1dcd57269474c": 1792997304.216987,
+  "36df2189e9d5f8e1": 1792997305.583924,
+  "f3fe345bb2474463": 1792997305.5839431,
+  "1e80feef83c32f37": 1792997306.8629065,
+  "d1c145d4fdf76427": 1792997306.862925,
+  "fd2d456540477184": 1792997306.8629346,
+  "9043f5c168901ee0": 1792997306.8629384,
+  "49f6a96656828c7d": 1792997306.8629413,
+  "b09a7f91707d764c": 1792997306.8629436,
+  "50f9bd875817aa1b": 1792997306.8629465,
+  "ca63387409d351cc": 1792997306.8629491,
+  "01700035e05cec1f": 1792997306.8629518,
+  "dadb0842e5597e62": 1792997308.1685944,
+  "4ecba84b8122e20c": 1792997308.1686134,
+  "1060d8b346014656": 1792997308.1686172,
+  "50510bbd29086cb0": 1792997308.1686199,
+  "216ee1917a275750": 1792997308.1686232
  },
  "recent": [
-  "Iran Just Got Handed a Warning at Sea: The Carrier George Washington Is Loading Bunker-Buster Bombs and Long-Range Missiles",
-  "Dollar-yen holds firm around 157 as central bank week caps upside; oil rally, higher U.S. yields lend support",
-  "The Fed's interest rate decision is imminent! How will the m... - Futubull Community",
   "Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report",
   "US-Israel Joint Strike on Iran 'When, Not If,' Officials Say",
   "U.S.-Iran tensions sink South Korea stocks as oil jumps - CHOSUNBIZ",
@@ -3666,26 +3674,30 @@
   "Iran Hosts Regional Defense Talks as Saudi Arabia Intercepts Houthi Missile",
   "IEA chief says energy markets won’t return to pre-Iran war levels By Investing.com",
   "Australian Dollar bulls hesitant below one-month top before CPI, FOMC | FXStreet",
-  "Gold gains on softer oil prices; Fed decision in focus"
+  "Gold gains on softer oil prices; Fed decision in focus",
+  "Trump rules out Iran strike today, keeps military option open",
+  "USD/JPY Weekly Outlook: AI Earnings Could Overshadow the Fed and BoJ",
+  "IRGC Spokesman to CENTCOM Chief: “This Is the Reality on the Ground”"
  ],
  "initialized": true,
  "last_alert": 1792990439.6974201,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 137,
-  "new": 116,
+  "fetched": 147,
+  "new": 117,
   "rated": {
-   "low": 29,
-   "medium": 11,
+   "low": 13,
+   "medium": 3,
    "high": 1
   },
-  "posted": 11,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 106 (char 3585)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4367)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 58 (char 2306)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4025)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 99 (char 3751)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 144 (char 4230)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4338)"
   ],
-  "time": "2026-10-26T06:04:38+00:00"
+  "time": "2026-10-26T06:48:28+00:00"
  }
 }
