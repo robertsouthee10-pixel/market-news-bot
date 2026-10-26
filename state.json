@@ -3616,10 +3616,14 @@
   "6a689189e10bed24": 1792983573.4205554,
   "5c51ba108c97e079": 1792983574.5832021,
   "e490fcb942277836": 1792983574.5832243,
-  "9a51a688837183b9": 1792983575.8791034
+  "9a51a688837183b9": 1792983575.8791034,
+  "995408f41626cf3d": 1792985673.3224218,
+  "0d3b2005d65e444c": 1792985674.4939694,
+  "a591ab79ac993ff2": 1792985674.4939904,
+  "3e13e3881d9d182c": 1792985674.493995,
+  "0d595d88fff8bcd2": 1792985674.493999
  },
  "recent": [
-  "🇮🇷🇺🇸 Iran doesn't need to close the Strait of Hormuz to break global shipping. Brandon Weichert spoke with maritime analyst Sal Mercogliano, who estimates that 5% to 15% of ships passing through Hormuz are now being attacked. Yet tankers keep sailing.",
   "FOMC and Big Tech Earnings Drive U.S. Stock Futures Higher",
   "Oil Prices Rise Despite Middle East Export Recovery",
   "Nasdaq 100 faces renewed selling pressure below key moving averages",
@@ -3658,25 +3662,27 @@
   "Politics, not strategy, could mean more Israeli strikes on Iran | World News",
   "Nasdaq Futures Slip Amid Tech Selloff While S&P 500, Dow Edge Higher Ahead Of Crucial Earnings Week: IREN, CRWV, NBIS, MRNA, EWZ In Focus",
   "Trump weighs deal or more strikes against Iran",
-  "Gold Hovers Near Three-Month Low Ahead Of Fed Policy Meeting"
+  "Gold Hovers Near Three-Month Low Ahead Of Fed Policy Meeting",
+  "Officials from Mecca pact countries to meet officials in Iran, sources say"
  ],
  "initialized": true,
  "last_alert": 1792979076.786556,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 100,
-  "new": 64,
+  "fetched": 125,
+  "new": 80,
   "rated": {
-   "low": 6,
-   "medium": 6,
-   "high": 2
+   "low": 4,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 7,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 3583)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4188)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 183 (char 3810)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3523)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 97 (char 3942)"
   ],
-  "time": "2026-10-26T02:59:35+00:00"
+  "time": "2026-10-26T03:34:34+00:00"
  }
 }
