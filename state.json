@@ -1,22 +1,5 @@
 {
  "seen": {
-  "dbaecc2efd7a2d5e": 1792798591.8207147,
-  "d6e10b32319a40b2": 1792798591.8207211,
-  "d22678ddd43c4429": 1792798591.8207245,
-  "a57670b563b96d97": 1792798591.8207276,
-  "39cdb556f28c3615": 1792798593.0888517,
-  "8eb09176ee02eebb": 1792798593.0888772,
-  "20375380554a3453": 1792798593.0888817,
-  "ce5afaaabada5bb4": 1792798593.0888848,
-  "800609a8152bf6f2": 1792798594.2741315,
-  "093d72c261582929": 1792798594.2741542,
-  "c12da9b3e387be45": 1792798594.2741601,
-  "009eaef899422e0b": 1792798594.2741642,
-  "ff66dca21239e121": 1792798594.2741673,
-  "45f3287171dc1c6e": 1792798594.2741706,
-  "bfb020c1cf191f88": 1792798594.2741735,
-  "fa109a51e322b174": 1792798594.2741764,
-  "8490e9dc1368dbe8": 1792798594.2741783,
   "b11da1d8eddcc29d": 1792800128.814587,
   "99cbf8f682d5a12c": 1792800128.8146465,
   "6171cf733facb77b": 1792800128.8146513,
@@ -3539,14 +3522,25 @@
   "da74cb79b398032a": 1793056450.2291033,
   "5824e9fefc874ab7": 1793056450.229126,
   "594b4b6bbf4767a9": 1793056471.034009,
-  "d31d6dbbd0eb411e": 1793056471.0340133
+  "d31d6dbbd0eb411e": 1793056471.0340133,
+  "6fde2adcf07b9827": 1793058408.8712873,
+  "d2f08c0ec30029c7": 1793058408.871311,
+  "ef95d1f759485ead": 1793058408.8713214,
+  "135064af37d8cf62": 1793058408.8713276,
+  "6aecfa2f5d0997e6": 1793058408.871331,
+  "3b3d155b339bb935": 1793058410.2009792,
+  "bcea543c92aaeb10": 1793058410.201,
+  "4a18ba9a8ee5a9ab": 1793058410.2010052,
+  "c29d73ed12964ab5": 1793058410.2010114,
+  "a04d064be3f1778a": 1793058410.2010164,
+  "0c253a5dce33fe95": 1793058411.4903145,
+  "d9b1177b6e71c995": 1793058411.4903352,
+  "dfc987bdc9d1e6cf": 1793058411.4903398,
+  "681a26de3dc7a0fa": 1793058411.4903443,
+  "88dcc412c6fbf3d6": 1793058412.694576,
+  "9d16476f1c420350": 1793058413.934335
  },
  "recent": [
-  "Iran, Mecca pact states agree to pursue peace through continued talks",
-  "Amazon cloud growth expected to beat forecasts as AI demand strengthens",
-  "Microsoft offers buyouts to 60,000 workers as it invests more in AI",
-  "Nvidia Is Sold Out: Jensen “Can’t Give You Chips for 2028,” Says Palo Alto CEO",
-  "Michael Burry Backs Ken Griffin’s “Obvious” GPU Warning as Market Risk Multiplies",
   "Scott Galloway on Tesla and SpaceX: “Tesla’s the Patient and SpaceX Is the Organ Donor”",
   "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
   "Hezbollah readying to renew war with Israel with funds from Iran, sources say",
@@ -3581,26 +3575,31 @@
   "We Support Zuckerberg's Vision: Cassidy",
   "OPEC+ Meets Nov 1 With Saudi 10.5 mb/d Quota, Hormuz Closed",
   "Netanyahu touts Trump endorsement on eve of vote, suggests restarting Iran war",
-  "US forces prepared to launch major operations against Iran within 96 hours of Trump order, officials say"
+  "US forces prepared to launch major operations against Iran within 96 hours of Trump order, officials say",
+  "US Stocks Rebound as AI Names Lead Market; Yields Flat on Fed Hold Expectations, Yen at 157 Level",
+  "Today's fuel prices (October 27): Oil prices fall as expectations of easing conflict in the Middle East.",
+  "Trump: \"We didn't start the war with Iran. Iran started the war with us.\"",
+  "‘Mow The Lawn’: More Signs Point To US Readying Offensive Against Iran",
+  "October FOMC Preview: Where Are the Unexpected Trading Clues?"
  ],
  "initialized": true,
- "last_alert": 1793046138.8338525,
+ "last_alert": 1793058362.8713555,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 183,
-  "new": 127,
+  "fetched": 178,
+  "new": 91,
   "rated": {
-   "low": 46,
-   "medium": 5,
+   "low": 5,
+   "medium": 10,
    "high": 1
   },
-  "posted": 4,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 100 (char 4653)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 183 (char 4267)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3452)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 101 (char 4022)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 100 (char 4589)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 100 (char 4466)"
   ],
-  "time": "2026-10-26T23:14:31+00:00"
+  "time": "2026-10-26T23:46:53+00:00"
  }
 }
