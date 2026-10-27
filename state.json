@@ -1,21 +1,5 @@
 {
  "seen": {
-  "0f8ea3cbd5f42364": 1792881125.6111026,
-  "273ace3c30d6d9c9": 1792881125.611109,
-  "37a1424dea2366d3": 1792881125.6111126,
-  "4b388621c9eb4329": 1792881125.6111152,
-  "47806c9e0e229791": 1792881125.6111176,
-  "d9f7071d3c96a105": 1792881125.6111193,
-  "7cbec95f841012db": 1792881125.6111214,
-  "8c7c0440f2dcbf21": 1792881125.6111228,
-  "36e8b69d505a5eca": 1792881125.611127,
-  "d1205ca7898cdd64": 1792881125.6111286,
-  "42f562835a086bae": 1792881125.6111307,
-  "3426b7048b54e407": 1792881125.6111329,
-  "81dd8b2e60e324dd": 1792881126.9462607,
-  "53a09cc87e1918da": 1792881126.9462852,
-  "ca54ebba7857a691": 1792881128.1447546,
-  "8e983d7be8b46b58": 1792881128.144775,
   "fbb556c83957ee3e": 1792882677.0126464,
   "46b4f85c416bf810": 1792882677.0126534,
   "f8fae18793e242db": 1792882677.0126598,
@@ -4525,21 +4509,23 @@
   "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap"
  ],
  "initialized": true,
- "last_alert": 1793130959.389679,
+ "last_alert": 1793141800.9186668,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 293,
-  "new": 162,
+  "fetched": 210,
+  "new": 74,
   "rated": {
-   "low": 111,
-   "medium": 25,
-   "high": 1
+   "low": 0,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 21,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3411)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4191)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4345)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2614)"
   ],
-  "time": "2026-10-27T22:22:47+00:00"
+  "time": "2026-10-27T22:57:16+00:00"
  }
 }
