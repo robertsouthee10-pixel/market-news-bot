@@ -1,12 +1,5 @@
 {
  "seen": {
-  "b11da1d8eddcc29d": 1792800128.814587,
-  "99cbf8f682d5a12c": 1792800128.8146465,
-  "6171cf733facb77b": 1792800128.8146513,
-  "eb30ca07e1ac59b1": 1792800128.814654,
-  "a4d0363c073de664": 1792800128.8146567,
-  "c2f39d88ebc78104": 1792800128.8146598,
-  "1c6820b089de7840": 1792800128.8146625,
   "19b02252258a2ddd": 1792802902.7391527,
   "a662cde4fee9504b": 1792802902.7391582,
   "3afdcf67dd521d7f": 1792802902.7391615,
@@ -3538,14 +3531,25 @@
   "dfc987bdc9d1e6cf": 1793058411.4903398,
   "681a26de3dc7a0fa": 1793058411.4903443,
   "88dcc412c6fbf3d6": 1793058412.694576,
-  "9d16476f1c420350": 1793058413.934335
+  "9d16476f1c420350": 1793058413.934335,
+  "a717127ce6989c35": 1793059929.4762654,
+  "71dfb4ba202c7bea": 1793059929.4762938,
+  "9dc9d2c032e560eb": 1793059929.4762995,
+  "4ce4968750f33f54": 1793059930.7037106,
+  "ba87858aed7ce95c": 1793059930.7037306,
+  "8f590ab71a1e809f": 1793059932.239517,
+  "b617e093ff0f92f7": 1793059932.239537,
+  "bdb6f50aa7111930": 1793059932.2395403,
+  "0727f88068e49210": 1793059933.5087433,
+  "a474adc916f054df": 1793059933.5087628,
+  "8fb146741034e512": 1793059933.508767,
+  "4a4b0b5522e903f6": 1793059933.5087717,
+  "7c8d741475bb36c2": 1793059933.5087745,
+  "9ac44ca50f0482ca": 1793059934.8162801,
+  "f250f1557c28ecde": 1793059934.8163102,
+  "0f44df2991273f9a": 1793059934.8163145
  },
  "recent": [
-  "Scott Galloway on Tesla and SpaceX: “Tesla’s the Patient and SpaceX Is the Organ Donor”",
-  "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-  "Hezbollah readying to renew war with Israel with funds from Iran, sources say",
-  "Natural Gas, WTI Oil, Brent Oil Forecasts – WTI Oil Pulls Back As Saudi Arabia Attempts To Defuse Tensions With Iran",
-  "Vessel on fire after off Iraq as Middle East war nears eight-month mark",
   "Oil prices jump, but refiners eat the cost as retail margins soar",
   "The Director of the International Energy Agency warns that energy markets will not return next year to the situation before the war in Iran",
   "Egypt approves military support for Saudi Arabia, a key Gulf power, as Houthi attacks intensify",
@@ -3580,26 +3584,31 @@
   "Today's fuel prices (October 27): Oil prices fall as expectations of easing conflict in the Middle East.",
   "Trump: \"We didn't start the war with Iran. Iran started the war with us.\"",
   "‘Mow The Lawn’: More Signs Point To US Readying Offensive Against Iran",
-  "October FOMC Preview: Where Are the Unexpected Trading Clues?"
+  "October FOMC Preview: Where Are the Unexpected Trading Clues?",
+  "Trump: I though oil prices would go much higher",
+  "Tesla (NASDAQ:TSLA) Surges on Merger Buzz: Are Robotaxis Next?",
+  "A BoJ hold is expected Friday after the Yen gives back half its gain",
+  "Today’s Top Economic and Crypto Events: FOMC Day 1, US Durable Goods Orders",
+  "The Federal Reserve's decision this week will focus less on interest rates and more on whether Chairman Powell will \"explain\" to the market."
  ],
  "initialized": true,
  "last_alert": 1793058362.8713555,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 178,
+  "fetched": 186,
   "new": 91,
   "rated": {
-   "low": 5,
-   "medium": 10,
-   "high": 1
+   "low": 11,
+   "medium": 5,
+   "high": 0
   },
   "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 101 (char 4022)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 100 (char 4589)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 100 (char 4466)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4245)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 185 (char 3278)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3367)"
   ],
-  "time": "2026-10-26T23:46:53+00:00"
+  "time": "2026-10-27T00:12:14+00:00"
  }
 }
