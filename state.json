@@ -1,17 +1,5 @@
 {
  "seen": {
-  "c4eb4c35ae95c9b2": 1792809517.9045699,
-  "58a14a514ddb86c6": 1792809517.904601,
-  "6a921c7bc259089d": 1792809517.904608,
-  "16b9d3d36cbdf7f9": 1792809517.9046137,
-  "d7ca319cc37518b0": 1792809517.904616,
-  "3045afc17428c1e5": 1792809519.2453775,
-  "eb0f4ca5bfa75ee1": 1792809519.2453988,
-  "d8cb7feaa8203d48": 1792809520.471368,
-  "8ba52aa51dd0df7d": 1792809520.4713907,
-  "79c2b2622b66899d": 1792809520.4713953,
-  "2147cf605a91ac0f": 1792809520.4713986,
-  "1e8b28373b9ff949": 1792809520.4714022,
   "01ef59f04a38b311": 1792811415.583424,
   "7e6c4fee7d2fdea0": 1792811415.5834332,
   "4aa117875c112866": 1792811415.5834363,
@@ -3532,7 +3520,8 @@
   "f4879805d12e427b": 1793067543.7907887,
   "a3931c130790282e": 1793067543.790793,
   "1506030c345e966d": 1793067543.7907965,
-  "612a0d6948653291": 1793067543.7907994
+  "612a0d6948653291": 1793067543.7907994,
+  "07827996dc458683": 1793069858.8049428
  },
  "recent": [
   "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
@@ -3577,23 +3566,23 @@
   "Wall Street rises as AI stocks keep swinging"
  ],
  "initialized": true,
- "last_alert": 1793058362.8713555,
+ "last_alert": 1793069823.3401895,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 173,
-  "new": 90,
+  "fetched": 143,
+  "new": 76,
   "rated": {
-   "low": 10,
-   "medium": 5,
+   "low": 1,
+   "medium": 0,
    "high": 0
   },
-  "posted": 4,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3522)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4500)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3519)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4948)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 60 (char 3055)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 6 column 99 (char 985)"
   ],
-  "time": "2026-10-27T02:19:03+00:00"
+  "time": "2026-10-27T02:57:38+00:00"
  }
 }
