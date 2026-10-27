@@ -1,11 +1,5 @@
 {
  "seen": {
-  "01ef59f04a38b311": 1792811415.583424,
-  "7e6c4fee7d2fdea0": 1792811415.5834332,
-  "4aa117875c112866": 1792811415.5834363,
-  "03467987d5e12135": 1792811416.8001516,
-  "60d75d7fd0d0d6eb": 1792811416.8001654,
-  "e247e3b9b3e1e5f8": 1792811418.0773263,
   "87e1845157470fb1": 1792815299.349881,
   "bc1785481bbe4ac7": 1792815300.635142,
   "b9de47585e739985": 1792815300.6351733,
@@ -3521,11 +3515,18 @@
   "a3931c130790282e": 1793067543.790793,
   "1506030c345e966d": 1793067543.7907965,
   "612a0d6948653291": 1793067543.7907994,
-  "07827996dc458683": 1793069858.8049428
+  "07827996dc458683": 1793069858.8049428,
+  "c8e0234f53a2e5f0": 1793071851.0576224,
+  "33264594a281dc17": 1793071851.0576272,
+  "dca38c1bd1d17a4f": 1793071851.05763,
+  "f82b1dfed230e60d": 1793071852.4205103,
+  "3119086a267d881f": 1793071853.8208773,
+  "7bba78e9e26a5756": 1793071853.820899,
+  "616836c3fde4876c": 1793071853.8209085,
+  "5433f9de074e48a2": 1793071853.8209114,
+  "7ca091c99fea76da": 1793071853.8209147
  },
  "recent": [
-  "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-  "Trump warns of potential renewed strikes on Iran: ‘May do another little Epic Fury’",
   "Cisco (NASDAQ:CSCO) Jumps As AI Networking Builds: More Ahead?",
   "Morning Wrap: ASX 200 futures flat, S&P 500 and Nasdaq gain as Anthropic files for blockbuster IPO",
   "Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound",
@@ -3563,26 +3564,28 @@
   "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive",
   "Iran holds ground as war fears mount",
   "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
-  "Wall Street rises as AI stocks keep swinging"
+  "Wall Street rises as AI stocks keep swinging",
+  "US Markets Rise as Anthropic IPO, Oil Drop Lift Tech Stocks",
+  "Saudi Arabia offered Houthis $1 bn in Iran-brokered ceasefire deal: Israeli media"
  ],
  "initialized": true,
  "last_alert": 1793069823.3401895,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 143,
-  "new": 76,
+  "fetched": 127,
+  "new": 84,
   "rated": {
-   "low": 1,
-   "medium": 0,
+   "low": 6,
+   "medium": 3,
    "high": 0
   },
-  "posted": 0,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 4948)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 60 (char 3055)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 6 column 99 (char 985)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2515)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 99 (char 2875)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3940)"
   ],
-  "time": "2026-10-27T02:57:38+00:00"
+  "time": "2026-10-27T03:30:53+00:00"
  }
 }
