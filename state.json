@@ -1,31 +1,5 @@
 {
  "seen": {
-  "cb4a9007a5f3fa73": 1792820988.659938,
-  "5ca7c423342fdeb1": 1792820988.6599488,
-  "7814d114d0a57cdb": 1792820988.6599512,
-  "c093ccc618ec849e": 1792820989.8570142,
-  "f703263a50a8e9b9": 1792820989.8570325,
-  "82d85629bf215c7c": 1792820989.857042,
-  "d9bf1fb952f6ed5e": 1792820989.8570454,
-  "f83bd0367d95c359": 1792820989.857049,
-  "c98906bf501677cd": 1792820989.8570514,
-  "48fff03bc0680408": 1792820991.093864,
-  "0b36a372997a8b7b": 1792820991.0938854,
-  "01cb5881d680be88": 1792820992.2283049,
-  "afae4ab0dae31e36": 1792820992.228325,
-  "be43a617ab02c271": 1792820992.2283294,
-  "0dbd352492ee0063": 1792820992.2283332,
-  "9cbc0ab6914fd6cf": 1792820992.2283363,
-  "91bd8886210e2165": 1792820992.2283392,
-  "c91e4784ef8a25fd": 1792820992.2283423,
-  "c765683d52d0e75f": 1792820992.2283456,
-  "1e2a1cca34cf6668": 1792820992.2283475,
-  "50308aead0a55b5e": 1792820992.22835,
-  "bf6023905fdb18c9": 1792820992.228352,
-  "c72cb1dfc71e817b": 1792820992.2283545,
-  "7ac3f9917defb612": 1792820992.2283566,
-  "b72c6138016642f8": 1792820992.2283592,
-  "7518e2b3a4c8805e": 1792821008.6721904,
   "3c699eb377a41d7e": 1792822416.6749644,
   "ab97f0056a97f27e": 1792822416.6749918,
   "75bb79ba42977089": 1792822417.942555,
@@ -3533,11 +3507,27 @@
   "160665a124ceccaa": 1793076220.5347824,
   "28c34c2946a2421f": 1793076220.534887,
   "b903af4e2d2ec663": 1793076220.5348897,
-  "158a97fd045c9766": 1793076220.5348923
+  "158a97fd045c9766": 1793076220.5348923,
+  "7e7faf31ff7d0c96": 1793080561.6901584,
+  "930254dbaa3f1c74": 1793080561.6901655,
+  "33402bc49c8914c6": 1793080562.8556685,
+  "e44f5ac62e25d169": 1793080562.855689,
+  "eb06e001f9361ebd": 1793080562.8556933,
+  "c8eaff0b572420f7": 1793080562.8556964,
+  "cf5c8236244bffb6": 1793080562.8556998,
+  "2bcc54cd3c408750": 1793080562.8557026,
+  "d6bb7db1dd77774d": 1793080562.8557062,
+  "d0781445bd0b5831": 1793080562.855714,
+  "215a1d807fcf680d": 1793080562.8557174,
+  "b05b11add7c5d24a": 1793080562.8557208,
+  "fc1c818173e9a3c2": 1793080562.8557234,
+  "e5a9503a51fe939a": 1793080562.8557262,
+  "1a75f88e369b9b6e": 1793080562.8557289,
+  "3798012780b11e14": 1793080562.8557317,
+  "b8caf314b600ad03": 1793080564.0314798,
+  "7e0d610163103c0c": 1793080564.0315049
  },
  "recent": [
-  "Trump: \"We didn't start the war with Iran. Iran started the war with us.\"",
-  "‘Mow The Lawn’: More Signs Point To US Readying Offensive Against Iran",
   "October FOMC Preview: Where Are the Unexpected Trading Clues?",
   "Trump: I though oil prices would go much higher",
   "Tesla (NASDAQ:TSLA) Surges on Merger Buzz: Are Robotaxis Next?",
@@ -3575,26 +3565,29 @@
   "Global Market: South Korean shares jump over 4% as AI chip rally lifts Samsung, SK Hynix",
   "US-Israel-Iran War Latest News: Saudi Coalition Intercepts 4 Drones Targeting Southern Region As Conflict With Houthis Escalates",
   "Anthropic warns TSMC disruptions could hit AI chip supply, threaten business",
-  "No violating vessel safe in Strait of Hormuz"
+  "No violating vessel safe in Strait of Hormuz",
+  "Alphabet earnings: what to look for from GOOGL",
+  "Netanyahu Hints at Resuming War With Iran if He Wins Election"
  ],
  "initialized": true,
  "last_alert": 1793069823.3401895,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 145,
-  "new": 75,
+  "fetched": 169,
+  "new": 118,
   "rated": {
-   "low": 0,
-   "medium": 0,
+   "low": 14,
+   "medium": 4,
    "high": 0
   },
-  "posted": 0,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 3251)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 100 (char 2126)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 6 column 96 (char 904)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 142 (char 4088)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 97 (char 4023)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 56 (char 751)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 4059)"
   ],
-  "time": "2026-10-27T05:18:03+00:00"
+  "time": "2026-10-27T05:56:04+00:00"
  }
 }
