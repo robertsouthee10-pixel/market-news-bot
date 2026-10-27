@@ -1,21 +1,5 @@
 {
  "seen": {
-  "3278ddd0076b1192": 1792805369.7339633,
-  "80416603df1d7abf": 1792805369.73397,
-  "c38e73142837a956": 1792805369.733973,
-  "0b6c7d4f70f67cba": 1792805369.7339754,
-  "7e49755603b63ef0": 1792805369.733978,
-  "a95f3053f2ea1396": 1792805369.7339802,
-  "d67bafd7b104910f": 1792805369.7339818,
-  "92b412e9c3d20e5b": 1792805369.733984,
-  "b7158fffdc2afb67": 1792805369.7339861,
-  "c4c3634dbb812f06": 1792805369.7339883,
-  "bbc6c7163d0c552b": 1792805369.7339904,
-  "655ed327ab47d6d5": 1792805371.0159576,
-  "ebfedec6fd2a8010": 1792805371.0159748,
-  "370046805e671b24": 1792805371.0159788,
-  "1db5154ecfb5d637": 1792805372.255125,
-  "c394213d759a9025": 1792805372.2551444,
   "5c7fa54b287d19ff": 1792807692.8469353,
   "b3700a0d5731f6bb": 1792807692.8469431,
   "332239278dd6f4b7": 1792807692.8469481,
@@ -3537,17 +3521,30 @@
   "79275b1eed62ef49": 1793062951.1012068,
   "e181fa26a80ae522": 1793062951.1012096,
   "3fffd116151fc071": 1793062952.4437432,
-  "34dc49a44793f06a": 1793062952.443762
+  "34dc49a44793f06a": 1793062952.443762,
+  "fd09687772eb9c64": 1793065506.4527795,
+  "9fffeef7815a3cc4": 1793065506.4528055,
+  "51b713d03acbca06": 1793065506.45281,
+  "784ca5a4be4f8528": 1793065508.3536723,
+  "9c57e61712b5d42b": 1793065508.3536937,
+  "2c8501a089ed6faf": 1793065508.3536994,
+  "a577a27f943872aa": 1793065509.5572126,
+  "e6328954ffd687df": 1793065509.5572374,
+  "41e96c959a0f48b6": 1793065509.5572414,
+  "c90cfba0f0629e5b": 1793065510.8126693,
+  "9ce590e92244f6a8": 1793065512.1052933,
+  "b3b03c5e5a366593": 1793065513.2816026,
+  "bcd932ccd97e7ac4": 1793065513.2816224,
+  "6f2d3339139a58b5": 1793065513.281627,
+  "a76089c28c661f8f": 1793065513.2816305,
+  "85e46c9a10298cde": 1793065513.2816336,
+  "c0bb463f90d7839d": 1793065513.2816358,
+  "4a2a47fbd10f60e7": 1793065514.4383726,
+  "7355b74aea9d06cb": 1793065514.4383926,
+  "89f47cb894de521e": 1793065514.4383972,
+  "41690989cd78df00": 1793065515.6750085
  },
  "recent": [
-  "Wall Street ends higher as AI capex fears pause, Fed decision looms",
-  "Tesla Stock, Upgraded On SpaceX Prospects, Moves Into A Buy Zone",
-  "Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move",
-  "Wall St banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
-  "Iran's president holds talks with Saudi Arabia, Pakistan and Turkey in Tehran | BBC News",
-  "Tesla (NASDAQ:TSLA) Stock Jumps 5.2% - Should You Buy?",
-  "Treasury Secretary Scott Bessent Discusses Intensified U.S. Economic Pressure on Iran",
-  "CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation",
   "How Trump is plotting ‘short, sharp’ 72hr strike to cripple Iran & force regime’s hand as US deploys third attack team",
   "1. The Bank of Korea warned that South Korea's semiconductor exports could be up to $100 billion low..",
   "Why Lumentum’s stock led the S&P 500 higher on Monday",
@@ -3579,26 +3576,37 @@
   "Iran ‘disables’ tanker as US commander flies victory lap over Strait of Hormuz",
   "Citi's Nathan Sheets Warns Markets Could Misread The Fed — Sees Fiscal, AI Financing Worries Pushing Up Treasury Yields",
   "How S&P 500, Dow, Nasdaq Futures Are Moving Amid Rising Bond Yields, Trump-Xi Summit",
-  "Delegations meet in Iran amid fears of renewed Mideast fighting"
+  "Delegations meet in Iran amid fears of renewed Mideast fighting",
+  "Gold eases as stronger US dollar weighs, Fed meeting in focus",
+  "Brent Crude Falls Below $115/Barrel After Saudi Initiates De-Escalation Talks With Iran",
+  "Saudi defence pact countries push for peace in Tehran as Houthis launch more attacks, Asia News",
+  "Iran Expands Tanker Blockade Beyond Hormuz",
+  "Middle East latest: Iran and Makkah defence pact countries hold talks to defuse tensions",
+  "U.S. Treasury Yields at 5% Fail to Tighten Financial Conditions",
+  "South Korea's chip boom fuels forecast-beating third-quarter growth",
+  "China industrial profits post strongest growth in three months, rising 14.4%"
  ],
  "initialized": true,
  "last_alert": 1793058362.8713555,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 179,
-  "new": 105,
-  "rated": {
-   "low": 24,
-   "medium": 4,
-   "high": 2
-  },
-  "posted": 4,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 106 (char 4457)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 142 (char 2289)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 98 (char 3737)"
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
   ],
-  "time": "2026-10-27T01:02:32+00:00"
+  "fetched": 195,
+  "new": 121,
+  "rated": {
+   "low": 12,
+   "medium": 6,
+   "high": 3
+  },
+  "posted": 8,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3039)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 97 (char 4517)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4305)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 3764)"
+  ],
+  "time": "2026-10-27T01:45:15+00:00"
  }
 }
