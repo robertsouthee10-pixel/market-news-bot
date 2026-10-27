@@ -1,30 +1,5 @@
 {
  "seen": {
-  "5c7fa54b287d19ff": 1792807692.8469353,
-  "b3700a0d5731f6bb": 1792807692.8469431,
-  "332239278dd6f4b7": 1792807692.8469481,
-  "f2dc816364308924": 1792807692.8469517,
-  "927372015ce01484": 1792807694.2309551,
-  "57d227552485bce7": 1792807694.2309773,
-  "f2815b90ea1233eb": 1792807694.230982,
-  "4c22124c6c9f8d46": 1792807694.2309859,
-  "47efce16c3d783a6": 1792807695.5033674,
-  "505c97f241a2855a": 1792807696.711211,
-  "d9bebd54aa9a672b": 1792807696.7112331,
-  "b9c7436aa7832c5a": 1792807696.7112372,
-  "22830689616ada3d": 1792807696.7112396,
-  "34580b78b75737c8": 1792807696.711242,
-  "9846fb952a66e730": 1792807696.7112482,
-  "2fa0fcde6fe02664": 1792807696.711251,
-  "bf91f592e0c5302b": 1792807696.7112534,
-  "2c232167f3bebb16": 1792807696.7112558,
-  "b538ae6ae0d4f13a": 1792807696.711259,
-  "ae56eaa0518922c8": 1792807696.7112627,
-  "8d5e7b4f887cf608": 1792807698.002249,
-  "82ef3be544889737": 1792807698.0022697,
-  "cd7e17f3d05ae85d": 1792807698.0022745,
-  "d688ab0be57d12c3": 1792807698.0022774,
-  "19b056a4f8e8dd39": 1792807698.0022807,
   "c4eb4c35ae95c9b2": 1792809517.9045699,
   "58a14a514ddb86c6": 1792809517.904601,
   "6a921c7bc259089d": 1792809517.904608,
@@ -3542,13 +3517,24 @@
   "4a2a47fbd10f60e7": 1793065514.4383726,
   "7355b74aea9d06cb": 1793065514.4383926,
   "89f47cb894de521e": 1793065514.4383972,
-  "41690989cd78df00": 1793065515.6750085
+  "41690989cd78df00": 1793065515.6750085,
+  "f88163a1f119e9b9": 1793067536.2855124,
+  "8f6f92c1a81be36c": 1793067536.2855213,
+  "0a66fa7aa0a1ad27": 1793067536.285525,
+  "f22abdf466c54002": 1793067536.2855284,
+  "5a9c7872ed326fdf": 1793067537.4810333,
+  "13ba75968dd67e23": 1793067537.4810517,
+  "5abf76ff3dfde57b": 1793067541.3706975,
+  "e21640ec44e66724": 1793067541.3707178,
+  "186b65800bac061f": 1793067542.5533304,
+  "b3c45a34689b3225": 1793067542.55335,
+  "11f8ec614dcb8e52": 1793067543.7907708,
+  "f4879805d12e427b": 1793067543.7907887,
+  "a3931c130790282e": 1793067543.790793,
+  "1506030c345e966d": 1793067543.7907965,
+  "612a0d6948653291": 1793067543.7907994
  },
  "recent": [
-  "How Trump is plotting ‘short, sharp’ 72hr strike to cripple Iran & force regime’s hand as US deploys third attack team",
-  "1. The Bank of Korea warned that South Korea's semiconductor exports could be up to $100 billion low..",
-  "Why Lumentum’s stock led the S&P 500 higher on Monday",
-  "Arista Networks (ANET) Is Winning AI Data Center Network Share",
   "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
   "Trump warns of potential renewed strikes on Iran: ‘May do another little Epic Fury’",
   "Cisco (NASDAQ:CSCO) Jumps As AI Networking Builds: More Ahead?",
@@ -3584,29 +3570,30 @@
   "Middle East latest: Iran and Makkah defence pact countries hold talks to defuse tensions",
   "U.S. Treasury Yields at 5% Fail to Tighten Financial Conditions",
   "South Korea's chip boom fuels forecast-beating third-quarter growth",
-  "China industrial profits post strongest growth in three months, rising 14.4%"
+  "China industrial profits post strongest growth in three months, rising 14.4%",
+  "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive",
+  "Iran holds ground as war fears mount",
+  "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+  "Wall Street rises as AI stocks keep swinging"
  ],
  "initialized": true,
  "last_alert": 1793058362.8713555,
  "last_run": {
-  "feeds_ok": 17,
-  "feeds_failed": [
-   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
-  ],
-  "fetched": 195,
-  "new": 121,
+  "feeds_ok": 18,
+  "feeds_failed": [],
+  "fetched": 173,
+  "new": 90,
   "rated": {
-   "low": 12,
-   "medium": 6,
-   "high": 3
+   "low": 10,
+   "medium": 5,
+   "high": 0
   },
-  "posted": 8,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3039)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 97 (char 4517)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4305)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 3764)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3522)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4500)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3519)"
   ],
-  "time": "2026-10-27T01:45:15+00:00"
+  "time": "2026-10-27T02:19:03+00:00"
  }
 }
