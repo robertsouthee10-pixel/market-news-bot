@@ -1,16 +1,5 @@
 {
  "seen": {
-  "f463992c3baa0c8c": 1792910622.0752037,
-  "b646b36941b3d16d": 1792910622.07521,
-  "22ae5d1cc0819b5b": 1792910623.397127,
-  "8184b5c513840579": 1792910623.3971505,
-  "4369088f9b5ee114": 1792910623.3971543,
-  "a0d9775a3d038b80": 1792910623.3971581,
-  "ea86ba0b513081c1": 1792910623.3971615,
-  "bf9a682d793391c9": 1792910624.6763425,
-  "fae656ba843635db": 1792910624.6763623,
-  "4b61662f28ce5ad7": 1792910624.6763663,
-  "36e01d571ef90f6a": 1792910624.67637,
   "d503251147412f0f": 1792913038.9214926,
   "d95ace24776d78ba": 1792913038.9214983,
   "628ed7d00b5afac1": 1792913038.9215016,
@@ -4477,10 +4466,34 @@
   "254998d46f8871ca": 1793167784.2626925,
   "cf9f53739abb191b": 1793167784.262696,
   "a11cd9a8fb6b0694": 1793167784.2626994,
-  "1babb841104af818": 1793167784.262703
+  "1babb841104af818": 1793167784.262703,
+  "9e910dad3a589ee3": 1793170874.7039924,
+  "20ddaf357a59906e": 1793170874.703998,
+  "76e3f0cca217c1b7": 1793170874.7040033,
+  "a1c794f688b383ca": 1793170874.7040062,
+  "a92989fd06c95242": 1793170874.7040088,
+  "e9eeadfab28bb96c": 1793170874.7040114,
+  "853e6da40d2adcb7": 1793170874.7040148,
+  "c4cbf69032fdebfd": 1793170874.7040167,
+  "0c26de79458bab8f": 1793170874.7040188,
+  "69110dbf455f4ce1": 1793170874.7040207,
+  "4eaa32736ed35c99": 1793170874.7040231,
+  "238fb0919871c4c2": 1793170874.704025,
+  "a63f1a163e38a737": 1793170874.7040272,
+  "c07e69ce575290a2": 1793170874.7040308,
+  "14e78335186bc63a": 1793170874.7040324,
+  "2e27065ed4e34f1d": 1793170874.7040346,
+  "d3d7cf4331384d9c": 1793170874.7040362,
+  "9e690f17afe50e12": 1793170875.9003565,
+  "bdeb70b0665dfef9": 1793170875.9003778,
+  "21124b5b13cbc089": 1793170875.9003847,
+  "0ccc90f3abb60095": 1793170875.9003875,
+  "3c6b32e8ae498175": 1793170875.900391,
+  "31cbfc5c60f12227": 1793170875.900395,
+  "e1a5e4e38e430f0a": 1793170875.9003985,
+  "398860011c9bd356": 1793170875.900401
  },
  "recent": [
-  "CB Views: October 2026 FOMC Preview",
   "Russian satellites help Iran’s allies strike Saudi, say data and officials",
   "Houthis claim missile strike on Saudi refinery",
   "Israel Election Deadlock Could Shake Oil, Stocks and Crypto Markets",
@@ -4519,27 +4532,28 @@
   "Crude oil prices surge after strike on Saudi refinery",
   "AI chips worth $12.1 million seized at Malaysia airport, customs authority says",
   "U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",
-  "Meta Platforms (META) Could Be 39% Undervalued Following Its AI Funding Push"
+  "Meta Platforms (META) Could Be 39% Undervalued Following Its AI Funding Push",
+  "IXIC: Nasdaq Gains 1.2% Ahead of Fed and Big Tech Updates. What to Expect Next"
  ],
  "initialized": true,
  "last_alert": 1793167730.5398645,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 173,
-  "new": 129,
+  "fetched": 164,
+  "new": 123,
   "rated": {
-   "low": 24,
-   "medium": 5,
+   "low": 22,
+   "medium": 3,
    "high": 0
   },
-  "posted": 2,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 102 (char 3900)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 144 (char 3364)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3931)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3977)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 59 (char 2618)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3261)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3530)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 101 (char 3461)"
   ],
-  "time": "2026-10-28T06:09:44+00:00"
+  "time": "2026-10-28T07:01:32+00:00"
  }
 }
