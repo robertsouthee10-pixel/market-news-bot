@@ -1,8 +1,5 @@
 {
  "seen": {
-  "7da14036ee6f4ed6": 1792971912.4266427,
-  "c63de9b6f807c0ca": 1792971912.4266489,
-  "02214ce8560f561d": 1792971912.4266539,
   "7072effe8ceb330c": 1792973155.775513,
   "585ac8beddc4c6c2": 1792973155.7755413,
   "f2f390dafe7be9ed": 1792973157.2333038,
@@ -4963,21 +4960,22 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 213,
-  "new": 143,
+  "fetched": 216,
+  "new": 150,
   "rated": {
-   "low": 14,
-   "medium": 4,
+   "low": 0,
+   "medium": 0,
    "high": 0
   },
-  "posted": 1,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 97 (char 1906)",
-   "Claude: ValueError: no JSON array in model reply: ",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4083)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3515)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 56 (char 2030)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 101 (char 2557)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 9 column 97 (char 1657)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 62 (char 3766)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 59 (char 4221)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 3156)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 100 (char 659)"
   ],
-  "time": "2026-10-28T23:23:41+00:00"
+  "time": "2026-10-28T23:59:52+00:00"
  }
 }
