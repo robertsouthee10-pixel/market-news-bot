@@ -1,37 +1,5 @@
 {
  "seen": {
-  "7c852dd484af6f43": 1792956637.8829474,
-  "2fc82eb864382491": 1792956637.8829536,
-  "f7a7485240924a68": 1792956637.8829572,
-  "b3823bd36fd624c2": 1792956639.1267734,
-  "12eaafbea2c394da": 1792956640.413088,
-  "e8f36e3788f5c66d": 1792956641.6493776,
-  "6d477ab48b75dc30": 1792956641.649398,
-  "444b2fea37e86c03": 1792958145.7020016,
-  "d0126d2b49260cbc": 1792958145.7020078,
-  "e6d8c165db85aaab": 1792958145.702011,
-  "c078a79727cfefe2": 1792958145.7020135,
-  "8a7dacb200d0d27e": 1792958145.702016,
-  "96b94f2fdd246b81": 1792958147.0232792,
-  "c87108936e46de26": 1792958147.0232992,
-  "080a6b33ce5df839": 1792958147.0233037,
-  "be12bcc893b79549": 1792958148.348352,
-  "7ec642d90535bdf9": 1792958148.3483744,
-  "3341a8612edd1b63": 1792958148.3483787,
-  "beaeaeacf2526d3a": 1792958150.1437926,
-  "f8fa6b17bd43066d": 1792958150.143814,
-  "1e93c137f0afd45e": 1792958150.1438208,
-  "78de8835701c4173": 1792958150.143826,
-  "94d22b0927b73658": 1792958150.1438296,
-  "32bf1f540654ef92": 1792958150.1438339,
-  "32b121f358639fb7": 1792958150.1438375,
-  "12051cfd7418706d": 1792958150.143841,
-  "81056548b4e07f1a": 1792958150.1438441,
-  "ab0dca9d44de6e0d": 1792958150.1438472,
-  "78bf9265129dbfbe": 1792958150.1438503,
-  "f5d00be11b3b3e42": 1792958150.1438556,
-  "b6b7a0c288323eeb": 1792958150.1438591,
-  "61244b7b6cec731d": 1792958150.1438646,
   "51892c9b0cc2f103": 1792959389.5409534,
   "0a2d5d8d0b1b768b": 1792959390.8463733,
   "72af885b37d0e95f": 1792959390.8463936,
@@ -4870,10 +4838,10 @@
   "32752a36d8eec935": 1793215591.448232,
   "ad7f28ac669ec87a": 1793215592.6852612,
   "53e5a2394b26559c": 1793215593.9923,
-  "cf8c3710ebacc254": 1793215593.992325
+  "cf8c3710ebacc254": 1793215593.992325,
+  "562e5c0a91781428": 1793218327.6885834
  },
  "recent": [
-  "Here's what options traders see before Alphabet, Microsoft report after the bell",
   "Israeli bonds, shekel fall as election leaves Netanyahu and others short of majorities",
   "Iran Peace Deal Draft | Qatar Mediation | Tehran and Washington Talks - Aaj News",
   "\"Within 96 Hours\": US Forces Ready To Renew Iran Strikes, Await Trump Nod",
@@ -4912,30 +4880,31 @@
   "Axios: Qatar is working to persuade Iran to allow inspectors to visit its sites in exchange for sanctions relief",
   "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
   "Microsoft will post earnings after the bell amid job cuts and new cash-flow test",
-  "Oracle stock pops 12% as long-term revenue forecast and clarity on financing ease debt concerns"
+  "Oracle stock pops 12% as long-term revenue forecast and clarity on financing ease debt concerns",
+  "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade"
  ],
  "initialized": true,
- "last_alert": 1793207153.626916,
+ "last_alert": 1793218224.3895857,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 305,
-  "new": 237,
+  "fetched": 258,
+  "new": 176,
   "rated": {
-   "low": 38,
-   "medium": 14,
-   "high": 10
+   "low": 0,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 13,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 104 (char 2174)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3436)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3396)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3759)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 147 (char 2387)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3564)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 58 (char 3807)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4573)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3737)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3389)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 140 (char 4623)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 100 (char 4120)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 5192)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 142 (char 2524)"
   ],
-  "time": "2026-10-28T19:26:33+00:00"
+  "time": "2026-10-28T20:12:07+00:00"
  }
 }
