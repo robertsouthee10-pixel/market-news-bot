@@ -4430,15 +4430,39 @@
   "e269a80254b2c84e": 1793160114.596805,
   "0474d562dc117dcc": 1793160114.5968072,
   "3c57e0ba7a06e62b": 1793160114.5968096,
-  "85a113dd378ac33f": 1793160114.5968125
+  "85a113dd378ac33f": 1793160114.5968125,
+  "75082e7e5335ee3e": 1793162704.6310422,
+  "9708c795798df568": 1793162704.631054,
+  "4a14b71b61a81c1c": 1793162704.6310575,
+  "4c5a982138ffd772": 1793162704.63106,
+  "e7b38bb4725ecdff": 1793162704.631062,
+  "0fba1192e0ff155b": 1793162704.6310642,
+  "a72f8f657c2c08d9": 1793162704.631066,
+  "fbbed5a9de2c0f67": 1793162704.631068,
+  "b282c5626b271e0d": 1793162704.6310697,
+  "d522108982d86075": 1793162704.631072,
+  "18be0cab52a72911": 1793162705.937072,
+  "2fe8f2ba73b5a6e4": 1793162705.937099,
+  "f91464a184368b43": 1793162705.9371035,
+  "b51cedada7b40c76": 1793162707.2372978,
+  "1d783000b825a14f": 1793162708.6734793,
+  "7c1a5ef63d46af5e": 1793162708.6735046,
+  "92bfe002a43f7ec0": 1793162709.9221237,
+  "6fbc0db7c1563cca": 1793162709.9221468,
+  "18fec47bd08d7735": 1793162709.9221509,
+  "e539700bcb38c538": 1793162709.9221547,
+  "57822c89be6185e9": 1793162709.922158,
+  "6aa8a748dad58ac4": 1793162709.9221635,
+  "47502dd0d8beadad": 1793162709.9221675,
+  "4e86bdd20623d863": 1793162709.9221714,
+  "5ce225c9160b4d72": 1793162713.827041,
+  "5c3474546fbd8313": 1793162738.3197076,
+  "4c7de1c4189cf964": 1793162738.3197138,
+  "8d960af9f6cdad74": 1793162739.5388622,
+  "9ffdfa7129096639": 1793162739.5388854,
+  "2d8468ea45b5ca10": 1793162739.538893
  },
  "recent": [
-  "Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters.",
-  "Trump says U.S. is making a 'fortune' off Iran war during Corpus Christi rally",
-  "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
-  "AI stocks lift Wall Street closer to record",
-  "Nuclear Inspectors See No Evidence Iran Repaired US-Bombed Sites",
-  "Oil Prices Decline Amid Middle East Tensions and Israeli Electio",
   "S&P 500 gains 46 points as Broadcom revives AI trade",
   "U.S. Treasury Yields Are Falling... Why Is the KOSPI Still Reeling?",
   "All Three Major US Stock Indexes Rise, Nasdaq Gains 1.18% as Memory and Optical Communications Sectors Lead",
@@ -4472,26 +4496,32 @@
   "Stocks get AI lift, dollar holds steady ahead of Fed decision",
   "Asia Stocks Rally On AI Optimism Ahead Of Fed Decision",
   "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
-  "Stock Market Today (October 28): Sensex Slumps Over 700 Points, Nifty Falls As Oil Prices Surge Amid Geopoliti"
+  "Stock Market Today (October 28): Sensex Slumps Over 700 Points, Nifty Falls As Oil Prices Surge Amid Geopoliti",
+  "Gold drifts lower as USD hits two-week high ahead of FOMC decision",
+  "Oil Markets on Edge Amid Elections, War",
+  "China envoy urges all parties to facilitate Iran-US talks",
+  "Mortgage Rates Hit 7% as Treasury Yields Stabilize Amid Inflation Concerns",
+  "AMD CFO Delivers Bullish Update That Investors Will Want to Hear",
+  "Inside the alleged IRGC Intelligence takeover of Iran’s sanctioned oil trade"
  ],
  "initialized": true,
  "last_alert": 1793154415.777024,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 145,
-  "new": 88,
+  "fetched": 154,
+  "new": 105,
   "rated": {
-   "low": 10,
-   "medium": 3,
-   "high": 0
+   "low": 20,
+   "medium": 9,
+   "high": 1
   },
-  "posted": 1,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4557)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4129)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 148 (char 4078)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 60 (char 4029)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 188 (char 4261)",
+   "Claude: ValueError: no JSON array in model reply: "
   ],
-  "time": "2026-10-28T04:01:54+00:00"
+  "time": "2026-10-28T04:45:39+00:00"
  }
 }
