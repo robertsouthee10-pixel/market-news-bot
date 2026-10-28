@@ -1,10 +1,5 @@
 {
  "seen": {
-  "36461bc8cc69102b": 1792896877.7717025,
-  "18d5d58defcb519b": 1792896877.7717092,
-  "1fadfbbfe6540ce2": 1792896878.9879746,
-  "fc5d5e44c3c0d98f": 1792896878.9879963,
-  "0c71891810039764": 1792896878.988007,
   "664e790b8d8741ec": 1792898521.132497,
   "37577682eae8dbf0": 1792898521.1325057,
   "03393dc4a087d9d7": 1792898521.13251,
@@ -4452,12 +4447,24 @@
   "9bf9ce70bde2af84": 1793154454.5043252,
   "1d0683973d2e1362": 1793154454.5043275,
   "86319c6305a3e3d9": 1793154454.5043302,
-  "99091b1e55d70f10": 1793154454.5043328
+  "99091b1e55d70f10": 1793154454.5043328,
+  "4bf6da6c0aaddc98": 1793157310.200077,
+  "9708187bb8b20cbb": 1793157310.200087,
+  "6fc197bdda35dfe3": 1793157311.5434551,
+  "9d55d601979488cb": 1793157311.543475,
+  "fc34eac844d90612": 1793157311.5434816,
+  "2d6d70cc9b258f94": 1793157311.5434852,
+  "ae14f1addcf9824f": 1793157313.5216184,
+  "0b72f4bd8eb5c154": 1793157313.5216389,
+  "2d1168fdc0afee5c": 1793157313.5216427,
+  "d6e1a8d520751fd3": 1793157313.5216453,
+  "93f63e18293608f2": 1793157313.5216517,
+  "8c20cc873e232f8b": 1793157313.5216544,
+  "14281520ba026c0a": 1793157313.5216577,
+  "0a13d221fed5cd57": 1793157314.7974446,
+  "5c7f669106d61e76": 1793157314.7974675
  },
  "recent": [
-  "Advanced Micro Devices (NASDAQ:AMD) Shares Up 5.5% - Time to Buy?",
-  "AI Giant Anthropic Prepares Landmark Nasdaq Listing",
-  "Semiconductor Stocks Poised for Strong Rebound",
   "Stock Market Today, Oct. 27: Meta Raises Largest-Ever Equity Offering to Nearly $98 Billion to Fund AI Infrastructure Bet",
   "Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters.",
   "Trump says U.S. is making a 'fortune' off Iran war during Corpus Christi rally",
@@ -4494,26 +4501,29 @@
   "Earnings from Google and Microsoft and a Fed rate decision: What to Watch",
   "OpenAI plans to buy Google's AI chips, The Information reports",
   "Trump's Iran War Costing Whopping $47 Billion, Pentagon Data Reveals",
-  "Netanyahu: Right-wing bloc won 'decisive majority' among the Zionist public; claims 'Iran weaker than ever, Israel stronger than ever'"
+  "Netanyahu: Right-wing bloc won 'decisive majority' among the Zionist public; claims 'Iran weaker than ever, Israel stronger than ever'",
+  "Stocks get AI lift, dollar holds steady ahead of Fed decision",
+  "Asia Stocks Rally On AI Optimism Ahead Of Fed Decision",
+  "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck"
  ],
  "initialized": true,
  "last_alert": 1793154415.777024,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 183,
-  "new": 107,
+  "fetched": 154,
+  "new": 90,
   "rated": {
-   "low": 25,
+   "low": 9,
    "medium": 6,
-   "high": 1
+   "high": 0
   },
-  "posted": 5,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 102 (char 2953)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 97 (char 4588)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 99 (char 2061)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 97 (char 4164)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 97 (char 3832)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 59 (char 4806)"
   ],
-  "time": "2026-10-28T02:27:34+00:00"
+  "time": "2026-10-28T03:15:14+00:00"
  }
 }
