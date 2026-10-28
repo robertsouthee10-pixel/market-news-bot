@@ -1,25 +1,5 @@
 {
  "seen": {
-  "99ed26c11f68e822": 1792886607.3908029,
-  "76ca7f48686baf8d": 1792886608.7316072,
-  "2e318845b18bd278": 1792886608.7316275,
-  "daac1302357b76ff": 1792886608.7316313,
-  "20d603c30abf6219": 1792886610.0361996,
-  "23910b48e14ce5f3": 1792886610.0362208,
-  "0ba4e608a96d2579": 1792886610.0362246,
-  "27cb9f618febc56e": 1792886610.036228,
-  "7ad5a1f6b7a0c99e": 1792886610.0362303,
-  "a25026d99b36d0d4": 1792886610.036233,
-  "002a9411c48c5181": 1792886610.0362372,
-  "b85a4882bad68935": 1792886610.0362406,
-  "aa03530542cfd5ac": 1792886610.0362432,
-  "b2f02e9d4027426f": 1792886610.0362456,
-  "16a6002875625c53": 1792886610.0362477,
-  "20b8fd33cddf3392": 1792886610.0362508,
-  "2d258ab6627d9b96": 1792886610.0362532,
-  "9245d0a4e7a1f0b9": 1792886610.036255,
-  "31ad82cce65527b3": 1792886610.036257,
-  "db76d1454e2d0b0f": 1792886610.0362594,
   "1fdf441aea61f840": 1792891151.2092192,
   "c88b23687cf20ea4": 1792891151.2092254,
   "a3e95accd4e208e2": 1792891151.2092278,
@@ -4480,12 +4460,20 @@
   "30f080e3f1c5a7fe": 1793145569.774168,
   "9c7e691717de893a": 1793145569.774171,
   "62964a8e4e4a8fb0": 1793145569.7741735,
-  "e342908dcedf663e": 1793145569.7741773
+  "e342908dcedf663e": 1793145569.7741773,
+  "28450c0daedfbf94": 1793148588.3512592,
+  "ec3c06027f344081": 1793148588.3512654,
+  "8802adb65947cf06": 1793148588.3512685,
+  "37d710bf2032bbc6": 1793148588.3512712,
+  "ca3415aaca3a97e9": 1793148588.3512738,
+  "0d8f88da8c578823": 1793148589.5375118,
+  "79d2efed441a9eb3": 1793148589.5375285,
+  "f08b5d0286d0343e": 1793148590.7077894,
+  "9e1867e10ed3dedc": 1793148590.707807,
+  "c97be2822952f924": 1793148591.8780088,
+  "a84d9834936899ac": 1793148591.8780265
  },
  "recent": [
-  "Oil Slips as Iran Diplomacy Picks Up",
-  "Oil Prices Fall on Hopes of Easing Middle East Tensions... WTI Drops Below $100",
-  "U.S. Weighs Dropping 9.8-Ton 'Mother of All Bombs' on Iran",
   "Oil prices slide for second straight day as inflation concerns ease",
   "Day 243 | Regional tensions escalate as Saudi Arabia intercepts missiles, Iran warns US",
   "‘All Ships Will Be Hit': Iran Opens New Hormuz Front? Trump Ally In ‘BIG DANGER’ | Watch",
@@ -4522,24 +4510,28 @@
   "S&P 500, Nasdaq extend gains for second straight session ahead of Fed decision, big tech results",
   "Qatar’s Emir Tamim Meets Vladimir Putin in Moscow, Says He Relies on Russia for Hormuz Crisis: 5 outlets compared",
   "Fed Meeting Begins Amid Inflation Dilemma and Market Reactions",
-  "Oil Falls for Second Straight Day Amid Strait of Hormuz Tensions; WTI Settles at $99.90"
+  "Oil Falls for Second Straight Day Amid Strait of Hormuz Tensions; WTI Settles at $99.90",
+  "Oil Extends Losses On Optimism For Iran-Led Talks With Middle East Leaders - While The West Braces For More Hostilities — Ship & Bunker",
+  "Middle Eastern oil exports have “surpassed pre-war levels,” yet oil prices remain elevated; “the shortage in April was of crude oil, whereas in October it is transportation costs.”",
+  "Wall Street Closes Higher As Chip Stocks Surge"
  ],
  "initialized": true,
  "last_alert": 1793141800.9186668,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 190,
-  "new": 56,
+  "fetched": 176,
+  "new": 61,
   "rated": {
-   "low": 27,
-   "medium": 4,
+   "low": 8,
+   "medium": 3,
    "high": 0
   },
   "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 185 (char 3362)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3752)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 143 (char 3910)"
   ],
-  "time": "2026-10-27T23:59:29+00:00"
+  "time": "2026-10-28T00:49:51+00:00"
  }
 }
