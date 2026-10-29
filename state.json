@@ -5017,14 +5017,26 @@
   "063873483770b63c": 1793273697.565188,
   "f9b4b4035a90b12f": 1793273697.5652125,
   "85394a8a3c0fe350": 1793273697.5652156,
-  "5ef1a9dae24d0de8": 1793273697.5652199
+  "5ef1a9dae24d0de8": 1793273697.5652199,
+  "abfaf52481958725": 1793276288.6726296,
+  "0bfec930e145efe1": 1793276289.8918374,
+  "31c4a84b5142ab83": 1793276289.8918636,
+  "c24dd4b0e0e31471": 1793276289.891869,
+  "6c30a2980006221e": 1793276289.891873,
+  "d6fc92e6537cc2a4": 1793276291.5136895,
+  "b0e7b40b1973a569": 1793276292.7859507,
+  "5e5aa30a6e0361b4": 1793276292.7859728,
+  "c7ef508944f6bafe": 1793276292.7859771,
+  "1379b2362f4f07f4": 1793276292.7859802,
+  "a8fc4b346d125a58": 1793276292.7859826,
+  "1f83b7c35093baca": 1793276292.785985,
+  "336da0319259efef": 1793276294.0895994,
+  "4c13e4e34ad08643": 1793276294.0896246,
+  "477f687ff787612b": 1793276294.0896287,
+  "c7ebfa45219fe62a": 1793276294.089631,
+  "980cdb47c322cc78": 1793276294.0896335
  },
  "recent": [
-  "US GDP seen above estimates in Q3",
-  "Iran says it has shot down another US drone",
-  "Trump approves Vance’s outreach to Iran over medical supplies as peace efforts gather pace",
-  "Gold Bears Regroup as PCE Inflation Print Takes Centre Stage",
-  "US warns regional allies to brace for possible Iran strikes",
   "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
   "China forecasts record 22% plunge in 2026 vehicles sales, meager recovery in 2027",
   "Trump claims Iran wants deal, says he is waiting for midterms",
@@ -5059,27 +5071,35 @@
   "U.S. Tells Middle East Allies To Prepare For Possible Iran Strikes After November 3 Midterms: how 18 outlets framed it",
   "Nasdaq futures plunge 260 points: 5 things to know before Wall Street opens",
   "US Dollar: Strong US data may reinforce Fed hawkishness - BBH",
-  "Asian refiners’ shipping quandary continues with renewed attacks and delays"
+  "Asian refiners’ shipping quandary continues with renewed attacks and delays",
+  "Nasdaq futures slide as mixed Big Tech results test AI trade",
+  "ADNOC’s new pipeline to double capacity for bypassing Hormuz",
+  "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+  "Who Will Shape Trump's Iran Strategy? Pentagon's Top Military Planner Ousted Without Replacement",
+  "Iran targets 20 ports, 15 airports, and commerce hubs threatening oil and LNG shock"
  ],
  "initialized": true,
- "last_alert": 1793265323.4886756,
+ "last_alert": 1793276176.6738122,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 212,
-  "new": 163,
+  "fetched": 252,
+  "new": 192,
   "rated": {
-   "low": 45,
-   "medium": 12,
-   "high": 6
+   "low": 11,
+   "medium": 3,
+   "high": 3
   },
-  "posted": 9,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2703)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 142 (char 2507)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 3228)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 57 (char 3009)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3219)",
+   "Claude: ValueError: no JSON array in model reply: ",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 5253)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 145 (char 3006)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 144 (char 4710)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2797)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4047)"
   ],
-  "time": "2026-10-29T11:34:57+00:00"
+  "time": "2026-10-29T12:18:14+00:00"
  }
 }
