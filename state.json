@@ -1,46 +1,5 @@
 {
  "seen": {
-  "745fa45e25dd12c6": 1792994652.521687,
-  "2032c1867bd9a48f": 1792994652.5217118,
-  "2583baa939531dcf": 1792994652.521718,
-  "99cc157135a7ef9e": 1792994652.5217218,
-  "f64985893dd3675f": 1792994652.5217254,
-  "a01aa2cc5910e60c": 1792994652.5217335,
-  "39768340f5280751": 1792994653.7506964,
-  "3e9f56efa9dc625d": 1792994653.7507157,
-  "4486f0d5cbb38b9b": 1792994653.7507203,
-  "202c350a4a42a8ba": 1792994653.7507234,
-  "ba65ebd9606d86d5": 1792994654.9312024,
-  "0c4c6370bf9cde25": 1792994654.9312224,
-  "a988274b142ee710": 1792994654.9312274,
-  "395ec14c89ef8a8b": 1792994654.9312305,
-  "7524e6e1b7ba1aea": 1792994654.9312332,
-  "af1805cb1e24e81f": 1792994657.2933662,
-  "651376b2d3aa0bf8": 1792994658.4645298,
-  "6c452f083b3768bf": 1792994658.4645495,
-  "18fda2f092906044": 1792994658.4645548,
-  "8a9d5babf26d16a6": 1792994659.7410417,
-  "9f38054370d4f3ae": 1792994659.7410636,
-  "54793896366f3cdc": 1792994659.7410688,
-  "f4f2ed3706c6c1da": 1792994659.7410748,
-  "881f0805ddad5595": 1792994659.7410786,
-  "3a11194c6f103721": 1792994659.7410817,
-  "3efa283b7cd3132d": 1792994672.066993,
-  "a3d790d583c2d15e": 1792994672.0669966,
-  "9f49c4a1a5335965": 1792994673.257506,
-  "7c68364caa964cfb": 1792994674.4570115,
-  "fe527c66eb4e3d41": 1792994674.4570322,
-  "6a30671781603580": 1792994674.4570365,
-  "cf0ede46b3ce3b27": 1792994674.4570398,
-  "c4acdcc5ca254cd7": 1792994675.6448915,
-  "de3047538a77e550": 1792994675.6449118,
-  "636dcb64dd15e968": 1792994676.7981744,
-  "c9f982a465be802d": 1792994678.0007746,
-  "6f9620bb06a6c067": 1792994678.0007954,
-  "e049b69c853f91c6": 1792994678.0007994,
-  "4e2daf1cbc894025": 1792994678.0008025,
-  "77379379933e8b09": 1792994678.0008059,
-  "ebe698270c34dd56": 1792994678.000808,
   "47f1dcd57269474c": 1792997304.216987,
   "36df2189e9d5f8e1": 1792997305.583924,
   "f3fe345bb2474463": 1792997305.5839431,
@@ -4956,7 +4915,8 @@
   "639bc39383e7a77d": 1793252102.1977782,
   "5f33238c4ac03709": 1793252102.1977818,
   "d034bd6882e97b7b": 1793252103.4174995,
-  "9d93e1835036b3af": 1793252103.4175193
+  "9d93e1835036b3af": 1793252103.4175193,
+  "4c6c84ea3e9d94e8": 1793254757.70903
  },
  "recent": [
   "Consumer Cos Down as Long-Term Treasury Yields Rise -- Consumer Roundup",
@@ -5005,20 +4965,21 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 154,
-  "new": 110,
+  "fetched": 166,
+  "new": 126,
   "rated": {
-   "low": 5,
-   "medium": 4,
-   "high": 1
+   "low": 1,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 3,
+  "posted": 0,
   "errors": [
-   "Claude: ValueError: no JSON array in model reply: ",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3656)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 58 (char 598)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3279)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 100 (char 300)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 102 (char 3340)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 144 (char 2939)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 101 (char 2462)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 5011)"
   ],
-  "time": "2026-10-29T05:35:03+00:00"
+  "time": "2026-10-29T06:19:17+00:00"
  }
 }
