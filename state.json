@@ -1,41 +1,5 @@
 {
  "seen": {
-  "d4938eee401869a4": 1792979048.8874955,
-  "55db7be788665a70": 1792979050.1782713,
-  "2bbf9a83b0e011d7": 1792979050.1782978,
-  "eecf33f1b9b5574a": 1792979051.4844952,
-  "ecd1dd7a74fd77d9": 1792979051.4845147,
-  "aa29faf3d2f4a24b": 1792979051.4845216,
-  "cd5b85b016dbd546": 1792979052.7511353,
-  "5d70343940f86c7c": 1792979054.0320992,
-  "f4f95bbb03aea194": 1792979054.032122,
-  "a4bf9733c01ac138": 1792979055.4006472,
-  "ca048793344e447b": 1792979055.4006734,
-  "3573a8101fa94b7a": 1792979055.4006772,
-  "3818a6225bffda34": 1792979055.4006793,
-  "f06ad977aea56992": 1792979055.4006832,
-  "47a0429bd4e9a52c": 1792979055.4006858,
-  "e24c22cdd6ef41af": 1792979055.4006896,
-  "14ab71414a9efbc7": 1792979056.6984065,
-  "bec0a66f2ca84b6e": 1792979056.6984324,
-  "9a013f2080e58fd7": 1792979056.6984358,
-  "0deeaede231e28b1": 1792979056.6984391,
-  "3d04814b6a29a91c": 1792979057.919997,
-  "b66efeaaeda36298": 1792979057.9200215,
-  "f0da2d9adafb0109": 1792979057.9200263,
-  "2dde690c428b95a7": 1792979057.9200294,
-  "18e25f19f8f73cf1": 1792979059.147983,
-  "2a94f6d30b859b94": 1792981261.3548446,
-  "9dbde5a55df30f31": 1792981262.5183747,
-  "3b10b5beaffa4c74": 1792981263.7212148,
-  "fbd66e743efc139b": 1792981263.721234,
-  "c63f95396e703f5d": 1792981263.7212384,
-  "b2f7dcab54b88006": 1792981264.8943398,
-  "7257ca6c9ea62e4c": 1792981264.8943624,
-  "119cbca314a325d5": 1792981264.894367,
-  "5fb2a45c582ac8f0": 1792981266.1541474,
-  "5c9eed63273fe877": 1792981267.355884,
-  "57bfb0f33bf9ef4d": 1792981267.3559031,
   "a464da0aaa34db11": 1792983567.492094,
   "430d0bf6dcda3ea8": 1792983567.4920998,
   "725fd84ea5f3f32b": 1792983568.6774542,
@@ -4990,25 +4954,25 @@
   "Oil Prices Today: Brent Crude Near $114 As US Weighs Fresh Iran Strikes After Midterms"
  ],
  "initialized": true,
- "last_alert": 1793229740.0099545,
+ "last_alert": 1793241006.195217,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 186,
-  "new": 128,
+  "fetched": 172,
+  "new": 124,
   "rated": {
-   "low": 2,
+   "low": 0,
    "medium": 0,
-   "high": 1
+   "high": 0
   },
-  "posted": 1,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 106 (char 2324)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 98 (char 4412)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3587)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 143 (char 3983)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3849)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2980)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3579)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2259)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 144 (char 4191)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 98 (char 3547)"
   ],
-  "time": "2026-10-29T01:43:47+00:00"
+  "time": "2026-10-29T02:31:12+00:00"
  }
 }
