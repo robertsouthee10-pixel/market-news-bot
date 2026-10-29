@@ -1,19 +1,5 @@
 {
  "seen": {
-  "a464da0aaa34db11": 1792983567.492094,
-  "430d0bf6dcda3ea8": 1792983567.4920998,
-  "725fd84ea5f3f32b": 1792983568.6774542,
-  "96768b037f36803f": 1792983569.9304335,
-  "7e385e75e0922ebf": 1792983571.0777137,
-  "335fa42ce440e4b0": 1792983571.0777345,
-  "9350cb173867b4d5": 1792983571.0777433,
-  "711f50585c9ed084": 1792983572.2822986,
-  "ac9d3062380c3563": 1792983572.2823184,
-  "264ebbfec93e8e28": 1792983572.2823222,
-  "6a689189e10bed24": 1792983573.4205554,
-  "5c51ba108c97e079": 1792983574.5832021,
-  "e490fcb942277836": 1792983574.5832243,
-  "9a51a688837183b9": 1792983575.8791034,
   "995408f41626cf3d": 1792985673.3224218,
   "0d3b2005d65e444c": 1792985674.4939694,
   "a591ab79ac993ff2": 1792985674.4939904,
@@ -4909,16 +4895,24 @@
   "fcad901b704fee76": 1793234981.5650215,
   "25b792be92cfb91b": 1793238227.9233592,
   "9e207f74ab73bb68": 1793238227.9233816,
-  "dc9b92d2dc3f8b85": 1793238227.923387
+  "dc9b92d2dc3f8b85": 1793238227.923387,
+  "423d410596e58a0f": 1793244019.1750524,
+  "643cb39ad7e1b7d5": 1793244019.175084,
+  "0441d8e3c209a187": 1793244019.175089,
+  "4ac977a5202b88b9": 1793244019.1750915,
+  "2e3dc666119630e9": 1793244020.490262,
+  "2bc1ef9f07941d24": 1793244021.7135272,
+  "dad53582548c2929": 1793244021.7135518,
+  "9a9dc842baa26a80": 1793244021.713555,
+  "684c318d3b99e4c2": 1793244021.7135606,
+  "083f3e20b4d908c4": 1793244022.9795153,
+  "a25ae1b337a7ab99": 1793244024.2151718,
+  "d97f7a9048db2f2f": 1793244024.215195,
+  "311af27b8a805927": 1793244025.473278,
+  "8251429dde0c6001": 1793244026.722853,
+  "35ae3529213a9a82": 1793244026.7228804
  },
  "recent": [
-  "US stocks eye big tech earnings as Fed holds rates steady",
-  "Iranian Foreign Minister Abbas Araqchi affirms his country's continued commitment to the diplomatic path to resolve the crisis",
-  "Iran sees only ‘unacceptable ideas’ in latest mediation to end war",
-  "Stock Market Today: Dow, Nasdaq Rise After No Fed Rate Hike; Labcorp Blasts Off",
-  "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-  "Google Earnings Miss As Cloud Computing Booms, Search Growth Slows",
-  "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
   "Araghchi: Iran Ready To Defend Itself But Still Giving Diplomacy a Chance",
   "Bessent says 'not necessarily' a mistake if the Fed hikes again",
   "US VP Vance contacted top Iran security official — reports",
@@ -4951,28 +4945,35 @@
   "U.S. oil prices fall as Middle East conflict drives supply risk reassessment",
   "Oil dips as traders weigh Iran diplomacy against renewed strike risks",
   "OpenAI Plans to Buy Google’s AI Chips, Challenging Nvidia’s Dominance｜Daily News Digest｜2026-10-29｜web only",
-  "Oil Prices Today: Brent Crude Near $114 As US Weighs Fresh Iran Strikes After Midterms"
+  "Oil Prices Today: Brent Crude Near $114 As US Weighs Fresh Iran Strikes After Midterms",
+  "President Trump approved Vice President Vance’s outreach to Iran on medical supplies — NDTV World",
+  "Iran says plan to end war with US could be implemented in under a week",
+  "Trump signals possible end to Iran war as US reportedly prepares for post election strikes",
+  "Vance reportedly contacted top Iran security official in bid to restart peace talks",
+  "Oil prices rise on Yemen fighting, Saudi refinery attack",
+  "Samsung keeps shattering profit records as AI boom lifts chip demand",
+  "Hegseth fires Pentagon’s top military planner as Trump weighs new Iran strikes"
  ],
  "initialized": true,
  "last_alert": 1793241006.195217,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 172,
-  "new": 124,
+  "fetched": 175,
+  "new": 140,
   "rated": {
-   "low": 0,
-   "medium": 0,
+   "low": 8,
+   "medium": 7,
    "high": 0
   },
-  "posted": 0,
+  "posted": 7,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2980)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3579)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2259)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 144 (char 4191)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 98 (char 3547)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4440)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 100 (char 3599)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3466)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 9 column 58 (char 1772)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2681)"
   ],
-  "time": "2026-10-29T02:31:12+00:00"
+  "time": "2026-10-29T03:20:26+00:00"
  }
 }
