@@ -1,7 +1,5 @@
 {
  "seen": {
-  "4eb4079f90705e09": 1792992361.4564028,
-  "ede41519c9853e16": 1792992362.676959,
   "745fa45e25dd12c6": 1792994652.521687,
   "2032c1867bd9a48f": 1792994652.5217118,
   "2583baa939531dcf": 1792994652.521718,
@@ -4948,12 +4946,19 @@
   "8129fb665a98b36e": 1793246990.4569392,
   "73c4646ff2965a51": 1793246990.4569428,
   "75b3e140529383d0": 1793249679.5480793,
-  "fe550edf35a472b0": 1793249679.5481079
+  "fe550edf35a472b0": 1793249679.5481079,
+  "acb6a16d6894451d": 1793252099.7187934,
+  "6852951fcbc460ff": 1793252099.7187994,
+  "f98562e078401e3c": 1793252100.9074183,
+  "0a0e399f1a7e82fe": 1793252102.1977463,
+  "dbacc35cce70a6c2": 1793252102.197766,
+  "9fd9a0d79f817fb1": 1793252102.1977746,
+  "639bc39383e7a77d": 1793252102.1977782,
+  "5f33238c4ac03709": 1793252102.1977818,
+  "d034bd6882e97b7b": 1793252103.4174995,
+  "9d93e1835036b3af": 1793252103.4175193
  },
  "recent": [
-  "Meta Just Priced a Stock Sale at $625 a Share. I'd Consider Buying at the Same Price.",
-  "Why Ultra Clean Holdings Rallied Today",
-  "The Market Projects More Than One Rate Hike In The Future (SP500)",
   "Consumer Cos Down as Long-Term Treasury Yields Rise -- Consumer Roundup",
   "Lumentum Stock Soars 17% on Marvell Takeover Talk",
   "Defense Dept. says cost of Iran War is increasing",
@@ -4990,27 +4995,30 @@
   "Iran discusses plan with mediators to end war, reopen Hormuz: Araghchi",
   "Araghchi: Iran still open to diplomacy",
   "Asian Stocks Decline as Appetite for Risky Assets Ebbs",
-  "Erdogan discusses with Trump de-escalation efforts in the Strait of Hormuz, Yemen, and mediation between Russia and Ukraine"
+  "Erdogan discusses with Trump de-escalation efforts in the Strait of Hormuz, Yemen, and mediation between Russia and Ukraine",
+  "Iran peace proposals multiply ahead of US midterms: Can diplomacy avert a fresh war?",
+  "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
+  "Report: Qatar Offers Iran Deal to End War with U.S."
  ],
  "initialized": true,
- "last_alert": 1793241006.195217,
+ "last_alert": 1793252035.2659924,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 156,
-  "new": 102,
+  "fetched": 154,
+  "new": 110,
   "rated": {
-   "low": 1,
-   "medium": 1,
-   "high": 0
+   "low": 5,
+   "medium": 4,
+   "high": 1
   },
-  "posted": 1,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 56 (char 1856)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3606)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 5181)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 59 (char 4580)"
+   "Claude: ValueError: no JSON array in model reply: ",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3656)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 58 (char 598)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3279)"
   ],
-  "time": "2026-10-29T04:54:39+00:00"
+  "time": "2026-10-29T05:35:03+00:00"
  }
 }
