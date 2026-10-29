@@ -1,36 +1,5 @@
 {
  "seen": {
-  "15d42d4c760296cf": 1792976336.3695655,
-  "8e6aa6b47a182b74": 1792976337.6991813,
-  "c45b862d0aa4d2bd": 1792976337.6992028,
-  "ea6a55a49850d8b3": 1792976337.6992068,
-  "c2343bf02697dfbf": 1792976338.9334402,
-  "4571099ed49bd8b6": 1792976338.9334626,
-  "d99cf2b9b3bb2131": 1792976338.9334674,
-  "bb662cf44eda370b": 1792976338.933471,
-  "9bb3e1cbd5ba6486": 1792976340.1977308,
-  "937f52595e4a5473": 1792976341.3378475,
-  "bb4e67a8b73c4e19": 1792976342.533341,
-  "f03464effbe480f5": 1792976342.5333629,
-  "8418cae890a4b292": 1792976343.6999893,
-  "8940cff55f74a00d": 1792976343.7000103,
-  "6e1a9a1edb5fb723": 1792976344.9271379,
-  "6a7ef3655dd17ff0": 1792976344.927158,
-  "ac54c5ffe81b25f1": 1792976344.9271622,
-  "a15641d46203cffa": 1792976346.1985204,
-  "d0ebd540149ce4f5": 1792976346.1985393,
-  "8647c5bad3ac1e45": 1792976346.198545,
-  "63c795134cb9d36c": 1792976346.1985486,
-  "13b7046b2d989acd": 1792976346.198551,
-  "deeefed02179bc02": 1792976346.1985564,
-  "e5e160a69f294db7": 1792976346.1985586,
-  "1039a96179acb2f5": 1792976347.4029002,
-  "e7d98e9c534d2190": 1792976370.0113845,
-  "1cb29f6453341867": 1792976370.011388,
-  "7c72eb0bb6d3944c": 1792976370.01139,
-  "7df24b51ff782c68": 1792976370.0113916,
-  "eab2c9d372e6a55e": 1792976370.0113935,
-  "fe07fb1e2c39ab83": 1792976371.1639721,
   "d4938eee401869a4": 1792979048.8874955,
   "55db7be788665a70": 1792979050.1782713,
   "2bbf9a83b0e011d7": 1792979050.1782978,
@@ -4973,10 +4942,12 @@
   "d4e139ce4a8f4093": 1793234978.8501968,
   "aa8c90810b458297": 1793234980.1028893,
   "cbb219b23d63dfd7": 1793234981.5650015,
-  "fcad901b704fee76": 1793234981.5650215
+  "fcad901b704fee76": 1793234981.5650215,
+  "25b792be92cfb91b": 1793238227.9233592,
+  "9e207f74ab73bb68": 1793238227.9233816,
+  "dc9b92d2dc3f8b85": 1793238227.923387
  },
  "recent": [
-  "Fed's policy committee to weigh balance sheet issues early next year, Warsh says",
   "US stocks eye big tech earnings as Fed holds rates steady",
   "Iranian Foreign Minister Abbas Araqchi affirms his country's continued commitment to the diplomatic path to resolve the crisis",
   "Iran sees only ‘unacceptable ideas’ in latest mediation to end war",
@@ -5015,26 +4986,29 @@
   "Oil's War Premium Could Vanish Fast Once a Hormuz Deal Lands, Analysts Warn",
   "U.S. oil prices fall as Middle East conflict drives supply risk reassessment",
   "Oil dips as traders weigh Iran diplomacy against renewed strike risks",
-  "OpenAI Plans to Buy Google’s AI Chips, Challenging Nvidia’s Dominance｜Daily News Digest｜2026-10-29｜web only"
+  "OpenAI Plans to Buy Google’s AI Chips, Challenging Nvidia’s Dominance｜Daily News Digest｜2026-10-29｜web only",
+  "Oil Prices Today: Brent Crude Near $114 As US Weighs Fresh Iran Strikes After Midterms"
  ],
  "initialized": true,
  "last_alert": 1793229740.0099545,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 182,
-  "new": 141,
+  "fetched": 186,
+  "new": 128,
   "rated": {
-   "low": 32,
-   "medium": 26,
-   "high": 8
+   "low": 2,
+   "medium": 0,
+   "high": 1
   },
-  "posted": 13,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3837)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 99 (char 3752)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3758)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 106 (char 2324)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 98 (char 4412)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3587)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 143 (char 3983)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3849)"
   ],
-  "time": "2026-10-29T00:49:41+00:00"
+  "time": "2026-10-29T01:43:47+00:00"
  }
 }
