@@ -4946,10 +4946,11 @@
   "2a0c59edfdde98d0": 1793246990.4569287,
   "bef150d13cd6df5f": 1793246990.4569347,
   "8129fb665a98b36e": 1793246990.4569392,
-  "73c4646ff2965a51": 1793246990.4569428
+  "73c4646ff2965a51": 1793246990.4569428,
+  "75b3e140529383d0": 1793249679.5480793,
+  "fe550edf35a472b0": 1793249679.5481079
  },
  "recent": [
-  "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow And Fortinet Dive On Earnings",
   "Meta Just Priced a Stock Sale at $625 a Share. I'd Consider Buying at the Same Price.",
   "Why Ultra Clean Holdings Rallied Today",
   "The Market Projects More Than One Rate Hike In The Future (SP500)",
@@ -4988,26 +4989,28 @@
   "Economist ‘puzzled’ as Trump’s Fed chair holds ‘monetary medicine’ until after midterms",
   "Iran discusses plan with mediators to end war, reopen Hormuz: Araghchi",
   "Araghchi: Iran still open to diplomacy",
-  "Asian Stocks Decline as Appetite for Risky Assets Ebbs"
+  "Asian Stocks Decline as Appetite for Risky Assets Ebbs",
+  "Erdogan discusses with Trump de-escalation efforts in the Strait of Hormuz, Yemen, and mediation between Russia and Ukraine"
  ],
  "initialized": true,
  "last_alert": 1793241006.195217,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 161,
-  "new": 116,
+  "fetched": 156,
+  "new": 102,
   "rated": {
-   "low": 27,
-   "medium": 10,
-   "high": 4
+   "low": 1,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 7,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3795)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 142 (char 3000)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 100 (char 3692)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 56 (char 1856)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3606)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 5181)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 59 (char 4580)"
   ],
-  "time": "2026-10-29T04:09:50+00:00"
+  "time": "2026-10-29T04:54:39+00:00"
  }
 }
