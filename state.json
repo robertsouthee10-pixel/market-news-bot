@@ -1,21 +1,5 @@
 {
  "seen": {
-  "f88163a1f119e9b9": 1793067536.2855124,
-  "8f6f92c1a81be36c": 1793067536.2855213,
-  "0a66fa7aa0a1ad27": 1793067536.285525,
-  "f22abdf466c54002": 1793067536.2855284,
-  "5a9c7872ed326fdf": 1793067537.4810333,
-  "13ba75968dd67e23": 1793067537.4810517,
-  "5abf76ff3dfde57b": 1793067541.3706975,
-  "e21640ec44e66724": 1793067541.3707178,
-  "186b65800bac061f": 1793067542.5533304,
-  "b3c45a34689b3225": 1793067542.55335,
-  "11f8ec614dcb8e52": 1793067543.7907708,
-  "f4879805d12e427b": 1793067543.7907887,
-  "a3931c130790282e": 1793067543.790793,
-  "1506030c345e966d": 1793067543.7907965,
-  "612a0d6948653291": 1793067543.7907994,
-  "07827996dc458683": 1793069858.8049428,
   "c8e0234f53a2e5f0": 1793071851.0576224,
   "33264594a281dc17": 1793071851.0576272,
   "dca38c1bd1d17a4f": 1793071851.05763,
@@ -5196,19 +5180,20 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 153,
-  "new": 91,
+  "fetched": 156,
+  "new": 97,
   "rated": {
-   "low": 7,
-   "medium": 6,
-   "high": 3
+   "low": 0,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 5,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3973)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 141 (char 1783)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 100 (char 2682)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 58 (char 1689)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3466)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3390)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 59 (char 3155)"
   ],
-  "time": "2026-10-30T02:17:28+00:00"
+  "time": "2026-10-30T03:07:53+00:00"
  }
 }
