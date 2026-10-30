@@ -1,14 +1,5 @@
 {
  "seen": {
-  "c8e0234f53a2e5f0": 1793071851.0576224,
-  "33264594a281dc17": 1793071851.0576272,
-  "dca38c1bd1d17a4f": 1793071851.05763,
-  "f82b1dfed230e60d": 1793071852.4205103,
-  "3119086a267d881f": 1793071853.8208773,
-  "7bba78e9e26a5756": 1793071853.820899,
-  "616836c3fde4876c": 1793071853.8209085,
-  "5433f9de074e48a2": 1793071853.8209114,
-  "7ca091c99fea76da": 1793071853.8209147,
   "ad0fbc4a41f2a705": 1793074223.157175,
   "9f22f57e18d92e58": 1793074223.15718,
   "102877c815323a24": 1793074224.3745608,
@@ -5131,13 +5122,23 @@
   "bb9c49e34839101a": 1793326648.516847,
   "813d2fd3610350f1": 1793326648.5168757,
   "0644665940634d89": 1793326648.5168843,
-  "2906e36eb0298822": 1793326648.5168872
+  "2906e36eb0298822": 1793326648.5168872,
+  "bdf65f72471dbd1f": 1793332362.6741936,
+  "5676c085fbc6e991": 1793332362.6742182,
+  "d448f49082d107b7": 1793332363.9591386,
+  "c80728717a497bd0": 1793332363.9591582,
+  "ca440aae6e28d48d": 1793332363.9591644,
+  "e7af86cff95d0a67": 1793332363.959168,
+  "1c6bdcd0d0ff48b9": 1793332363.9591715,
+  "5fb7c5f023842c5e": 1793332363.9591742,
+  "ecaabbfc3829a62d": 1793332365.2603078,
+  "ddc8d3db963b698b": 1793332365.2603252,
+  "ef2a67823675ffd3": 1793332365.2603352,
+  "a7caa14b8b16e3df": 1793332365.2603385,
+  "014ab303b30a05a7": 1793332366.5586133,
+  "c819b4289448b0a9": 1793332366.5586345
  },
  "recent": [
-  "Progress in dialogue with U.S. depends on reaching agreement on Iran’s seven conditions – Ghalibaf",
-  "US Moves Patriot Missile Defense System From Texas to Israel Ahead of Possible Iran Strike",
-  "Explosions Heard Near the Strait of Hormuz",
-  "Saudi Arabia asks Trump to give diplomacy a chance on Iran",
   "Mexican Peso drops as US growth, hot inflation rekindles Fed hike bets",
   "Inflation heats up again, data shows, days before midterm elections where cost of living dominates",
   "Iran’s IRGC intercepts ‘hostile’ fighter jet in Strait of Hormuz: Report",
@@ -5173,27 +5174,30 @@
   "Asia Stocks Under Pressure, Haven Bid Boosts Bonds: Markets Wrap",
   "Wounded at home, will Netanyahu, Trump bomb Iran again?",
   "Iran pushes 7-day peace plan",
-  "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar"
+  "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar",
+  "Rupee to benefit from dollar retreat, plunging US yields; oil surge tempers impact",
+  "Jakarta Stocks Fall at Open as Fed Policy Shift Fuels Market Uncertainty",
+  "Trump links oil price relief to Iran outcome",
+  "AI Spending Shock and Binance Hack Pressure Nasdaq, Nikkei and Bitcoin — Bigger Correction Ahead?"
  ],
  "initialized": true,
  "last_alert": 1793323527.248432,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 156,
-  "new": 97,
+  "fetched": 132,
+  "new": 89,
   "rated": {
-   "low": 0,
-   "medium": 0,
-   "high": 0
+   "low": 6,
+   "medium": 6,
+   "high": 2
   },
-  "posted": 0,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 58 (char 1689)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3466)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3390)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 59 (char 3155)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 56 (char 57)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 56 (char 1392)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 101 (char 1991)"
   ],
-  "time": "2026-10-30T03:07:53+00:00"
+  "time": "2026-10-30T03:52:46+00:00"
  }
 }
