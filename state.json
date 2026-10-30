@@ -4367,14 +4367,40 @@
   "2dc8b8e613b6dcda": 1793399411.6433241,
   "92e3697334f050b7": 1793399415.0454745,
   "f3c7b4c9236f2394": 1793399415.045479,
-  "7c93f8c29148949b": 1793399416.390041
+  "7c93f8c29148949b": 1793399416.390041,
+  "11be7f38876cb4ff": 1793401721.412561,
+  "03f6402a5a8e0c27": 1793401721.412566,
+  "9f90ecb31d1c1652": 1793401722.6481266,
+  "6c8a2f86bfe2e84e": 1793401722.6481485,
+  "f03654f50a149afd": 1793401723.7987845,
+  "10cd9122f40c7da6": 1793401723.7988055,
+  "0543ddcc7062b2ed": 1793401723.798815,
+  "8fb718a8ff1fce31": 1793401723.798818,
+  "c8471408b4ae8f6b": 1793401723.7988212,
+  "c2ba5ae0be5f7ac9": 1793401723.7988238,
+  "0b4eefe3c03c4a92": 1793401723.7988262,
+  "889339bb116a464a": 1793401725.234918,
+  "c128918ad092ff40": 1793401725.2349417,
+  "91951792f0778bbd": 1793401725.2349453,
+  "de5582b78805bb9e": 1793401725.2349484,
+  "9db0f278160fa1b1": 1793401725.2349515,
+  "299f532988725bba": 1793401725.2349553,
+  "d94e3353d4336368": 1793401725.2349584,
+  "01acdf2e2d34236d": 1793401725.2349608,
+  "b556d3fbcdb33a6b": 1793401725.2349627,
+  "c4ed6ba3814bbf72": 1793401725.234965,
+  "22d008adc34aa6fd": 1793401725.2349668,
+  "dbcb8ce8f07ebb50": 1793401726.3890965,
+  "f07b21acaa92ce5f": 1793401726.3891172,
+  "9305a59467509a5c": 1793401726.3891215,
+  "39e313077418cda7": 1793401732.1554468,
+  "106b879cb78c3b21": 1793401732.1554508,
+  "feea93ec35d4dce3": 1793401733.5338001,
+  "e245c17bc223c5e9": 1793401733.5338256,
+  "ad7d2a7195b3974e": 1793401733.5338292,
+  "d403ecd094bb095d": 1793401733.5338326
  },
  "recent": [
-  "Oil Poised for Fourth Monthly Gain Amid Hormuz Supply Risks",
-  "Trump Signals Iran War Nearing End As Rubio Meets Divided G20 Envoys",
-  "Fed needs at least two more rate hikes, Logan says",
-  "KLA Sees AI Demand Driving Growth as Semiconductor Shares Weaken",
-  "Qatari diplomats return to Tehran for talks as Iran considers Vance letter",
   "Stock Market: Google, Amazon, Intel, ServiceNow Trigger Tech Wreck, But Other Sectors Solid: Weekly Review",
   "Trump Says Iran War Will End Soon While Qatar Carries New Terms to Tehran",
   "Hormuz tanker traffic holds up as war risks drive shipping costs higher",
@@ -4409,28 +4435,31 @@
   "Trump says Iran war goal met as gas prices rise",
   "Tech Stocks Plunge as Wall Street Enters ‘Show Me’ Phase",
   "KLA (NASDAQ:KLAC) Issues Quarterly Earnings Results",
-  "Global FX Market Summary: Fed Rate Hikes, Precious Metals Slump, And Global Central Bank Shifts Define Markets - 30 October 2026"
+  "Global FX Market Summary: Fed Rate Hikes, Precious Metals Slump, And Global Central Bank Shifts Define Markets - 30 October 2026",
+  "Trump to Resume Strikes On Iran Day After Midterms",
+  "US close: Stocks drop, Nasdaq hits three-month low amid tech sell-off",
+  "Oil flows from the Gulf region are recovering, so why are oil prices still rising?",
+  "Qatari efforts to secure US-Iran deal said to continue",
+  "Saudi Arabia says drone intercepted near Islam's holiest city, and other Mideast news"
  ],
  "initialized": true,
  "last_alert": 1793394964.4363983,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 200,
-  "new": 153,
+  "fetched": 153,
+  "new": 106,
   "rated": {
-   "low": 20,
-   "medium": 7,
-   "high": 1
+   "low": 24,
+   "medium": 5,
+   "high": 2
   },
   "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 57 (char 2115)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 101 (char 3349)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 144 (char 2794)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 141 (char 4979)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 102 (char 103)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 6 column 56 (char 804)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2240)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3931)"
   ],
-  "time": "2026-10-30T22:30:16+00:00"
+  "time": "2026-10-30T23:08:53+00:00"
  }
 }
