@@ -1,23 +1,5 @@
 {
  "seen": {
-  "7e7faf31ff7d0c96": 1793080561.6901584,
-  "930254dbaa3f1c74": 1793080561.6901655,
-  "33402bc49c8914c6": 1793080562.8556685,
-  "e44f5ac62e25d169": 1793080562.855689,
-  "eb06e001f9361ebd": 1793080562.8556933,
-  "c8eaff0b572420f7": 1793080562.8556964,
-  "cf5c8236244bffb6": 1793080562.8556998,
-  "2bcc54cd3c408750": 1793080562.8557026,
-  "d6bb7db1dd77774d": 1793080562.8557062,
-  "d0781445bd0b5831": 1793080562.855714,
-  "215a1d807fcf680d": 1793080562.8557174,
-  "b05b11add7c5d24a": 1793080562.8557208,
-  "fc1c818173e9a3c2": 1793080562.8557234,
-  "e5a9503a51fe939a": 1793080562.8557262,
-  "1a75f88e369b9b6e": 1793080562.8557289,
-  "3798012780b11e14": 1793080562.8557317,
-  "b8caf314b600ad03": 1793080564.0314798,
-  "7e0d610163103c0c": 1793080564.0315049,
   "acf8e86dcbc4817f": 1793082696.570646,
   "e9e6822391728c9b": 1793082696.570675,
   "d309cccc642a4a5b": 1793082696.5706844,
@@ -5100,13 +5082,33 @@
   "50437d89b6ee3247": 1793337638.8897805,
   "bbe398f568962d76": 1793337638.8897831,
   "ec4157e9cd5f818a": 1793337638.889785,
-  "bb9260d449c9a08d": 1793337638.889788
+  "bb9260d449c9a08d": 1793337638.889788,
+  "bb7436c046686697": 1793340328.738767,
+  "f5655320738b9468": 1793340329.9788973,
+  "829a573d8ce930d3": 1793340331.1976898,
+  "30877aaa56e4c88a": 1793340332.4545286,
+  "32a5810a20ac5e33": 1793340332.4545507,
+  "d840b353283cb012": 1793340332.454556,
+  "5e337bc20a19201f": 1793340332.4545596,
+  "88fc7f0a75df2c96": 1793340332.4545627,
+  "0de2819dfdac8568": 1793340332.4545653,
+  "d9a4c8373f5644c6": 1793340332.4545684,
+  "ce5a3f7fa3a5360a": 1793340332.454572,
+  "7a8283e32603cd91": 1793340332.4545755,
+  "5b2869d69b36159d": 1793340333.6827118,
+  "9bb042d3c1afc173": 1793340333.6827335,
+  "55ff19032633d096": 1793340333.682738,
+  "c26cf891973d8642": 1793340333.6827478,
+  "b554f0691e4a8935": 1793340333.6827517,
+  "3b63be10ceabfdaf": 1793340333.6827545,
+  "607fb2b82e95b502": 1793340333.68276,
+  "da1e9f5eb34efe63": 1793340333.6827633,
+  "14e163d3d3255eb7": 1793340333.6827674,
+  "86ce1e0e9c3b069a": 1793340333.6827705,
+  "b92f60619ab8800e": 1793340333.6827738,
+  "7502c0d8207b94e3": 1793340333.682776
  },
  "recent": [
-  "Explosions In Riyadh, Tankers Ablaze in Hormuz: Middle East Tensions Surge",
-  "Bank of Japan Meeting Concludes; Market Eyes Ueda Press Conference as Eurozone GDP Also Due",
-  "Ethereum Price Forecast: ETH dips as US PCE inflation reinforces December rate hike",
-  "Iran MP Seeks Supreme Leader's OK for Atomic Bomb",
   "Silver price today, October 30, 2026: Declining after Fed decision.",
   "US deploys 10 military cargo planes to Israel amid preparations for possible strike on Iran: Report",
   "Gold falls to near $4,000 as US PCE data reinforces December Fed hike odds",
@@ -5142,26 +5144,31 @@
   "Crude oil futures rise on reports of potential US military action against Iran",
   "Iran Says Four Tankers Struck Mines in Strait of Hormuz on Route U.S. Calls Mine-Free",
   "US Warns Gulf Allies to Brace for Iran Strikes and Retaliation After Midterm Elections",
-  "Oil prices rise, Brent reaches US$116.08 pb"
+  "Oil prices rise, Brent reaches US$116.08 pb",
+  "Iran To Go Nuclear In Hours? Khamenei's Final Nod; Tehran Retaliates Against Trump Threat | DETAILS",
+  "Warning sign for imminent Iran War strikes as top military admiral briefs Trump on attack options... as president's deadline approaches",
+  "Putin Warns of 'Hormuz in the North': What Is Happening in the Baltic Sea?",
+  "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war"
  ],
  "initialized": true,
  "last_alert": 1793334774.2378626,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 153,
-  "new": 113,
+  "fetched": 174,
+  "new": 124,
   "rated": {
-   "low": 30,
-   "medium": 5,
-   "high": 3
+   "low": 19,
+   "medium": 3,
+   "high": 2
   },
   "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2925)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3215)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 56 (char 1899)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 144 (char 5200)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4366)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 142 (char 3888)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 142 (char 2839)"
   ],
-  "time": "2026-10-30T05:20:38+00:00"
+  "time": "2026-10-30T06:05:33+00:00"
  }
 }
