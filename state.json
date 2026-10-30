@@ -1,26 +1,5 @@
 {
  "seen": {
-  "ad0fbc4a41f2a705": 1793074223.157175,
-  "9f22f57e18d92e58": 1793074223.15718,
-  "102877c815323a24": 1793074224.3745608,
-  "ebd4b17e31ce4a19": 1793074224.3746266,
-  "fa5517b46bf81a87": 1793074224.3746338,
-  "6c44458c9bbcca03": 1793074225.5330007,
-  "b4698c1c3a299c66": 1793074225.5330217,
-  "19f47e99cb4d8875": 1793074225.5330281,
-  "6b39a6eb0a4a7e6e": 1793074225.5330322,
-  "c5d212e5e971ca9f": 1793074225.533036,
-  "87eacd35a7f19941": 1793074225.5330386,
-  "48045862589d6cce": 1793074225.5330422,
-  "c586ac0cbcc41983": 1793074225.5330474,
-  "f8439c2a3a4b49e4": 1793074225.53305,
-  "f3674d2ca08b997f": 1793074225.5330534,
-  "f150c36b0aa3dadb": 1793074225.5330558,
-  "ff7ff783b39a392d": 1793074225.5330586,
-  "907b27cccd96463e": 1793074225.5330617,
-  "c0ee1933d4c2655c": 1793074226.7055016,
-  "aced92499eebabe6": 1793074227.8511844,
-  "f568861f0522589b": 1793074227.8512063,
   "e93e7aef0ef41fc8": 1793076169.876767,
   "f580a13c176008a6": 1793076169.8767984,
   "b89658fa510b75a8": 1793076169.8768058,
@@ -5136,16 +5115,21 @@
   "ef2a67823675ffd3": 1793332365.2603352,
   "a7caa14b8b16e3df": 1793332365.2603385,
   "014ab303b30a05a7": 1793332366.5586133,
-  "c819b4289448b0a9": 1793332366.5586345
+  "c819b4289448b0a9": 1793332366.5586345,
+  "583e4dce0c2d80bc": 1793334787.1823938,
+  "a2b77d23dce8ad2c": 1793334788.5567484,
+  "b4ce17383d6ee1aa": 1793334789.8744528,
+  "8502086721e2d700": 1793334791.1180444,
+  "7171dd799b4f1969": 1793334791.1180646,
+  "0d9151e4a4919b77": 1793334791.118073,
+  "c4d527651e42fca1": 1793334792.4241402,
+  "9de9d77d0ca96b02": 1793334792.4241626,
+  "685505cdb6504a30": 1793334793.6882203,
+  "197a103dc0602b03": 1793334795.272732,
+  "859a9a8ae5ecddeb": 1793334796.509534,
+  "f6b6274718333c58": 1793334796.5095532
  },
  "recent": [
-  "Mexican Peso drops as US growth, hot inflation rekindles Fed hike bets",
-  "Inflation heats up again, data shows, days before midterm elections where cost of living dominates",
-  "Iran’s IRGC intercepts ‘hostile’ fighter jet in Strait of Hormuz: Report",
-  "TSX closes lower as gold selloff hits miners, AI concerns weigh on tech",
-  "Trump knew a year ago Nvidia’s billionaire CEO had a close relationship with a Chinese spy and did nothing, report says",
-  "Oil Climbs on Signs US May Resume Military Strikes Against Iran",
-  "3 oil tankers struck mines in the Strait of Hormuz, Iran says",
   "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
   "U.S. warns allies of possible Iran military action",
   "Oil wavers on conflicting reports of US military moves in Iran",
@@ -5178,26 +5162,36 @@
   "Rupee to benefit from dollar retreat, plunging US yields; oil surge tempers impact",
   "Jakarta Stocks Fall at Open as Fed Policy Shift Fuels Market Uncertainty",
   "Trump links oil price relief to Iran outcome",
-  "AI Spending Shock and Binance Hack Pressure Nasdaq, Nikkei and Bitcoin — Bigger Correction Ahead?"
+  "AI Spending Shock and Binance Hack Pressure Nasdaq, Nikkei and Bitcoin — Bigger Correction Ahead?",
+  "SNDK Tumbles Amid Tech Selloff Despite Upbeat Q1 Report; Retail Turns Bullish",
+  "How AI Factory Expansion Will Impact NVIDIA (NVDA) Investors",
+  "Alphabet (GOOGL) Stock Price Sinks As Q3 Results Deepen AI Cash Flow Doubts",
+  "Microsoft (MSFT) Stock Shrugs Off Q1 Earnings As AI Spending Looms",
+  "Amazon's $578 Billion AWS Backlog Is Growing Faster Than Its Revenue",
+  "Dow, S&P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus",
+  "Asia stocks tumble as AI spending concerns deepen; BOJ holds rates"
  ],
  "initialized": true,
- "last_alert": 1793323527.248432,
+ "last_alert": 1793334774.2378626,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 132,
-  "new": 89,
+  "feeds_ok": 14,
+  "feeds_failed": [
+   "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+OR+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=CPI+OR+%22jobs+report%22+OR+payro -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=%22oil+prices%22+OR+OPEC+OR+Iran+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=Nasdaq+OR+%22AI+chips%22+OR+%22ch -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  ],
+  "fetched": 66,
+  "new": 37,
   "rated": {
-   "low": 6,
-   "medium": 6,
+   "low": 3,
+   "medium": 7,
    "high": 2
   },
-  "posted": 4,
+  "posted": 7,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 56 (char 57)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 56 (char 1392)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 101 (char 1991)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3387)"
   ],
-  "time": "2026-10-30T03:52:46+00:00"
+  "time": "2026-10-30T04:33:16+00:00"
  }
 }
