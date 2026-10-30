@@ -1,26 +1,5 @@
 {
  "seen": {
-  "fd09687772eb9c64": 1793065506.4527795,
-  "9fffeef7815a3cc4": 1793065506.4528055,
-  "51b713d03acbca06": 1793065506.45281,
-  "784ca5a4be4f8528": 1793065508.3536723,
-  "9c57e61712b5d42b": 1793065508.3536937,
-  "2c8501a089ed6faf": 1793065508.3536994,
-  "a577a27f943872aa": 1793065509.5572126,
-  "e6328954ffd687df": 1793065509.5572374,
-  "41e96c959a0f48b6": 1793065509.5572414,
-  "c90cfba0f0629e5b": 1793065510.8126693,
-  "9ce590e92244f6a8": 1793065512.1052933,
-  "b3b03c5e5a366593": 1793065513.2816026,
-  "bcd932ccd97e7ac4": 1793065513.2816224,
-  "6f2d3339139a58b5": 1793065513.281627,
-  "a76089c28c661f8f": 1793065513.2816305,
-  "85e46c9a10298cde": 1793065513.2816336,
-  "c0bb463f90d7839d": 1793065513.2816358,
-  "4a2a47fbd10f60e7": 1793065514.4383726,
-  "7355b74aea9d06cb": 1793065514.4383926,
-  "89f47cb894de521e": 1793065514.4383972,
-  "41690989cd78df00": 1793065515.6750085,
   "f88163a1f119e9b9": 1793067536.2855124,
   "8f6f92c1a81be36c": 1793067536.2855213,
   "0a66fa7aa0a1ad27": 1793067536.285525,
@@ -5152,14 +5131,25 @@
   "6ec83cbe4f8f041d": 1793323609.3528774,
   "aa169a3822f04c1c": 1793323609.3528824,
   "5be79a557aef1c4e": 1793323609.3528872,
-  "63d2d2ac7c280965": 1793323609.3528957
+  "63d2d2ac7c280965": 1793323609.3528957,
+  "dcc2e8924a669763": 1793326641.815921,
+  "1ea0a013bf9d69ac": 1793326641.815927,
+  "04989bb9319d07d4": 1793326641.8159344,
+  "7611a2b232df0a85": 1793326643.120235,
+  "52a6425104caea84": 1793326644.7636373,
+  "645777c5df6bf00f": 1793326644.7636642,
+  "d9064d33ccbad3fb": 1793326644.763668,
+  "493f9018d820ecec": 1793326644.7636743,
+  "38b060b3896fe9ee": 1793326645.9926898,
+  "857bba62251497ac": 1793326645.9927163,
+  "4fa5b53b2e925c3d": 1793326647.215549,
+  "a3b44c7a97e7a8e2": 1793326647.2155726,
+  "bb9c49e34839101a": 1793326648.516847,
+  "813d2fd3610350f1": 1793326648.5168757,
+  "0644665940634d89": 1793326648.5168843,
+  "2906e36eb0298822": 1793326648.5168872
  },
  "recent": [
-  "SK hynix (NASDAQ:SKHY) Shares Down 1.6% After Earnings Miss",
-  "Dow Drops 133, Nasdaq Tumbles 365, A&P 500 Falls 24",
-  "Striking claim from CNN: US forces ready to attack Iran within 96 hours on Trump's orders",
-  "New Tanker Explosion Reported in the Strait of Hormuz",
-  "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
   "Progress in dialogue with U.S. depends on reaching agreement on Iran’s seven conditions – Ghalibaf",
   "US Moves Patriot Missile Defense System From Texas to Israel Ahead of Possible Iran Strike",
   "Explosions Heard Near the Strait of Hormuz",
@@ -5194,27 +5184,31 @@
   "Amazon.com Q3 Earnings Call Highlights",
   "Amazon’s stock drops — even in the face of a bold new cloud forecast",
   "Says Vance’s outreach to Iran is related to medical supplies",
-  "Microsoft's Windows sales fell 22% as PC prices climb"
+  "Microsoft's Windows sales fell 22% as PC prices climb",
+  "AMD Stock Faces $500 Support After Close as Big Tech Earnings Shake Semiconductor Rally",
+  "Asia Stocks Under Pressure, Haven Bid Boosts Bonds: Markets Wrap",
+  "Wounded at home, will Netanyahu, Trump bomb Iran again?",
+  "Iran pushes 7-day peace plan",
+  "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar"
  ],
  "initialized": true,
  "last_alert": 1793323527.248432,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 191,
-  "new": 134,
+  "fetched": 153,
+  "new": 91,
   "rated": {
-   "low": 22,
-   "medium": 10,
-   "high": 2
+   "low": 7,
+   "medium": 6,
+   "high": 3
   },
-  "posted": 7,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4129)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 142 (char 3186)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2950)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 60 (char 3573)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3973)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 141 (char 1783)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 100 (char 2682)"
   ],
-  "time": "2026-10-30T01:26:49+00:00"
+  "time": "2026-10-30T02:17:28+00:00"
  }
 }
