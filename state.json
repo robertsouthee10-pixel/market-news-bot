@@ -1,33 +1,5 @@
 {
  "seen": {
-  "4170cf0bacabeef3": 1793227908.9585128,
-  "e2730866be130cc1": 1793227908.9585204,
-  "b770a4417fe7d5cc": 1793227908.958524,
-  "19a9f8860e3641c8": 1793227908.958526,
-  "57607a0686984988": 1793227908.958528,
-  "29d115774fbdc934": 1793227908.9585295,
-  "6ff667245b59a961": 1793227908.9585314,
-  "8e6e4946c7d807c0": 1793227908.9585335,
-  "f11dc84fa9db28b8": 1793227908.958536,
-  "c94518998a305921": 1793227908.9585378,
-  "2388fa6a6a14c5ea": 1793227908.9585395,
-  "64d94eea1a0d704b": 1793227908.958541,
-  "694ee486938dbece": 1793227908.9585428,
-  "6d063fbd899db752": 1793227908.9585447,
-  "55ba2a3c02f23f48": 1793227908.958547,
-  "c64766aa69b6d091": 1793227908.9585485,
-  "8ba75db8bd4cdda1": 1793227908.9585497,
-  "da1863d0149d65b5": 1793227908.9585514,
-  "d666cacfd0d1edc2": 1793227908.9585526,
-  "8e34d85d72d90f17": 1793227908.958554,
-  "6404dc9c5e71dca5": 1793227910.2876852,
-  "a617a78af66e3fec": 1793227911.908765,
-  "29829a8817d17221": 1793227911.908787,
-  "67b81074f5f6a25b": 1793227911.9087906,
-  "2996a57bc4ca3f68": 1793227913.1663563,
-  "d67809f14bfe4196": 1793227951.7682495,
-  "9962a04a689477a4": 1793227953.0007565,
-  "3e8df309be0ad418": 1793227954.3481908,
   "7d514ed57462b2ce": 1793229820.3965678,
   "37f024f8cee3fe7f": 1793229820.3965728,
   "36b7fb4b14960991": 1793229820.3965757,
@@ -3762,14 +3734,28 @@
   "487a1c03c85692db": 1793485662.5639107,
   "82524ce2830c10cf": 1793485662.5639138,
   "db13e8e5b4747859": 1793485662.5639193,
-  "06f2b32862db56b0": 1793485662.563923
+  "06f2b32862db56b0": 1793485662.563923,
+  "0c60a61792b6a8e0": 1793487755.3129003,
+  "f2831b99a7a1dc9f": 1793487756.544867,
+  "9143ee021631b018": 1793487756.5448794,
+  "7db9a623e9f11991": 1793487757.7368479,
+  "de2595f05814b4ad": 1793487757.7368555,
+  "d308acbba2602e1c": 1793487757.7368584,
+  "3507778745b4ed78": 1793487757.7368612,
+  "d9e2d22bd2ed2be0": 1793487757.7368631,
+  "1f92beb30ed6e519": 1793487757.7368646,
+  "c3914105170150bf": 1793487757.7368662,
+  "bdd9f0f2e9fdc834": 1793487759.0629127,
+  "06e6d286e7781ab7": 1793487760.2854288,
+  "e1857fb0c27e5d8a": 1793487760.2854369,
+  "8e3501a34c10344e": 1793487760.2854395,
+  "fed1131c9aa5b8b1": 1793487760.2854424,
+  "ed5482f5731efb13": 1793487760.285444,
+  "70089e045216fa83": 1793487760.2854457,
+  "162665ed56b0e97a": 1793487760.2854474,
+  "b6ff4f7ae9605c45": 1793487760.2854495
  },
  "recent": [
-  "Rubio: Trump hasn't decided on new Iran strikes",
-  "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta",
-  "Another Tanker Catches Fire After Striking Naval Mines in Eastern Strait of Hormuz",
-  "The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks",
-  "Amazon (AMZN) Stock Slips As Q3 Earnings Reflect Profit Reset",
   "Amazon Is Borrowing Against Its Own Data Center Gear to Fund More Data Centers",
   "Anthropic IPO: 1,300% Growth, $16.3 Billion in Revenue, and an $80.7 Billion Loss. Here Are the Numbers to Watch.",
   "IRAN WAR WEEK 36, day # 1 : Ship attacks in Strait of Hormuz hit record high in October",
@@ -3804,24 +3790,29 @@
   "144 Commercial Ships Redirected in Enforcement of US Sanctions on Iran",
   "Marco Rubio Highlights Uncertain Future of U.S. Military Action on Iran",
   "US Secretary of State: Trump Has Yet to Decide on Resuming Attacks on Iran",
-  "Israel expects US to delay strike on Iran until elections — Jerusalem Post"
+  "Israel expects US to delay strike on Iran until elections — Jerusalem Post",
+  "AI stocks waver despite Fed rate freeze as market braces for US midterm elections : Finance : JKN",
+  "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+  "‘Hormuz, Bab al-Mandeb must stay open’: Rubio closes G20 foreign ministers’ meet",
+  "Iran has made no new official decision to change nuclear doctrine: Official",
+  "OPEC+ agrees in principle to keep oil output targets steady in December, sources say"
  ],
  "initialized": true,
  "last_alert": 1793479698.837363,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 96,
-  "new": 41,
+  "fetched": 94,
+  "new": 44,
   "rated": {
-   "low": 11,
-   "medium": 5,
-   "high": 0
+   "low": 12,
+   "medium": 6,
+   "high": 1
   },
   "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 141 (char 2153)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4982)"
   ],
-  "time": "2026-10-31T22:27:42+00:00"
+  "time": "2026-10-31T23:02:40+00:00"
  }
 }
