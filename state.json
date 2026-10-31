@@ -3967,10 +3967,21 @@
   "17e6611e68d6b9b4": 1793466604.5372381,
   "2bddc4ea547b1ef6": 1793466604.5372999,
   "ddfb533b67a4597e": 1793466604.537307,
-  "6fb4781c7457b269": 1793466605.8865516
+  "6fb4781c7457b269": 1793466605.8865516,
+  "74881a81e1695c2f": 1793468473.3852608,
+  "036570cb02d82649": 1793468473.3852687,
+  "b9d6049bad1e33c6": 1793468473.385272,
+  "305738e903d3547f": 1793468473.3852746,
+  "359437dde3c256f1": 1793468473.3852775,
+  "c9c2009d19bb951b": 1793468474.5988863,
+  "840b7d2047744fd1": 1793468474.598906,
+  "6ad578439beb0468": 1793468474.5989113,
+  "e5b671a82e8d051d": 1793468474.5989146,
+  "7811177876919fb7": 1793468474.5989175,
+  "6d93a8ee1fe1914a": 1793468474.5989208,
+  "b813f6a9a60d7ae3": 1793468474.5989244
  },
  "recent": [
-  "Iran continues planned restoration of South Pars Gas Company plants",
   "Iran's Khamenei warns US against attacks, orders military buildup | Daily Sabah",
   "UAV attack on fishermen in the Strait of Hormuz",
   "AI Overspending Fears Hammer Magnificent Seven, But Tesla (NASDAQ: TSLA) Defies The Selloff",
@@ -4009,26 +4020,29 @@
   "Araghchi calls US bid to open dialogue a ‘positive step’",
   "Fars News Agency: Shipping routes for Qatar, Bahrain, Saudi Arabia, and UAE are now among new target zones in Strait of Hormuz",
   "Rubio: Trump hasn't decided on new Iran strikes",
-  "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta"
+  "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta",
+  "Another Tanker Catches Fire After Striking Naval Mines in Eastern Strait of Hormuz"
  ],
  "initialized": true,
- "last_alert": 1793456043.247694,
+ "last_alert": 1793468433.573779,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 157,
-  "new": 84,
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
+  ],
+  "fetched": 154,
+  "new": 87,
   "rated": {
-   "low": 6,
-   "medium": 2,
+   "low": 8,
+   "medium": 3,
    "high": 1
   },
-  "posted": 3,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 140 (char 3536)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 4770)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4191)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4973)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3904)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 5114)"
   ],
-  "time": "2026-10-31T17:10:05+00:00"
+  "time": "2026-10-31T17:41:14+00:00"
  }
 }
