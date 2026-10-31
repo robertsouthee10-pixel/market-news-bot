@@ -3871,7 +3871,10 @@
   "e0eabb25f0184c79": 1793470459.7184532,
   "3f6c108d1302f282": 1793470459.7184563,
   "a580227d8c8ce53f": 1793470459.7184594,
-  "94b57249053d5593": 1793470459.7184618
+  "94b57249053d5593": 1793470459.7184618,
+  "a7a0919c90b7734e": 1793473297.5855503,
+  "f46ced58e18b0c21": 1793473297.585561,
+  "34962d1c0941b00f": 1793473297.5855646
  },
  "recent": [
   "Iran vows earth-shattering reprisals if U.S. renews attacks",
@@ -3920,19 +3923,19 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 153,
-  "new": 97,
+  "fetched": 131,
+  "new": 78,
   "rated": {
-   "low": 18,
-   "medium": 5,
-   "high": 2
+   "low": 2,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 4,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 100 (char 2503)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 56 (char 2297)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 4517)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 60 (char 4384)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 143 (char 4249)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 100 (char 3771)"
   ],
-  "time": "2026-10-31T18:15:08+00:00"
+  "time": "2026-10-31T19:01:37+00:00"
  }
 }
