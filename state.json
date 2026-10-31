@@ -1,40 +1,5 @@
 {
  "seen": {
-  "0cf598967c655582": 1793222985.3781576,
-  "c6c282b184138da4": 1793222985.3781643,
-  "ed0aa9facdb0c928": 1793222985.3781683,
-  "30e5ee4f1ca96629": 1793222986.619982,
-  "fd8ecbea46edd14e": 1793222987.836057,
-  "f27047030e4372ca": 1793222987.8360803,
-  "9c30ffc1d26cea9a": 1793222989.067735,
-  "c49bbe706ac00714": 1793222989.0677576,
-  "2a08c813741b325b": 1793222989.0677636,
-  "964012eb2b4c0148": 1793222989.0678008,
-  "003e730343284c35": 1793222989.0678043,
-  "6a703eca1f709546": 1793222989.0678082,
-  "c905e8c632c14813": 1793222989.0678115,
-  "eebd921ebf828891": 1793222989.067815,
-  "b79917bb71474a95": 1793222990.3413644,
-  "5b9e6892f521251c": 1793222991.5988457,
-  "e645ccedbb5b7fd3": 1793222991.5988662,
-  "e26f055b803b6c94": 1793222991.5988703,
-  "9721718560d5c923": 1793222991.5988731,
-  "9bf45c3aa6c51cbf": 1793222991.5988758,
-  "3c228bbad9a21850": 1793222991.5988784,
-  "e7beb9a14bf4d7dd": 1793222991.598882,
-  "ec4140880c04f7a2": 1793222991.5988846,
-  "7170914262a53304": 1793222991.5988877,
-  "00dc5ffb53d4a725": 1793222991.5988908,
-  "a64486f203ffdf59": 1793223001.9471672,
-  "74721b6a3b82d0fd": 1793223003.3239775,
-  "6c6ae3a8c02bb679": 1793223003.323997,
-  "d946a4f1334d30b7": 1793223003.324002,
-  "8e32a2bcc95f0f20": 1793223003.324015,
-  "a914ab2ed5665ccd": 1793223003.3240187,
-  "d1d582186cbe4b60": 1793223003.3240252,
-  "89ddef7ea8807fa0": 1793223003.3240283,
-  "b657ef65411d7b47": 1793223003.3240309,
-  "e46b9a71bffd782b": 1793223003.3240335,
   "ae91385f0cf14190": 1793225473.1328409,
   "5d7c18090cadd8a9": 1793225473.1328475,
   "8453af5526153731": 1793225473.132851,
@@ -3864,15 +3829,26 @@
   "92db4d35f7c2aad0": 1793481622.3301883,
   "b8ccc43f8491a527": 1793481622.3301923,
   "ea13d29ad8b2791c": 1793481622.3301954,
-  "a0666b4e9cac3f3c": 1793481623.667445
+  "a0666b4e9cac3f3c": 1793481623.667445,
+  "7b8df6f9142c31fc": 1793483744.3001444,
+  "b062d5db9d6c2af2": 1793483745.5715375,
+  "69dfc8edb1d9270b": 1793483746.9047694,
+  "55f717f3eff472d6": 1793483748.2663,
+  "3bfb7acc16668024": 1793483748.2663212,
+  "277780ef8be99f1b": 1793483749.523609,
+  "33252454ad5c5a1e": 1793483749.5236318,
+  "297e34ae35b11271": 1793483749.523637,
+  "d27181975e462648": 1793483750.7067761,
+  "b5af1e9fb5a4b710": 1793483750.706797,
+  "7152b3cef99de13c": 1793483750.7068005,
+  "17cf96141195f873": 1793483750.7068052,
+  "1fe7003bcfa3541e": 1793483751.863231,
+  "eda5c9196d53cd8e": 1793483751.8632529,
+  "66c872fd6ced40d5": 1793483751.8632586,
+  "9b918c7a9ef4b8e9": 1793483751.863262,
+  "eb2f03212e7a6496": 1793483751.8632667
  },
  "recent": [
-  "Iranian Foreign Minister: No Plans to Meet US Officials for Now",
-  "Iran-US deal: Draft proposes uranium transfer, Hormuz reopening in 7 days, China to play major role; what we know so far - News24 World",
-  "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-  "Putin, Xi Make Direct Entry Into Iran War Amid Fresh Bombings Hegseth Faces New Warning",
-  "Iran strike on Muwaffaq Salti base kills 3 US troops",
-  "Iran’s response will have no geographical limits: top general",
   "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
   "Mystery Hormuz Attack: Iran Says Fishermen Hit By ‘Enemy Drone’ As US Hellfire Claim Emerges",
   "Mohebbi: U.S. Must Provide Independent Evidence for Claims Regarding Mine Clearance in Strait of Hormuz",
@@ -3906,24 +3882,32 @@
   "$1 trillion wipe out of stock market as tech stocks plunge",
   "Iran, Qatar hold fresh talks as threat of US strikes looms after midterms",
   "The Israeli press wrote that preparations for an attack on Iran are complete, and Trump's decision is awaited.",
-  "International Business: US polls, earnings and jobs data loom for AI-wary stock market"
+  "International Business: US polls, earnings and jobs data loom for AI-wary stock market",
+  "The 5 most interesting analyst questions from Alphabet’s Q3 earnings call",
+  "Iran warns US, Israel against new attacks after Trump, Netanyahu threats",
+  "Iran threatens wider U.S. strikes even as talks make progress",
+  "US keeps Iran talks open, gives no deadline",
+  "Rezaei Welcomes US Tone Shift but Leaves Vance Letter Unanswered",
+  "Iran both praised and warned the US after receiving a letter."
  ],
  "initialized": true,
  "last_alert": 1793479698.837363,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 98,
-  "new": 44,
-  "rated": {
-   "low": 11,
-   "medium": 6,
-   "high": 2
-  },
-  "posted": 4,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 143 (char 4691)"
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
   ],
-  "time": "2026-10-31T21:20:23+00:00"
+  "fetched": 99,
+  "new": 42,
+  "rated": {
+   "low": 10,
+   "medium": 7,
+   "high": 0
+  },
+  "posted": 6,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 56 (char 2004)"
+  ],
+  "time": "2026-10-31T21:55:51+00:00"
  }
 }
