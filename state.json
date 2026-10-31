@@ -1,36 +1,5 @@
 {
  "seen": {
-  "e7620227aaa9ffa6": 1793145544.4490814,
-  "b2972e157f7d62ef": 1793145544.4490874,
-  "fa90e68086e51523": 1793145544.4490917,
-  "6819120496d64def": 1793145544.449094,
-  "b6d221aa99683755": 1793145544.449097,
-  "e668e8624cefe117": 1793145544.4490998,
-  "c994d4525c442b07": 1793145544.4491026,
-  "a035bbd0675b84af": 1793145544.4491048,
-  "b81386756e78fd5c": 1793145544.4491067,
-  "35e25a5227a263c1": 1793145544.4491096,
-  "efdad00880965234": 1793145544.4491112,
-  "ac59d8dee311ff74": 1793145544.4491134,
-  "c098f2b8e3591a11": 1793145544.4491153,
-  "58cb28750be844ff": 1793145544.4491172,
-  "df92a647428f8439": 1793145544.4491196,
-  "4da6ca3923889229": 1793145544.4491217,
-  "10d9cb059b9f9163": 1793145545.7782037,
-  "c2ad45d3e9a0b0fe": 1793145545.778223,
-  "50b4c0c3b14a2aeb": 1793145546.9937553,
-  "9a470da00c78de64": 1793145546.9937768,
-  "2f07c2580e6155a9": 1793145548.2852354,
-  "1ff4bc0f24eb4337": 1793145548.2852552,
-  "e2af0270be11a069": 1793145548.2852597,
-  "0976c66f0983c032": 1793145548.2852647,
-  "863b4e79c6dc34a7": 1793145548.2852678,
-  "9e6cc17b027939db": 1793145569.774161,
-  "3766b44144f3ad1e": 1793145569.7741652,
-  "30f080e3f1c5a7fe": 1793145569.774168,
-  "9c7e691717de893a": 1793145569.774171,
-  "62964a8e4e4a8fb0": 1793145569.7741735,
-  "e342908dcedf663e": 1793145569.7741773,
   "28450c0daedfbf94": 1793148588.3512592,
   "ec3c06027f344081": 1793148588.3512654,
   "8802adb65947cf06": 1793148588.3512685,
@@ -4444,23 +4413,24 @@
   "\"Black Friday\" Selloff Sweeps Risk Assets; Nasdaq Posts Worst Single-Day Performance Since June; Apple (AAPL.US) Overtakes NVIDIA (NVDA.US) to Reclaim Top Global Market Cap Spot"
  ],
  "initialized": true,
- "last_alert": 1793394964.4363983,
+ "last_alert": 1793405842.7558632,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 163,
-  "new": 121,
+  "fetched": 173,
+  "new": 97,
   "rated": {
-   "low": 40,
-   "medium": 5,
-   "high": 1
+   "low": 0,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 4,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3670)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 101 (char 4023)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2857)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 62 (char 2798)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4969)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 56 (char 237)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 142 (char 3181)"
   ],
-  "time": "2026-10-30T23:43:29+00:00"
+  "time": "2026-10-31T00:18:13+00:00"
  }
 }
