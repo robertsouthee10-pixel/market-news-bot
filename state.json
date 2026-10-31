@@ -3872,11 +3872,17 @@
   "374b3c287e20c180": 1793477566.641404,
   "11ff266cbe9c777f": 1793477566.641407,
   "60691f5698167f7c": 1793477566.64141,
-  "8574c655a0360b24": 1793477566.6414132
+  "8574c655a0360b24": 1793477566.6414132,
+  "5651d5e0504ecd2e": 1793479704.8795502,
+  "efd7c5548ea93db3": 1793479706.2468758,
+  "a52d8ee9e3d14bef": 1793479706.246901,
+  "bb9f5145b1f2c2bd": 1793479706.2469075,
+  "dada2b3bc9c35270": 1793479706.2469125,
+  "8504ce9b3c8dbeaa": 1793479706.2469149,
+  "d9c80a03e321ed6b": 1793479706.246919,
+  "34576f70d5de4fc4": 1793479707.4533708
  },
  "recent": [
-  "Broadcom Sinks 5.5% as Its $43 Billion Anthropic Backstop Meets an Intel-Led Chip Rout",
-  "AMD Just Dropped 11% in a Day as Intel’s PC Warning Rattles Chips. Is It Time to Sell, or Load Up?",
   "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
   "Microsoft Offers Voluntary Exits to 60,000 Workers. After 37 Years, He Risks Losing a 401(k) Tax Break With One IRA Rollover",
   "Reddit stock plunges 29.2% as Google AI cuts US traffic",
@@ -3914,24 +3920,26 @@
   "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
   "Silver's 6.3% Slide Puts the Deficit Story to the Test as Rate Fears and Coin Demand Crumble",
   "Rezaei says no nuclear talks or reopening of Hormuz until US accepts Iran’s demands",
-  "Iran claims victory as US shifts tone, weighs changing nuclear doctrine"
+  "Iran claims victory as US shifts tone, weighs changing nuclear doctrine",
+  "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
+  "Middle East on edge as fears mount the Iran war could restart after the midterms"
  ],
  "initialized": true,
- "last_alert": 1793468433.573779,
+ "last_alert": 1793479698.837363,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 127,
-  "new": 73,
+  "fetched": 98,
+  "new": 33,
   "rated": {
-   "low": 32,
-   "medium": 13,
-   "high": 3
+   "low": 4,
+   "medium": 2,
+   "high": 2
   },
-  "posted": 10,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4441)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 3373)"
   ],
-  "time": "2026-10-31T20:12:46+00:00"
+  "time": "2026-10-31T20:48:27+00:00"
  }
 }
