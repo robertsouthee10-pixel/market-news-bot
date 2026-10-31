@@ -4234,10 +4234,11 @@
   "5bb3466699e0327b": 1793453586.9601493,
   "cd510becea3e7a24": 1793453586.9601681,
   "972de264bd713f44": 1793453607.1208968,
-  "5e1e059563948cc3": 1793453607.1209013
+  "5e1e059563948cc3": 1793453607.1209013,
+  "0ae809dd0d712f00": 1793456093.219437,
+  "8f2a1c0546679815": 1793456094.4212043
  },
  "recent": [
-  "Iran receives Vance letter, signals no shift in peace deal terms",
   "Angered by Merz comments, Iran vows harsh response to new attacks",
   "Tensions flare again in Hormuz as Iran says four tankers on fire",
   "Indian crew safe after oil tanker attacked with limpet mines in Strait of Hormuz",
@@ -4276,26 +4277,28 @@
   "Gulf states scramble to avert another U.S.-Israeli war on Iran they cannot stop",
   "'Only we will decide when it ends': Khamenei threatens US and Israel as Iran talks advance",
   "Iranian delegation arrives in Doha as Qatar mediates US-Iran diplomatic efforts",
-  "Trump gets rare military briefing on Iran as US prepares for strikes"
+  "Trump gets rare military briefing on Iran as US prepares for strikes",
+  "CENTCOM Commander Visits Strait of Hormuz during Milestone Week"
  ],
  "initialized": true,
- "last_alert": 1793444046.861964,
+ "last_alert": 1793456043.247694,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 159,
-  "new": 127,
+  "fetched": 154,
+  "new": 102,
   "rated": {
-   "low": 39,
-   "medium": 10,
-   "high": 3
+   "low": 1,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 7,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 139 (char 3553)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 183 (char 4657)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 144 (char 4281)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 142 (char 4239)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4854)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 59 (char 2775)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 144 (char 5244)"
   ],
-  "time": "2026-10-31T13:33:27+00:00"
+  "time": "2026-10-31T14:14:54+00:00"
  }
 }
