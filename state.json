@@ -1,20 +1,5 @@
 {
  "seen": {
-  "4bf6da6c0aaddc98": 1793157310.200077,
-  "9708187bb8b20cbb": 1793157310.200087,
-  "6fc197bdda35dfe3": 1793157311.5434551,
-  "9d55d601979488cb": 1793157311.543475,
-  "fc34eac844d90612": 1793157311.5434816,
-  "2d6d70cc9b258f94": 1793157311.5434852,
-  "ae14f1addcf9824f": 1793157313.5216184,
-  "0b72f4bd8eb5c154": 1793157313.5216389,
-  "2d1168fdc0afee5c": 1793157313.5216427,
-  "d6e1a8d520751fd3": 1793157313.5216453,
-  "93f63e18293608f2": 1793157313.5216517,
-  "8c20cc873e232f8b": 1793157313.5216544,
-  "14281520ba026c0a": 1793157313.5216577,
-  "0a13d221fed5cd57": 1793157314.7974446,
-  "5c7f669106d61e76": 1793157314.7974675,
   "48837d0a2ff09abc": 1793160113.3264873,
   "0f403b637f0f89d3": 1793160113.326498,
   "fb61e378ad6f68fd": 1793160114.5967603,
@@ -4386,23 +4371,23 @@
   "Trump says Venezuela oil gains offset Iran war costs as pentagon puts direct bill at $47 billion"
  ],
  "initialized": true,
- "last_alert": 1793405842.7558632,
+ "last_alert": 1793418396.1093695,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 115,
-  "new": 89,
+  "fetched": 100,
+  "new": 73,
   "rated": {
-   "low": 11,
-   "medium": 3,
+   "low": 0,
+   "medium": 0,
    "high": 0
   },
-  "posted": 2,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 60 (char 3398)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3757)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 99 (char 2461)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4615)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3962)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 4091)"
   ],
-  "time": "2026-10-31T03:05:32+00:00"
+  "time": "2026-10-31T03:47:07+00:00"
  }
 }
