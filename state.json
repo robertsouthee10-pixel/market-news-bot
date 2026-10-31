@@ -1,23 +1,5 @@
 {
  "seen": {
-  "7d514ed57462b2ce": 1793229820.3965678,
-  "37f024f8cee3fe7f": 1793229820.3965728,
-  "36b7fb4b14960991": 1793229820.3965757,
-  "3f4b7f5ca2dc51c0": 1793229820.3965776,
-  "75f880151f2fc1a3": 1793229820.396579,
-  "c817bdeab514e9e2": 1793229820.3965812,
-  "151e55460b142e54": 1793229820.3965826,
-  "c5f7d55f3a2e3b2a": 1793229820.396585,
-  "8184193c07c58cd6": 1793229820.3965862,
-  "3053fba8999bcff5": 1793229820.3965878,
-  "296430fd7343e44b": 1793229820.39659,
-  "f80a3013b93618f9": 1793229820.3965943,
-  "017baa37fa9eefeb": 1793229820.396597,
-  "cddcc958f2416573": 1793229821.6469295,
-  "3dd62e3a5a16caf9": 1793229821.6469376,
-  "d20c88e6d7a1a760": 1793229821.6469414,
-  "c16673f2a51674fd": 1793229821.6469436,
-  "162e455db9b87b0b": 1793229821.6469452,
   "beaf9ac8f3655ddf": 1793234919.502895,
   "97980b05add68adc": 1793234919.5029013,
   "c0e715b394d90bb0": 1793234919.5029051,
@@ -3753,12 +3735,18 @@
   "ed5482f5731efb13": 1793487760.285444,
   "70089e045216fa83": 1793487760.2854457,
   "162665ed56b0e97a": 1793487760.2854474,
-  "b6ff4f7ae9605c45": 1793487760.2854495
+  "b6ff4f7ae9605c45": 1793487760.2854495,
+  "bb4fe3a920f3fe7f": 1793489808.0496705,
+  "869765e9c08ae147": 1793489808.0496757,
+  "88d6b1f33364d732": 1793489809.356853,
+  "10d9e0b80b0e6c45": 1793489809.356873,
+  "ff182d9a0f065227": 1793489809.3568773,
+  "6e58d4a42dc8d42d": 1793489810.584512,
+  "17e880b16c3a6c22": 1793489811.8195844,
+  "d7ba24b995b0ca88": 1793489811.8196077,
+  "fab48b8e159e243d": 1793489811.8196125
  },
  "recent": [
-  "Amazon Is Borrowing Against Its Own Data Center Gear to Fund More Data Centers",
-  "Anthropic IPO: 1,300% Growth, $16.3 Billion in Revenue, and an $80.7 Billion Loss. Here Are the Numbers to Watch.",
-  "IRAN WAR WEEK 36, day # 1 : Ship attacks in Strait of Hormuz hit record high in October",
   "Iran hardliner demands atomic bomb as Khamenei threatens ‘unrestricted’ retaliation against US",
   "Trump calls on US central bank head to quit immediately",
   "Iran signals diplomatic opening to US but keeps Hormuz and nuclear demands",
@@ -3795,24 +3783,27 @@
   "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
   "‘Hormuz, Bab al-Mandeb must stay open’: Rubio closes G20 foreign ministers’ meet",
   "Iran has made no new official decision to change nuclear doctrine: Official",
-  "OPEC+ agrees in principle to keep oil output targets steady in December, sources say"
+  "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+  "Iran’s Supreme Leader prepares commanders for massive attack after midterms",
+  "Exclusive | Inside the U.S. Military’s Open-Ended Mission to Keep Gulf Oil Flowing",
+  "Report: Trump, Netanyahu Speak As US Weighs Renewed Iran Strikes"
  ],
  "initialized": true,
  "last_alert": 1793479698.837363,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 94,
-  "new": 44,
+  "fetched": 77,
+  "new": 34,
   "rated": {
-   "low": 12,
-   "medium": 6,
+   "low": 5,
+   "medium": 3,
    "high": 1
   },
-  "posted": 5,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4982)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 140 (char 2511)"
   ],
-  "time": "2026-10-31T23:02:40+00:00"
+  "time": "2026-10-31T23:36:51+00:00"
  }
 }
