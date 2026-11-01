@@ -1,36 +1,5 @@
 {
  "seen": {
-  "13e036f1ef094f5e": 1793258847.6957037,
-  "aafe0a9401042dbf": 1793258847.6957095,
-  "ca89f1c0366075ed": 1793258847.6957135,
-  "47c0fe76334a4a3a": 1793258848.9615831,
-  "9601f7b17698701d": 1793258848.9616022,
-  "bb21b45b57a883a2": 1793258848.9616067,
-  "57a003b4bb60b555": 1793258850.290172,
-  "ccf350538098219c": 1793258850.2901924,
-  "575919f190222e44": 1793258850.2901967,
-  "aadc99d5883e1054": 1793258850.2902002,
-  "f76681be0e30e472": 1793258850.2902048,
-  "603a32879dbec817": 1793258850.2902074,
-  "5e0a4c25f73dc57f": 1793258850.290213,
-  "f1d26dca222c079d": 1793258850.290216,
-  "0f689cd4a4b35473": 1793258850.2902582,
-  "d40407b7b051ae35": 1793258851.4848433,
-  "4ab06ef544722e39": 1793258851.4848635,
-  "5a4e0b09f4a4d561": 1793258851.4848685,
-  "254176a3f4972d8b": 1793258851.484872,
-  "ef78c619137ccba6": 1793258852.6467183,
-  "a36c4c9db5ac6163": 1793258853.8699346,
-  "e3b4c800565f1908": 1793258853.8699543,
-  "4992ae36ac2e62cd": 1793258853.8699596,
-  "ee27221594368314": 1793258853.869963,
-  "b0331dd2d32d88a1": 1793258853.8699682,
-  "8366b2a802b6b9cb": 1793258906.522436,
-  "a36aee6fc25cd860": 1793258906.5224404,
-  "d2f6fa7d665444e7": 1793258906.5224447,
-  "fa2c093c163b5df5": 1793258906.522448,
-  "3c1734efc8b3b533": 1793258906.5224507,
-  "a527c1d03b1a6d58": 1793258906.5224528,
   "f631c604a1d05fab": 1793262086.7301612,
   "6100286f96aae5fd": 1793262086.730166,
   "543f316a0bc9e613": 1793262087.994334,
@@ -3793,12 +3762,22 @@
   "d6725cc62777b803": 1793517858.310728,
   "03e3303ef0a77958": 1793517858.3107512,
   "39bc56f140f25fe2": 1793517858.3107572,
-  "4b7956cfd48e18f8": 1793517858.3107667
+  "4b7956cfd48e18f8": 1793517858.3107667,
+  "c15d11c04974f27a": 1793520949.8829987,
+  "e6b7317554ccdfea": 1793520949.8830042,
+  "91860af6138cee35": 1793520949.8830068,
+  "8f31d35c5ea72e2e": 1793520949.8830085,
+  "66f13d52fbc9409b": 1793520949.8830116,
+  "f5337118f465003c": 1793520949.8830147,
+  "c2c80a4013e11719": 1793520951.2455833,
+  "acb6f7892a996c3d": 1793520952.480684,
+  "1335e5da951581cb": 1793520952.480708,
+  "c6d56337ff7cb6ef": 1793520954.1470134,
+  "7a13f6cecc5bb289": 1793520954.147035,
+  "dade24eb6f6001be": 1793520954.1470392,
+  "8dbd8b69f56b3239": 1793520954.1470423
  },
  "recent": [
-  "Wong warns new US strikes on Iran would worsen global instability, protests",
-  "Iran Humiliates Pentagon: 274 US Base Structures Smashed, $15 Billion Damage Bombshell | Details",
-  "South Korea's October Exports Surge 93.7%, First-Ever $1 Trillion Annual Total All But Certain in November",
   "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
   "Diplomacy in overdrive as Iran-US war fears mount",
   "Global oil prices surge high in six-month",
@@ -3835,26 +3814,29 @@
   "Iran to respond to threats with a harsher reply than before",
   "Pakistan Army 'cautiously optimistic' on Iran-US mediation",
   "Iran's Araghchi offers to reopen Strait of Hormuz in 2 days if US meets its demands",
-  "US's VP JD Vance and Trump are are at loggerheads on Iran war"
+  "US's VP JD Vance and Trump are are at loggerheads on Iran war",
+  "Brent Crude Eyes $120 Breakout as Strait of Hormuz Shipping Threats Escalate",
+  "Qatari LNG tanker attacked in Gulf amid Iran-US conflict, state media reports",
+  "Big Tech's AI Cash Crunch Drives Semiconductor Stock Plunge"
  ],
  "initialized": true,
  "last_alert": 1793517817.280287,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 93,
-  "new": 83,
+  "fetched": 102,
+  "new": 88,
   "rated": {
-   "low": 5,
-   "medium": 1,
-   "high": 2
+   "low": 10,
+   "medium": 0,
+   "high": 3
   },
-  "posted": 2,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 144 (char 4554)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 140 (char 4723)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 188 (char 3790)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 143 (char 2573)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 140 (char 3618)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 100 (char 4270)"
   ],
-  "time": "2026-11-01T07:24:18+00:00"
+  "time": "2026-11-01T08:15:54+00:00"
  }
 }
