@@ -1,22 +1,5 @@
 {
  "seen": {
-  "8b6f15dde6d47da4": 1793290577.1734593,
-  "3c9e502e2e8c4345": 1793290577.1734643,
-  "fd41be2b2ca4beb4": 1793290577.1734698,
-  "29a2ee93e3e7bbb7": 1793290577.173472,
-  "884f9b85529d59cd": 1793290577.173474,
-  "d02e8e2580ea5964": 1793290577.1734755,
-  "d5a7d7fd7319e3fc": 1793290577.1734776,
-  "6c70e4ff76a125c2": 1793290578.5216455,
-  "b33f4f97bb6f313f": 1793290579.780513,
-  "d56c8cdbd6a2fce6": 1793290579.7805364,
-  "00dacf430f1853b9": 1793290579.7805405,
-  "a585af21f73ae64e": 1793290579.780544,
-  "69952b213c030b42": 1793290579.780547,
-  "9e93b1e4daf01b94": 1793290579.7805493,
-  "438916af1efe64c1": 1793290581.082662,
-  "c2d2466b94b302a0": 1793290581.082686,
-  "e7aa69a4d9fa3f38": 1793290581.0826893,
   "8978a04cd9ede871": 1793293833.4699464,
   "05a2dc9ae7aada5f": 1793293833.469954,
   "3a1038149be45280": 1793293833.4699576,
@@ -3741,10 +3724,17 @@
   "6ae21511c66106ff": 1793549728.1114054,
   "2f83cba0c755dca1": 1793549728.1114078,
   "c9b90a367e317bc5": 1793549728.1114101,
-  "e1e1327bf20ea17d": 1793549729.377859
+  "e1e1327bf20ea17d": 1793549729.377859,
+  "e6f470534501d0e9": 1793552023.116472,
+  "220e92e5b672d375": 1793552023.1164782,
+  "517002b3701908b3": 1793552023.1164808,
+  "bed584e2096ec137": 1793552024.3559215,
+  "027425f915a46bb2": 1793552024.3559477,
+  "604dd87760017d4a": 1793552024.3559582,
+  "503741127fb6c783": 1793552024.3559616,
+  "5e2d05973e821f50": 1793552024.355965
  },
  "recent": [
-  "Nebius after Microsoft spend cut: $255.14 bull, $73.42 bear",
   "Saudi military official calls for collective action to protect maritime waterways",
   "Hawkish US Fed, higher bond yields could test emerging market resilience: Fitch",
   "Iran designates UK’s Royal Navy and RAF as terrorist organizations, MI6 as hostile group",
@@ -3783,25 +3773,28 @@
   "Oil Likely to Cross $120 Again: Here’s Why",
   "Alphabet stock faces midterm and jobs-report week",
   "US warns Iran can't hold global economy hostage, says",
-  "AI Stocks Lost $5 Trillion as Other: What to Know"
+  "AI Stocks Lost $5 Trillion as Other: What to Know",
+  "Everything changed for the oil, AI and bond trades over the past month"
  ],
  "initialized": true,
  "last_alert": 1793543102.7692974,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 131,
-  "new": 89,
-  "rated": {
-   "low": 26,
-   "medium": 12,
-   "high": 1
-  },
-  "posted": 8,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4876)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4201)"
+  "feeds_ok": 14,
+  "feeds_failed": [
+   "https://news.google.com/rss/search?q=%22Federal+Reserve%22+OR+FOMC+OR+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=CPI+OR+%22jobs+report%22+OR+payro -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=%22oil+prices%22+OR+OPEC+OR+Iran+ -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc",
+   "https://news.google.com/rss/search?q=Nasdaq+OR+%22AI+chips%22+OR+%22ch -> 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
   ],
-  "time": "2026-11-01T16:15:29+00:00"
+  "fetched": 54,
+  "new": 8,
+  "rated": {
+   "low": 7,
+   "medium": 1,
+   "high": 0
+  },
+  "posted": 1,
+  "errors": [],
+  "time": "2026-11-01T16:53:44+00:00"
  }
 }
