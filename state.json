@@ -3743,14 +3743,21 @@
   "42f64ec065bb4801": 1793499322.777543,
   "e451e3dcbbd81f25": 1793499322.7775462,
   "9c765e1535590b98": 1793499322.777554,
-  "d2cfb29570994ba5": 1793499322.7775571
+  "d2cfb29570994ba5": 1793499322.7775571,
+  "055716dca64f8f16": 1793502293.0918772,
+  "14d3d11ce1c3c198": 1793502293.091889,
+  "92807cee017e2684": 1793502293.0918932,
+  "be9a0246a70d6107": 1793502294.7129493,
+  "fb1a4a204c8f7fff": 1793502294.7129748,
+  "464c783ec5ccce88": 1793502296.1617913,
+  "b4312c5607a0d2d1": 1793502297.412587,
+  "05d3fad374c36bcf": 1793502298.6461046,
+  "bd3ea644398def47": 1793502299.9221637,
+  "597ff708253ac9d3": 1793502299.9221835,
+  "5a36431560f616fb": 1793502299.9221869,
+  "b47ea17f78705751": 1793502299.9221897
  },
  "recent": [
-  "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
-  "Middle East on edge as fears mount the Iran war could restart after the midterms",
-  "$1 trillion wipe out of stock market as tech stocks plunge",
-  "Iran, Qatar hold fresh talks as threat of US strikes looms after midterms",
-  "The Israeli press wrote that preparations for an attack on Iran are complete, and Trump's decision is awaited.",
   "International Business: US polls, earnings and jobs data loom for AI-wary stock market",
   "The 5 most interesting analyst questions from Alphabet’s Q3 earnings call",
   "Iran warns US, Israel against new attacks after Trump, Netanyahu threats",
@@ -3785,25 +3792,30 @@
   "Global oil prices surge high in six-month",
   "Bitcoin Slides 4.7%, Ethereum Sheds 5.9% As Crypto Market Hit By Fed Caution, Binance Security Scare",
   "KOSPI Posts Seventh-Largest Monthly Drop as Volatility Surges",
-  "Gold and Silver Plunge as Fed Rate-Hike Bets, Inflation Fears Weigh on Metals"
+  "Gold and Silver Plunge as Fed Rate-Hike Bets, Inflation Fears Weigh on Metals",
+  "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+  "South Korea exports surge 76.1% in October on AI semiconductors",
+  "Iran, Qatar hold fresh talks in Doha amid fears of US strikes on Tehran after midterm elections",
+  "Trump flags Iran targets as talks continue",
+  "Alphabet's Chip Business Draws a Reported OpenAI Suitor as Free Cash Flow Turns Negative"
  ],
  "initialized": true,
  "last_alert": 1793491759.2737992,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 88,
-  "new": 70,
+  "fetched": 82,
+  "new": 62,
   "rated": {
-   "low": 12,
-   "medium": 8,
+   "low": 5,
+   "medium": 7,
    "high": 0
   },
-  "posted": 4,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 140 (char 3692)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 98 (char 3069)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 142 (char 3521)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3458)"
   ],
-  "time": "2026-11-01T02:15:22+00:00"
+  "time": "2026-11-01T03:04:59+00:00"
  }
 }
