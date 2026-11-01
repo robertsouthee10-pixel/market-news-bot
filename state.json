@@ -1,8 +1,5 @@
 {
  "seen": {
-  "25b792be92cfb91b": 1793238227.9233592,
-  "9e207f74ab73bb68": 1793238227.9233816,
-  "dc9b92d2dc3f8b85": 1793238227.923387,
   "423d410596e58a0f": 1793244019.1750524,
   "643cb39ad7e1b7d5": 1793244019.175084,
   "0441d8e3c209a187": 1793244019.175089,
@@ -3726,13 +3723,29 @@
   "147883b07779cf5b": 1793495797.7054985,
   "c236735fbcca8636": 1793495798.9758675,
   "9a0a6bc18249eb2d": 1793495798.9758868,
-  "2377cc8cf547533a": 1793495798.9758923
+  "2377cc8cf547533a": 1793495798.9758923,
+  "eda4d06b9cd796e6": 1793499318.7578793,
+  "178f2d28ab3388d9": 1793499318.7579095,
+  "6d22d4901d701d40": 1793499318.7579126,
+  "ebc395b8bbe2a9b3": 1793499318.757917,
+  "535bbcd77e9af82f": 1793499318.7579198,
+  "0d0867a75d7eeaad": 1793499318.757922,
+  "56b2987df51a42f7": 1793499318.7579246,
+  "57f342855f77f3e9": 1793499318.7579267,
+  "41dd4ab2426112cc": 1793499320.07683,
+  "73eab2e99c38f371": 1793499321.3463,
+  "59d0e6639a2b5bbf": 1793499321.3463228,
+  "e9a824b29d9ae1ab": 1793499321.3463259,
+  "8f9e6d06a229423f": 1793499321.346329,
+  "963ff98e91896945": 1793499321.346332,
+  "39ae02f56de7d3e7": 1793499322.777518,
+  "e68b5ed22fbd3d6d": 1793499322.7775402,
+  "42f64ec065bb4801": 1793499322.777543,
+  "e451e3dcbbd81f25": 1793499322.7775462,
+  "9c765e1535590b98": 1793499322.777554,
+  "d2cfb29570994ba5": 1793499322.7775571
  },
  "recent": [
-  "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
-  "Silver's 6.3% Slide Puts the Deficit Story to the Test as Rate Fears and Coin Demand Crumble",
-  "Rezaei says no nuclear talks or reopening of Hormuz until US accepts Iran’s demands",
-  "Iran claims victory as US shifts tone, weighs changing nuclear doctrine",
   "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
   "Middle East on edge as fears mount the Iran war could restart after the midterms",
   "$1 trillion wipe out of stock market as tech stocks plunge",
@@ -3768,24 +3781,29 @@
   "Iran Humiliates Pentagon: 274 US Base Structures Smashed, $15 Billion Damage Bombshell | Details",
   "South Korea's October Exports Surge 93.7%, First-Ever $1 Trillion Annual Total All But Certain in November",
   "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-  "Diplomacy in overdrive as Iran-US war fears mount"
+  "Diplomacy in overdrive as Iran-US war fears mount",
+  "Global oil prices surge high in six-month",
+  "Bitcoin Slides 4.7%, Ethereum Sheds 5.9% As Crypto Market Hit By Fed Caution, Binance Security Scare",
+  "KOSPI Posts Seventh-Largest Monthly Drop as Volatility Surges",
+  "Gold and Silver Plunge as Fed Rate-Hike Bets, Inflation Fears Weigh on Metals"
  ],
  "initialized": true,
  "last_alert": 1793491759.2737992,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 81,
-  "new": 58,
+  "fetched": 88,
+  "new": 70,
   "rated": {
-   "low": 22,
-   "medium": 11,
+   "low": 12,
+   "medium": 8,
    "high": 0
   },
-  "posted": 7,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 62 (char 4631)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 140 (char 3692)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 98 (char 3069)"
   ],
-  "time": "2026-11-01T01:16:38+00:00"
+  "time": "2026-11-01T02:15:22+00:00"
  }
 }
