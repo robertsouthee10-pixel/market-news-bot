@@ -3744,13 +3744,24 @@
   "6e58d4a42dc8d42d": 1793489810.584512,
   "17e880b16c3a6c22": 1793489811.8195844,
   "d7ba24b995b0ca88": 1793489811.8196077,
-  "fab48b8e159e243d": 1793489811.8196125
+  "fab48b8e159e243d": 1793489811.8196125,
+  "3ad37680f8deda6b": 1793491770.6906776,
+  "96b0dcea93927d64": 1793491770.6907058,
+  "6a572eb00be14b07": 1793491770.6907117,
+  "d3b55cc8aaa3313e": 1793491772.2115765,
+  "b8cf5f6dbd609cb1": 1793491772.2116036,
+  "ab5784b02faf7fa8": 1793491772.2116086,
+  "5a1a6eb107a16543": 1793491772.211612,
+  "1271529d177f19a2": 1793491773.5624018,
+  "016aebf258569073": 1793491773.562422,
+  "d8a8570784bed64a": 1793491773.562427,
+  "3486fd6e37840f31": 1793491773.5624301,
+  "8a85feb0ad57b1a8": 1793491773.5624337,
+  "7d214dee4efed908": 1793491774.7995872,
+  "64795b2edfdbb5c0": 1793491774.7996097,
+  "9f7596266b41a4dc": 1793491774.7996147
  },
  "recent": [
-  "Iran hardliner demands atomic bomb as Khamenei threatens ‘unrestricted’ retaliation against US",
-  "Trump calls on US central bank head to quit immediately",
-  "Iran signals diplomatic opening to US but keeps Hormuz and nuclear demands",
-  "Regional agreement and threat of a joint response",
   "Iran says US tone has ‘changed’ as Washington seeks negotiations",
   "S&P Says Meta Can’t Make Money From AI as Well as Its Rivals",
   "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom",
@@ -3786,24 +3797,28 @@
   "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
   "Iran’s Supreme Leader prepares commanders for massive attack after midterms",
   "Exclusive | Inside the U.S. Military’s Open-Ended Mission to Keep Gulf Oil Flowing",
-  "Report: Trump, Netanyahu Speak As US Weighs Renewed Iran Strikes"
+  "Report: Trump, Netanyahu Speak As US Weighs Renewed Iran Strikes",
+  "Saudi Arabia faces fresh Houthi attacks amid renewed diplomatic efforts",
+  "Tensions Rise as USS Theodore Roosevelt Heads to Middle East Amid Iran War Concerns",
+  "Something Odd Is Happening in the Middle East: Countries in the Persian Gulf are Scrambling to Stop New Strikes on Iran",
+  "US Futures Slide as Amazon, Intel, Alphabet Weigh on Wall Street"
  ],
  "initialized": true,
- "last_alert": 1793479698.837363,
+ "last_alert": 1793491759.2737992,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 77,
-  "new": 34,
+  "fetched": 82,
+  "new": 40,
   "rated": {
-   "low": 5,
-   "medium": 3,
-   "high": 1
+   "low": 11,
+   "medium": 4,
+   "high": 0
   },
-  "posted": 3,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 140 (char 2511)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 103 (char 4652)"
   ],
-  "time": "2026-10-31T23:36:51+00:00"
+  "time": "2026-11-01T00:09:34+00:00"
  }
 }
