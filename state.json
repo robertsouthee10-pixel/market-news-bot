@@ -3558,21 +3558,23 @@
   "Iran designates British naval and air forces as \"terrorist organizations\""
  ],
  "initialized": true,
- "last_alert": 1793555760.2345016,
+ "last_alert": 1793567049.9153924,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
   "fetched": 123,
-  "new": 54,
+  "new": 74,
   "rated": {
-   "low": 22,
-   "medium": 7,
+   "low": 0,
+   "medium": 0,
    "high": 0
   },
-  "posted": 5,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 97 (char 3968)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 144 (char 4008)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 142 (char 2775)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 60 (char 2727)"
   ],
-  "time": "2026-11-01T20:26:51+00:00"
+  "time": "2026-11-01T21:04:41+00:00"
  }
 }
