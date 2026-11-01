@@ -1,37 +1,5 @@
 {
  "seen": {
-  "1cd93e419311efba": 1793287228.7378721,
-  "f4e1d75dc92f29a0": 1793287228.7379022,
-  "8faea82bfc299890": 1793287228.7379065,
-  "d51b40644aec50e0": 1793287228.737911,
-  "a5d29447e1cc075c": 1793287228.737916,
-  "e72f65fe2428085a": 1793287228.7379193,
-  "3c5056798deb5e6e": 1793287230.0195496,
-  "9ab04aa08992fb8c": 1793287230.0195706,
-  "4bfed489d576df47": 1793287231.2723734,
-  "462091fc85e194e7": 1793287231.272396,
-  "7717fdfb4833f139": 1793287231.2724023,
-  "59afb64e9a3f8221": 1793287231.2724066,
-  "454aa9af88133310": 1793287231.272411,
-  "a3a3e95b876dd3f9": 1793287231.2724156,
-  "234d57adc0e8a361": 1793287231.272419,
-  "4f67a3052b2fafd5": 1793287231.272422,
-  "49b766ba47baee3a": 1793287231.2724247,
-  "af1a3fa95b1d12a7": 1793287231.2724283,
-  "1b92565c669766c1": 1793287231.2724311,
-  "b804f8fda9a3c3cf": 1793287232.523927,
-  "0e4a6e44f6a99ff1": 1793287232.5239506,
-  "d90bf3a44d85f73b": 1793287232.5239549,
-  "c2760225fabf981d": 1793287233.7716513,
-  "98001b1c08006508": 1793287233.7716742,
-  "a2aae92be92cf957": 1793287233.7716782,
-  "be662009e71499ee": 1793287240.2680712,
-  "24eb8a8688a677ed": 1793287240.2680752,
-  "dadf8994009362ea": 1793287240.2680786,
-  "9dd2031c18428afa": 1793287240.2680817,
-  "ef28ce075bce1194": 1793287240.2680848,
-  "6abaa4ee8e8379be": 1793287240.2680867,
-  "acae948ab6debb0f": 1793287240.2680888,
   "8b6f15dde6d47da4": 1793290577.1734593,
   "3c9e502e2e8c4345": 1793290577.1734643,
   "fd41be2b2ca4beb4": 1793290577.1734698,
@@ -3726,11 +3694,17 @@
   "60c5f9f6ec017037": 1793545392.2277105,
   "d6da210870bdf47a": 1793545393.5633311,
   "ab2571296844fb59": 1793545393.5633385,
-  "0f5afabb66edfab9": 1793545393.5633416
+  "0f5afabb66edfab9": 1793545393.5633416,
+  "9b7bd590de6ab89d": 1793547493.1695347,
+  "bc278e8e4d39685c": 1793547494.3724992,
+  "522d3345cf638fbb": 1793547494.3725185,
+  "9e9e23359a1bad76": 1793547494.372528,
+  "4873a64c92e5e1f3": 1793547494.3725321,
+  "1bdeffc56bc8e9d6": 1793547495.5465262,
+  "8c8ac8fcbd575227": 1793547495.5465467,
+  "1af363a6de6d05e2": 1793547495.54655
  },
  "recent": [
-  "Iran Doha talks enter third day with Qatari mediators",
-  "Another 'exploding pager' plot? Israel eyes strike on Tehran’s top military bosses",
   "GOOGL Market Cap Drops Nearly $500B After Google Search Fell Below 50% Of Alphabet's Revenue — David Sacks Explains Why That's A Good Thing",
   "U.S. and Israel Disagree on Scale of Potential Iran Strike",
   "Iran puts Hezbollah on alert to prepare for potential war with U.S. and Israel",
@@ -3768,26 +3742,28 @@
   "Iran Holds Doha Talks as Trump Warns Nuclear Sites Could Be Hit in Minutes",
   "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ)",
   "South Korea's exports to China surge 133.6% in October amid AI chip boom",
-  "OPEC+ agree to keep oil output quota steady for December"
+  "OPEC+ agree to keep oil output quota steady for December",
+  "Iran inflicted at least $5 billion in damage on US military bases: WSJ",
+  "Semiconductor Stocks Plunge on Big Tech Cash Crunch"
  ],
  "initialized": true,
  "last_alert": 1793543102.7692974,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 137,
-  "new": 96,
+  "fetched": 131,
+  "new": 83,
   "rated": {
-   "low": 21,
+   "low": 4,
    "medium": 4,
    "high": 0
   },
   "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 140 (char 4012)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 142 (char 4515)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 144 (char 2532)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 57 (char 2097)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2691)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 4703)"
   ],
-  "time": "2026-11-01T15:03:30+00:00"
+  "time": "2026-11-01T15:38:15+00:00"
  }
 }
