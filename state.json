@@ -1,34 +1,5 @@
 {
  "seen": {
-  "4f996d4a573dbe98": 1793317329.7599032,
-  "4cf82f0f29277af9": 1793317329.7599096,
-  "fb450226cb8249a4": 1793317329.7599127,
-  "73f9e5df9386a07d": 1793317329.759915,
-  "82bea4a47ba42a0f": 1793317329.7599173,
-  "30fc62fef3463c57": 1793317329.7599194,
-  "7ac6fd0209592387": 1793317329.7599223,
-  "ffc58af652a573e2": 1793317329.7599247,
-  "014a5e57d4437bbe": 1793317329.759927,
-  "f12593508bbe3c80": 1793317329.759929,
-  "de244c374cbd6fd7": 1793317329.7599308,
-  "0410911e9bcfc45b": 1793317329.759933,
-  "0c0dd1327ac0ed65": 1793317329.7599351,
-  "bc60fcf5a03f4955": 1793317329.7599375,
-  "549ad9f493b44faa": 1793317329.75994,
-  "d0774c3b10b8c404": 1793317329.7599418,
-  "281277d8df9f29d7": 1793317329.7599437,
-  "8d8eb08ae96a0aa9": 1793317331.026907,
-  "82bec5e9a9d9bdcb": 1793317331.0269327,
-  "2dc1a519231b76d5": 1793317331.0269375,
-  "776c97162b7d3a6d": 1793317331.0269415,
-  "d472438b07f67851": 1793317331.0269494,
-  "339b925ee8643d9c": 1793317331.0269532,
-  "603905af5d0bf67d": 1793317331.0269563,
-  "8bd6867db43d33c3": 1793317332.626729,
-  "f8e4870319ef9bcc": 1793317354.3356996,
-  "c6217973432bb6b5": 1793317354.3357034,
-  "c30edb84aed0477e": 1793317354.3357058,
-  "0b91e3fbe1d069ae": 1793317354.3357108,
   "204179fbf469c197": 1793319450.2730422,
   "d36dd0b77db18328": 1793319450.2730467,
   "e7ca5ae0cb825583": 1793319450.2730494,
@@ -3339,10 +3310,12 @@
   "6653312a307e76a9": 1793575524.9463308,
   "3b727f3ea64486f0": 1793575524.946353,
   "87e4cce2126d8f7b": 1793575524.9463568,
-  "fca822bccb79b9c2": 1793575524.9463596
+  "fca822bccb79b9c2": 1793575524.9463596,
+  "eb9ff0a5a4242ab2": 1793577536.328311,
+  "d0571dddffb7246d": 1793577537.6728888,
+  "64afae898f43895e": 1793577537.6729078
  },
  "recent": [
-  "OpenAI to purchase Google TPU chips as AI infrastructure demand surges",
   "Netanyahu pressing Trump to strike Iran immediately after midterms - Axios",
   "Micron Expands AI Memory Production as Demand Drives Record Revenue",
   "First interest rate rises in three years expected as Iran war drives high inflation",
@@ -3381,24 +3354,26 @@
   "Khanna says he’d stop funding further US military actions in Iran",
   "Oil slips more than 1% as talks continue on ending Iran war",
   "Vessel struck in Strait of Hormuz: Maritime agency",
-  "Trump says Iran war will end very soon, calls oil rise a ‘small price’"
+  "Trump says Iran war will end very soon, calls oil rise a ‘small price’",
+  "WTI and Brent Crude Oil Prices Fall $2 as U.S.-Iran Peace Talks Raise Hopes of De-escalation"
  ],
  "initialized": true,
  "last_alert": 1793567049.9153924,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 93,
-  "new": 35,
+  "fetched": 100,
+  "new": 53,
   "rated": {
-   "low": 3,
-   "medium": 5,
-   "high": 2
+   "low": 0,
+   "medium": 2,
+   "high": 1
   },
-  "posted": 3,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 142 (char 2422)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 102 (char 2259)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 4172)"
   ],
-  "time": "2026-11-01T23:25:24+00:00"
+  "time": "2026-11-01T23:58:57+00:00"
  }
 }
