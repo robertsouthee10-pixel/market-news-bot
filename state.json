@@ -1,15 +1,5 @@
 {
  "seen": {
-  "acb6a16d6894451d": 1793252099.7187934,
-  "6852951fcbc460ff": 1793252099.7187994,
-  "f98562e078401e3c": 1793252100.9074183,
-  "0a0e399f1a7e82fe": 1793252102.1977463,
-  "dbacc35cce70a6c2": 1793252102.197766,
-  "9fd9a0d79f817fb1": 1793252102.1977746,
-  "639bc39383e7a77d": 1793252102.1977782,
-  "5f33238c4ac03709": 1793252102.1977818,
-  "d034bd6882e97b7b": 1793252103.4174995,
-  "9d93e1835036b3af": 1793252103.4175193,
   "4c6c84ea3e9d94e8": 1793254757.70903,
   "13e036f1ef094f5e": 1793258847.6957037,
   "aafe0a9401042dbf": 1793258847.6957095,
@@ -3759,19 +3749,46 @@
   "b86fe421d0158a73": 1793510896.4392104,
   "7e558250494279e2": 1793510896.43923,
   "80dc9287a18363f4": 1793510900.0135255,
-  "181b7f2c8b3a565d": 1793510900.0135303
+  "181b7f2c8b3a565d": 1793510900.0135303,
+  "0fbee91ec8471f9b": 1793513715.4112177,
+  "fe294f02da3c1ade": 1793513715.4112241,
+  "5a31dcc5c9636f1f": 1793513715.411228,
+  "e68f05b61a79da2a": 1793513715.4112306,
+  "3097a38d4772d9c4": 1793513715.4112325,
+  "e4b86ed8c392e2dc": 1793513715.411235,
+  "b35711815d7069fe": 1793513715.411237,
+  "1b5c07af737cc10d": 1793513715.411239,
+  "c5448ea86c12e95c": 1793513715.4112413,
+  "c24a82e79f4619ab": 1793513715.4112437,
+  "e00c42fb55a70d47": 1793513715.4112458,
+  "cc14d66f4242bf03": 1793513715.4112477,
+  "cededc2254caee74": 1793513715.4112496,
+  "170706a6e4fa1910": 1793513715.4112542,
+  "075a4dd7f5cc3755": 1793513715.411256,
+  "94381c75652896b6": 1793513715.4112577,
+  "213d3e91c0c7c42e": 1793513716.7562046,
+  "a7da2ad689598a36": 1793513716.7562244,
+  "10ff95d31c60003a": 1793513718.0291615,
+  "9a8c783560ba413b": 1793513719.2523263,
+  "8c382d3d0514c983": 1793513719.2523472,
+  "d47d772aa0fced8d": 1793513719.2523515,
+  "62b3d5326435225b": 1793513719.2523584,
+  "498ce90b43a3b505": 1793513719.2523623,
+  "4ae79cf76bfda2d6": 1793513720.4451866,
+  "d7c08ce6dd3fa3a9": 1793513745.948927,
+  "8336c933130ebe14": 1793513747.2175555,
+  "a648cb9d4e13016a": 1793513747.2175748,
+  "72a6b8b962a26ed9": 1793513748.494378,
+  "9b3ea7e1be595a0d": 1793513748.4943979,
+  "7196db35ffc49238": 1793513749.7088642,
+  "29fcd5d6f7fd27d3": 1793513749.708885,
+  "ed6f5bbbd14c486c": 1793513749.70889,
+  "643aadcc1eb7af9a": 1793513751.5275555,
+  "862d4f4fa33d5d18": 1793513751.5275772,
+  "460618182a30936e": 1793513752.8266263,
+  "e58bd4125b98ad1a": 1793513754.0626605
  },
  "recent": [
-  "‘Hormuz, Bab al-Mandeb must stay open’: Rubio closes G20 foreign ministers’ meet",
-  "Iran has made no new official decision to change nuclear doctrine: Official",
-  "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
-  "Iran’s Supreme Leader prepares commanders for massive attack after midterms",
-  "Exclusive | Inside the U.S. Military’s Open-Ended Mission to Keep Gulf Oil Flowing",
-  "Report: Trump, Netanyahu Speak As US Weighs Renewed Iran Strikes",
-  "Saudi Arabia faces fresh Houthi attacks amid renewed diplomatic efforts",
-  "Tensions Rise as USS Theodore Roosevelt Heads to Middle East Amid Iran War Concerns",
-  "Something Odd Is Happening in the Middle East: Countries in the Persian Gulf are Scrambling to Stop New Strikes on Iran",
-  "US Futures Slide as Amazon, Intel, Alphabet Weigh on Wall Street",
   "Asian markets face U.S. midterm policy risk for AI and chip sectors",
   "Investors Trim Growth Bets on Tech Stocks Amid AI Market Concerns",
   "Wong warns new US strikes on Iran would worsen global instability, protests",
@@ -3801,24 +3818,37 @@
   "Iranian official says US attacked fishing boats off Qeshm Island, state media reports",
   "IDF Ready for Iran War as Trump Weighs Renewed Strikes",
   "Doubts about AI resurface as Big Tech earnings roll in… “Stock market volatility to persist”",
-  "Israel completes preparations for renewed confrontation with Iran"
+  "Israel completes preparations for renewed confrontation with Iran",
+  "Mojtaba Khamenei Orders Iran’s Armed Forces To Respond Immediately Without Geographic Limits",
+  "Trump Speaks With Netanyahu on Iran",
+  "Iran braces for more war, no matter the outcome of elections",
+  "🇺🇸🇮🇷 Trump says he could strike Iran’s Mount of Axes “with great speed”. He also said he could win the war before it started, or something like that. We’re still waiting… if you could hurry it up, our pocketbooks would appreciate it! Thank you for your attention t",
+  "Trump Warns Iran Over Khamenei’s Retaliation Call, Says “Only Two Targets Left”",
+  "Irans Mohsen Rezaei warns of devastating blows against aggressor, says diplomacy hinges on seven conditions",
+  "The Week Ahead: US Midterm Elections, October Nonfarm Payrolls, and Earnings From Apple, Palantir, and AMD",
+  "Trump: 'I Want to Make a Deal With Iran, but They Are Not Reliable'",
+  "Iran to respond to threats with a harsher reply than before",
+  "Pakistan Army 'cautiously optimistic' on Iran-US mediation"
  ],
  "initialized": true,
  "last_alert": 1793505197.4622715,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 80,
-  "new": 52,
-  "rated": {
-   "low": 20,
-   "medium": 6,
-   "high": 1
-  },
-  "posted": 5,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 100 (char 3238)"
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
   ],
-  "time": "2026-11-01T05:28:20+00:00"
+  "fetched": 110,
+  "new": 87,
+  "rated": {
+   "low": 23,
+   "medium": 8,
+   "high": 6
+  },
+  "posted": 10,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 97 (char 3816)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 144 (char 3899)"
+  ],
+  "time": "2026-11-01T06:15:54+00:00"
  }
 }
