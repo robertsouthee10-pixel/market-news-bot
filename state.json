@@ -1,7 +1,5 @@
 {
  "seen": {
-  "75b3e140529383d0": 1793249679.5480793,
-  "fe550edf35a472b0": 1793249679.5481079,
   "acb6a16d6894451d": 1793252099.7187934,
   "6852951fcbc460ff": 1793252099.7187994,
   "f98562e078401e3c": 1793252100.9074183,
@@ -3734,14 +3732,36 @@
   "4460ad5af618d3f0": 1793508026.9577296,
   "320fc596096fef17": 1793508026.9577317,
   "b608f5e100bee550": 1793508026.9577334,
-  "fb851b22b18214ec": 1793508026.9577372
+  "fb851b22b18214ec": 1793508026.9577372,
+  "d7b01faa6a08d907": 1793510890.084907,
+  "2614062bc768d405": 1793510891.7398477,
+  "f80f1fc7c5adbe23": 1793510891.7398713,
+  "8649a6804985d491": 1793510891.739875,
+  "940e2d2d0da1dec8": 1793510891.7398787,
+  "dec564bb79f6af84": 1793510891.7398815,
+  "59ad1437421c1547": 1793510891.739885,
+  "ad099cf035c7fe73": 1793510891.739888,
+  "e38a6d3410e7da11": 1793510891.73989,
+  "ede620deb7faba08": 1793510891.7398922,
+  "31674be61d29f74c": 1793510891.739895,
+  "5cf5473929031c9d": 1793510891.7398984,
+  "373bc463980ed814": 1793510891.7399008,
+  "5153c87fa9b1b1df": 1793510892.9004707,
+  "f5f843996f0c7e0c": 1793510892.900495,
+  "f8198f16324070da": 1793510894.0772674,
+  "b2a15b9735c621c6": 1793510894.0772872,
+  "726ceba685d07773": 1793510895.2339184,
+  "5c38cb19d1a06f18": 1793510895.2339408,
+  "0a9a724413e66cbe": 1793510895.2339458,
+  "59da7a1e4019dfd3": 1793510895.2339492,
+  "1c05bf458e3f8390": 1793510895.2339525,
+  "b84bc423029615fe": 1793510895.2339556,
+  "b86fe421d0158a73": 1793510896.4392104,
+  "7e558250494279e2": 1793510896.43923,
+  "80dc9287a18363f4": 1793510900.0135255,
+  "181b7f2c8b3a565d": 1793510900.0135303
  },
  "recent": [
-  "Marco Rubio Highlights Uncertain Future of U.S. Military Action on Iran",
-  "US Secretary of State: Trump Has Yet to Decide on Resuming Attacks on Iran",
-  "Israel expects US to delay strike on Iran until elections — Jerusalem Post",
-  "AI stocks waver despite Fed rate freeze as market braces for US midterm elections : Finance : JKN",
-  "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
   "‘Hormuz, Bab al-Mandeb must stay open’: Rubio closes G20 foreign ministers’ meet",
   "Iran has made no new official decision to change nuclear doctrine: Official",
   "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
@@ -3776,24 +3796,29 @@
   "AI investors rush to hedge against potential tech market downturn - WSJ",
   "US suddenly changes tone, Iran is not in a hurry to respond to negotiation letters",
   "Iran Damages 26 US Bases in Middle East ᐉ News from Fakti.bg - World",
-  "'Negotiations going fine': Trump says Iran wants to make a deal"
+  "'Negotiations going fine': Trump says Iran wants to make a deal",
+  "US Iran War | \"Some Issues Can't Be Resolved Peacefully\": Marco Rubio On Iran",
+  "Iranian official says US attacked fishing boats off Qeshm Island, state media reports",
+  "IDF Ready for Iran War as Trump Weighs Renewed Strikes",
+  "Doubts about AI resurface as Big Tech earnings roll in… “Stock market volatility to persist”",
+  "Israel completes preparations for renewed confrontation with Iran"
  ],
  "initialized": true,
  "last_alert": 1793505197.4622715,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 74,
-  "new": 56,
+  "fetched": 80,
+  "new": 52,
   "rated": {
-   "low": 19,
-   "medium": 12,
-   "high": 0
+   "low": 20,
+   "medium": 6,
+   "high": 1
   },
-  "posted": 7,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 97 (char 3997)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 100 (char 3238)"
   ],
-  "time": "2026-11-01T04:40:26+00:00"
+  "time": "2026-11-01T05:28:20+00:00"
  }
 }
