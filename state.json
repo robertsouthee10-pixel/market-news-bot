@@ -3701,11 +3701,34 @@
   "5ae4dd4ce9bd906b": 1793543121.543832,
   "761fb12bc4d080c2": 1793543139.51031,
   "232d604bb1bc8505": 1793543139.510315,
-  "0124e9915dc1fe7e": 1793543139.5103178
+  "0124e9915dc1fe7e": 1793543139.5103178,
+  "a4b0565f14baa76b": 1793545390.8203292,
+  "7d6c0bff4aca6087": 1793545390.820333,
+  "a3b9a52539aa6589": 1793545390.8203351,
+  "18f0b1beb3860232": 1793545390.8203373,
+  "32930305ddb839a5": 1793545390.820339,
+  "8007e2f9a1c33f6e": 1793545390.8203402,
+  "6712d6ad731f5a20": 1793545390.8203418,
+  "d99324391889092c": 1793545390.820343,
+  "2aac765cbf1f7034": 1793545390.8203452,
+  "b8343725f2e27979": 1793545390.8203464,
+  "3d3119e1f2491dc1": 1793545390.8203475,
+  "f99969cd2f3735b3": 1793545392.2276845,
+  "8ed95eedee904e58": 1793545392.2276947,
+  "31832a161fe52541": 1793545392.2276974,
+  "31c8da3c22fd2c7b": 1793545392.2276993,
+  "6d4e4ffa7c7b8c60": 1793545392.2277007,
+  "d582f0349de79071": 1793545392.2277024,
+  "7ac2115c596d6651": 1793545392.227704,
+  "7ba1cb3ff5cda813": 1793545392.2277062,
+  "c24907ddbcea21be": 1793545392.2277074,
+  "94c9ecd58c039069": 1793545392.2277088,
+  "60c5f9f6ec017037": 1793545392.2277105,
+  "d6da210870bdf47a": 1793545393.5633311,
+  "ab2571296844fb59": 1793545393.5633385,
+  "0f5afabb66edfab9": 1793545393.5633416
  },
  "recent": [
-  "OPEC set to hold oil quotas as Middle East risks constrain supply",
-  "Anxious Eyes on Nasdaq Plunge: Will Monday's Kospi Hold Up?",
   "Iran Doha talks enter third day with Qatari mediators",
   "Another 'exploding pager' plot? Israel eyes strike on Tehran’s top military bosses",
   "GOOGL Market Cap Drops Nearly $500B After Google Search Fell Below 50% Of Alphabet's Revenue — David Sacks Explains Why That's A Good Thing",
@@ -3743,25 +3766,28 @@
   "Consulations continue with Qatari mediators: FM Araghchi",
   "Iran sees ‘positive shift’ in US approach after Vance’s letter",
   "Iran Holds Doha Talks as Trump Warns Nuclear Sites Could Be Hit in Minutes",
-  "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ)"
+  "Meta's AI shopping agent threatens Amazon's lucrative advertising business (META:NASDAQ)",
+  "South Korea's exports to China surge 133.6% in October amid AI chip boom",
+  "OPEC+ agree to keep oil output quota steady for December"
  ],
  "initialized": true,
  "last_alert": 1793543102.7692974,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 131,
-  "new": 78,
+  "fetched": 137,
+  "new": 96,
   "rated": {
    "low": 21,
-   "medium": 7,
+   "medium": 4,
    "high": 0
   },
-  "posted": 4,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 142 (char 3252)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4086)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 140 (char 4012)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 142 (char 4515)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 144 (char 2532)"
   ],
-  "time": "2026-11-01T14:25:39+00:00"
+  "time": "2026-11-01T15:03:30+00:00"
  }
 }
