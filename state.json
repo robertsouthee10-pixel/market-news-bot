@@ -1,6 +1,5 @@
 {
  "seen": {
-  "4c6c84ea3e9d94e8": 1793254757.70903,
   "13e036f1ef094f5e": 1793258847.6957037,
   "aafe0a9401042dbf": 1793258847.6957095,
   "ca89f1c0366075ed": 1793258847.6957135,
@@ -3786,11 +3785,17 @@
   "643aadcc1eb7af9a": 1793513751.5275555,
   "862d4f4fa33d5d18": 1793513751.5275772,
   "460618182a30936e": 1793513752.8266263,
-  "e58bd4125b98ad1a": 1793513754.0626605
+  "e58bd4125b98ad1a": 1793513754.0626605,
+  "c259255fb4ee9b5a": 1793517855.6457958,
+  "a835513959aff00e": 1793517855.6458018,
+  "2fe074e2dced40f7": 1793517856.961916,
+  "a45bef0f7bd75597": 1793517856.9619367,
+  "d6725cc62777b803": 1793517858.310728,
+  "03e3303ef0a77958": 1793517858.3107512,
+  "39bc56f140f25fe2": 1793517858.3107572,
+  "4b7956cfd48e18f8": 1793517858.3107667
  },
  "recent": [
-  "Asian markets face U.S. midterm policy risk for AI and chip sectors",
-  "Investors Trim Growth Bets on Tech Stocks Amid AI Market Concerns",
   "Wong warns new US strikes on Iran would worsen global instability, protests",
   "Iran Humiliates Pentagon: 274 US Base Structures Smashed, $15 Billion Damage Bombshell | Details",
   "South Korea's October Exports Surge 93.7%, First-Ever $1 Trillion Annual Total All But Certain in November",
@@ -3828,27 +3833,28 @@
   "The Week Ahead: US Midterm Elections, October Nonfarm Payrolls, and Earnings From Apple, Palantir, and AMD",
   "Trump: 'I Want to Make a Deal With Iran, but They Are Not Reliable'",
   "Iran to respond to threats with a harsher reply than before",
-  "Pakistan Army 'cautiously optimistic' on Iran-US mediation"
+  "Pakistan Army 'cautiously optimistic' on Iran-US mediation",
+  "Iran's Araghchi offers to reopen Strait of Hormuz in 2 days if US meets its demands",
+  "US's VP JD Vance and Trump are are at loggerheads on Iran war"
  ],
  "initialized": true,
- "last_alert": 1793505197.4622715,
+ "last_alert": 1793517817.280287,
  "last_run": {
-  "feeds_ok": 17,
-  "feeds_failed": [
-   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
-  ],
-  "fetched": 110,
-  "new": 87,
+  "feeds_ok": 18,
+  "feeds_failed": [],
+  "fetched": 93,
+  "new": 83,
   "rated": {
-   "low": 23,
-   "medium": 8,
-   "high": 6
+   "low": 5,
+   "medium": 1,
+   "high": 2
   },
-  "posted": 10,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 97 (char 3816)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 144 (char 3899)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 144 (char 4554)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 140 (char 4723)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 188 (char 3790)"
   ],
-  "time": "2026-11-01T06:15:54+00:00"
+  "time": "2026-11-01T07:24:18+00:00"
  }
 }
