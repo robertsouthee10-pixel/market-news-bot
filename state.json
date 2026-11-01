@@ -1,20 +1,5 @@
 {
  "seen": {
-  "423d410596e58a0f": 1793244019.1750524,
-  "643cb39ad7e1b7d5": 1793244019.175084,
-  "0441d8e3c209a187": 1793244019.175089,
-  "4ac977a5202b88b9": 1793244019.1750915,
-  "2e3dc666119630e9": 1793244020.490262,
-  "2bc1ef9f07941d24": 1793244021.7135272,
-  "dad53582548c2929": 1793244021.7135518,
-  "9a9dc842baa26a80": 1793244021.713555,
-  "684c318d3b99e4c2": 1793244021.7135606,
-  "083f3e20b4d908c4": 1793244022.9795153,
-  "a25ae1b337a7ab99": 1793244024.2151718,
-  "d97f7a9048db2f2f": 1793244024.215195,
-  "311af27b8a805927": 1793244025.473278,
-  "8251429dde0c6001": 1793244026.722853,
-  "35ae3529213a9a82": 1793244026.7228804,
   "24d2a27f17c9c18f": 1793246937.41281,
   "9f1468e115ce22fb": 1793246937.412816,
   "ac470f048173b201": 1793246937.4128203,
@@ -3755,11 +3740,13 @@
   "bd3ea644398def47": 1793502299.9221637,
   "597ff708253ac9d3": 1793502299.9221835,
   "5a36431560f616fb": 1793502299.9221869,
-  "b47ea17f78705751": 1793502299.9221897
+  "b47ea17f78705751": 1793502299.9221897,
+  "4b193fa8eaf4b669": 1793505218.9026785,
+  "e6d57d588d1acb4f": 1793505220.1736684,
+  "a5184634338edffe": 1793505220.1736887,
+  "b684e183f32f6b22": 1793505221.436388
  },
  "recent": [
-  "International Business: US polls, earnings and jobs data loom for AI-wary stock market",
-  "The 5 most interesting analyst questions from Alphabet’s Q3 earnings call",
   "Iran warns US, Israel against new attacks after Trump, Netanyahu threats",
   "Iran threatens wider U.S. strikes even as talks make progress",
   "US keeps Iran talks open, gives no deadline",
@@ -3797,25 +3784,27 @@
   "South Korea exports surge 76.1% in October on AI semiconductors",
   "Iran, Qatar hold fresh talks in Doha amid fears of US strikes on Tehran after midterm elections",
   "Trump flags Iran targets as talks continue",
-  "Alphabet's Chip Business Draws a Reported OpenAI Suitor as Free Cash Flow Turns Negative"
+  "Alphabet's Chip Business Draws a Reported OpenAI Suitor as Free Cash Flow Turns Negative",
+  "‘One or two sites’ remain: Trump says US can strike remaining Iranian nuclear sites ‘in ten minutes’",
+  "US Treasury yields could settle around 4.75 pc: SBI report"
  ],
  "initialized": true,
- "last_alert": 1793491759.2737992,
+ "last_alert": 1793505197.4622715,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 82,
-  "new": 62,
+  "fetched": 73,
+  "new": 54,
   "rated": {
-   "low": 5,
-   "medium": 7,
-   "high": 0
+   "low": 2,
+   "medium": 1,
+   "high": 1
   },
-  "posted": 5,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 142 (char 3521)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3458)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 102 (char 4611)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4969)"
   ],
-  "time": "2026-11-01T03:04:59+00:00"
+  "time": "2026-11-01T03:53:41+00:00"
  }
 }
