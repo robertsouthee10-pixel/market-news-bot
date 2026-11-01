@@ -1,30 +1,5 @@
 {
  "seen": {
-  "7e9bc15ca249401f": 1793296568.1255732,
-  "096084acdfcc9b28": 1793296568.1255798,
-  "19b88d63576906be": 1793296569.440786,
-  "191a31cd72a666e9": 1793296569.4408083,
-  "0f5978a45a242545": 1793296569.440813,
-  "98f92002b93f955a": 1793296569.4408164,
-  "749a3d952bc67c8e": 1793296569.440819,
-  "ece7720f1d5dc590": 1793296569.4408212,
-  "1a4eb18e4e4ed38c": 1793296569.4408236,
-  "e736d7492f6af5e0": 1793296569.4408293,
-  "002468d0f609151f": 1793296571.1805315,
-  "d78e11d46c162846": 1793296571.180551,
-  "b4ba0fbc9c09c90f": 1793296571.1805556,
-  "c4abdfd8a204cdb6": 1793296571.18056,
-  "e620146d2b5f097c": 1793296571.180564,
-  "c30c4b07687481b4": 1793296572.4947324,
-  "b368cb7f92e7f206": 1793296572.4947531,
-  "93536ac1c5fc3b58": 1793296572.4947572,
-  "95f0154b6aec57f0": 1793296572.49476,
-  "0c45bdd69201d1d1": 1793296572.4947634,
-  "997dfd50d57df641": 1793296572.4947665,
-  "5804811117e580b9": 1793296572.4947705,
-  "309695194df1a09d": 1793296572.4947731,
-  "66daa30d27ccb2c7": 1793296573.8387995,
-  "ab3b02850de3a76d": 1793296573.8388186,
   "9bac9c2bf2720f22": 1793296603.0757802,
   "bd460e94e3e04561": 1793296603.0757837,
   "189d320302becda2": 1793296603.0757864,
@@ -3684,7 +3659,9 @@
   "cc56ed1a9dd10a00": 1793553768.300228,
   "9bd9626d8783f518": 1793553768.3002326,
   "e40b00ea9375c34e": 1793553769.5520797,
-  "9be70c2fc13aec8e": 1793553769.5521014
+  "9be70c2fc13aec8e": 1793553769.5521014,
+  "c5d5636fa4c6457f": 1793555779.413469,
+  "7ea8df9411a6554c": 1793555779.413474
  },
  "recent": [
   "'Maximum deterrence': Mojtaba Khamenei meets top generals, issues warning to US",
@@ -3729,22 +3706,22 @@
   "Iran: Direct negotiations with the US could be held in Turkey."
  ],
  "initialized": true,
- "last_alert": 1793543102.7692974,
+ "last_alert": 1793555760.2345016,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 123,
-  "new": 69,
+  "fetched": 115,
+  "new": 52,
   "rated": {
-   "low": 14,
-   "medium": 5,
+   "low": 2,
+   "medium": 0,
    "high": 0
   },
-  "posted": 4,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3338)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 98 (char 3300)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 3928)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 142 (char 3410)"
   ],
-  "time": "2026-11-01T17:22:49+00:00"
+  "time": "2026-11-01T17:56:19+00:00"
  }
 }
