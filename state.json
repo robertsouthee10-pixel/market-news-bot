@@ -1,31 +1,5 @@
 {
  "seen": {
-  "bdf65f72471dbd1f": 1793332362.6741936,
-  "5676c085fbc6e991": 1793332362.6742182,
-  "d448f49082d107b7": 1793332363.9591386,
-  "c80728717a497bd0": 1793332363.9591582,
-  "ca440aae6e28d48d": 1793332363.9591644,
-  "e7af86cff95d0a67": 1793332363.959168,
-  "1c6bdcd0d0ff48b9": 1793332363.9591715,
-  "5fb7c5f023842c5e": 1793332363.9591742,
-  "ecaabbfc3829a62d": 1793332365.2603078,
-  "ddc8d3db963b698b": 1793332365.2603252,
-  "ef2a67823675ffd3": 1793332365.2603352,
-  "a7caa14b8b16e3df": 1793332365.2603385,
-  "014ab303b30a05a7": 1793332366.5586133,
-  "c819b4289448b0a9": 1793332366.5586345,
-  "583e4dce0c2d80bc": 1793334787.1823938,
-  "a2b77d23dce8ad2c": 1793334788.5567484,
-  "b4ce17383d6ee1aa": 1793334789.8744528,
-  "8502086721e2d700": 1793334791.1180444,
-  "7171dd799b4f1969": 1793334791.1180646,
-  "0d9151e4a4919b77": 1793334791.118073,
-  "c4d527651e42fca1": 1793334792.4241402,
-  "9de9d77d0ca96b02": 1793334792.4241626,
-  "685505cdb6504a30": 1793334793.6882203,
-  "197a103dc0602b03": 1793334795.272732,
-  "859a9a8ae5ecddeb": 1793334796.509534,
-  "f6b6274718333c58": 1793334796.5095532,
   "c586ac0cbcc41983": 1793337591.2866158,
   "fab1949f9010c464": 1793337591.2866209,
   "e4f89e8253424a9e": 1793337591.2866242,
@@ -3317,11 +3291,12 @@
   "a2d5eae7f3392347": 1793587539.209061,
   "da3ad4908672c755": 1793587540.518218,
   "c41afedf1475016f": 1793587540.5182369,
-  "520a831bc8488ba7": 1793587540.51824
+  "520a831bc8488ba7": 1793587540.51824,
+  "5e5a74546090e6ce": 1793594332.4289377,
+  "1fc72ba96df21efb": 1793594333.6713843,
+  "43cd6ebde903474c": 1793594333.671403
  },
  "recent": [
-  "Netanyahu uses election deadlock to ramp up Iran war threats and retain power",
-  "World War III: Could Americans be called up for war as Trump abruptly cancels campaign rallies amid Iran t",
   "Trump favors diplomacy with Iran as Netanyahu presses for strikes, report says",
   "Iran designates British naval and air forces as \"terrorist organizations\"",
   "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
@@ -3359,26 +3334,29 @@
   "Iran's top diplomat hopes US shows 'rationality', and other Mideast news, World News",
   "Gold Price Today: Bullion jumps 1% above $3,900 after hitting 1-year low as US dollar weakens",
   "Oman rescues 25 from burning ship as Iran Guards halt four tankers",
-  "Did Netanyahu push Trump to attack Iran immediately once US 'midterms' are over? Here's what report claims"
+  "Did Netanyahu push Trump to attack Iran immediately once US 'midterms' are over? Here's what report claims",
+  "Iran's Supreme Leader Orders 'Geographically Unrestricted' Response to Any New U.S. Attack",
+  "Iranian ship captain killed in unacknowledged US strike: State media"
  ],
  "initialized": true,
- "last_alert": 1793581014.0867302,
+ "last_alert": 1793594279.3329995,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 104,
-  "new": 74,
+  "fetched": 126,
+  "new": 103,
   "rated": {
-   "low": 0,
-   "medium": 0,
-   "high": 0
+   "low": 1,
+   "medium": 1,
+   "high": 1
   },
-  "posted": 0,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 100 (char 5162)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2852)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2578)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 97 (char 3399)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 98 (char 5508)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3441)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 141 (char 1546)"
   ],
-  "time": "2026-11-02T03:37:42+00:00"
+  "time": "2026-11-02T04:38:53+00:00"
  }
 }
