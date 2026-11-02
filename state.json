@@ -1,30 +1,5 @@
 {
  "seen": {
-  "204179fbf469c197": 1793319450.2730422,
-  "d36dd0b77db18328": 1793319450.2730467,
-  "e7ca5ae0cb825583": 1793319450.2730494,
-  "c120e2926971a83d": 1793319451.6140807,
-  "5795066798e688a8": 1793319451.6141047,
-  "951e9043bfa4cccb": 1793319451.614113,
-  "28b2e8f728db4706": 1793319452.855733,
-  "f15eab390487ecbc": 1793319452.8557575,
-  "2a19b86477846561": 1793319452.8557627,
-  "67f7c7f395ce6503": 1793319452.855766,
-  "e378208085b7630f": 1793319454.1475415,
-  "3ec99f7dbe715f86": 1793319454.1475646,
-  "e63d4cf3081d8a1c": 1793319454.1475708,
-  "e8629afebf3aa253": 1793319454.147574,
-  "e928a1fb020915c5": 1793319455.6504636,
-  "a85eccf90a35b294": 1793319455.6504858,
-  "c602f339ccafd48b": 1793319455.6504898,
-  "112b6921b4e2d60b": 1793319455.6504924,
-  "f857e6477abad363": 1793319455.6504946,
-  "766cf80acec8d39a": 1793319455.650497,
-  "fd8c3a397984042b": 1793319456.9500232,
-  "b5a8f30bd00d8ff6": 1793319456.9500456,
-  "50f4c4a20341ca24": 1793319456.9500492,
-  "f4e7c5c32b281538": 1793319456.9500515,
-  "dcb8ebece2f887bd": 1793319458.2741554,
   "0e11d1086c2cab26": 1793323542.7031174,
   "690589e7c86a3355": 1793323542.7031217,
   "6ab1ebcf29bc79a8": 1793323544.0132174,
@@ -3313,13 +3288,22 @@
   "fca822bccb79b9c2": 1793575524.9463596,
   "eb9ff0a5a4242ab2": 1793577536.328311,
   "d0571dddffb7246d": 1793577537.6728888,
-  "64afae898f43895e": 1793577537.6729078
+  "64afae898f43895e": 1793577537.6729078,
+  "2b19211d4cee4605": 1793581039.7114997,
+  "f282ddac4a9b06bb": 1793581039.71153,
+  "c387de5856f92c95": 1793581039.711534,
+  "f212723d4c3888e2": 1793581039.7115366,
+  "2f6b2c9289187d69": 1793581039.71154,
+  "096ee57c44c3519f": 1793581039.7115426,
+  "c3d85ab584c2d68d": 1793581039.7115452,
+  "e9fd906da304a2e4": 1793581039.7115474,
+  "e509b793b1739f54": 1793581041.0167286,
+  "04c50f2610f25e9f": 1793581042.4398305,
+  "1965c21c53a5dc87": 1793581042.4398768,
+  "57eaa9e86e9d5140": 1793581042.4398825,
+  "daf9fc9f94ba723c": 1793581043.8171227
  },
  "recent": [
-  "Netanyahu pressing Trump to strike Iran immediately after midterms - Axios",
-  "Micron Expands AI Memory Production as Demand Drives Record Revenue",
-  "First interest rate rises in three years expected as Iran war drives high inflation",
-  "UK reports vessel struck by projectile in Hormuz",
   "Iran Has 1,700 Missiles Able to Reach Israel: Estimate",
   "Iranian ship captain martyred in US attack on vessel in PG",
   "Iran targets US air defense radars in Gulf bases",
@@ -3355,25 +3339,29 @@
   "Oil slips more than 1% as talks continue on ending Iran war",
   "Vessel struck in Strait of Hormuz: Maritime agency",
   "Trump says Iran war will end very soon, calls oil rise a ‘small price’",
-  "WTI and Brent Crude Oil Prices Fall $2 as U.S.-Iran Peace Talks Raise Hopes of De-escalation"
+  "WTI and Brent Crude Oil Prices Fall $2 as U.S.-Iran Peace Talks Raise Hopes of De-escalation",
+  "Dow Jones, Nasdaq futures rebound after brutal sell-off; Here's why this week is important",
+  "Oil declines ahead of midterm elections despite Hormuz attacks",
+  "Iran’s nuclear bomb debate gains ground on official platforms",
+  "Dow and Nasdaq Futures Open Higher Ahead of Midterms, NFP and Major Corporate Earnings"
  ],
  "initialized": true,
- "last_alert": 1793567049.9153924,
+ "last_alert": 1793581014.0867302,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 100,
-  "new": 53,
+  "fetched": 98,
+  "new": 63,
   "rated": {
-   "low": 0,
-   "medium": 2,
-   "high": 1
+   "low": 9,
+   "medium": 4,
+   "high": 0
   },
-  "posted": 1,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 102 (char 2259)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 4172)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 142 (char 3419)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 4469)"
   ],
-  "time": "2026-11-01T23:58:57+00:00"
+  "time": "2026-11-02T00:57:23+00:00"
  }
 }
