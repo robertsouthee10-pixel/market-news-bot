@@ -1,21 +1,5 @@
 {
  "seen": {
-  "dcc2e8924a669763": 1793326641.815921,
-  "1ea0a013bf9d69ac": 1793326641.815927,
-  "04989bb9319d07d4": 1793326641.8159344,
-  "7611a2b232df0a85": 1793326643.120235,
-  "52a6425104caea84": 1793326644.7636373,
-  "645777c5df6bf00f": 1793326644.7636642,
-  "d9064d33ccbad3fb": 1793326644.763668,
-  "493f9018d820ecec": 1793326644.7636743,
-  "38b060b3896fe9ee": 1793326645.9926898,
-  "857bba62251497ac": 1793326645.9927163,
-  "4fa5b53b2e925c3d": 1793326647.215549,
-  "a3b44c7a97e7a8e2": 1793326647.2155726,
-  "bb9c49e34839101a": 1793326648.516847,
-  "813d2fd3610350f1": 1793326648.5168757,
-  "0644665940634d89": 1793326648.5168843,
-  "2906e36eb0298822": 1793326648.5168872,
   "bdf65f72471dbd1f": 1793332362.6741936,
   "5676c085fbc6e991": 1793332362.6742182,
   "d448f49082d107b7": 1793332363.9591386,
@@ -3308,13 +3292,34 @@
   "8e93e39d965a7bb4": 1793584649.4151402,
   "8e6a927c040ca5e9": 1793584649.415162,
   "e66a7f8831d97911": 1793584650.7285004,
-  "fe01889acad1fde2": 1793584650.7285266
+  "fe01889acad1fde2": 1793584650.7285266,
+  "ea4c04eec03d5bcd": 1793587535.4403431,
+  "16d5e386842ee218": 1793587535.4403527,
+  "50f852be2e9a090f": 1793587535.440356,
+  "bd365dfb4d631a06": 1793587536.7191083,
+  "83d2a10a0318e6e4": 1793587536.7191327,
+  "04335bfa11da4d1a": 1793587536.7191417,
+  "defed00c53fd0a69": 1793587537.983658,
+  "7b9ed6f38545b75e": 1793587537.9836786,
+  "3af104b844e4b6a5": 1793587537.9836855,
+  "ffb924b505b6068e": 1793587537.9836879,
+  "988ff539c53af311": 1793587537.9836907,
+  "6eadce1dc97c9af6": 1793587537.9836931,
+  "80aea6340eb3d4a6": 1793587539.20902,
+  "79dd81d239196b1f": 1793587539.2090418,
+  "e04b28291c0d32bf": 1793587539.2090445,
+  "4f60db4dff8b9816": 1793587539.2090483,
+  "00567f59a9e58f7d": 1793587539.209051,
+  "ce2e2b3d67b093cc": 1793587539.2090533,
+  "6ae2d4a2be46ae63": 1793587539.2090552,
+  "5fba3129d9231034": 1793587539.209057,
+  "ef218bd6f2063e11": 1793587539.209059,
+  "a2d5eae7f3392347": 1793587539.209061,
+  "da3ad4908672c755": 1793587540.518218,
+  "c41afedf1475016f": 1793587540.5182369,
+  "520a831bc8488ba7": 1793587540.51824
  },
  "recent": [
-  "Is Nebius Stock a Buy After Its 36% Pullback?",
-  "Araghchi praises Pakistan and Qatar mediation, setting condi",
-  "AI Bubble Fears Spark Bailout Debate As Trump Eyes Government Stakes",
-  "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
   "Netanyahu uses election deadlock to ramp up Iran war threats and retain power",
   "World War III: Could Americans be called up for war as Trump abruptly cancels campaign rallies amid Iran t",
   "Trump favors diplomacy with Iran as Netanyahu presses for strikes, report says",
@@ -3350,24 +3355,29 @@
   "CENTCOM Accuses Iran of Attacking Gulf Civilians and Killing More Than 20 Mariners",
   "Trump: Washington still has 'one or two targets' in Iran",
   "KOSPI Reverses Slump, Rises Amid U.S. Semiconductor Decline",
-  "UAE 'braced for worst' as Qatar mediates US-Iran talks to reopen Strait of Hormuz"
+  "UAE 'braced for worst' as Qatar mediates US-Iran talks to reopen Strait of Hormuz",
+  "Iran's top diplomat hopes US shows 'rationality', and other Mideast news, World News",
+  "Gold Price Today: Bullion jumps 1% above $3,900 after hitting 1-year low as US dollar weakens",
+  "Oman rescues 25 from burning ship as Iran Guards halt four tankers",
+  "Did Netanyahu push Trump to attack Iran immediately once US 'midterms' are over? Here's what report claims"
  ],
  "initialized": true,
  "last_alert": 1793581014.0867302,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 95,
-  "new": 66,
+  "fetched": 109,
+  "new": 73,
   "rated": {
-   "low": 22,
-   "medium": 16,
-   "high": 3
+   "low": 18,
+   "medium": 7,
+   "high": 0
   },
-  "posted": 10,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2672)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 59 (char 2827)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 57 (char 2395)"
   ],
-  "time": "2026-11-02T01:57:30+00:00"
+  "time": "2026-11-02T02:46:15+00:00"
  }
 }
