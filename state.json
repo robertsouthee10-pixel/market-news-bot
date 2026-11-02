@@ -1,29 +1,5 @@
 {
  "seen": {
-  "bb7436c046686697": 1793340328.738767,
-  "f5655320738b9468": 1793340329.9788973,
-  "829a573d8ce930d3": 1793340331.1976898,
-  "30877aaa56e4c88a": 1793340332.4545286,
-  "32a5810a20ac5e33": 1793340332.4545507,
-  "d840b353283cb012": 1793340332.454556,
-  "5e337bc20a19201f": 1793340332.4545596,
-  "88fc7f0a75df2c96": 1793340332.4545627,
-  "0de2819dfdac8568": 1793340332.4545653,
-  "d9a4c8373f5644c6": 1793340332.4545684,
-  "ce5a3f7fa3a5360a": 1793340332.454572,
-  "7a8283e32603cd91": 1793340332.4545755,
-  "5b2869d69b36159d": 1793340333.6827118,
-  "9bb042d3c1afc173": 1793340333.6827335,
-  "55ff19032633d096": 1793340333.682738,
-  "c26cf891973d8642": 1793340333.6827478,
-  "b554f0691e4a8935": 1793340333.6827517,
-  "3b63be10ceabfdaf": 1793340333.6827545,
-  "607fb2b82e95b502": 1793340333.68276,
-  "da1e9f5eb34efe63": 1793340333.6827633,
-  "14e163d3d3255eb7": 1793340333.6827674,
-  "86ce1e0e9c3b069a": 1793340333.6827705,
-  "b92f60619ab8800e": 1793340333.6827738,
-  "7502c0d8207b94e3": 1793340333.682776,
   "e80347e540d4a1db": 1793343440.6047316,
   "ffe9622e3c3a95b6": 1793343441.8971765,
   "d1586b344d1525fd": 1793343443.1341727,
@@ -3347,20 +3323,21 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 162,
-  "new": 142,
+  "fetched": 145,
+  "new": 125,
   "rated": {
-   "low": 31,
-   "medium": 11,
+   "low": 0,
+   "medium": 0,
    "high": 0
   },
-  "posted": 8,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 97 (char 3541)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 102 (char 3758)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 142 (char 3754)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 56 (char 1983)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 142 (char 4374)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 144 (char 4243)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 141 (char 2310)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4719)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 57 (char 2747)"
   ],
-  "time": "2026-11-02T05:39:42+00:00"
+  "time": "2026-11-02T06:41:36+00:00"
  }
 }
