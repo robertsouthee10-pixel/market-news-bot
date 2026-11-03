@@ -2973,7 +2973,21 @@
   "287ae7996f6b5592": 1793666824.533838,
   "5d5d57a50e417156": 1793666824.5338411,
   "48d009504df4414e": 1793666824.5338447,
-  "f3ff5481d0f2d93a": 1793666824.5338473
+  "f3ff5481d0f2d93a": 1793666824.5338473,
+  "3bfe233c749ba3d3": 1793670533.6605895,
+  "37f430264b35dd9d": 1793670533.6605954,
+  "23b18228ffbae6eb": 1793670533.6606007,
+  "b037622af9185ea6": 1793670533.660603,
+  "1a824b5653b532d7": 1793670533.6606052,
+  "ebe73968ba1222f3": 1793670533.6606078,
+  "b76bdc809b6bebde": 1793670533.66061,
+  "8a786c68a2d08674": 1793670533.6606119,
+  "be8cfee701fa1633": 1793670533.6606135,
+  "5091a723a8df58e6": 1793670533.6606157,
+  "711890061b50b5a3": 1793670533.6606178,
+  "17b369cacce583f7": 1793670533.6606193,
+  "5eac1729ee164ff5": 1793670533.6606212,
+  "ed1e49aebf654772": 1793670533.6606233
  },
  "recent": [
   "Investors brace for midterms as markets face a perfect storm, Musk in talks to buy Boost Mobile",
@@ -3022,21 +3036,22 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 216,
-  "new": 155,
+  "fetched": 225,
+  "new": 164,
   "rated": {
-   "low": 22,
-   "medium": 6,
-   "high": 2
+   "low": 12,
+   "medium": 2,
+   "high": 0
   },
-  "posted": 5,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 60 (char 3226)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 59 (char 239)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 98 (char 4699)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2936)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 140 (char 3245)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 2964)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 102 (char 4369)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 142 (char 2878)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 97 (char 4621)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 4174)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 142 (char 3938)"
   ],
-  "time": "2026-11-03T00:47:04+00:00"
+  "time": "2026-11-03T01:48:53+00:00"
  }
 }
