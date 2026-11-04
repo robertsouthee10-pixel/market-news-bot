@@ -1,17 +1,5 @@
 {
  "seen": {
-  "055716dca64f8f16": 1793502293.0918772,
-  "14d3d11ce1c3c198": 1793502293.091889,
-  "92807cee017e2684": 1793502293.0918932,
-  "be9a0246a70d6107": 1793502294.7129493,
-  "fb1a4a204c8f7fff": 1793502294.7129748,
-  "464c783ec5ccce88": 1793502296.1617913,
-  "b4312c5607a0d2d1": 1793502297.412587,
-  "05d3fad374c36bcf": 1793502298.6461046,
-  "bd3ea644398def47": 1793502299.9221637,
-  "597ff708253ac9d3": 1793502299.9221835,
-  "5a36431560f616fb": 1793502299.9221869,
-  "b47ea17f78705751": 1793502299.9221897,
   "4b193fa8eaf4b669": 1793505218.9026785,
   "e6d57d588d1acb4f": 1793505220.1736684,
   "a5184634338edffe": 1793505220.1736887,
@@ -3596,13 +3584,19 @@
   "ce7f8dd52bc778fe": 1793757768.6617777,
   "5fa151c1688ba928": 1793757768.66178,
   "7f200ac8f3171447": 1793757769.9790068,
-  "6ce5c765f5ccc7ab": 1793757769.9790268
+  "6ce5c765f5ccc7ab": 1793757769.9790268,
+  "3b31bedeb15b35af": 1793763387.797329,
+  "03080b6e7fce3c97": 1793763389.0675578,
+  "4d94e05d23319031": 1793763390.4212372,
+  "ac46a0f4b01deb19": 1793763390.4212592,
+  "b7a516601ca1c3e0": 1793763390.4212637,
+  "46667b523e1f119f": 1793763390.4212716,
+  "057c70f7961c0e2c": 1793763391.7329876,
+  "a600a15d1730d6c6": 1793763393.083018,
+  "6c60371dfcb88396": 1793763393.083042,
+  "9803440332d4f774": 1793763393.0830455
  },
  "recent": [
-  "WASHINGTON — Voters struggling with high prices and angry over the Iran war will decide Tuesday whether to drastically shift power in Washington in midterm elections that will serve as a referendum on President Donald Trump's second term.",
-  "Iran Guards warn response to attacks will have no geographic limits",
-  "US tech stocks recover after selloff spooks investors over AI spending",
-  "Israel privately warns Iran is considering use of chemical weapons: report",
   "Broadcom (NASDAQ:AVGO) Shares Up 3.1% - Here's Why",
   "Iran sets price of November light crude for Asia at $6.90 a barrel below Oman/Dubai average",
   "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
@@ -3638,27 +3632,30 @@
   "Ringgit strengthens as easing US-Iran tensions weigh on US dollar",
   "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz",
   "Japan futures fall for 4th session on lower oil prices",
-  "Dollar dips with US midterm results in focus"
+  "Dollar dips with US midterm results in focus",
+  "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; AMD, Arista Rise On Earnings",
+  "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+  "Trump confirms strikes on Iran as Tehran warns against return to war",
+  "US and Iran Are Reviewing Proposals to End War"
  ],
  "initialized": true,
  "last_alert": 1793754350.152688,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 174,
-  "new": 98,
+  "fetched": 130,
+  "new": 85,
   "rated": {
-   "low": 0,
-   "medium": 0,
-   "high": 0
+   "low": 5,
+   "medium": 3,
+   "high": 2
   },
-  "posted": 0,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4778)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 98 (char 3460)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 150 (char 3878)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 142 (char 4700)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3448)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3153)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 97 (char 2816)"
   ],
-  "time": "2026-11-04T02:51:54+00:00"
+  "time": "2026-11-04T03:36:33+00:00"
  }
 }
