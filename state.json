@@ -1,25 +1,5 @@
 {
  "seen": {
-  "eda4d06b9cd796e6": 1793499318.7578793,
-  "178f2d28ab3388d9": 1793499318.7579095,
-  "6d22d4901d701d40": 1793499318.7579126,
-  "ebc395b8bbe2a9b3": 1793499318.757917,
-  "535bbcd77e9af82f": 1793499318.7579198,
-  "0d0867a75d7eeaad": 1793499318.757922,
-  "56b2987df51a42f7": 1793499318.7579246,
-  "57f342855f77f3e9": 1793499318.7579267,
-  "41dd4ab2426112cc": 1793499320.07683,
-  "73eab2e99c38f371": 1793499321.3463,
-  "59d0e6639a2b5bbf": 1793499321.3463228,
-  "e9a824b29d9ae1ab": 1793499321.3463259,
-  "8f9e6d06a229423f": 1793499321.346329,
-  "963ff98e91896945": 1793499321.346332,
-  "39ae02f56de7d3e7": 1793499322.777518,
-  "e68b5ed22fbd3d6d": 1793499322.7775402,
-  "42f64ec065bb4801": 1793499322.777543,
-  "e451e3dcbbd81f25": 1793499322.7775462,
-  "9c765e1535590b98": 1793499322.777554,
-  "d2cfb29570994ba5": 1793499322.7775571,
   "055716dca64f8f16": 1793502293.0918772,
   "14d3d11ce1c3c198": 1793502293.091889,
   "92807cee017e2684": 1793502293.0918932,
@@ -3665,20 +3645,20 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 203,
-  "new": 110,
+  "fetched": 174,
+  "new": 98,
   "rated": {
-   "low": 8,
-   "medium": 2,
+   "low": 0,
+   "medium": 0,
    "high": 0
   },
-  "posted": 2,
+  "posted": 0,
   "errors": [
-   "Claude: ValueError: no JSON array in model reply: ",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 100 (char 4719)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 100 (char 4454)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 143 (char 3899)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4778)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 98 (char 3460)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 150 (char 3878)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 142 (char 4700)"
   ],
-  "time": "2026-11-04T02:02:49+00:00"
+  "time": "2026-11-04T02:51:54+00:00"
  }
 }
