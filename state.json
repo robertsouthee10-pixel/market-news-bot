@@ -1,13 +1,5 @@
 {
  "seen": {
-  "c259255fb4ee9b5a": 1793517855.6457958,
-  "a835513959aff00e": 1793517855.6458018,
-  "2fe074e2dced40f7": 1793517856.961916,
-  "a45bef0f7bd75597": 1793517856.9619367,
-  "d6725cc62777b803": 1793517858.310728,
-  "03e3303ef0a77958": 1793517858.3107512,
-  "39bc56f140f25fe2": 1793517858.3107572,
-  "4b7956cfd48e18f8": 1793517858.3107667,
   "c15d11c04974f27a": 1793520949.8829987,
   "e6b7317554ccdfea": 1793520949.8830042,
   "91860af6138cee35": 1793520949.8830068,
@@ -3559,13 +3551,25 @@
   "121fd8dd1b1883fb": 1793774145.6451206,
   "4e65462373651ec6": 1793774145.6451228,
   "36cb55d20c529135": 1793774146.8871932,
-  "ad4905b56ed2477b": 1793774146.8872044
+  "ad4905b56ed2477b": 1793774146.8872044,
+  "55fddd624f69ab11": 1793778869.9601092,
+  "4bd262d88cf2e3bb": 1793778869.9601178,
+  "93cf99b57bd8b027": 1793778871.0881703,
+  "89ddedb256b6e334": 1793778871.088191,
+  "6453ec332107f527": 1793778872.2333996,
+  "1faba54699827d8b": 1793778872.2334194,
+  "a5a985bfea87d5fc": 1793778872.2334228,
+  "9eade5244202adf5": 1793778872.233427,
+  "ce25144605c94852": 1793778872.2334297,
+  "49ab672aee76c64b": 1793778873.4468849,
+  "2f2b763ad89e4b46": 1793778874.5928986,
+  "d015e1a56029f496": 1793778874.5929193,
+  "28b381f2f5bd54f6": 1793778874.592924,
+  "a76dffbb91526179": 1793778874.5929282,
+  "3e942fc5cf09cc3a": 1793778874.592931,
+  "141cbcc43c185f6e": 1793778874.5929337
  },
  "recent": [
-  "AMD Says OpenAI’s First Custom AI Chips Run on EPYC CPUs",
-  "U.S. Export Controls Delay SK Hynix's $45 Billion New York Investment",
-  "U.S.-Iran tensions persist as midterms unfold, regional mediation continues",
-  "Oil Edges Higher as Progress on US-Iran Talks Remains Mixed",
   "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules?",
   "Mohammad Bagher Qalibaf Says Iran Delivered Strong Response as Qatar Mediates Iran-U.S. Talks",
   "New York stock market mixed amid midterm election uncertainty; Nasdaq rises 0.8% : Finance : JKN",
@@ -3601,28 +3605,33 @@
   "US Democrats set to take House majority, wresting control from Republicans",
   "Qatar intensifies mediation efforts to end US-Iran crisis",
   "Democrats win the House and Senate. Here’s what it means for your finances.",
-  "Big Tech is spending more than ever on AI — why is the Nasdaq 100 falling?"
+  "Big Tech is spending more than ever on AI — why is the Nasdaq 100 falling?",
+  "Iran's Ghalibaf says US voters oppose war, warns of \"nightmare\" response",
+  "Democrats Win Midterms, Driving Gold Up Over $100 Intraday Back Above $4,000",
+  "Explainer: Post-midterm dilemma -- Will Trump order renewed strikes against Iran?",
+  "European Gas Market Braces for Trump's Next Move on Iran After Midterms"
  ],
  "initialized": true,
- "last_alert": 1793766792.0516965,
+ "last_alert": 1793778778.3388162,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 166,
-  "new": 139,
+  "fetched": 176,
+  "new": 166,
   "rated": {
-   "low": 12,
-   "medium": 2,
-   "high": 0
+   "low": 10,
+   "medium": 4,
+   "high": 2
   },
-  "posted": 2,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 56 (char 2035)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 143 (char 4816)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3244)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 100 (char 3600)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4628)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2838)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 59 (char 3088)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3299)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4362)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4322)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4477)"
   ],
-  "time": "2026-11-04T06:35:46+00:00"
+  "time": "2026-11-04T07:54:34+00:00"
  }
 }
