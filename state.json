@@ -1,23 +1,5 @@
 {
  "seen": {
-  "6572deda697fe500": 1793606759.6012661,
-  "8141c7b656a0ee97": 1793606760.8656116,
-  "1b07090967a571c7": 1793606762.0405982,
-  "f6b6e3789955ec7c": 1793606762.0406206,
-  "4953d770be0f60b6": 1793606762.040624,
-  "b5279af057c5a476": 1793606762.040628,
-  "fe4660bd093c3273": 1793606763.2304964,
-  "cbd78709c2109163": 1793606764.4295707,
-  "f50f95a824b549d3": 1793606764.429594,
-  "ccd09478fc025741": 1793606764.429598,
-  "a35ce18422dd43c1": 1793606764.4296067,
-  "ebf7a5b1b64545e8": 1793606764.4296095,
-  "57d77d57f79e32af": 1793606765.8587184,
-  "30265c6bfd39935e": 1793606765.8587422,
-  "26d9f2aae2f6bd81": 1793606765.8587482,
-  "71fdd15a756464aa": 1793606765.858751,
-  "6a58843e523b006b": 1793606765.8587534,
-  "c5bf4522c524e8a7": 1793606765.8587556,
   "c68b3db4ceb03cee": 1793610394.1537678,
   "e90ac3f134a4449c": 1793610394.1537738,
   "dab91a5092d1b577": 1793610394.1537774,
@@ -4856,12 +4838,14 @@
   "AMD Stock Jumped After Its Report. I'd Wait for a Lower Price to Buy."
  ],
  "initialized": true,
- "last_alert": 1793855948.8067553,
+ "last_alert": 1793868225.0745218,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 187,
-  "new": 148,
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
+  ],
+  "fetched": 173,
+  "new": 149,
   "rated": {
    "low": 0,
    "medium": 0,
@@ -4869,13 +4853,13 @@
   },
   "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2648)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 59 (char 2589)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 98 (char 5064)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 3285)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 4937)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 102 (char 2913)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 4185)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 3580)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 100 (char 4590)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 100 (char 2595)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 100 (char 2531)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 97 (char 3128)"
   ],
-  "time": "2026-11-05T07:47:27+00:00"
+  "time": "2026-11-05T08:45:06+00:00"
  }
 }
