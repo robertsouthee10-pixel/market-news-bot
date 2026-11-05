@@ -1,8 +1,5 @@
 {
  "seen": {
-  "5e5a74546090e6ce": 1793594332.4289377,
-  "1fc72ba96df21efb": 1793594333.6713843,
-  "43cd6ebde903474c": 1793594333.671403,
   "24c08d22f8ab215b": 1793597910.3881435,
   "94f26b4380fa2fde": 1793597910.388148,
   "841bc49a790b7de1": 1793597910.3881502,
@@ -4827,10 +4824,13 @@
   "88402e6f5f0b37b4": 1793852225.7720585,
   "8b72ff82dbfb6f25": 1793852225.7720604,
   "cd187b0de350f1dd": 1793852225.7720625,
-  "14d4ad676a09da89": 1793852225.772065
+  "14d4ad676a09da89": 1793852225.772065,
+  "98896893c87662ec": 1793856034.4486854,
+  "aad41e4aec06d5d1": 1793856034.448692,
+  "f5f5bda94bcccfef": 1793856035.686058,
+  "b4a98a47bae0b83a": 1793856035.6860693
  },
  "recent": [
-  "UAE weighs third crude oil pipeline to Fujairah to bypass Strait of Hormuz",
   "‘If I had to do it again, I will…’: Trump refuses to back down on Iran war after Vance’s claim",
   "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
   "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
@@ -4869,27 +4869,30 @@
   "Vance’s Break With Trump on Iran Follows Weeks of Handwringing Over War | Hindustan Times",
   "Trump Will Attack Iran Again",
   "Gold surges above US$4,000 as weaker dollar powers ASX miners",
-  "US Midterm Election Results Impact: Street cheers Trump's loss! Sensex jumps 1,600 points, Nifty at 24,300 - Top factors"
+  "US Midterm Election Results Impact: Street cheers Trump's loss! Sensex jumps 1,600 points, Nifty at 24,300 - Top factors",
+  "S. Korea to deploy military mission to help keep Strait of Hormuz open"
  ],
  "initialized": true,
- "last_alert": 1793841478.8906307,
+ "last_alert": 1793855948.8067553,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 207,
-  "new": 148,
+  "fetched": 208,
+  "new": 154,
   "rated": {
-   "low": 40,
-   "medium": 8,
+   "low": 3,
+   "medium": 1,
    "high": 0
   },
-  "posted": 4,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 99 (char 1701)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3371)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 98 (char 3339)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3087)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4538)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3441)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3575)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3906)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 59 (char 2154)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3678)"
   ],
-  "time": "2026-11-05T04:17:05+00:00"
+  "time": "2026-11-05T05:20:35+00:00"
  }
 }
