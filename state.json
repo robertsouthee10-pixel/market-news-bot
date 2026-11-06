@@ -5674,11 +5674,20 @@
   "b405ea7fbf787c0a": 1793938730.054768,
   "f83ffe08f21292b1": 1793938731.2733302,
   "59a9d59b01338aa0": 1793938731.27335,
-  "663d1efe4aa9c29d": 1793938731.2733529
+  "663d1efe4aa9c29d": 1793938731.2733529,
+  "02014741bd76e741": 1793942535.6977515,
+  "919090914420d9b0": 1793942535.6977572,
+  "d7f4734d35775ec6": 1793942535.6977603,
+  "46455d93c77d0440": 1793942535.697764,
+  "1378bc5da673bc1d": 1793942535.6977658,
+  "97eae6846d95df87": 1793942535.6977675,
+  "300c9cd57d1f93b2": 1793942535.6977692,
+  "fa26360cd947e709": 1793942536.9442494,
+  "613aff41674ed909": 1793942536.9442728,
+  "7433ed9e6263df67": 1793942536.9442763,
+  "3c9900b3f3d7af98": 1793942538.2551842
  },
  "recent": [
-  "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
-  "The Pound loses its BoE hike bounce before Friday's US payrolls",
   "Cleveland Fed President Hammack: \"Tightening Needed to Bring Inflation Back to 2%\" : Economy : JKN",
   "Mexican Peso reels as Banxico's surprise rate cut fuels easing bets",
   "Trump Says He May Have To ‘Destroy the Entire Country’ of Iran in Latest Threat",
@@ -5716,27 +5725,30 @@
   "No negotiations till US fulfils seven conditions: Iran security chief says Russia condemned US-Israel strikes",
   "Federal Reserve’s Hammack, Barkin favour gradual rate-hike path to lower inflation",
   "Hormuz Tanker Attacks Escalate as Iran Maintains Pressure After US Vote by Amit Gupta, Kedia Advisory",
-  "Gold eases on inflation worries from higher oil as US payrolls data in focus"
+  "Gold eases on inflation worries from higher oil as US payrolls data in focus",
+  "Global Markets Worry About Growth and Inflation as Oil Prices Ease",
+  "Oil Extends Rebound on Uncertainty Over Iran War Peace Progress"
  ],
  "initialized": true,
  "last_alert": 1793931966.4567735,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 172,
-  "new": 110,
+  "fetched": 181,
+  "new": 136,
   "rated": {
-   "low": 6,
-   "medium": 3,
+   "low": 8,
+   "medium": 2,
    "high": 1
   },
   "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2716)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 140 (char 3701)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3942)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 140 (char 3254)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 98 (char 1843)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 141 (char 3256)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 142 (char 4319)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 100 (char 5107)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 106 (char 2438)"
   ],
-  "time": "2026-11-06T04:18:51+00:00"
+  "time": "2026-11-06T05:22:18+00:00"
  }
 }
