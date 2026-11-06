@@ -5664,11 +5664,19 @@
   "b882086fcfd771d7": 1793935176.5305328,
   "67defcb6c3b6ad9e": 1793935176.5305579,
   "1f86c2bfbc70c27e": 1793935176.5305748,
-  "b654f5b34824e443": 1793935176.5306249
+  "b654f5b34824e443": 1793935176.5306249,
+  "3855f9e3bc8440bb": 1793938728.7755527,
+  "851bfbcfea5d7576": 1793938728.7755582,
+  "605fd629ce75bd3d": 1793938728.775563,
+  "f9b20704a8aa5dab": 1793938728.7755654,
+  "3dcfca5c9dfbf20b": 1793938730.0547452,
+  "7bf294934a3ff01c": 1793938730.0547628,
+  "b405ea7fbf787c0a": 1793938730.054768,
+  "f83ffe08f21292b1": 1793938731.2733302,
+  "59a9d59b01338aa0": 1793938731.27335,
+  "663d1efe4aa9c29d": 1793938731.2733529
  },
  "recent": [
-  "🇺🇸🇮🇷 If the U.S. hits Iran again, THIS WEEKEND may be the window Russia advised citizens to avoid travel to Iran shortly after a senior Iranian official met Putin. And Axios says the U.S. military is finalizing preparations for a possible return to major combat op",
-  "Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff",
   "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
   "The Pound loses its BoE hike bounce before Friday's US payrolls",
   "Cleveland Fed President Hammack: \"Tightening Needed to Bring Inflation Back to 2%\" : Economy : JKN",
@@ -5706,27 +5714,29 @@
   "Trump signals imminent decision on resuming war with Iran after midterm defeat",
   "Strait of Hormuz tensions escalate as Iran reports fires on three vessels",
   "No negotiations till US fulfils seven conditions: Iran security chief says Russia condemned US-Israel strikes",
-  "Federal Reserve’s Hammack, Barkin favour gradual rate-hike path to lower inflation"
+  "Federal Reserve’s Hammack, Barkin favour gradual rate-hike path to lower inflation",
+  "Hormuz Tanker Attacks Escalate as Iran Maintains Pressure After US Vote by Amit Gupta, Kedia Advisory",
+  "Gold eases on inflation worries from higher oil as US payrolls data in focus"
  ],
  "initialized": true,
  "last_alert": 1793931966.4567735,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 212,
-  "new": 135,
+  "fetched": 172,
+  "new": 110,
   "rated": {
-   "low": 21,
-   "medium": 8,
-   "high": 6
+   "low": 6,
+   "medium": 3,
+   "high": 1
   },
-  "posted": 8,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 146 (char 2991)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 97 (char 3638)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3376)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3713)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2716)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 140 (char 3701)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 3942)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 140 (char 3254)"
   ],
-  "time": "2026-11-06T03:19:36+00:00"
+  "time": "2026-11-06T04:18:51+00:00"
  }
 }
