@@ -1,21 +1,5 @@
 {
  "seen": {
-  "576d8c94554b77ab": 1793698235.5560913,
-  "5b55fd29cb67a1d6": 1793698235.5560968,
-  "0fc1232dbd841706": 1793698236.736241,
-  "761ab78f522413f8": 1793698236.7362716,
-  "8729ba885784a21c": 1793698236.7362778,
-  "72edf31e90228275": 1793698236.7362802,
-  "d12c35bbf931e8d1": 1793698236.7362826,
-  "3bbc718c1c3014b8": 1793698236.7362847,
-  "7b2d86a42c402fb3": 1793698236.7362869,
-  "e63fdbe8e9d281c7": 1793698236.7362912,
-  "ac56e0ffc791ac4b": 1793698236.736294,
-  "b24cb6655fd55a4c": 1793698237.8909945,
-  "29c88b61e9eef2ff": 1793698239.0842645,
-  "c6b8cb65dbf5822f": 1793698239.0842888,
-  "bc152b2c9eee695a": 1793698240.2620218,
-  "874bdff7afba140f": 1793698241.4534698,
   "54b133d7260191e5": 1793701682.3684506,
   "ae27eda783a8ec39": 1793701682.3684561,
   "817670cd8f73ef49": 1793701682.3684592,
@@ -5565,12 +5549,23 @@
   "7bd42f40bd8d1557": 1793954378.644104,
   "8d9a2ca1909eb2d2": 1793954378.644106,
   "ce85a3e8a14a65e4": 1793954380.237981,
-  "daa0462c8f2270e7": 1793954399.3633463
+  "daa0462c8f2270e7": 1793954399.3633463,
+  "02dc02b13fbf0fac": 1793957867.9663267,
+  "a8b07939a7bee283": 1793957867.9663312,
+  "593ede6e8c7d2a82": 1793957867.966334,
+  "92812532a93ce798": 1793957867.9663374,
+  "d2280092bc31eb32": 1793957867.9663396,
+  "b4410d53da80ea1c": 1793957867.9663436,
+  "9c026ac3153dd245": 1793957867.9663458,
+  "58afa79576216a99": 1793957869.276344,
+  "9d7bbdf018f5f755": 1793957869.2763662,
+  "5b3e654a7f3909da": 1793957870.564093,
+  "950356da121a8b9d": 1793957871.8227303,
+  "bce6fd09e98dbff3": 1793957871.8227513,
+  "fc446b402fb2a141": 1793957871.8227563,
+  "b6e4b4f68f359da2": 1793957871.8227596
  },
  "recent": [
-  "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
-  "Stocks slide as Wall Street's post-election rally fizzles",
-  "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
   "Stock Market Today, Nov. 5: Nasdaq Suffers Worst Day in 18 Months as AI Trade Comes Under Fire",
   "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory —  NVDA, AAPL, UBER, SOXX In Focus",
   "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
@@ -5607,24 +5602,27 @@
   "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections",
   "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
   "Japan's Nikkei 225 Drops Amid Global AI and Semiconductor Sell-O",
-  "Iran’s IRGC says two oil tankers hit mines, catch fire in Strait of Hormuz"
+  "Iran’s IRGC says two oil tankers hit mines, catch fire in Strait of Hormuz",
+  "\"I will wipe them off the map for 25 years\": Shocking Trump threats against Iran - Secret Khamenei message to Putin, what Russia is preparing",
+  "Stock market today: Dow, S&P 500, Nasdaq futures wobble after brutal sell-off, with key jobs report on deck",
+  "Bitcoin Falls Below $76,000 as Chip Stocks Crash and Liquidations Hit $1 Billion: Why Is Crypto Down Today?"
  ],
  "initialized": true,
- "last_alert": 1793946187.587545,
+ "last_alert": 1793957856.8509903,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 65,
-  "new": 51,
+  "fetched": 63,
+  "new": 39,
   "rated": {
-   "low": 19,
-   "medium": 5,
-   "high": 2
+   "low": 11,
+   "medium": 3,
+   "high": 0
   },
-  "posted": 5,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 6 column 105 (char 1032)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4761)"
   ],
-  "time": "2026-11-06T08:39:59+00:00"
+  "time": "2026-11-06T09:37:51+00:00"
  }
 }
