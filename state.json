@@ -4928,14 +4928,31 @@
   "4488f2bf715e444e": 1794070848.0204554,
   "61dd48ef5f8bc1f0": 1794070848.020463,
   "4b4ef4a47a65dd4a": 1794072983.0141237,
-  "d46acad8ff622ea3": 1794072984.3735645
+  "d46acad8ff622ea3": 1794072984.3735645,
+  "8ed1f4a109edd88c": 1794075161.3241997,
+  "8da44119558556e4": 1794075161.324208,
+  "880a7302d06404ba": 1794075162.5387013,
+  "d8981386d3ac5269": 1794075162.5387208,
+  "3474f1dda325d8f9": 1794075162.5387275,
+  "77ea56fcf545900c": 1794075162.5387309,
+  "7718c77d68a26484": 1794075163.7979293,
+  "f38a7b7f11ffbcc8": 1794075165.017629,
+  "b2d025608d67e2e8": 1794075165.0176506,
+  "e77ab8b49743b1af": 1794075165.0176554,
+  "9942ddcef8c4b0d3": 1794075165.017659,
+  "43e8c436e6218d87": 1794075165.0176628,
+  "b27ff798e2136b3c": 1794075166.2465637,
+  "70eb3b1feefb0620": 1794075166.2465842,
+  "f5d1aad1a2201534": 1794075166.24659,
+  "fac8cfcd878f3b5e": 1794075167.446762,
+  "79cfebbe59428e63": 1794075167.4467819,
+  "59808a6ea94e2d2e": 1794075167.4467857,
+  "055b57b0c87e4285": 1794075167.446789,
+  "4f4c5175101fd70d": 1794075167.4467921,
+  "294791785e6613dc": 1794075167.4467971,
+  "705f3c28c00b8ba3": 1794075167.4468014
  },
  "recent": [
-  "Trump Insists On Strait Of Hormuz Blockade, Claims 'Nothing Is Going To Iran, No Oil Going There'",
-  "With the semiconductor index at its lowest level in seven months on the New York Stock Exchange, dom..",
-  "Russia sends ninety advanced missile launchers and S-400 systems to Iran",
-  "Iraq in talks with OPEC to increase oil export quota",
-  "Iran shoots down two MQ-9 drones",
   "Wall Street Eyes Inflation Data After Nasdaq Posts Fourth Straight Weekly Loss",
   "US deploys Marines from Japan to Middle East amid tensions with Iran [VIDEO]",
   "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
@@ -4970,26 +4987,31 @@
   "U.S.-Iran tensions intensify amid regional calls for restraint",
   "Iran Reportedly Distributing Iodine Tablets Near Nuclear Sites",
   "US Escalates Iran War After JD Vance Blames It for GOP Losses",
-  "Iranian navy says tanker catches fire after striking sea mine in Strait of Hormuz"
+  "Iranian navy says tanker catches fire after striking sea mine in Strait of Hormuz",
+  "Pezeshkian: Iran to Exit Neither War Nor Peace Status",
+  "Trump stands by Hegseth as GOP criticism mounts and he pushes to restart the Iran war",
+  "Trump unexpectedly canceled a meeting with tech CEOs amid the AI ​​controversy.",
+  "Task Force Iron Gate to Block Weapons and Sanctioned Materials for Iran",
+  "President Trump: Forget the midterms and finish the job in Iran"
  ],
  "initialized": true,
  "last_alert": 1794070818.1010516,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 140,
-  "new": 77,
+  "fetched": 146,
+  "new": 97,
   "rated": {
-   "low": 1,
-   "medium": 0,
+   "low": 15,
+   "medium": 6,
    "high": 1
   },
-  "posted": 1,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3883)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 2992)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4147)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 58 (char 1844)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3409)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 102 (char 3880)"
   ],
-  "time": "2026-11-07T17:36:24+00:00"
+  "time": "2026-11-07T18:12:47+00:00"
  }
 }
