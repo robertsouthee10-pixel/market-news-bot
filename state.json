@@ -5156,10 +5156,34 @@
   "142f7813189078c6": 1794066246.736212,
   "09f4416f8251f023": 1794066246.7362182,
   "39feee5545508087": 1794066246.7362216,
-  "c1b87cd339cebb91": 1794066263.4368508
+  "c1b87cd339cebb91": 1794066263.4368508,
+  "7dedd28b9cd4d9f1": 1794068544.4416664,
+  "b8d0f7e708c432e8": 1794068544.4416718,
+  "67e0537bb52d5e9c": 1794068544.4416764,
+  "c5a3e4994d8069df": 1794068544.4416788,
+  "50b7716308d9d149": 1794068544.4416811,
+  "70400deeb56f7c81": 1794068544.441683,
+  "49f09a16e6c50637": 1794068544.4416857,
+  "5c0d4ba6220e2262": 1794068544.4416876,
+  "142423bebed990fb": 1794068544.441689,
+  "d562f3b042c9050a": 1794068544.441691,
+  "d2c1d1e0391d82cb": 1794068544.4416926,
+  "3f9f5c5aa0cb4a80": 1794068544.4416943,
+  "3fae691c844a157a": 1794068544.4416971,
+  "1a0bb194821d9ad5": 1794068544.4416997,
+  "fe7600dbf241b063": 1794068544.441704,
+  "b50ed9782ba9ad17": 1794068544.4417062,
+  "9f5e9c0cfb41ffda": 1794068544.4417083,
+  "1db0c5ce4bae2a35": 1794068544.441711,
+  "826f0f388fee023b": 1794068545.7635922,
+  "7bb8eca248cfdcdf": 1794068545.7636135,
+  "4fb12fa4ea6e9b69": 1794068545.7636175,
+  "a9285b583bb85d19": 1794068545.763622,
+  "1130b5b3847bf89c": 1794068545.7636268,
+  "9057f3258fadf654": 1794068545.7636292,
+  "24da6d1b799e0972": 1794068545.7636316
  },
  "recent": [
-  "Iran Says Its Missile Production Cannot Be Stopped",
   "Survey Shows OPEC Output Neared Pre-War Levels",
   "Tech companies face mounting child safety lawsuits while pushing AI into schools",
   "Trump advisers told him he has until new Congress to restart major Iran operations — report",
@@ -5198,24 +5222,27 @@
   "Iran lifts self-imposed limit on missile range: IRGC",
   "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week",
   "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia",
-  "UAE Official Expresses Cautious Optimism on US-Iran Negotiations Amid Regional Tensions"
+  "UAE Official Expresses Cautious Optimism on US-Iran Negotiations Amid Regional Tensions",
+  "U.S.-Iran tensions intensify amid regional calls for restraint"
  ],
  "initialized": true,
  "last_alert": 1794058676.3007305,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 179,
-  "new": 101,
+  "fetched": 168,
+  "new": 100,
   "rated": {
-   "low": 60,
-   "medium": 13,
-   "high": 3
+   "low": 21,
+   "medium": 3,
+   "high": 1
   },
-  "posted": 9,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 140 (char 4835)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3216)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 99 (char 3422)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 3135)"
   ],
-  "time": "2026-11-07T15:44:23+00:00"
+  "time": "2026-11-07T16:22:25+00:00"
  }
 }
