@@ -5228,7 +5228,9 @@
   "52fe04cf7842a271": 1794018493.9136503,
   "dcefbb4c0116e5a8": 1794018493.913657,
   "8a440bd09a6de690": 1794018493.9136615,
-  "420e2f1ee7edfa6d": 1794018493.9136667
+  "420e2f1ee7edfa6d": 1794018493.9136667,
+  "a5f040fe858be94c": 1794021597.2697911,
+  "0afe49a21d2404c2": 1794021597.2697995
  },
  "recent": [
   "Dollar sees best day since June after stellar jobs report, set for weekly gain",
@@ -5273,22 +5275,23 @@
   "Explainer: Why Wall Street’s sell-off is spreading to Europe and worrying Gulf investors"
  ],
  "initialized": true,
- "last_alert": 1794009201.8563194,
+ "last_alert": 1794021563.2252614,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 158,
-  "new": 72,
+  "fetched": 137,
+  "new": 77,
   "rated": {
-   "low": 12,
-   "medium": 12,
-   "high": 1
+   "low": 2,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 7,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3035)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4296)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 144 (char 5007)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3763)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4402)"
   ],
-  "time": "2026-11-07T02:28:30+00:00"
+  "time": "2026-11-07T03:19:57+00:00"
  }
 }
