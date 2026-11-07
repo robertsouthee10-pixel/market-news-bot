@@ -1,15 +1,5 @@
 {
  "seen": {
-  "4a61d16c4ea45e20": 1793757767.319939,
-  "39298e20f71d49bd": 1793757768.6617405,
-  "486253a70e54ae27": 1793757768.6617658,
-  "6818e7908cf7c0f4": 1793757768.6617692,
-  "0f1926c1d28cbe62": 1793757768.6617718,
-  "50c1f7fc26eade9d": 1793757768.6617744,
-  "ce7f8dd52bc778fe": 1793757768.6617777,
-  "5fa151c1688ba928": 1793757768.66178,
-  "7f200ac8f3171447": 1793757769.9790068,
-  "6ce5c765f5ccc7ab": 1793757769.9790268,
   "3b31bedeb15b35af": 1793763387.797329,
   "03080b6e7fce3c97": 1793763389.0675578,
   "4d94e05d23319031": 1793763390.4212372,
@@ -5213,16 +5203,34 @@
   "49613d5859748d3c": 1794015704.4294326,
   "f7b1222eeebb949d": 1794015704.429452,
   "f26ecc7fe3f8215c": 1794015704.4294553,
-  "ccdc652997bbf6bd": 1794015704.4294589
+  "ccdc652997bbf6bd": 1794015704.4294589,
+  "016099f2f2f25d5e": 1794018484.99371,
+  "db87aceb81286c8b": 1794018484.993715,
+  "54512fd47a08e079": 1794018486.2976644,
+  "3060c8ab2ae6e736": 1794018487.5418675,
+  "1c9fa3e0f1a2d426": 1794018487.5418909,
+  "053aa27a0dda8204": 1794018487.5418937,
+  "19eb0d50e4040000": 1794018487.5418963,
+  "86e140475ee40c74": 1794018487.541901,
+  "d40da176d1a7c94f": 1794018487.541904,
+  "e901387585d04215": 1794018488.8421671,
+  "da12f0fec868d1bf": 1794018488.8421912,
+  "1a77ecf5202d593d": 1794018488.8421962,
+  "0cf9e8c33b28504a": 1794018488.8421998,
+  "2bd3c154b88c406f": 1794018490.0794823,
+  "8109e7d2a4c5a5b6": 1794018491.3546858,
+  "bc0531b587251c68": 1794018491.354709,
+  "02f08a162cf9b13b": 1794018491.354712,
+  "bb8eef59384b8fd6": 1794018492.5890841,
+  "fd01b749160f0555": 1794018492.589105,
+  "cd95664c6d3ee9dd": 1794018492.5891073,
+  "c7470e3729728702": 1794018493.9136252,
+  "52fe04cf7842a271": 1794018493.9136503,
+  "dcefbb4c0116e5a8": 1794018493.913657,
+  "8a440bd09a6de690": 1794018493.9136615,
+  "420e2f1ee7edfa6d": 1794018493.9136667
  },
  "recent": [
-  "Trump weighs Iran war decision",
-  "Pentagon says US troops are poised to strike Iran. Then 5 tankers are hit in the Strait of Hormuz",
-  "Iran’s army warns of possible renewed US attack despite reported naval withdrawal",
-  "Wall Street Buys Back Into AI Stocks, Sending Nasdaq Up 1.1%",
-  "Trump mixes Iran threats with diplomacy as Qatar's Al Thani seeks to 'bridge differences'",
-  "Lam Research (NASDAQ:LRCX) Shares Climb 8.2% After Dividend Announcement",
-  "Explosions heard near Strait of Hormuz - IRGC outlet",
   "Dollar sees best day since June after stellar jobs report, set for weekly gain",
   "Iran’s Supreme Leader Asks Russia for S-400 Air Defense Systems in Personal Letter",
   "Explosions Reported On Iran’s Qeshm Island",
@@ -5255,24 +5263,32 @@
   "Concerns over a nuclear attack are growing! Claim that Iran has begun distributing iodine tablets to its citizens",
   "At Least 25 seafarers killed in Strait of Hormuz amid US-Iran conflict",
   "Iran demands action by US to resume diplomacy",
-  "Trump said to weigh next Iran steps amid divided team"
+  "Trump said to weigh next Iran steps amid divided team",
+  "Nasdaq rebounds 1% after worst session in 18 months as traders buy beaten‑down tech",
+  "US offers $20M reward for info on 'Iran's nuclear program': CENTCOM",
+  "Anthropic IPO to test AI sector valuation with NASDAQ listing",
+  "US Iran War",
+  "Trump discusses West Asia de-escalation with Qatar's emir; at least 30 killed in airstrikes in Yemen",
+  "Wall Street grapples with US$5.7 tril rout as AI bets unwind",
+  "Explainer: Why Wall Street’s sell-off is spreading to Europe and worrying Gulf investors"
  ],
  "initialized": true,
  "last_alert": 1794009201.8563194,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 153,
-  "new": 97,
+  "fetched": 158,
+  "new": 72,
   "rated": {
-   "low": 54,
-   "medium": 17,
+   "low": 12,
+   "medium": 12,
    "high": 1
   },
-  "posted": 16,
+  "posted": 7,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 4 column 188 (char 700)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3035)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4296)"
   ],
-  "time": "2026-11-07T01:41:44+00:00"
+  "time": "2026-11-07T02:28:30+00:00"
  }
 }
