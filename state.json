@@ -1,21 +1,5 @@
 {
  "seen": {
-  "55fddd624f69ab11": 1793778869.9601092,
-  "4bd262d88cf2e3bb": 1793778869.9601178,
-  "93cf99b57bd8b027": 1793778871.0881703,
-  "89ddedb256b6e334": 1793778871.088191,
-  "6453ec332107f527": 1793778872.2333996,
-  "1faba54699827d8b": 1793778872.2334194,
-  "a5a985bfea87d5fc": 1793778872.2334228,
-  "9eade5244202adf5": 1793778872.233427,
-  "ce25144605c94852": 1793778872.2334297,
-  "49ab672aee76c64b": 1793778873.4468849,
-  "2f2b763ad89e4b46": 1793778874.5928986,
-  "d015e1a56029f496": 1793778874.5929193,
-  "28b381f2f5bd54f6": 1793778874.592924,
-  "a76dffbb91526179": 1793778874.5929282,
-  "3e942fc5cf09cc3a": 1793778874.592931,
-  "141cbcc43c185f6e": 1793778874.5929337,
   "3823ddeb7f4d2ba4": 1793781957.7982597,
   "c707b9c0015ba3fd": 1793781957.798267,
   "3250376108b44ccd": 1793781959.163602,
@@ -5288,7 +5272,9 @@
   "8bfde38d7b9b17d4": 1794037235.9694016,
   "c1751a32dfbdbccf": 1794037235.9694037,
   "11485202d214a09d": 1794037235.9694064,
-  "7b3d49a757e1dd4f": 1794037237.2339804
+  "7b3d49a757e1dd4f": 1794037237.2339804,
+  "299942ab3e7dc91c": 1794040194.754399,
+  "ea84d76afe005269": 1794040194.7544122
  },
  "recent": [
   "Nasdaq rebounds 1% after worst session in 18 months as traders buy beaten‑down tech",
@@ -5337,19 +5323,20 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 108,
-  "new": 105,
+  "fetched": 130,
+  "new": 102,
   "rated": {
-   "low": 19,
-   "medium": 10,
-   "high": 1
+   "low": 1,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 8,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4908)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4416)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 97 (char 3274)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 59 (char 4493)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4796)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 56 (char 2042)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4329)"
   ],
-  "time": "2026-11-07T07:40:37+00:00"
+  "time": "2026-11-07T08:29:54+00:00"
  }
 }
