@@ -1,26 +1,5 @@
 {
  "seen": {
-  "98450aea1c423922": 1793789645.3340092,
-  "571250d214f76079": 1793789646.511231,
-  "5c3df46b4eb7c742": 1793789647.729755,
-  "03c14fada1d80de7": 1793789647.7297769,
-  "fdaeecff5155ed0e": 1793789647.7297843,
-  "db0642c1951a0899": 1793789647.7297883,
-  "c6ce3b5cb1c08863": 1793789647.7297914,
-  "7d5c1b10fefe5ed4": 1793789647.7297938,
-  "b217728124534190": 1793789647.7297971,
-  "6567542e689ae27b": 1793789647.7297997,
-  "3b1ba4b2e83fbd0b": 1793789647.7298026,
-  "9012530752671f2e": 1793789647.729805,
-  "1ec97c9e155c70a6": 1793789647.7298079,
-  "c3f26c68d10e615b": 1793789647.72981,
-  "cf7b31f1da79a982": 1793789647.729812,
-  "b84f06460c2b9b61": 1793789647.729814,
-  "0a580042e60595c9": 1793789648.890048,
-  "219f8545161eeb3b": 1793789650.057955,
-  "a9170fca8d0e542a": 1793789650.0579767,
-  "bc5d4409d0543ae2": 1793789651.2239888,
-  "d4f9cade355e2f30": 1793789651.2240112,
   "6ccca02d06887503": 1793792669.9968898,
   "f68a76fa2da702b6": 1793792669.9968953,
   "890aa66eafb11462": 1793792669.9969025,
@@ -5348,11 +5327,35 @@
   "b93f694d8f8a8d80": 1794048609.8892827,
   "dbb326d2358ab443": 1794048609.8892877,
   "7bfdf531b9f14bc5": 1794048609.8892903,
-  "a4b4a02663d1c958": 1794048609.8892999
+  "a4b4a02663d1c958": 1794048609.8892999,
+  "25a45b00eb868fda": 1794050482.289127,
+  "d764c387d62d5300": 1794050482.289157,
+  "bcff8765c5bd3083": 1794050482.2891612,
+  "a3f7223ac9da7227": 1794050482.2891655,
+  "a3ab81208c5eab54": 1794050482.2891686,
+  "2d889939a69912f1": 1794050482.289172,
+  "99bbbdcf66205349": 1794050482.2891746,
+  "89b4c5fd4be61521": 1794050482.2891772,
+  "4abd56fc0a939e41": 1794050482.2891808,
+  "0d491c34a03b1e6c": 1794050482.2891867,
+  "212b7ede906e0b5c": 1794050482.2891896,
+  "b8daf72b9014af0b": 1794050482.289193,
+  "f0c0a4001edcbdcc": 1794050482.289195,
+  "0459e6d0357b2708": 1794050482.2891972,
+  "071cd353a97cb788": 1794050482.2891996,
+  "fdb1bdeed84ca5ae": 1794050482.2892025,
+  "990c602ed636575a": 1794050482.2892046,
+  "32a113cbfe0ffe82": 1794050482.2892067,
+  "ca454e2c1390c066": 1794050482.289209,
+  "27c67df7a93b8037": 1794050482.2892122,
+  "5756010562198b70": 1794050483.66663,
+  "67b13e0b20c9eaf2": 1794050483.6666508,
+  "7e1ccdf19c86c7e7": 1794050483.6666563,
+  "6efb4b85cd7f4cf3": 1794050483.6666598,
+  "f897836fe4f8707a": 1794050483.6666625,
+  "c0da7e1b036f415c": 1794050519.7949553
  },
  "recent": [
-  "Oil Swings as Traders Assess Iran War De-Escalation Prospects",
-  "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
   "U.S. Jobs Report in Focus as Investors Assess December Fed Rate Hike",
   "Qatar Mediates US-Iran Talks Amid Strait of Hormuz Standoff",
   "Qatar Denies Reports That US and Iran Have Failed to Reach an Agreement",
@@ -5390,25 +5393,27 @@
   "US strikes Iran's Qeshm island for second time this week",
   "Iran navy says tanker hits mine, catches fire in Hormuz",
   "Qatar reports progress in US-Iran mediation efforts",
-  "Trump holds phone call with war mediator Qatar Emir"
+  "Trump holds phone call with war mediator Qatar Emir",
+  "Mark Gurman Expects “More Price Increases” on Apple Hardware Through 2027",
+  "'Window for military action narrowing': Trump urged to launch new campaign against Iran before January"
  ],
  "initialized": true,
  "last_alert": 1794046099.9253101,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 144,
-  "new": 94,
+  "fetched": 121,
+  "new": 76,
   "rated": {
-   "low": 35,
-   "medium": 9,
-   "high": 0
+   "low": 22,
+   "medium": 3,
+   "high": 1
   },
-  "posted": 6,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 144 (char 4012)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4773)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 97 (char 3214)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 56 (char 1489)"
   ],
-  "time": "2026-11-07T10:50:09+00:00"
+  "time": "2026-11-07T11:21:59+00:00"
  }
 }
