@@ -4821,7 +4821,17 @@
   "a0d1586acb831e27": 1794080338.7439868,
   "37ef8b4d620aa9d7": 1794080338.74399,
   "a73c67a95ae759d1": 1794080338.7439928,
-  "839a2ee29e75b6af": 1794080338.743996
+  "839a2ee29e75b6af": 1794080338.743996,
+  "d931460dfcbdd619": 1794082490.67468,
+  "c57ba5c28869ab2b": 1794082490.6746867,
+  "3743b58db04d6606": 1794082490.674691,
+  "8831f100f2789b63": 1794082490.6746933,
+  "0083d6077ac1a6d5": 1794082490.6746979,
+  "a5529eba636a7e86": 1794082490.6747003,
+  "8cca0eb7917f655b": 1794082490.6747038,
+  "134cd87160718b5d": 1794082490.6747062,
+  "8e8182ff1783a196": 1794082490.6747088,
+  "6276e3977bccd92c": 1794082490.6747105
  },
  "recent": [
   "US-Iran mediation efforts ongoing to prevent escalation",
@@ -4866,21 +4876,22 @@
   "The US asked Iraq to close most of its border crossings with Iran."
  ],
  "initialized": true,
- "last_alert": 1794070818.1010516,
+ "last_alert": 1794082468.058131,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
   "fetched": 124,
-  "new": 67,
+  "new": 60,
   "rated": {
-   "low": 34,
-   "medium": 7,
-   "high": 1
+   "low": 10,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 7,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2948)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3503)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 126 (char 3552)"
   ],
-  "time": "2026-11-07T19:38:58+00:00"
+  "time": "2026-11-07T20:14:50+00:00"
  }
 }
