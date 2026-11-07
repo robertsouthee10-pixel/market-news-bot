@@ -5254,12 +5254,27 @@
   "3056167184e910bf": 1794030704.0761452,
   "9b730eff000093e9": 1794030704.0761485,
   "0ada9ebd49a61755": 1794030704.0761528,
-  "5d3b034ab3f80541": 1794030704.0761566
+  "5d3b034ab3f80541": 1794030704.0761566,
+  "01beff9cc35d6e9d": 1794033250.7763846,
+  "172763ab1282947f": 1794033250.7763896,
+  "7806ac42863df71a": 1794033252.062195,
+  "3f89e39957a9b07c": 1794033253.2873974,
+  "f8587be6add8776e": 1794033253.2874186,
+  "e0336a8d9a44eb85": 1794033253.287423,
+  "d738f0d73e2f645f": 1794033253.2874262,
+  "9e3bbd98b23eeb04": 1794033253.2874289,
+  "9762bf6dd4e2ed24": 1794033253.2874315,
+  "fa8cf16e1c6af1eb": 1794033253.2874331,
+  "a4b258fd94867523": 1794033253.2874358,
+  "12ec5d02fa9454ff": 1794033254.5903819,
+  "b17155e7b87482a4": 1794033254.590403,
+  "81c9ea097becc94e": 1794033254.5904078,
+  "b4ca2b14f6f70e15": 1794033254.5904117,
+  "b26e8e2dddcb6d5e": 1794033254.5904145,
+  "c5e8b50fff7dff42": 1794033254.5904171,
+  "d75e1166f120367a": 1794033254.5904193
  },
  "recent": [
-  "Nvidia (NVDA) Tightens Chip Tracking In Southeast Asia",
-  "Goldman raises global data center capacity forecast to 273 GW by 2030",
-  "Trump on Iran: \"All we are is an occupier. We control the Hormuz Strait.\"",
   "Strike Iran Before Democrats Take Over? Trump Faces 8-Week Military Deadline",
   "Qatar denies it said Iran and US failed to reach deal",
   "Iran says it downed US MQ-9 over Qeshm Island — Anadolu Agency",
@@ -5296,26 +5311,29 @@
   "U.S. Jobs Report in Focus as Investors Assess December Fed Rate Hike",
   "Qatar Mediates US-Iran Talks Amid Strait of Hormuz Standoff",
   "Qatar Denies Reports That US and Iran Have Failed to Reach an Agreement",
-  "Chip Stocks Recover $500 Billion as Nasdaq-100 Futures Rise 1.5%"
+  "Chip Stocks Recover $500 Billion as Nasdaq-100 Futures Rise 1.5%",
+  "JD Vance in daily contact with Qatari PM, Asim Munir on US-Iran deal: Report",
+  "Trump Says US and Iran Are Talking as Hormuz Mine Attacks Continue",
+  "US-Israel-Iran War Latest News: Trump Confirms Fresh US Strikes On Iran, Says Air Defence System Destroyed"
  ],
  "initialized": true,
- "last_alert": 1794021563.2252614,
+ "last_alert": 1794033207.2932658,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 132,
-  "new": 114,
+  "fetched": 124,
+  "new": 93,
   "rated": {
-   "low": 29,
-   "medium": 10,
-   "high": 0
+   "low": 14,
+   "medium": 3,
+   "high": 1
   },
-  "posted": 7,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4272)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 101 (char 4959)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 100 (char 3036)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 2853)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 144 (char 2960)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 59 (char 3447)"
   ],
-  "time": "2026-11-07T05:51:44+00:00"
+  "time": "2026-11-07T06:34:14+00:00"
  }
 }
