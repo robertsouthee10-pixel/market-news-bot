@@ -4334,11 +4334,17 @@
   "5cb9c0f3ceb4cf14": 1794131495.1132903,
   "847b793f9d26bf59": 1794131496.3023212,
   "b1952b8c14e7b2eb": 1794131497.5958993,
-  "5715527c32260adb": 1794131497.5959234
+  "5715527c32260adb": 1794131497.5959234,
+  "6942f575545d2f0d": 1794133717.921888,
+  "602506b6e0ca3404": 1794133719.1483407,
+  "b81346084adea0ac": 1794133719.1483703,
+  "a3c26e0f71ed3e64": 1794133719.1483738,
+  "844221b2e2b181cd": 1794133719.14838,
+  "0808e9d004543f39": 1794133719.1483831,
+  "1e66c45a31f61633": 1794133719.1483858,
+  "345c3555dfdd61a1": 1794133720.3702772
  },
  "recent": [
-  "Gold prices fall as rising oil prices raise inflation concerns",
-  "Tanker on fire in Strait of Hormuz after hitting naval mine, says Iranian navy",
   "Houthis claim six missile, drone attacks on Saudi Arabia, target Aramco facilities and Riyadh airport",
   "US-Iran Peace Talks Show First Glimmer as Oil Prices Plunge 17% in a Week, Worst Since Pandemic",
   "CENTCOM's land blockade undercuts Vance’s Iran talks, ex-Trump official says",
@@ -4376,24 +4382,27 @@
   "Anthropic lowers its estimated valuation ahead of its Nasdaq listing, amid market turbulence and concerns about AI investments",
   "Weekly Outlook | China and U.S. CPIs released one after another! Earnings reports from CoreWeave, SMIC, and others will be announced in succession; Anthropic could kick off its IPO roadshow as early as next week",
   "Time runs out for Trump as four warring nations count down to coming escalation",
-  "Drone War Enters New Phase: Iran Announces Tracking of US 'Scorpion Strike' Unit"
+  "Drone War Enters New Phase: Iran Announces Tracking of US 'Scorpion Strike' Unit",
+  "Israel defence minister says 'mission not complete' on Iran",
+  "Crew abandon tanker in Hormuz, US strikes bulker in Gulf of Oman"
  ],
  "initialized": true,
- "last_alert": 1794122007.3177383,
+ "last_alert": 1794133695.6442356,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 98,
-  "new": 81,
+  "fetched": 94,
+  "new": 58,
   "rated": {
-   "low": 40,
-   "medium": 13,
-   "high": 3
+   "low": 5,
+   "medium": 3,
+   "high": 0
   },
-  "posted": 12,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3064)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 144 (char 4334)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 7 column 56 (char 1067)"
   ],
-  "time": "2026-11-08T09:51:37+00:00"
+  "time": "2026-11-08T10:28:40+00:00"
  }
 }
