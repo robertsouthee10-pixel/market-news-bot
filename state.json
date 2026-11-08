@@ -3776,15 +3776,37 @@
   "dd389ccdacad8edf": 1794160529.260711,
   "722f961699ce112f": 1794160529.260716,
   "00389ab86479647e": 1794160530.5286195,
-  "24b41db3a4a253e0": 1794160530.5286438
+  "24b41db3a4a253e0": 1794160530.5286438,
+  "e287fb790eba3cbc": 1794162615.5607462,
+  "2951f58fef79e47f": 1794162616.823259,
+  "2ad242a3ba2eb881": 1794162616.8232834,
+  "dbfecb107d5c4a60": 1794162616.8232903,
+  "86ecec705fc4d318": 1794162618.0216832,
+  "a79990d209ed5d5f": 1794162618.0217037,
+  "6ce3f088a3fc4d30": 1794162618.021708,
+  "f04c8e06b81c2985": 1794162618.0217116,
+  "6b613561cb281fdf": 1794162618.0217144,
+  "ca6686018c561ba6": 1794162618.021717,
+  "18b8cd37d6309f1c": 1794162618.0217195,
+  "fe6effd16ccd879c": 1794162618.0217223,
+  "bbefa8cae8485c4a": 1794162618.0217307,
+  "f9365734a03166d4": 1794162618.021734,
+  "78df4728156b232b": 1794162619.2247968,
+  "66818e8e98e9dd42": 1794162619.2248187,
+  "683b417def24be96": 1794162619.2248232,
+  "e4de9b9a6248e7f7": 1794162619.2248292,
+  "b20998084baa281a": 1794162619.2248323,
+  "1d5ee36000082241": 1794162620.4060695,
+  "32736528f1d80b33": 1794162620.4060912,
+  "cade61e64f654bfa": 1794162620.406098,
+  "1e9369c7e42a9212": 1794162620.4061024,
+  "e233fa0ff193a8b9": 1794162620.4061058,
+  "19b4e403b7f5449a": 1794162620.4061089,
+  "f32307d321555b46": 1794162640.5740638,
+  "cc49752b01f3cc3a": 1794162641.787974,
+  "61130803d6b2414e": 1794162643.1964185
  },
  "recent": [
-  "US Disables Cargo Ship Near Iran in Gulf of Oman",
-  "Iran distributes iodine near nuclear sites",
-  "A $57 Billion Storm May Hit Semiconductor Stocks This Week",
-  "AI Power Stocks Just Fell 6.3% to 9.3% on Financing Fears. SpaceX Just Said New Compute Pays Back in Under a Year.",
-  "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-  "Tesla's FSD (Supervised) Attach Rate Hit 75% on New Vehicles. Here's Why That Single Number Could Matter More Than Robotaxi for the Stock in 2027.",
   "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
   "Why Qualcomm Stock Fell 9% Despite Beating Earnings Estimates",
   "TSMC Denies Plans to Enter DRAM Market",
@@ -3818,22 +3840,30 @@
   "Araghchi: White House Must Choose Between Deal and War",
   "🇸🇦 Houthis claim strike on Aramco skyscraper in Saudi Yemen's Iran-backed Houthis say they launched ballistic and cruise missiles + drones at multiple targets across Saudi, including Riyadh's financial district. Regarding damage to an Aramco skyscraper in t",
   "Nvidia's November Double Booking: A Hong Kong Chip Backlog and a Capitol Hill Deadline",
-  "Japan Stocks Face Volatile Week After Historic Selloff"
+  "Japan Stocks Face Volatile Week After Historic Selloff",
+  "Here are the 2 big things we're watching in the stock market in the week ahead",
+  "Live - Tensions remain high in Persian Gulf with tanker fire report, attacks on Riyadh",
+  "Taiwan Index Futures Night Session Rebounds 646 Points to Reclaim 40,000 Level; Fund Managers Say Short-Term Positioning Needs to Settle, Favor Large-Cap Leaders",
+  "Microsoft Is Reportedly Getting Pickier About AI Data Center Deals. Is the Stock a Buy Now?",
+  "Iran War Day 254: Iran Says Will ‘Rain Down Hell’ if Attacks Resume",
+  "Iran says 2-day proposal stands, warns US against renewed attacks"
  ],
  "initialized": true,
  "last_alert": 1794156394.9678543,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 130,
-  "new": 62,
+  "fetched": 129,
+  "new": 53,
   "rated": {
-   "low": 42,
-   "medium": 17,
-   "high": 3
+   "low": 16,
+   "medium": 5,
+   "high": 7
   },
-  "posted": 15,
-  "errors": [],
-  "time": "2026-11-08T17:55:30+00:00"
+  "posted": 6,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 4664)"
+  ],
+  "time": "2026-11-08T18:30:43+00:00"
  }
 }
