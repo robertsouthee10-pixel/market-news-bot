@@ -3881,16 +3881,36 @@
   "e572be9626be1a25": 1794154177.4929886,
   "e2c99438b7502f44": 1794154177.492992,
   "999548d80a696f2e": 1794154177.4929953,
-  "f232ef5407bb24b7": 1794154177.4929981
+  "f232ef5407bb24b7": 1794154177.4929981,
+  "2056faf2e55be2dc": 1794156410.7191124,
+  "2f76036a32c61ccc": 1794156410.7191403,
+  "ac7a193a71a1672f": 1794156410.7191453,
+  "021752d4f7f9f769": 1794156410.7191505,
+  "716f8a3362ed7e80": 1794156410.7191541,
+  "5f3a059abede9e5c": 1794156411.926005,
+  "08adfcf6eb0320a7": 1794156411.926025,
+  "46aa419645498fed": 1794156411.9260292,
+  "4899c4275f6b543f": 1794156411.926034,
+  "66995c6ce336d733": 1794156411.9260366,
+  "bf5b8e6e10b9c7d8": 1794156411.9260395,
+  "38d7ab5c8d462626": 1794156411.926042,
+  "9b5b5f7dcb2d03ac": 1794156411.9260445,
+  "86ecbbb1c12b9f6e": 1794156413.2321827,
+  "b4c3719d5525f1e6": 1794156413.2322078,
+  "79ce85240c17b8c0": 1794156413.2322118,
+  "0773c70216351064": 1794156414.4779944,
+  "ae9cd6de2e633c9f": 1794156414.4780142,
+  "65e5dcc953acd325": 1794156415.6513367,
+  "49046944869ad084": 1794156415.6513572,
+  "e963817ade3aafd1": 1794156416.8008661,
+  "e61633f98d92e0d8": 1794156416.8008857,
+  "9b44c11655a5721f": 1794156418.0253272,
+  "904b0a892bbf3404": 1794156418.0253468,
+  "b02d63ab43c46703": 1794156418.0253513,
+  "279a2cf654639fa2": 1794156419.4491131,
+  "71eded936717606f": 1794156419.4491165
  },
  "recent": [
-  "Trump Confirms New Strikes on Iran as U.S. and Tehran Continue Diplomatic Talks",
-  "Iran says 3 tankers caught fire in Hormuz",
-  "\"Just dump it, just sell it\": Investors describe market panic",
-  "Markets Are Pricing in a Fed Rate Hike in December. Here's What Investors Should Do, According to History.",
-  "Buy the dip or wait? BofA maps out 3 scenarios for chip stocks and top picks",
-  "This market signal called the tech selloff. Now it’s sending another warning.",
-  "Tesla (TSLA) To End Cybertruck Production In 2027 As Cybercab Takes Priority",
   "Is the U.S. Preparing the Ground for a Wider Iran Campaign?",
   "What Fed Chair Kevin Warsh said about AI and interest rates: 'Interest rates get in the cracks'",
   "Iran hardliners smell victory after Trump’s midterm defeat: Is Tehran raising the price of peace?",
@@ -3923,24 +3943,31 @@
   "U.S. strikes Iran as tensions rise in the Strait of Hormuz",
   "Iran sends nuclear proposal to United States through Qatar mediator",
   "Trump Says Election Result Wiped Out $3 Trillion in US Stocks in One Day, US Will Rebound Stronger",
-  "Iran’s northern routes test the limits of US bid to extend blockade overland"
+  "Iran’s northern routes test the limits of US bid to extend blockade overland",
+  "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
+  "Netanyahu faces ouster as Israeli president picks Eisenkot; defence minister sounds Iran alarm",
+  "Iran says tanker hit mine, caught fire east of Strait of Hormuz",
+  "Is America’s AI Data Center Boom About to Hit a Brick Wall?",
+  "US drivers could face high gas prices even after Iran peace deal, expert explain",
+  "Nasdaq 100 Forecast: NDX rebounds as oil prices fall and ahead of Apple earnings",
+  "Iran condemns ‘Saudi aggression’ after dozens killed in attack on Taiz market"
  ],
  "initialized": true,
- "last_alert": 1794144578.9638152,
+ "last_alert": 1794156394.9678543,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 111,
-  "new": 59,
+  "fetched": 106,
+  "new": 52,
   "rated": {
-   "low": 26,
-   "medium": 7,
+   "low": 18,
+   "medium": 8,
    "high": 1
   },
-  "posted": 6,
+  "posted": 7,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 1 column 3796 (char 3795)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4990)"
   ],
-  "time": "2026-11-08T16:09:37+00:00"
+  "time": "2026-11-08T16:46:59+00:00"
  }
 }
