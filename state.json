@@ -3956,14 +3956,40 @@
   "826fa3e43ecd6f23": 1794149812.4664252,
   "5b74803b0b4a8fcd": 1794149812.4664302,
   "b22cf2ad58ca50e7": 1794149813.6111004,
-  "420833ee8e7c8d95": 1794149813.6111207
+  "420833ee8e7c8d95": 1794149813.6111207,
+  "00b7087861f9463f": 1794151739.7085073,
+  "d04026c3dbef260b": 1794151739.7085154,
+  "83b1c9ee2ba230d8": 1794151739.7085185,
+  "881b425596f0e5cb": 1794151739.7085207,
+  "6e86afa1015d634d": 1794151741.1543221,
+  "43f8cdd769c3bff8": 1794151742.4152124,
+  "7c2e80601107f867": 1794151742.415232,
+  "8ce24631643cd99a": 1794151743.6662948,
+  "fc2d934c6562ce4c": 1794151743.6663182,
+  "53858005c2d276de": 1794151743.6663237,
+  "812750b3ba635ef5": 1794151743.6663268,
+  "3a4ea822f6e952c3": 1794151743.66633,
+  "5408f39fb3409f1a": 1794151743.6663337,
+  "74ccde99517e69e3": 1794151743.6663358,
+  "7d9311433d36164b": 1794151743.666339,
+  "16bcbffb0ea7632d": 1794151743.6663408,
+  "c8fda6f0078aa8a1": 1794151743.6663437,
+  "09bf2f9bbdf9f79c": 1794151743.6663463,
+  "1932aad45cec6d59": 1794151743.6663492,
+  "2ed94c8dbbcca457": 1794151743.666352,
+  "ea6758dcfcb6bbb5": 1794151743.666355,
+  "fc64b59a0fec3b9a": 1794151743.666357,
+  "78b8d0d236c0db8a": 1794151743.6663601,
+  "c702d18ecd09acb3": 1794151744.8439693,
+  "1f29740b7e75dfdb": 1794151744.8439903,
+  "319997fbe35b421f": 1794151751.7172608,
+  "cc68e8517a1c2ea7": 1794151751.7172816,
+  "b754322c17291f0f": 1794151751.7172854,
+  "f1c223a2494e2f5a": 1794151751.717288,
+  "9cc753c62b2a7b96": 1794151751.7172904,
+  "507d2dfb4b5a796a": 1794151751.717294
  },
  "recent": [
-  "Crew abandon tanker in Hormuz, US strikes bulker in Gulf of Oman",
-  "Why Iran is allowing India, China, Iraq and Qatar to pass through Strait of Hormuz",
-  "Why the Dollar Is Gaining as Stocks and Oil Slide?",
-  "A tanker catches fire about 8 miles NW Khasab, Oman",
-  "Jensen Huang and Nvidia in spy storm",
   "US steps up military pressure on Iran",
   "Interest Rates Forecast: Fed Hike Bets Lift USD/JPY Toward 160",
   "Iran reports blasts on Qeshm Island amid US-Iran standoff",
@@ -3998,25 +4024,29 @@
   "IRGC Scoffs at Washington’s New Economic Offensive, Calls ‘Iron Gate’ a Failed Strategy",
   "Iran suggests blasts are not US attacks as both sides report ships hit",
   "US Disables Cargo Ship Near Iran in Gulf of Oman",
-  "Iran distributes iodine near nuclear sites"
+  "Iran distributes iodine near nuclear sites",
+  "A $57 Billion Storm May Hit Semiconductor Stocks This Week",
+  "AI Power Stocks Just Fell 6.3% to 9.3% on Financing Fears. SpaceX Just Said New Compute Pays Back in Under a Year.",
+  "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+  "Tesla's FSD (Supervised) Attach Rate Hit 75% on New Vehicles. Here's Why That Single Number Could Matter More Than Robotaxi for the Stock in 2027.",
+  "Trump ‘holds all the cards’ in war against Iran’s regime, White House says"
  ],
  "initialized": true,
  "last_alert": 1794144578.9638152,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 137,
-  "new": 64,
+  "fetched": 112,
+  "new": 56,
   "rated": {
-   "low": 7,
-   "medium": 3,
-   "high": 4
+   "low": 22,
+   "medium": 8,
+   "high": 1
   },
-  "posted": 3,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4577)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3708)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 58 (char 1963)"
   ],
-  "time": "2026-11-08T14:56:53+00:00"
+  "time": "2026-11-08T15:29:11+00:00"
  }
 }
