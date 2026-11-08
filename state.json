@@ -4290,10 +4290,17 @@
   "04dbb4d040195b99": 1794138899.4195235,
   "52ab7f0b29945dde": 1794138899.419529,
   "1bfe4a69ba95f833": 1794138899.4195313,
-  "e9d9292576acbf92": 1794138899.4195333
+  "e9d9292576acbf92": 1794138899.4195333,
+  "59219d43b03dd272": 1794141252.4180214,
+  "55fffbcfef66e64f": 1794141252.4180496,
+  "c9f0d84d94a8feee": 1794141252.4180546,
+  "5f824fa498b10f46": 1794141252.4180596,
+  "58080e230701eb6b": 1794141252.418062,
+  "77ed6bc2602b363b": 1794141252.4180646,
+  "e8c5e13fbd76679d": 1794141252.418067,
+  "fc40bc0466ba4a0b": 1794141252.4180698
  },
  "recent": [
-  "Iran-Linked Ships Hover Over Subsea Cables in Gulf of Oman",
   "Nvidia Stock $186.64: Results 17 Nov, $200 or $172 Next",
   "Ship casualties mount in the Middle East as the US and Iran set vessels alight",
   "Iran Distributes Iodine Tablets Near Nuclear Sites as US Strike Fears Grow",
@@ -4332,25 +4339,27 @@
   "US Semiconductor Stocks Rebound... Will Kospi Breathe a Sigh of Relief on Monday?",
   "Nvidia's November Gauntlet: Idle Chips in Hong Kong, a Capitol Hill Summons and a Cut Price Target",
   "Trump Confirms New Strikes on Iran as U.S. and Tehran Continue Diplomatic Talks",
-  "Iran says 3 tankers caught fire in Hormuz"
+  "Iran says 3 tankers caught fire in Hormuz",
+  "\"Just dump it, just sell it\": Investors describe market panic"
  ],
  "initialized": true,
  "last_alert": 1794133695.6442356,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 98,
-  "new": 79,
+  "fetched": 105,
+  "new": 83,
   "rated": {
-   "low": 22,
-   "medium": 5,
-   "high": 2
+   "low": 5,
+   "medium": 2,
+   "high": 1
   },
-  "posted": 6,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 56 (char 1781)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 184 (char 4780)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4170)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4461)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 140 (char 3720)"
   ],
-  "time": "2026-11-08T11:54:59+00:00"
+  "time": "2026-11-08T12:34:12+00:00"
  }
 }
