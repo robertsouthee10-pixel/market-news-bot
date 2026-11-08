@@ -1,35 +1,5 @@
 {
  "seen": {
-  "a47d8fe063025b5d": 1793913181.990157,
-  "c582ec7d547f04e7": 1793913183.2630863,
-  "1cac69fb48f93eb1": 1793913183.2631142,
-  "0f48037c76af253f": 1793913183.2631462,
-  "e8622ed460777b49": 1793913183.2631514,
-  "a8cad79c0527ff58": 1793913183.2631545,
-  "a6ef1f4aaa5ba4ec": 1793913183.2631578,
-  "5b6e2f7f7ab19560": 1793913183.2631602,
-  "70e55410adfddf2f": 1793913183.2631633,
-  "39b5496e77b13a0d": 1793913183.2631657,
-  "5dce07dc76e05c3e": 1793913184.5579185,
-  "064c76605348ef94": 1793913184.557941,
-  "913be8bcd5d7e3ca": 1793913184.5579467,
-  "2834fa90c59ee889": 1793913185.7805889,
-  "c5e2c9ac58768039": 1793913185.7806125,
-  "e137d74929b3a290": 1793913185.780618,
-  "5f7ec0e740f89b99": 1793913185.780622,
-  "7c8ae9f0f13f1b24": 1793913185.7806246,
-  "6ab8dd8f5136a744": 1793913185.780629,
-  "04f6df7b1d7625cc": 1793913185.7809331,
-  "7f082c6ee1817b96": 1793913185.780935,
-  "6b10e23c22b6e0f8": 1793913185.7809372,
-  "75d644eec95a466f": 1793913185.78094,
-  "5efee06d1c18407e": 1793913185.7809424,
-  "9dc199522d13333e": 1793913185.780944,
-  "7b4ab50e746997ff": 1793913255.3942492,
-  "7b16cd7eec17c8c9": 1793913256.6568336,
-  "6ef5090cdae87afa": 1793913256.6568563,
-  "4fd6d5e71a54c411": 1793913256.6568592,
-  "e442a7a016fe9fd2": 1793913256.656864,
   "257207215b24a0c9": 1793916046.769386,
   "8ed629c241ece3b6": 1793916046.7694125,
   "9319e4f7afe05728": 1793916046.7694182,
@@ -3610,11 +3580,18 @@
   "c00685807e6c1641": 1794170296.760981,
   "98d979a9229fe9ac": 1794170296.7609832,
   "e8479cf971d8eb18": 1794170296.7609863,
-  "18d5d8203a410a89": 1794170296.7609892
+  "18d5d8203a410a89": 1794170296.7609892,
+  "65294406fcc26565": 1794172636.1751614,
+  "01ff8db4b9d0bf76": 1794172636.1751888,
+  "0041e063f0880773": 1794172636.1751938,
+  "ec62b5b431a3e980": 1794172636.1751971,
+  "be34d5f8fbdb0925": 1794172636.1752,
+  "89bff8f357b1e860": 1794172636.175206,
+  "e5f6620bab4b09aa": 1794172636.1752083,
+  "ad2fd7bd78148875": 1794172636.1752107,
+  "9b75eb20f1e8544a": 1794172637.437147
  },
  "recent": [
-  "Hardline Trump advisers oppose Iran talks",
-  "With Stephen Miller at the helm, Trump charts a course for conflict",
   "Trump advisers divided over Iran as calls for fresh US attacks grow",
   "Democrats prepare to go after Apple, Meta and Elon Musk companies",
   "Anthropic’s $2.5 Trillion IPO Dream Could Be Heading for a $1 Trillion Reality Check",
@@ -3652,25 +3629,28 @@
   "Israel prepared for US strike on Iran, but Donald Trump held off",
   "US seeks China's help to end Iran war as diplomatic efforts intensify",
   "Iraq says it has reached understandings with the U.S. to export oil through Hormuz",
-  "Trump threatens new strikes on Iran unless Tehran agrees to nuclear deal"
+  "Trump threatens new strikes on Iran unless Tehran agrees to nuclear deal",
+  "Nvidia board probes Jensen Huang China spy allegations",
+  "Wall Street Margin Debt Hits Record $1.502 Trillion, FINRA Data Show"
  ],
  "initialized": true,
  "last_alert": 1794168061.3636274,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 125,
-  "new": 68,
+  "fetched": 141,
+  "new": 84,
   "rated": {
-   "low": 9,
-   "medium": 8,
-   "high": 1
+   "low": 7,
+   "medium": 2,
+   "high": 0
   },
-  "posted": 4,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 4350)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 5062)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 100 (char 4043)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4643)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 59 (char 2880)"
   ],
-  "time": "2026-11-08T20:38:16+00:00"
+  "time": "2026-11-08T21:17:17+00:00"
  }
 }
