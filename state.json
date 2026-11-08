@@ -1,32 +1,5 @@
 {
  "seen": {
-  "99d81157b36d8649": 1793910133.5176175,
-  "913e81f2a1bf81c6": 1793910133.5176241,
-  "8ef1522beefebdad": 1793910134.8076358,
-  "556bf71d36383e1b": 1793910134.8076587,
-  "986e63d440ae0877": 1793910134.8076632,
-  "0633196912131211": 1793910134.8080223,
-  "6a2892b28f1be9f1": 1793910134.8080256,
-  "435f49ee223c4928": 1793910136.248418,
-  "c19f246cc2da38e0": 1793910137.599754,
-  "6e6342c00be9e812": 1793910137.5997725,
-  "888abb7b86581757": 1793910137.5997784,
-  "cd1633a081bf992a": 1793910139.0280802,
-  "9b803f9b1b347c96": 1793910140.3870335,
-  "eebfb4b7258f0469": 1793910140.387056,
-  "2d9c04abbdf958a7": 1793910140.3870606,
-  "0914342feee51a68": 1793910141.6562564,
-  "3ef9822b48056443": 1793910141.6562784,
-  "139502918eeb25c4": 1793910142.9207199,
-  "18febc080dff7b77": 1793910142.9207408,
-  "d6b8aaff247bc814": 1793910142.9207456,
-  "10c9bd8472f508dd": 1793910144.3101096,
-  "09ab78e8b8d73e91": 1793910144.3101301,
-  "4038ae1cf97f5b88": 1793910144.310134,
-  "dc14b7c3d34b4538": 1793910144.3101373,
-  "2fb9a74becf05a90": 1793910145.6482067,
-  "bc80b1803f9a0fb8": 1793910164.6696806,
-  "ed21b7e3543e3631": 1793910166.140638,
   "a47d8fe063025b5d": 1793913181.990157,
   "c582ec7d547f04e7": 1793913183.2630863,
   "1cac69fb48f93eb1": 1793913183.2631142,
@@ -3619,13 +3592,27 @@
   "14114bf37b215bad": 1794168085.898724,
   "181950a6fb323543": 1794168085.8987424,
   "9dd0f116072fc86e": 1794168087.1245573,
-  "d6213fa0bce37a92": 1794168087.124578
+  "d6213fa0bce37a92": 1794168087.124578,
+  "12b39a089d3403b4": 1794170291.7717237,
+  "b0d694e8c27f4cad": 1794170291.7717292,
+  "9ad0be67fc583756": 1794170291.7717316,
+  "e4f47e4c7a1ed8f4": 1794170293.1695554,
+  "d08bb97da201c644": 1794170293.1695743,
+  "0cafb89375c6f1e2": 1794170293.1695802,
+  "2128e75d9f4a6ddb": 1794170293.169583,
+  "d479ef596fe8133e": 1794170294.3369164,
+  "74d3f380ea24b679": 1794170294.3369362,
+  "55ebdcc16565a5b8": 1794170294.336944,
+  "0f32b62c5c2c667b": 1794170295.5431356,
+  "df7f212894a7ab03": 1794170296.7609546,
+  "bdac5453ce00d60b": 1794170296.7609723,
+  "dcce769771cd169a": 1794170296.7609785,
+  "c00685807e6c1641": 1794170296.760981,
+  "98d979a9229fe9ac": 1794170296.7609832,
+  "e8479cf971d8eb18": 1794170296.7609863,
+  "18d5d8203a410a89": 1794170296.7609892
  },
  "recent": [
-  "US drivers could face high gas prices even after Iran peace deal, expert explain",
-  "Nasdaq 100 Forecast: NDX rebounds as oil prices fall and ahead of Apple earnings",
-  "Iran condemns ‘Saudi aggression’ after dozens killed in attack on Taiz market",
-  "Herzog tasks Eisenkot with forming a new government. Hormuz: three more oil tankers ablaze",
   "Hardline Trump advisers oppose Iran talks",
   "With Stephen Miller at the helm, Trump charts a course for conflict",
   "Trump advisers divided over Iran as calls for fresh US attacks grow",
@@ -3661,25 +3648,29 @@
   "US and Iran report attacks on vessels near Strait of Hormuz",
   "Iran says US election results paused mediators' work over talks to end crisis",
   "Nikkei 225 Weekly Review: Nikkei Plunges 9.25% to 57,434.77 and Enters a Bear Market",
-  "Four explosions heard on Iran's Qeshm island - IRNA"
+  "Four explosions heard on Iran's Qeshm island - IRNA",
+  "Israel prepared for US strike on Iran, but Donald Trump held off",
+  "US seeks China's help to end Iran war as diplomatic efforts intensify",
+  "Iraq says it has reached understandings with the U.S. to export oil through Hormuz",
+  "Trump threatens new strikes on Iran unless Tehran agrees to nuclear deal"
  ],
  "initialized": true,
  "last_alert": 1794168061.3636274,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 129,
-  "new": 81,
+  "fetched": 125,
+  "new": 68,
   "rated": {
-   "low": 21,
-   "medium": 5,
-   "high": 5
+   "low": 9,
+   "medium": 8,
+   "high": 1
   },
-  "posted": 7,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 100 (char 4865)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 142 (char 3995)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 59 (char 4350)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 5062)"
   ],
-  "time": "2026-11-08T20:01:27+00:00"
+  "time": "2026-11-08T20:38:16+00:00"
  }
 }
