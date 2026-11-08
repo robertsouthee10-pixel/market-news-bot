@@ -3589,15 +3589,23 @@
   "89bff8f357b1e860": 1794172636.175206,
   "e5f6620bab4b09aa": 1794172636.1752083,
   "ad2fd7bd78148875": 1794172636.1752107,
-  "9b75eb20f1e8544a": 1794172637.437147
+  "9b75eb20f1e8544a": 1794172637.437147,
+  "a01b58be9536af9e": 1794174955.4887564,
+  "531e4d298b29a5fd": 1794174955.4888105,
+  "77e5d95164472aa1": 1794174956.6801274,
+  "94ce74cde5e200cc": 1794174956.680147,
+  "eb1f027eaf9bb6fe": 1794174956.6801505,
+  "6aeba1c185f153fb": 1794174956.6801536,
+  "8c9cbcc04a6f1066": 1794174957.8932664,
+  "a1d033cf357c50c5": 1794174957.8932872,
+  "25c1150e227ca3e2": 1794174957.8932939,
+  "87c1ed332bcad9a4": 1794174959.1663377,
+  "0aeffc49e313737d": 1794174960.3119588,
+  "123eb6b857bb2a01": 1794174961.5102258,
+  "0fed70c6012780f4": 1794174961.5102453,
+  "6676172561c49022": 1794174961.5102522
  },
  "recent": [
-  "Trump advisers divided over Iran as calls for fresh US attacks grow",
-  "Democrats prepare to go after Apple, Meta and Elon Musk companies",
-  "Anthropic’s $2.5 Trillion IPO Dream Could Be Heading for a $1 Trillion Reality Check",
-  "America’s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
-  "Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",
-  "America’s Productivity Just Surged 3.6% — Is AI Finally Delivering on Its Promise?",
   "US carrier heads to Persian Gulf as Iran tensions mount",
   "Iran Hardliners Press Trump After Midterm Losses, Supreme Leader Mojtaba Khamenei Warns Against Submission",
   "US Central Command Expands Task Force Iron Gate To Cut Iran’s Land And Caspian Routes: 10 outlets compared",
@@ -3631,26 +3639,31 @@
   "Iraq says it has reached understandings with the U.S. to export oil through Hormuz",
   "Trump threatens new strikes on Iran unless Tehran agrees to nuclear deal",
   "Nvidia board probes Jensen Huang China spy allegations",
-  "Wall Street Margin Debt Hits Record $1.502 Trillion, FINRA Data Show"
+  "Wall Street Margin Debt Hits Record $1.502 Trillion, FINRA Data Show",
+  "ASX set to rise 0.2% as Wall Street rebounds from tech sell-off",
+  "Jensen Huang Just Handed Nvidia Shareholders a Warning No Earnings Report Can Fix",
+  "Katz Says Israel’s War Against Iran Is ‘Not Complete’",
+  "From Riyadh to Hormuz: Escalating attacks threaten regional security...",
+  "Task Force Iron Gate Continues American Escalation",
+  "The Week Ahead – CPI and Equity Flows Test a Shaken Market"
  ],
  "initialized": true,
  "last_alert": 1794168061.3636274,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 141,
-  "new": 84,
+  "fetched": 107,
+  "new": 64,
   "rated": {
-   "low": 7,
-   "medium": 2,
-   "high": 0
+   "low": 4,
+   "medium": 8,
+   "high": 2
   },
-  "posted": 2,
+  "posted": 6,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 100 (char 4043)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4643)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 59 (char 2880)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 185 (char 4284)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 101 (char 4353)"
   ],
-  "time": "2026-11-08T21:17:17+00:00"
+  "time": "2026-11-08T21:56:01+00:00"
  }
 }
