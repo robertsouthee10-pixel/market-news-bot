@@ -4293,17 +4293,42 @@
   "9d0ec208aa882d1a": 1794122037.135258,
   "4a3f521eb2ac31f0": 1794122038.3670971,
   "030b83e091a8ad22": 1794122038.3671236,
-  "9c2a804b6a591ca1": 1794122038.367128
+  "9c2a804b6a591ca1": 1794122038.367128,
+  "472bf201fd8f443f": 1794125677.5019336,
+  "3ac2145018c40463": 1794125677.5019662,
+  "dda841b1a5b6f8f5": 1794125677.5019708,
+  "ee7411b4ed342ba2": 1794125677.5019743,
+  "a8c0e6f596890e26": 1794125677.5019772,
+  "a3405f8a76f41091": 1794125677.5019798,
+  "1453ff8aad13c9af": 1794125677.5019827,
+  "7d3e65789e124055": 1794125677.5019855,
+  "f216ab9c462ebae4": 1794125678.85474,
+  "6a46ddf99cb3baa8": 1794125680.0845444,
+  "f5d1a139ea7905e3": 1794125680.0845654,
+  "fa13487fccccc105": 1794125680.0845752,
+  "2d4e6035c89068c8": 1794125680.0845783,
+  "6d53a4d7798724ab": 1794125681.3291154,
+  "541e7cd69d3df479": 1794125681.3291366,
+  "699bc3afd2f6e577": 1794125681.32914,
+  "482fbf7f5522bd93": 1794125682.6246903,
+  "0b4b256390221727": 1794125683.9017615,
+  "de35f6047e5aba18": 1794125683.9017828,
+  "592bb2596af1f17c": 1794125683.9017868,
+  "ebb56f51b373e144": 1794125683.9017894,
+  "c42dfdd1281e5c8d": 1794125683.9017923,
+  "1cab034731589198": 1794125683.901795,
+  "b0a68ce09160fc6c": 1794125683.9017973,
+  "1ddf7bc1b463cd1f": 1794125683.9018,
+  "b74f48e5e4fac9c5": 1794125706.7186902,
+  "8aebc54ddacad9e7": 1794125706.718694,
+  "e00090b28ec3c14a": 1794125706.718696,
+  "c120aa81e6ae2d87": 1794125706.718698,
+  "e9411453f9218fd8": 1794125708.1394353,
+  "b953066204c32514": 1794125708.1394598,
+  "caad517bf190e1bf": 1794125709.5230386,
+  "59b0fb0acc2cf5b5": 1794125709.5230584
  },
  "recent": [
-  "Iran declares military has strengthened, warns of unlimited response",
-  "Gold logs strongest weekly gain since August as crude oil plunges over 12 per ceAnt",
-  "Iran Lifts Self-Imposed Missile Range Limit",
-  "US Tightens Maritime Restrictions On Iran After Gulf Of Oman Strike",
-  "Philadelphia Semiconductor Index Plunges 12.2%; 3x Leveraged SOXL Sinks 38.7% in a Single Day",
-  "What are the AI lab compute commitments?",
-  "Pakistan's Hormuz agreement with Iran faces test after LNG tanker attack",
-  "Another maritime incident reported off UAE coast",
   "Iran war latest: UAE rescues 22 crew members from burning cargo ship in Gulf of Oman",
   "Gold jumps more than 2%",
   "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
@@ -4335,24 +4360,33 @@
   "Ex-Trump aide accuses CENTCOM of trying to subvert diplomacy with land blockade",
   "IRGC Announce Fires on Two Oil Tankers Following Their Collision with Mines in Hormuz » Iraqi News Agency",
   "Iran-Linked Ships Hover Over Subsea Cables in Gulf of Oman",
-  "Nvidia Stock $186.64: Results 17 Nov, $200 or $172 Next"
+  "Nvidia Stock $186.64: Results 17 Nov, $200 or $172 Next",
+  "Ship casualties mount in the Middle East as the US and Iran set vessels alight",
+  "Iran Distributes Iodine Tablets Near Nuclear Sites as US Strike Fears Grow",
+  "US inflation set to cool in October after two months of sharp increases",
+  "After Taiwan Stock Market Plunges 5,510 Points in a Single Week, Short-Selling Restrictions and National Stabilization Fund Deploy Together on the 9th",
+  "TSMC Shares Jump 6% on Nvidia Memory Chip Report",
+  "[COVER STORY] Korea's chip-driven growth faces risks from potential US data center curbs",
+  "Iran says it lifted its self-imposed limit on missile ranges - Region - World",
+  "Trump, weighing new Iran strikes, faces a divided party and a ticking clock"
  ],
  "initialized": true,
  "last_alert": 1794122007.3177383,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 104,
+  "fetched": 105,
   "new": 83,
   "rated": {
-   "low": 41,
-   "medium": 14,
-   "high": 3
+   "low": 23,
+   "medium": 9,
+   "high": 1
   },
-  "posted": 10,
+  "posted": 8,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 142 (char 3217)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 4247)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 144 (char 4757)"
   ],
-  "time": "2026-11-08T07:13:58+00:00"
+  "time": "2026-11-08T08:15:09+00:00"
  }
 }
