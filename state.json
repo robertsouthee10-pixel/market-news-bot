@@ -1,27 +1,5 @@
 {
  "seen": {
-  "32bc2233bca5f6d9": 1793848600.3901997,
-  "5664d28d8fc83270": 1793848600.390231,
-  "1cbc3e52e41f7ed0": 1793848600.3902347,
-  "92643e74766485a5": 1793848600.3902388,
-  "f490664d6d03c55a": 1793848600.390241,
-  "d0b3b52af93954d7": 1793848600.3902435,
-  "6edd3bc05c9da49d": 1793848601.5958264,
-  "34c3911141d8db57": 1793848601.5958495,
-  "41c017a07d0fec73": 1793848601.595854,
-  "3b2558d57d1e1bab": 1793848601.5958564,
-  "2842bf19439c4de5": 1793848601.5958643,
-  "743bb1752c01311b": 1793848601.5958683,
-  "8000b062966e24ba": 1793848602.9149523,
-  "d9b12bf1bc173de6": 1793848602.9149733,
-  "dd771ef5bc508751": 1793848602.9149773,
-  "d70551be98e454cd": 1793848602.9149811,
-  "47127d74d14efc7f": 1793848602.9149833,
-  "e41f7bdcd0f90fd3": 1793848602.914986,
-  "a50ebd679684bb97": 1793848602.9149888,
-  "c81e4a5a6253951f": 1793848602.9149911,
-  "fee38cc97e4b9a10": 1793848602.9149942,
-  "175045b4a417064d": 1793848602.9149966,
   "0255bdac7a93cf82": 1793852172.249468,
   "15fa8ab3541eb99f": 1793852172.2494762,
   "8c4d753802bf5976": 1793852172.2494798,
@@ -4185,10 +4163,10 @@
   "abbf6132770cabde": 1794105257.2443118,
   "17be5d872b458c14": 1794105257.244334,
   "411e8437b5465854": 1794105257.244337,
-  "e444f785581e306d": 1794105257.244344
+  "e444f785581e306d": 1794105257.244344,
+  "86e088b18c5ce1a9": 1794108542.662769
  },
  "recent": [
-  "Houthis say 27 killed in Saudi strikes on Yemen's Sanaa province",
   "Significant US move in the war with Iran | News Bulletin 07/11/2026",
   "Trump Weighs Three Iran Options As White House Divisions Erupt | Report",
   "Iran warns US of 'devastating response' if Washington starts war",
@@ -4227,24 +4205,26 @@
   "October Payrolls Complicate Fed Easing Outlook",
   "US strike near Hormuz puts NZ fuel and fertiliser at risk",
   "Iran declares military has strengthened, warns of unlimited response",
-  "Gold logs strongest weekly gain since August as crude oil plunges over 12 per ceAnt"
+  "Gold logs strongest weekly gain since August as crude oil plunges over 12 per ceAnt",
+  "Iran Lifts Self-Imposed Missile Range Limit"
  ],
  "initialized": true,
- "last_alert": 1794095574.2752295,
+ "last_alert": 1794108523.6663272,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
   "fetched": 75,
-  "new": 40,
+  "new": 51,
   "rated": {
-   "low": 11,
-   "medium": 3,
-   "high": 1
+   "low": 0,
+   "medium": 1,
+   "high": 0
   },
-  "posted": 2,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2666)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 59 (char 4594)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4888)"
   ],
-  "time": "2026-11-08T02:34:17+00:00"
+  "time": "2026-11-08T03:29:02+00:00"
  }
 }
