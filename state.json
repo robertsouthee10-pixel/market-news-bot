@@ -4326,13 +4326,40 @@
   "e9411453f9218fd8": 1794125708.1394353,
   "b953066204c32514": 1794125708.1394598,
   "caad517bf190e1bf": 1794125709.5230386,
-  "59b0fb0acc2cf5b5": 1794125709.5230584
+  "59b0fb0acc2cf5b5": 1794125709.5230584,
+  "31133767a9e38055": 1794128749.3090003,
+  "451752f7100483f2": 1794128749.3090255,
+  "d8034a27d5163118": 1794128749.3090296,
+  "4662db97bcb79880": 1794128750.519533,
+  "f6b8f9c154bbd51d": 1794128750.5195522,
+  "42f6fc02f4d1cfb6": 1794128750.5195563,
+  "178c58c86663d504": 1794128750.5195594,
+  "b9b36671534c09b4": 1794128750.5195622,
+  "6a3fe4c8b476e34d": 1794128750.5195665,
+  "2fd11656af9c9c57": 1794128750.519569,
+  "33de3556d3fff08e": 1794128750.519572,
+  "5ea570e990b7bb6e": 1794128750.519576,
+  "d05738ffb661eb03": 1794128750.5195792,
+  "e30661f9e7161d60": 1794128750.5195823,
+  "04bc225192885e11": 1794128750.5195844,
+  "0f3d0ed1d9ed0fff": 1794128750.5195866,
+  "6232f438171416aa": 1794128750.5195892,
+  "de2ff4224510be3e": 1794128751.8157358,
+  "adb32c498da3fc82": 1794128751.815785,
+  "786cf4cd13f8e575": 1794128751.8157911,
+  "54449c8215fb952c": 1794128751.8157964,
+  "069f0c52e95916ee": 1794128751.8157997,
+  "3dfd06e27a487f91": 1794128751.815804,
+  "1e8de6ef3b3fbd4c": 1794128751.8158076,
+  "5dd4670ba6e8a746": 1794128751.8158123,
+  "f3763c64d96a19d8": 1794128775.5266056,
+  "eee52b3afb1bd1ed": 1794128775.5266097,
+  "4240caf0376c2d20": 1794128775.5266116,
+  "9e7eecfac82ba6eb": 1794128775.5266135,
+  "e0791899d02476ca": 1794128776.7682893,
+  "66f995d8c0cccfbb": 1794128776.7683096
  },
  "recent": [
-  "Iran war latest: UAE rescues 22 crew members from burning cargo ship in Gulf of Oman",
-  "Gold jumps more than 2%",
-  "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
-  "Explosions Reported in Iran’s Qeshm Island, Bandar Abbas, and Other Areas",
   "Brent crude falls below $95 amid uncertainty over Iran conflict",
   "Global AI and Semiconductor Stocks Plunge; S&P 500 Tumbles 4.4% in a Single Day as Markets Watch Whether Three Central Banks Will Raise Rates in December",
   "33 killed in reported Saudi air strikes near Yemen's Sanaa",
@@ -4368,25 +4395,29 @@
   "TSMC Shares Jump 6% on Nvidia Memory Chip Report",
   "[COVER STORY] Korea's chip-driven growth faces risks from potential US data center curbs",
   "Iran says it lifted its self-imposed limit on missile ranges - Region - World",
-  "Trump, weighing new Iran strikes, faces a divided party and a ticking clock"
+  "Trump, weighing new Iran strikes, faces a divided party and a ticking clock",
+  "Middle East latest: Projectile damages tower in Riyadh’s financial district, reports say",
+  "Gulf markets retreat as traders await Trump's next move on Iran",
+  "'Iran Will Wipe Us Out': Arab Nation Warns Trump Against Blocking Iranian Land Supply Routes",
+  "Trump warns of major actions on Iran within weeks as Houthis strike Riyadh"
  ],
  "initialized": true,
  "last_alert": 1794122007.3177383,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 105,
-  "new": 83,
+  "fetched": 103,
+  "new": 81,
   "rated": {
-   "low": 23,
-   "medium": 9,
+   "low": 26,
+   "medium": 4,
    "high": 1
   },
-  "posted": 8,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 142 (char 4247)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 144 (char 4757)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 3645)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 185 (char 2914)"
   ],
-  "time": "2026-11-08T08:15:09+00:00"
+  "time": "2026-11-08T09:06:16+00:00"
  }
 }
