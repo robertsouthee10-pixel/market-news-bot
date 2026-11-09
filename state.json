@@ -1,31 +1,5 @@
 {
  "seen": {
-  "d97d7117270ac377": 1793954373.0968246,
-  "c190e4dbd62c87ab": 1793954373.0968301,
-  "4222d72d2c94099a": 1793954373.0968328,
-  "7e4591cf969d1629": 1793954373.0968354,
-  "52f519bec4662469": 1793954374.50404,
-  "ff9467524db24372": 1793954374.5040643,
-  "682006fcc765a9e9": 1793954374.5040665,
-  "59fa4a44dec35c5d": 1793954375.7486577,
-  "7c824bf8c7588366": 1793954375.7486804,
-  "048f87de093a71f2": 1793954375.7486832,
-  "d102e268321ccb28": 1793954375.7486868,
-  "f06c093783a46421": 1793954375.74869,
-  "c2eb67f604c2a151": 1793954377.3606265,
-  "276b58d6cb882c25": 1793954377.3606486,
-  "9234e0ebc963b3dc": 1793954377.3606517,
-  "6bcd38ee494dbd05": 1793954377.3606553,
-  "0def40176616afc6": 1793954377.3606582,
-  "caed3ee6c673623d": 1793954377.3606606,
-  "131856c8e2b0d734": 1793954378.6440718,
-  "dac0927ce2714be4": 1793954378.6440942,
-  "84556351c8c424e0": 1793954378.644097,
-  "588b933c897b0e78": 1793954378.6440992,
-  "7bd42f40bd8d1557": 1793954378.644104,
-  "8d9a2ca1909eb2d2": 1793954378.644106,
-  "ce85a3e8a14a65e4": 1793954380.237981,
-  "daa0462c8f2270e7": 1793954399.3633463,
   "02dc02b13fbf0fac": 1793957867.9663267,
   "a8b07939a7bee283": 1793957867.9663312,
   "593ede6e8c7d2a82": 1793957867.966334,
@@ -3315,13 +3289,20 @@
   "52033dacce8ed9a0": 1794211715.4171038,
   "92ef0cdc57e424e4": 1794211715.417108,
   "595635ea8606d86b": 1794211716.6709745,
-  "e8939645f3d6183c": 1794211716.6709955
+  "e8939645f3d6183c": 1794211716.6709955,
+  "c8e831ac1843cb60": 1794215843.0886242,
+  "592e50479afc7a2d": 1794215843.0886352,
+  "8faf153a7fa85d6b": 1794215843.088639,
+  "5547bd0b4d41f8be": 1794215844.4523883,
+  "fc86529f3bbea932": 1794215845.613847,
+  "eee8719b92b2f9e7": 1794215845.6138697,
+  "2aa240965f01c34f": 1794215845.6138754,
+  "16785c25df3514cd": 1794215845.6138794,
+  "a45dc8512f6a4ea4": 1794215846.8588073,
+  "36f34b89a8d5b681": 1794215846.8588297,
+  "c14b8bd2c3553241": 1794215848.1297011
  },
  "recent": [
-  "Watch Full Interview: Trump Admits Iran War Hurt GOP in Midterms, Signals Cabinet Shake-Up in ’60 Minutes’ Interview",
-  "President Donald Trump declares a 'Iron Gate' blockade, Iran issues stern warning.",
-  "China's CPI up 0.7 pct in October",
-  "Iran gives US 2-day diplomacy ultimatum",
   "Rubio says little progress in diplomacy with Iran",
   "China wholesale inflation hits highest in more than four years as consumer measure slows",
   "RAW VIDEO: Secretary of State Marco speaks about Iran",
@@ -3357,27 +3338,33 @@
   "‘Rain down hell’ if US continues attacks, Iran’s Araghchi says with ultimatum after eight months of war",
   "Iran says US midterm 'shock' has stalled peace talks, mediators halt travel",
   "Retail Therapy: Defensive Bets Extend Streak, Trounce SPY, QQQ As EVgo, Helen Of Troy, Magnite Lead Weekly Consumer Gains",
-  "Iron Gate: US Plan to Restrict Iran’s Trade Routes"
+  "Iron Gate: US Plan to Restrict Iran’s Trade Routes",
+  "Brent Oil Falls 1.5% to US$96.91 as Iran Tensions Ease",
+  "The Persian Gulf in flames: Houthi strike on Aramco, 3 tankers burning – Terror: Iranian vessels positioned over submarine cables",
+  "US-Iran Talks Stall: Rubio Calls Tehran's Demands 'Unacceptable'",
+  "Asian stocks rebound as Taiwan jumps 6%, Japan gains 3.5%"
  ],
  "initialized": true,
- "last_alert": 1794202769.8058949,
+ "last_alert": 1794215745.8952425,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 170,
-  "new": 154,
+  "fetched": 172,
+  "new": 161,
   "rated": {
-   "low": 39,
-   "medium": 15,
-   "high": 0
+   "low": 2,
+   "medium": 6,
+   "high": 3
   },
-  "posted": 11,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3802)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 141 (char 2445)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2934)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 3019)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 100 (char 3075)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4401)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3532)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 59 (char 2598)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 140 (char 4766)",
+   "Claude: ValueError: no JSON array in model reply: [\n{"
   ],
-  "time": "2026-11-09T08:08:36+00:00"
+  "time": "2026-11-09T09:17:28+00:00"
  }
 }
