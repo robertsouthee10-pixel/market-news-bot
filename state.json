@@ -1,16 +1,5 @@
 {
  "seen": {
-  "02014741bd76e741": 1793942535.6977515,
-  "919090914420d9b0": 1793942535.6977572,
-  "d7f4734d35775ec6": 1793942535.6977603,
-  "46455d93c77d0440": 1793942535.697764,
-  "1378bc5da673bc1d": 1793942535.6977658,
-  "97eae6846d95df87": 1793942535.6977675,
-  "300c9cd57d1f93b2": 1793942535.6977692,
-  "fa26360cd947e709": 1793942536.9442494,
-  "613aff41674ed909": 1793942536.9442728,
-  "7433ed9e6263df67": 1793942536.9442763,
-  "3c9900b3f3d7af98": 1793942538.2551842,
   "fc3c8cd8dca31ef4": 1793946234.0622964,
   "9295c9e7ae072b54": 1793946234.0623012,
   "51141ec584563dbe": 1793946234.0623066,
@@ -3272,14 +3261,25 @@
   "ff8dc44ea26ac40a": 1794199069.581012,
   "0c41a4e506f92127": 1794199069.581016,
   "ef8b48332129ad00": 1794199069.5810192,
-  "3cbde79ac3b257e8": 1794199069.5810225
+  "3cbde79ac3b257e8": 1794199069.5810225,
+  "4fdde1bbe9463ef6": 1794202849.1153548,
+  "d383348ddb3be794": 1794202849.1153603,
+  "acdeb4b907ae6701": 1794202849.1153638,
+  "b3f1b80874bd8cbd": 1794202849.115366,
+  "0bd6804642807ca0": 1794202849.115368,
+  "db1fd30d7a85272f": 1794202849.1153698,
+  "b26dee10592cec40": 1794202850.3815887,
+  "24a33be25d161515": 1794202850.381609,
+  "938c368fefc383aa": 1794202851.5982742,
+  "307e7fada419b07c": 1794202852.8126185,
+  "a01ebc240c63e998": 1794202854.210671,
+  "5d478c6ebbc791bb": 1794202854.2106912,
+  "3d50b76a77495046": 1794202854.2106955,
+  "711e6fa3a4f0ffe5": 1794202854.2107003,
+  "bbf58ac65bcbb787": 1794202854.2107038,
+  "7b8e0fa770b3b92c": 1794202855.4451985
  },
  "recent": [
-  "US and Iran report attacks on vessels near Strait of Hormuz",
-  "Iran says US election results paused mediators' work over talks to end crisis",
-  "Nikkei 225 Weekly Review: Nikkei Plunges 9.25% to 57,434.77 and Enters a Bear Market",
-  "Four explosions heard on Iran's Qeshm island - IRNA",
-  "Israel prepared for US strike on Iran, but Donald Trump held off",
   "US seeks China's help to end Iran war as diplomatic efforts intensify",
   "Iraq says it has reached understandings with the U.S. to export oil through Hormuz",
   "Trump threatens new strikes on Iran unless Tehran agrees to nuclear deal",
@@ -3314,28 +3314,33 @@
   "Trump makes Dana White U-turn as he announces Iran War close to end and Russia-China meeting on cards",
   "Gold gains more than 1% as softer oil prices ease inflation worries",
   "U.S. dollar holds onto payrolls gains, NZ dollar rises after election",
-  "Crude Oil Gains As Investors Weigh Renewed US-Iran Escalation Against Diplomacy By Kedia Advisory"
+  "Crude Oil Gains As Investors Weigh Renewed US-Iran Escalation Against Diplomacy By Kedia Advisory",
+  "Trump expects talks with Xi and Putin on Iran war and nuclear disarmament",
+  "Gold Price Jumps on Soft Dollar, Holds Above $4,020 Monday",
+  "The US is keeping open the possibility of military action if negotiations with Iran reach a deadlock.",
+  "Conflict in the Middle East: Iran calls on the US to accept its peace proposal.",
+  "Australian Dollar Short-term Outlook: AUD/USD 3% Plunge Puts Multi-Month Range at Risk"
  ],
  "initialized": true,
- "last_alert": 1794191711.633108,
+ "last_alert": 1794202769.8058949,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 158,
-  "new": 133,
+  "fetched": 159,
+  "new": 141,
   "rated": {
-   "low": 4,
-   "medium": 4,
-   "high": 0
+   "low": 6,
+   "medium": 9,
+   "high": 1
   },
-  "posted": 1,
+  "posted": 5,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3350)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 142 (char 4527)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 142 (char 143)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 56 (char 677)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 101 (char 2428)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 56 (char 1806)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 9 column 99 (char 1999)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 100 (char 2703)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 143 (char 3725)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 99 (char 100)"
   ],
-  "time": "2026-11-09T04:37:49+00:00"
+  "time": "2026-11-09T05:40:55+00:00"
  }
 }
