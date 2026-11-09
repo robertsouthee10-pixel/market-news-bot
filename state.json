@@ -1,13 +1,5 @@
 {
  "seen": {
-  "1106b42a5633d054": 1794006996.1918004,
-  "8ef62508941f2946": 1794006996.191838,
-  "1e2f9a67fa99e88e": 1794006996.1918423,
-  "00aec0a206fad6b1": 1794006996.191846,
-  "7980d4ff841d6340": 1794006996.1918495,
-  "c10ff8a787fc2bb4": 1794006996.1918538,
-  "6dd9be05278f564f": 1794006996.1918566,
-  "e8b6f2d310c90865": 1794006996.1918597,
   "75599c22628ff5e1": 1794009262.8655941,
   "2b6f17758c33056d": 1794009262.8656108,
   "b1a7c5b57654bb6b": 1794009262.865614,
@@ -3194,13 +3186,24 @@
   "d11372c27671c843": 1794264891.2773292,
   "4a325071b870a268": 1794264891.2773309,
   "567295e5f024b0b9": 1794264891.2773328,
-  "8672977bd1eeacda": 1794264891.2773342
+  "8672977bd1eeacda": 1794264891.2773342,
+  "5ca74e46c5a29a56": 1794266986.895014,
+  "4fbd72acfe1ef063": 1794266988.1443563,
+  "efc68d12744cc42f": 1794266989.4571168,
+  "6bbde8231340b2d2": 1794266989.4571364,
+  "c1aeaad6ddb084ca": 1794266989.4571407,
+  "ff3a6c0801e22a7e": 1794266989.457144,
+  "f42da0b3c5a09750": 1794266990.6947932,
+  "fae5d2e78bc57750": 1794266990.6948123,
+  "78f4938667ae4805": 1794266991.9938376,
+  "ce22e53b51188037": 1794266991.9938562,
+  "d8a5da23b007600b": 1794266991.9938638,
+  "9757774ae5ffe1a4": 1794266991.9938676,
+  "fc4b954a5f2ef523": 1794266991.9938703,
+  "bff18320b8e93460": 1794266991.993873,
+  "8ff4f78a0f50aa9a": 1794266991.993876
  },
  "recent": [
-  "Lam Research, Marvell Technology, onsemi, Seagate, and Western Digital shares skyrocket, what you need to know",
-  "S&P 500 jumps 2.28% in midday rebound",
-  "Semtech, Entegris, Monolithic Power Systems, Broadcom, and Applied Materials shares are soaring, what you need to know",
-  "Middle East latest: Attack on Saudi oil pipeline causes fire",
   "Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked",
   "Amazon Stocks Rise 4.05% as JPMorgan Adds It to Focus List on AWS",
   "Oil prices tumble, pump prices follow",
@@ -3236,29 +3239,33 @@
   "Seagate Technology advances 10% amid broad-market rally (STX:NASDAQ)",
   "Trump says military action against Iran 'doesn't seem to be a very necessary thing'",
   "Gold extends post-election gains as tumbling oil prices ease inflation fears (GLD:NYSEARCA)",
-  "Global Market Watch: Major Indices Rebound on Plunging Oil Prices Amid Nvidia Headwinds"
+  "Global Market Watch: Major Indices Rebound on Plunging Oil Prices Amid Nvidia Headwinds",
+  "Australian Dollar recovers as Iran peace hopes sink Oil ahead US CPI",
+  "Iran Defends 2-Day Proposal as US Calls Terms ‘Outrageous’",
+  "Netanyahu said calling Trump ‘every day’ to push him to resume Iran war",
+  "Iran Doubles Down on Nuclear, Demands Enriched Uranium Stays for Any Peace Deal"
  ],
  "initialized": true,
  "last_alert": 1794264715.347157,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 298,
-  "new": 273,
+  "fetched": 288,
+  "new": 165,
   "rated": {
-   "low": 100,
-   "medium": 17,
-   "high": 6
+   "low": 8,
+   "medium": 7,
+   "high": 0
   },
-  "posted": 15,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 59 (char 4918)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 7 column 59 (char 1131)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 3084)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 101 (char 4042)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 101 (char 4086)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 60 (char 2357)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3604)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 190 (char 2887)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4173)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4384)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 141 (char 1400)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2382)"
   ],
-  "time": "2026-11-09T22:54:51+00:00"
+  "time": "2026-11-09T23:29:51+00:00"
  }
 }
