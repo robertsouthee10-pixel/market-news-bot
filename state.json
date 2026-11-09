@@ -1,15 +1,5 @@
 {
  "seen": {
-  "3855f9e3bc8440bb": 1793938728.7755527,
-  "851bfbcfea5d7576": 1793938728.7755582,
-  "605fd629ce75bd3d": 1793938728.775563,
-  "f9b20704a8aa5dab": 1793938728.7755654,
-  "3dcfca5c9dfbf20b": 1793938730.0547452,
-  "7bf294934a3ff01c": 1793938730.0547628,
-  "b405ea7fbf787c0a": 1793938730.054768,
-  "f83ffe08f21292b1": 1793938731.2733302,
-  "59a9d59b01338aa0": 1793938731.27335,
-  "663d1efe4aa9c29d": 1793938731.2733529,
   "02014741bd76e741": 1793942535.6977515,
   "919090914420d9b0": 1793942535.6977572,
   "d7f4734d35775ec6": 1793942535.6977603,
@@ -3274,10 +3264,17 @@
   "b41c404ae3092279": 1794194973.2642243,
   "d4ff0e2e4f1a9d56": 1794194973.2642303,
   "390fa49bcf3d219c": 1794194974.5199873,
-  "c5dfe7df2506bc78": 1794194975.9339325
+  "c5dfe7df2506bc78": 1794194975.9339325,
+  "26f0e30d99dad808": 1794199068.3174443,
+  "214bb3c0c5c24e42": 1794199068.3174546,
+  "90992600aa3ff03b": 1794199069.5809877,
+  "677e704f472cf50b": 1794199069.5810084,
+  "ff8dc44ea26ac40a": 1794199069.581012,
+  "0c41a4e506f92127": 1794199069.581016,
+  "ef8b48332129ad00": 1794199069.5810192,
+  "3cbde79ac3b257e8": 1794199069.5810225
  },
  "recent": [
-  "US and Iran Return to Hitting Each Other Post-Election",
   "US and Iran report attacks on vessels near Strait of Hormuz",
   "Iran says US election results paused mediators' work over talks to end crisis",
   "Nikkei 225 Weekly Review: Nikkei Plunges 9.25% to 57,434.77 and Enters a Bear Market",
@@ -3316,26 +3313,29 @@
   "Trump to meet Qatar’s prime minister over Iran mediation",
   "Trump makes Dana White U-turn as he announces Iran War close to end and Russia-China meeting on cards",
   "Gold gains more than 1% as softer oil prices ease inflation worries",
-  "U.S. dollar holds onto payrolls gains, NZ dollar rises after election"
+  "U.S. dollar holds onto payrolls gains, NZ dollar rises after election",
+  "Crude Oil Gains As Investors Weigh Renewed US-Iran Escalation Against Diplomacy By Kedia Advisory"
  ],
  "initialized": true,
  "last_alert": 1794191711.633108,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 139,
-  "new": 100,
+  "fetched": 158,
+  "new": 133,
   "rated": {
-   "low": 15,
-   "medium": 10,
+   "low": 4,
+   "medium": 4,
    "high": 0
   },
-  "posted": 8,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2389)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 97 (char 2815)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 62 (char 3892)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 100 (char 3350)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 142 (char 4527)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 142 (char 143)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 5 column 56 (char 677)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 101 (char 2428)"
   ],
-  "time": "2026-11-09T03:29:51+00:00"
+  "time": "2026-11-09T04:37:49+00:00"
  }
 }
