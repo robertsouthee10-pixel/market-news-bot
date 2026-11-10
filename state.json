@@ -1,7 +1,5 @@
 {
  "seen": {
-  "a5f040fe858be94c": 1794021597.2697911,
-  "0afe49a21d2404c2": 1794021597.2697995,
   "f4516459464e7227": 1794024847.3387973,
   "9027da036cfa9f65": 1794024847.338804,
   "6ad1dc4db8a552f7": 1794024847.3388078,
@@ -3101,14 +3099,27 @@
   "b3f5e1e4b3b81762": 1794279346.4891465,
   "26b4eb8d25b86676": 1794279346.4891484,
   "3753668a70406e28": 1794279346.4891505,
-  "a0fb585028e2474a": 1794279346.4891527
+  "a0fb585028e2474a": 1794279346.4891527,
+  "c76a5624c53f5980": 1794282131.5763059,
+  "4e116c764eea1d10": 1794282132.8073173,
+  "5d5c9a2509b54551": 1794282132.807342,
+  "dd8d65e39bbf948e": 1794282132.8073466,
+  "12563e25388d7e46": 1794282132.807351,
+  "bb9777f5c31c561b": 1794282134.1819901,
+  "95e81bad5df9cc1b": 1794282134.182008,
+  "d59f6b1132b47c28": 1794282135.3776877,
+  "d3d995b905ae6b66": 1794282135.3777068,
+  "1e9f3d53b0678839": 1794282135.3777113,
+  "d40d26191ae26b6c": 1794282136.6223228,
+  "a5451b91a316c569": 1794282136.6223438,
+  "62d5eff479318d72": 1794282136.6223478,
+  "bf2c10ca5dc82b80": 1794282136.622351,
+  "f0ddb3b08fded4b7": 1794282136.622355,
+  "06c8f673d598dab6": 1794282136.6223578,
+  "82d61a13702479cd": 1794282136.6223602,
+  "df55b3427d7816d0": 1794282136.6223633
  },
  "recent": [
-  "US stocks recover more of last week's losses as oil prices swing lower | National News | 2news.com",
-  "Micron Soars 5% as TSMC Sticks to the “Global Logic IC” Industry, Not Memory",
-  "At Least Five Explosions Reported in Strait of Hormuz",
-  "Global energy prices extend losses as Brent crude drops nearly 5% on hopes of US-Iran deal",
-  "Iran, Pezeshkian: ‘Khamenei orders an end to the deadlock with the US’. Cyberattacks: Barrot accuses Tehran",
   "Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports",
   "Trump: Gulf states prefer Iran naval blockade to continue",
   "China is trying to ‘steal’ AI chips, Rep Brian Mast warns",
@@ -3143,28 +3154,33 @@
   "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes",
   "China exports, imports soar past expectations in October — surplus narrows sharply",
   "Nvidia Faces Class Action Suit Over Huang Allegations; Senator Seeks Probe, Analyst Puts CEO Exit Odds At 15%",
-  "Micron, FormFactor, Amkor, Teradyne, and Nvidia shares skyrocket, what you need to know"
+  "Micron, FormFactor, Amkor, Teradyne, and Nvidia shares skyrocket, what you need to know",
+  "Mr. Trump sends optimistic signals about Iran conflict after meeting with Qatar",
+  "Tehran cannot have nuclear weapon because they would use it: Trump signals possibility of quick end to Iran war",
+  "AI Investment Boom Weighs on Economic Trajectory as Fed Officials Carefully Assess Rate Hike Pace",
+  "Iran war ‘effectively over’: Donald Trump",
+  "Hegseth to address reporters at Pentagon amid impeachment push over Iran war"
  ],
  "initialized": true,
  "last_alert": 1794276397.7868197,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 179,
-  "new": 140,
+  "fetched": 183,
+  "new": 143,
   "rated": {
-   "low": 10,
+   "low": 12,
    "medium": 5,
-   "high": 0
+   "high": 1
   },
   "posted": 5,
   "errors": [
-   "Claude: ValueError: no JSON array in model reply: ",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 98 (char 2794)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 56 (char 1974)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 60 (char 4572)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 56 (char 1804)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 98 (char 4327)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 101 (char 2313)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 142 (char 4964)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 142 (char 4717)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 185 (char 3052)"
   ],
-  "time": "2026-11-10T02:55:46+00:00"
+  "time": "2026-11-10T03:42:16+00:00"
  }
 }
