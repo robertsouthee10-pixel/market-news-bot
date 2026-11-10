@@ -1,18 +1,5 @@
 {
  "seen": {
-  "75599c22628ff5e1": 1794009262.8655941,
-  "2b6f17758c33056d": 1794009262.8656108,
-  "b1a7c5b57654bb6b": 1794009262.865614,
-  "23c0f2a629ecdcf9": 1794009262.8656185,
-  "bfb36d151e87843f": 1794009264.232673,
-  "e1f21d54e8362c5e": 1794009264.2326934,
-  "48c4b5313d4c276c": 1794009264.2326987,
-  "7c53b0a3571680f6": 1794009264.232702,
-  "f44fc27389cdc734": 1794009264.2327054,
-  "4d2bdcd241e4d7d3": 1794009264.2327077,
-  "ce8dcae12f97442b": 1794009264.2327104,
-  "1286a045d69dcb3c": 1794009264.2327127,
-  "269fc028f88e120f": 1794009264.2327158,
   "d55cf283ba4a3b24": 1794011752.7477765,
   "6b08c4965a49ac86": 1794011752.747807,
   "9928391caf851460": 1794011754.0257528,
@@ -3201,10 +3188,16 @@
   "9757774ae5ffe1a4": 1794266991.9938676,
   "fc4b954a5f2ef523": 1794266991.9938703,
   "bff18320b8e93460": 1794266991.993873,
-  "8ff4f78a0f50aa9a": 1794266991.993876
+  "8ff4f78a0f50aa9a": 1794266991.993876,
+  "72cc84c38f99802c": 1794269319.2281687,
+  "0f93cfed6d595587": 1794269319.228175,
+  "271b58b5c57a4460": 1794269319.2281814,
+  "f686c95699144804": 1794269319.228184,
+  "bfdd9659f48de91e": 1794269320.547861,
+  "1e3344e8eead44cc": 1794269320.5478797,
+  "6405be3506a0c06a": 1794269320.5478854
  },
  "recent": [
-  "Oil Prices Fall As Trump Appears To Lose Will To Keep Fighting Iran War After Republicans Got Their Butts Kicked",
   "Amazon Stocks Rise 4.05% as JPMorgan Adds It to Focus List on AWS",
   "Oil prices tumble, pump prices follow",
   "Did Jensen Huang know? Nvidia's CEO and an alleged spy",
@@ -3243,29 +3236,30 @@
   "Australian Dollar recovers as Iran peace hopes sink Oil ahead US CPI",
   "Iran Defends 2-Day Proposal as US Calls Terms ‘Outrageous’",
   "Netanyahu said calling Trump ‘every day’ to push him to resume Iran war",
-  "Iran Doubles Down on Nuclear, Demands Enriched Uranium Stays for Any Peace Deal"
+  "Iran Doubles Down on Nuclear, Demands Enriched Uranium Stays for Any Peace Deal",
+  "US inflation set to slow after two months of cost pressures"
  ],
  "initialized": true,
  "last_alert": 1794264715.347157,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 288,
-  "new": 165,
+  "fetched": 254,
+  "new": 157,
   "rated": {
-   "low": 8,
-   "medium": 7,
+   "low": 3,
+   "medium": 4,
    "high": 0
   },
-  "posted": 4,
+  "posted": 1,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 59 (char 3604)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 190 (char 2887)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4173)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4384)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 141 (char 1400)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 2382)"
+   "Claude: ValueError: no JSON array in model reply: ",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 142 (char 3117)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2809)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 142 (char 2747)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 5480)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2906)"
   ],
-  "time": "2026-11-09T23:29:51+00:00"
+  "time": "2026-11-10T00:08:40+00:00"
  }
 }
