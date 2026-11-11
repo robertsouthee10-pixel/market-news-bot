@@ -1,9 +1,5 @@
 {
  "seen": {
-  "efc736fe6e74c6bc": 1794095578.134388,
-  "f8778bd85e3e8d32": 1794095578.1343946,
-  "798ba5fe11ebae3d": 1794095578.1343977,
-  "d5f35c4e5fc390d1": 1794095578.1344,
   "73cb37f5932e89a0": 1794098015.181456,
   "9e2b509963fac243": 1794098016.5280595,
   "88c54dd819c98c28": 1794098016.5280864,
@@ -3298,13 +3294,31 @@
   "5373dc5844a7b9c2": 1794354518.830531,
   "41ef4a0b8b10b67e": 1794354518.8305342,
   "1e4b409645eb3710": 1794354518.8305368,
-  "f461b676d76107bc": 1794354518.8305397
+  "f461b676d76107bc": 1794354518.8305397,
+  "e60bfedfca389c69": 1794356705.7350817,
+  "94161580f1c3050c": 1794356705.7350879,
+  "49e27e84e022e685": 1794356707.1577373,
+  "da996d1ba409b1d3": 1794356707.1577594,
+  "984e73bcea8e551c": 1794356707.157765,
+  "79a8d44405b6f792": 1794356707.1577685,
+  "254442407a210c5a": 1794356707.1577706,
+  "372e92785813d57e": 1794356707.1577735,
+  "92bf40f54288f03b": 1794356707.1577766,
+  "2f67c1e8c05c55cf": 1794356707.1577792,
+  "daef0b39d581c822": 1794356707.157783,
+  "3a2f54564766e0b8": 1794356707.1577897,
+  "0d1986be1380f5cf": 1794356707.1577957,
+  "77fba7eeaf0d4377": 1794356707.157798,
+  "599e84e871cc7750": 1794356707.1578012,
+  "85e188d6ab86a1d6": 1794356708.540521,
+  "750664110e54fdf5": 1794356709.6827426,
+  "1b4aa02976415723": 1794356709.6827621,
+  "0c4de175f8f535e2": 1794356710.9068022,
+  "8f46b0a83a64805d": 1794356710.906822,
+  "ad8e9020724b45b7": 1794356710.906826,
+  "737dcb112b58f508": 1794356710.9068286
  },
  "recent": [
-  "Alphabet makes $10 billion bet on Anthropic's massive IPO",
-  "Super Micro, Dell, Everpure, and Diebold Nixdorf shares plummet, what you need to know",
-  "Dollar heads for best day since September after inflation beat forecasts",
-  "Update: Market Chatter: Microsoft Urges Trump to Scrap Expected Ban on Chinese Data Center Tech",
   "Another tanker strikes mine in the Strait of Hormuz",
   "Trump says he believes war with Iran is militarily 'effectively over'",
   "Energy briefs–global oil prices fell below $90",
@@ -3340,28 +3354,34 @@
   "Fed Rate Hike Odds Hit 100 Percent for December After CPI Report",
   "Amazon Stocks Rise 1.15% as Anthropic IPO Range Puts a Price on Its Stake",
   "Alphabet Stocks Rise 0.34% as Google Lines Up $10 Billion Anthropic Stake Purchase",
-  "Anthropic IPO Could Value Claude Maker at $1.4 Trillion"
+  "Anthropic IPO Could Value Claude Maker at $1.4 Trillion",
+  "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3% As U.S. CPI Data Supports Fed Hike",
+  "Trump Meets with Qatari Mediators as Iran Pushes ‘Two-Day Peace Plan’",
+  "Rubio: No further Iran military action needed; Hegseth responds to ‘farce’",
+  "Semiconductor surge puts South Korea on track for first $1 trillion exports"
  ],
  "initialized": true,
  "last_alert": 1794347464.7577047,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 241,
-  "new": 170,
-  "rated": {
-   "low": 35,
-   "medium": 6,
-   "high": 4
-  },
-  "posted": 3,
-  "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 4 column 59 (char 469)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4715)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 2916)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 3029)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 98 (char 3984)"
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
   ],
-  "time": "2026-11-10T23:48:38+00:00"
+  "fetched": 233,
+  "new": 147,
+  "rated": {
+   "low": 17,
+   "medium": 4,
+   "high": 1
+  },
+  "posted": 4,
+  "errors": [
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 100 (char 2967)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3747)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 59 (char 4165)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 6 column 96 (char 838)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 142 (char 1490)"
+  ],
+  "time": "2026-11-11T00:25:10+00:00"
  }
 }
