@@ -1,30 +1,5 @@
 {
  "seen": {
-  "ed58b2666e6ddff6": 1794194965.8033667,
-  "ecb1373536065786": 1794194965.8033748,
-  "a70a29e17dc26181": 1794194965.8033786,
-  "9555db94ebb67fab": 1794194967.044764,
-  "bb28f66b17321793": 1794194967.0447872,
-  "a50e9e9cdfcd65ba": 1794194967.0447915,
-  "cd8599817b8cdb2c": 1794194967.044797,
-  "f81b3486eb08582f": 1794194967.044801,
-  "941bda9d7bd86a87": 1794194967.0448036,
-  "8d23d49aea80bd93": 1794194967.0448065,
-  "432ca238afec2d5e": 1794194967.0448084,
-  "ad792a9b3eaf11b5": 1794194968.3586967,
-  "1f9ff75a957ec78c": 1794194968.3587198,
-  "a71444fcdc706b28": 1794194968.3587239,
-  "d996dded51ba79a9": 1794194968.358727,
-  "fed770156e85c555": 1794194968.3587291,
-  "37dc04170799b2d8": 1794194969.5985553,
-  "1037b9f0c804efe3": 1794194970.7828898,
-  "ca77e08fde12e943": 1794194972.0281794,
-  "d5a8f41e8661c1c4": 1794194972.028205,
-  "fbbfa7050c250079": 1794194973.264201,
-  "b41c404ae3092279": 1794194973.2642243,
-  "d4ff0e2e4f1a9d56": 1794194973.2642303,
-  "390fa49bcf3d219c": 1794194974.5199873,
-  "c5dfe7df2506bc78": 1794194975.9339325,
   "26f0e30d99dad808": 1794199068.3174443,
   "214bb3c0c5c24e42": 1794199068.3174546,
   "90992600aa3ff03b": 1794199069.5809877,
@@ -3308,7 +3283,8 @@
   "1df9b7e70b976e46": 1794448482.5641873,
   "974b78565753e242": 1794448483.8399956,
   "ee457f8fc91ddf40": 1794448483.8400018,
-  "0899215de7db68df": 1794448483.8400047
+  "0899215de7db68df": 1794448483.8400047,
+  "a6a0493cfe958127": 1794454414.1361828
  },
  "recent": [
   "Latest war news. A tense phone call between Trump and Netanyahu at the weekend. Tehran: enriched uranium will remain here",
@@ -3357,20 +3333,20 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 145,
-  "new": 99,
+  "fetched": 137,
+  "new": 101,
   "rated": {
-   "low": 0,
+   "low": 1,
    "medium": 0,
    "high": 0
   },
   "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 101 (char 4398)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 57 (char 2689)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 142 (char 3396)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 142 (char 2513)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 7 column 144 (char 1377)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 57 (char 4144)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 99 (char 3551)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 141 (char 2105)"
   ],
-  "time": "2026-11-12T02:41:42+00:00"
+  "time": "2026-11-12T03:33:34+00:00"
  }
 }
