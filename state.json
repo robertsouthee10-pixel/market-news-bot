@@ -1,28 +1,5 @@
 {
  "seen": {
-  "bbc5fc94f624a539": 1794181470.1863077,
-  "f4bfd04952827466": 1794181471.4129229,
-  "64cd5411e647f73c": 1794183647.755619,
-  "02300cd0c3aa86ce": 1794183647.7556243,
-  "19dbefbf4b20daf5": 1794183647.75563,
-  "dc4f8623f3adb68e": 1794183647.7556322,
-  "ab7bc08b4dece358": 1794183647.755634,
-  "47c23debe395a5c1": 1794183647.755636,
-  "c1d2944e78d2b772": 1794183647.7556376,
-  "891119a4c5d872c8": 1794183647.7556415,
-  "dfba4a96b48c41d1": 1794183647.755644,
-  "a450e999380705dc": 1794183649.0872269,
-  "68bbbf463800e6d3": 1794183649.0872467,
-  "6126310fe60e60f6": 1794183649.0872502,
-  "c1fa0be3248519e4": 1794183650.3088372,
-  "36d865cac9f62653": 1794183650.3088565,
-  "8474e3360d8e9822": 1794183650.308862,
-  "8af85802c10e5b52": 1794183650.3088648,
-  "d38496678bf72150": 1794183651.5256102,
-  "dec8f1edcc20c2f7": 1794183651.525631,
-  "b1c8468dc0f99949": 1794183651.525635,
-  "2db3e8fd02cba669": 1794183651.5256376,
-  "4326dfe6cdd59867": 1794183651.5256405,
   "baccc8f041481e8f": 1794188289.030722,
   "fa5d82db5b4dbc0a": 1794188289.0307314,
   "ee35362e385122b1": 1794188290.2554514,
@@ -3344,12 +3321,21 @@
   "191386d8bc2a8bf4": 1794440333.6045556,
   "bd4a89a5bd61ae24": 1794440333.6045582,
   "5ca2fbf5d872cfc9": 1794440333.6045604,
-  "7e2264fdbb9c7b0b": 1794440333.604563
+  "7e2264fdbb9c7b0b": 1794440333.604563,
+  "5d5797d273c8bb33": 1794443560.9239242,
+  "a168f929fbc96503": 1794443560.923928,
+  "e10ec75df379ee4e": 1794443562.178452,
+  "15a4e71b608643ce": 1794443563.536272,
+  "d4ef885f556579ce": 1794443563.5362911,
+  "adf000e472230b40": 1794443564.8796973,
+  "e98a19d706d738d4": 1794443564.8797157,
+  "d06b2f289666868c": 1794443564.87972,
+  "a48cb2f4713724ca": 1794443564.8797233,
+  "92d39e3c440acd0f": 1794443564.8797255,
+  "adb502db84b53504": 1794443564.8797274,
+  "a71ad9bb3e5ebf5b": 1794443564.879731
  },
  "recent": [
-  "Inflation Fears Keep Treasury Yields Elevated, but Is the Market Overreacting?",
-  "Iran Rejects Transfer of Enriched Uranium, Warns US",
-  "Nvidia stock is pricing in 2 major risks as CEO Jensen Huang's affair fallout plays out",
   "Iran attacked maritime navigation systems in Oman - Reuters",
   "Amazon Stocks Move Lower 1.64% as Anthropic Filing Details AWS Note Conversion",
   "Tehran Widens Military Threats Despite Mediation… Is the Confrontation with Washington Entering a New Phase? | Sabq",
@@ -3386,27 +3372,30 @@
   "Oil is stuck in limbo with no Iran war but no peace",
   "US Military: We Helped 4,000 Ships Transit Hormuz, and Iran Blockade Has Blocked 30 Billion Barrels of Oil",
   "Gold falls below $4,000 as Fed rate hike bets grow",
-  "War In The Strait: U.S. And Iran Trade Island Blows As Conflict Crosses $47 Billion Mark"
+  "War In The Strait: U.S. And Iran Trade Island Blows As Conflict Crosses $47 Billion Mark",
+  "‘No safe haven’: Iran warns military bases in Europe could be targeted in new US war",
+  "Dow Jones Industrial Average (DJIA) and S&P 500 Slide As Rate Hike Odds Hit 100% On Hotter-Than-Expected Inflation Data",
+  "Dollar near one-month high as yen edges toward 160"
  ],
  "initialized": true,
  "last_alert": 1794437429.5765302,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 220,
-  "new": 147,
+  "fetched": 177,
+  "new": 112,
   "rated": {
-   "low": 25,
-   "medium": 15,
-   "high": 7
+   "low": 5,
+   "medium": 5,
+   "high": 2
   },
-  "posted": 14,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 3957)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 56 (char 1651)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 4605)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3861)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 57 (char 1944)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 101 (char 3128)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 4179)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3246)"
   ],
-  "time": "2026-11-11T23:38:53+00:00"
+  "time": "2026-11-12T00:32:44+00:00"
  }
 }
