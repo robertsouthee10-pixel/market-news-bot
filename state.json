@@ -3558,12 +3558,21 @@
   "a2135ad20dd63135": 1794533457.9820325,
   "fa3f26398966ff11": 1794533457.9820375,
   "36689089ebb17290": 1794533459.1806881,
-  "0265554f95916c2f": 1794533459.180711
+  "0265554f95916c2f": 1794533459.180711,
+  "7aed435b206396c1": 1794536727.6064155,
+  "653d829048263ce8": 1794536727.6064215,
+  "47dd485037cd8dc2": 1794536727.6064243,
+  "97abbe0d8fab07b7": 1794536727.6064267,
+  "5acdf7bf08938c2b": 1794536727.6064286,
+  "26824e2f580d6107": 1794536728.8137362,
+  "a727c12889c6deb6": 1794536730.0742538,
+  "f21604bff650ff11": 1794536731.49147,
+  "65bd5cb1a4f0e139": 1794536731.491492,
+  "24f7cad6391fedff": 1794536731.4914973,
+  "7bab9d2d1702ae0b": 1794536731.4915004,
+  "4e93f72d5318ef80": 1794536731.4915035
  },
  "recent": [
-  "Applied Materials perks up on strong Q4 results, guidance (AMAT:NASDAQ)",
-  "S&P 500 Closes Down 0.43% as Rate-Hike Odds Weigh on Growth Stocks",
-  "Trump says he could use force against Iran ‘right now’",
   "What is Netanyahu preparing for? Iran tensions put Israel on military alert",
   "US stocks close lower as Nvidia drop outweighs energy gains",
   "Nasdaq Composite closes at 25,366.09, down 0.39 percent",
@@ -3600,28 +3609,33 @@
   "SemiAnalysis speculates U.S. intelligence played role in Nvidia CEO exit",
   "🚨🇺🇸🇮🇷 Trump says Gulf allies want Iran strangled economically instead of BOMBED Saudi Arabia, Qatar, Kuwait, UAE, and Bahrain have reportedly urged restraint. Trump: \"Saudi Arabia has asked me to please just let it be the way it is now for a while, becau",
   "Oil rebounds as Iran uncertainty restores geopolitical premium",
-  "Michael Burry Doubles Down On Nasdaq 100 Puts, Adds To Semiconductor Shorts As Nvidia Faces Scrutiny"
+  "Michael Burry Doubles Down On Nasdaq 100 Puts, Adds To Semiconductor Shorts As Nvidia Faces Scrutiny",
+  "Congress faces showdown over power to fund Iran war",
+  "Iran claims port city Sirik near Strait of Hormuz hit by ‘enemy fire’",
+  "Japan's finance minister vows action as yen breaches 160 threshold"
  ],
  "initialized": true,
- "last_alert": 1794523888.274357,
+ "last_alert": 1794536655.978151,
  "last_run": {
-  "feeds_ok": 18,
-  "feeds_failed": [],
-  "fetched": 228,
-  "new": 145,
+  "feeds_ok": 17,
+  "feeds_failed": [
+   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
+  ],
+  "fetched": 210,
+  "new": 137,
   "rated": {
-   "low": 16,
-   "medium": 9,
+   "low": 9,
+   "medium": 3,
    "high": 0
   },
-  "posted": 5,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 7 column 56 (char 1343)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 100 (char 2582)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 58 (char 359)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 101 (char 2757)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 151 (char 3284)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 98 (char 3367)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 4337)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 3578)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 143 (char 3736)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 142 (char 4021)"
   ],
-  "time": "2026-11-13T01:32:08+00:00"
+  "time": "2026-11-13T02:25:31+00:00"
  }
 }
