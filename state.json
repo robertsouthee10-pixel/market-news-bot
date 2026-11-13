@@ -1,20 +1,5 @@
 {
  "seen": {
-  "8310956e523f486a": 1794279341.301916,
-  "0c00e0ba2f6a4bce": 1794279341.3019419,
-  "f302c3631cfea956": 1794279341.301946,
-  "a43a7bb3630026de": 1794279342.583996,
-  "d3c6085e23749e27": 1794279344.0396485,
-  "0c6f7701abdbcdbb": 1794279344.0396597,
-  "854c0c35d4f78d78": 1794279345.2749693,
-  "3c9ecb7674b8f42e": 1794279346.489126,
-  "0bf99ad1bdb1d2e0": 1794279346.4891362,
-  "9fd4e4dbd192177d": 1794279346.4891403,
-  "e20f0b22882fc835": 1794279346.4891431,
-  "b3f5e1e4b3b81762": 1794279346.4891465,
-  "26b4eb8d25b86676": 1794279346.4891484,
-  "3753668a70406e28": 1794279346.4891505,
-  "a0fb585028e2474a": 1794279346.4891527,
   "c76a5624c53f5980": 1794282131.5763059,
   "4e116c764eea1d10": 1794282132.8073173,
   "5d5c9a2509b54551": 1794282132.807342,
@@ -3570,17 +3555,25 @@
   "65bd5cb1a4f0e139": 1794536731.491492,
   "24f7cad6391fedff": 1794536731.4914973,
   "7bab9d2d1702ae0b": 1794536731.4915004,
-  "4e93f72d5318ef80": 1794536731.4915035
+  "4e93f72d5318ef80": 1794536731.4915035,
+  "a2ab0a618d380a40": 1794539757.3033328,
+  "746f825bcd92cf6e": 1794539757.3033543,
+  "b1213bf797b2de26": 1794539758.5902512,
+  "9a3667895729d039": 1794539759.8322687,
+  "999474eed310a128": 1794539759.8322897,
+  "b3d2fa1348826ba9": 1794539761.2482958,
+  "4dca9e468ea107bd": 1794539762.567832,
+  "c56ea9dca0febcd0": 1794539763.8688853,
+  "2bed29fea7cc2c7a": 1794539765.1572504,
+  "9f22002cbd35aa80": 1794539765.1572697,
+  "1ef2db3943ac152d": 1794539765.1572757,
+  "34a7b48b5c65f7c5": 1794539765.15728,
+  "568c27b61002b15a": 1794539766.4081988,
+  "8301f0bf09ac13b1": 1794539766.408219,
+  "758b7e4ca9577cf9": 1794539766.4082232,
+  "ea196697ca5898d4": 1794539766.4082294
  },
  "recent": [
-  "What is Netanyahu preparing for? Iran tensions put Israel on military alert",
-  "US stocks close lower as Nvidia drop outweighs energy gains",
-  "Nasdaq Composite closes at 25,366.09, down 0.39 percent",
-  "As the Stock Market Churns, Treasury Yields and the Dollar Break Out",
-  "Silver tumbles over 3% as Fed rate hike bets fuel US Dollar rally",
-  "Applied Materials surprises with Q3 sales, inventory levels improve",
-  "Update: US Equity Indexes Fall, Nvidia Turmoil in Danger of Spreading While Surging Crude Oil Lifts Treasury Yields",
-  "Update: Wall Street Ends Choppy Session Lower as CEO Exit Drives Nvidia Sell-Off",
   "China Producer Inflation Accelerates to Over Four-Year High",
   "Iran escalates attacks in Gulf striking one of the region’s major refineries in Kuwait",
   "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap",
@@ -3612,30 +3605,35 @@
   "Michael Burry Doubles Down On Nasdaq 100 Puts, Adds To Semiconductor Shorts As Nvidia Faces Scrutiny",
   "Congress faces showdown over power to fund Iran war",
   "Iran claims port city Sirik near Strait of Hormuz hit by ‘enemy fire’",
-  "Japan's finance minister vows action as yen breaches 160 threshold"
+  "Japan's finance minister vows action as yen breaches 160 threshold",
+  "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
+  "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+  "Nvidia CEO Huang quits after affair with suspected China spy",
+  "Iran says talks with Saudi Arabia continue, seeks regional security free of 'foreign military presence’",
+  "Iran’s Ghalibaf says ‘ball in US court’ to prevent war",
+  "Iran Says Intensive Diplomatic Efforts Underway Through Qatar and Pakistan, Araghchi Warns US",
+  "Oil Prices Drop Nearly 4% as Hopes Grow for Deal to End US-Israel War on Iran",
+  "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields"
  ],
  "initialized": true,
  "last_alert": 1794536655.978151,
  "last_run": {
-  "feeds_ok": 17,
-  "feeds_failed": [
-   "https://www.federalreserve.gov/feeds/press_all.xml -> 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_"
-  ],
-  "fetched": 210,
-  "new": 137,
+  "feeds_ok": 18,
+  "feeds_failed": [],
+  "fetched": 181,
+  "new": 116,
   "rated": {
-   "low": 9,
-   "medium": 3,
-   "high": 0
+   "low": 5,
+   "medium": 10,
+   "high": 1
   },
-  "posted": 3,
+  "posted": 8,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 98 (char 3367)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 59 (char 4337)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 59 (char 3578)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 143 (char 3736)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 142 (char 4021)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 143 (char 2517)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 183 (char 3650)",
+   "Claude: ValueError: no JSON array in model reply: ",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 142 (char 3063)"
   ],
-  "time": "2026-11-13T02:25:31+00:00"
+  "time": "2026-11-13T03:16:06+00:00"
  }
 }
