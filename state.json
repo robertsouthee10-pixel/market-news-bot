@@ -1,12 +1,5 @@
 {
  "seen": {
-  "72cc84c38f99802c": 1794269319.2281687,
-  "0f93cfed6d595587": 1794269319.228175,
-  "271b58b5c57a4460": 1794269319.2281814,
-  "f686c95699144804": 1794269319.228184,
-  "bfdd9659f48de91e": 1794269320.547861,
-  "1e3344e8eead44cc": 1794269320.5478797,
-  "6405be3506a0c06a": 1794269320.5478854,
   "36264d17860bba76": 1794272747.8339763,
   "af1967ecb0cfbe76": 1794272747.8339865,
   "6646c306ed607450": 1794272747.8339891,
@@ -3564,12 +3557,12 @@
   "4fb793010e134035": 1794526140.1182857,
   "1c11a6f79b16da42": 1794526140.118288,
   "ce4e7d72551820cf": 1794526223.6911733,
-  "a645678006068da6": 1794526223.6911767
+  "a645678006068da6": 1794526223.6911767,
+  "61a809145f440864": 1794529040.2432559,
+  "8006ed2b08c53f94": 1794529041.5002375,
+  "11cfef8ced4d927f": 1794529042.8672168
  },
  "recent": [
-  "NVIDIA (NASDAQ:NVDA) Stock Dropped to \"Hold\" by Truist Financial",
-  "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-  "Some European countries moving their gold supply out of the U.S.",
   "Baghaei warns countries against joining aggression against Iran",
   "Trump removes Vance from Iran talks as U.S. launches strikes on IRGC bases",
   "Ships Seeking to Cross The Strait of Hormuz Have Been Under Fire. Now Oil Spills Are Visible From Space.",
@@ -3606,28 +3599,31 @@
   "The bond market now has an even bigger fear than AI fallout",
   "Nvidia Stock Just Got Downgraded After Jensen Huang's Exit. Should You Sell?",
   "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-  "AI Debt Binge Hits a Wall As Global Bond Markets Reach Saturation Point, Wells Fargo Warns"
+  "AI Debt Binge Hits a Wall As Global Bond Markets Reach Saturation Point, Wells Fargo Warns",
+  "Oil Prices Rise as Trump Dismisses Iran Deal, Gold and Copper Dr",
+  "Oil prices hold gains as Trump sidelines Vance from Iran diplomacy",
+  "Projectile Hits Oil Tanker Off UAE Coast Near Strait of Hormuz"
  ],
  "initialized": true,
  "last_alert": 1794523888.274357,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 265,
-  "new": 177,
+  "fetched": 228,
+  "new": 128,
   "rated": {
-   "low": 37,
-   "medium": 15,
-   "high": 0
+   "low": 0,
+   "medium": 2,
+   "high": 1
   },
-  "posted": 6,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 2 column 58 (char 59)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 98 (char 4264)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4501)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 97 (char 4663)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 183 (char 3198)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 99 (char 2149)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 2822)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 59 (char 3670)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2848)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2945)"
   ],
-  "time": "2026-11-12T23:30:23+00:00"
+  "time": "2026-11-13T00:17:22+00:00"
  }
 }
