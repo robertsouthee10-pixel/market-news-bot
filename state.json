@@ -1,22 +1,5 @@
 {
  "seen": {
-  "2c2a9758ed261b5b": 1794306990.8991055,
-  "44b17516fbdf9044": 1794306990.8991134,
-  "d3d1aa32b471fb0b": 1794306992.2179692,
-  "70ef8cf3bfe4b4d3": 1794306992.217989,
-  "847e9de26d81a550": 1794306992.2179928,
-  "e3555432cc15ec18": 1794306992.2179952,
-  "5a3478319bc23eaa": 1794306992.2179976,
-  "bc50410fe75740ff": 1794306993.4286454,
-  "39939e3450c53812": 1794306993.4286652,
-  "e3f9b49eca12404a": 1794306994.675445,
-  "6514fd8a18be7f96": 1794306994.6754665,
-  "5255bdaac0f4b8b4": 1794306994.6754704,
-  "a44c180b12633d5d": 1794306994.6754737,
-  "0c0daf099d099f7d": 1794306994.6754763,
-  "38628a56d0032987": 1794306994.6754787,
-  "daba770876311288": 1794306994.675482,
-  "a5ab5046e6b0f909": 1794306994.6754847,
   "23e35136b823628f": 1794310114.8842578,
   "dcd5b43d7200bb17": 1794310114.8842645,
   "584658dfc39fe24a": 1794310114.8842673,
@@ -3637,21 +3620,22 @@
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 167,
-  "new": 152,
+  "fetched": 164,
+  "new": 147,
   "rated": {
-   "low": 21,
-   "medium": 4,
-   "high": 2
+   "low": 0,
+   "medium": 0,
+   "high": 0
   },
-  "posted": 4,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 56 (char 301)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3426)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4413)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3733)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 101 (char 2791)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 3052)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 183 (char 3273)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 15 column 148 (char 3042)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4697)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4867)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 102 (char 3938)"
   ],
-  "time": "2026-11-13T09:41:16+00:00"
+  "time": "2026-11-13T10:41:21+00:00"
  }
 }
