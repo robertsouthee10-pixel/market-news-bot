@@ -1,17 +1,5 @@
 {
  "seen": {
-  "6e59d2a86ba75e95": 1794300146.566057,
-  "9525eea7fa779d38": 1794300146.5660775,
-  "7c43fb6aad37e72b": 1794300146.566083,
-  "4da8bbcac38c46ef": 1794300146.5660863,
-  "39f2bd65e7a80dc0": 1794300218.1299667,
-  "6f676d5e5d27b726": 1794300218.1299706,
-  "3867093032c2122e": 1794300218.1299725,
-  "fd5fa641c5153475": 1794300218.129976,
-  "01a14c794170edff": 1794300218.129978,
-  "83423c8ffed06fa5": 1794300218.1299794,
-  "9645eaffb08781d9": 1794300218.129981,
-  "1c726ca1ce60b00c": 1794300218.129984,
   "2c2a9758ed261b5b": 1794306990.8991055,
   "44b17516fbdf9044": 1794306990.8991134,
   "d3d1aa32b471fb0b": 1794306992.2179692,
@@ -3573,13 +3561,36 @@
   "32da9542c5784e78": 1794559345.9259863,
   "8a97776d19c7e929": 1794559345.9259892,
   "a659130eb25858b8": 1794559345.9259908,
-  "79fb0d01319a433c": 1794559345.925993
+  "79fb0d01319a433c": 1794559345.925993,
+  "307c93030866bb8d": 1794562832.127906,
+  "92a909c53e727727": 1794562832.1279113,
+  "da534d67d1eefc73": 1794562832.1279142,
+  "446e41e671ffc154": 1794562832.1279166,
+  "4579dec173d108e3": 1794562832.1279192,
+  "6900fb9224b6d8f1": 1794562832.1279209,
+  "945210eed0fae484": 1794562833.4308145,
+  "341e64ce856f39f5": 1794562833.430836,
+  "62f5b4bab26a2454": 1794562833.4308453,
+  "47e97709562ab42c": 1794562837.3286765,
+  "29fa83feb0027367": 1794562837.3286982,
+  "a05de18d17569533": 1794562837.3287017,
+  "9e2fff146dc717ff": 1794562838.6242955,
+  "fa98670d81156644": 1794562838.6243188,
+  "cd93fcfc7d25ef9e": 1794562838.6243227,
+  "c19c10a1b0b22aba": 1794562838.6243248,
+  "70abeaddb9adede4": 1794562838.6243298,
+  "2a3114ef18cdd255": 1794562838.6243322,
+  "35508b3b1657d4af": 1794562838.6243346,
+  "425b932241be6da9": 1794562838.6243372,
+  "19c588f4ffc8b2b1": 1794562839.897268,
+  "be7ff8aea3776f32": 1794562839.897291,
+  "4161c6838a2afd3c": 1794562839.8972955,
+  "a4411640b9b33c59": 1794562839.897298,
+  "abb40a6320ad8bee": 1794562839.8973005,
+  "9ff933a5efa63174": 1794562876.926437,
+  "110a17c5889d60c1": 1794562876.9264414
  },
  "recent": [
-  "Iran claims port city Sirik near Strait of Hormuz hit by ‘enemy fire’",
-  "Japan's finance minister vows action as yen breaches 160 threshold",
-  "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
-  "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
   "Nvidia CEO Huang quits after affair with suspected China spy",
   "Iran says talks with Saudi Arabia continue, seeks regional security free of 'foreign military presence’",
   "Iran’s Ghalibaf says ‘ball in US court’ to prevent war",
@@ -3615,27 +3626,32 @@
   "Trump defends Iran strikes after midterm losses, says he’d ‘do it again’",
   "Crude Oil Prices Face Fresh Pressure as US-Iran Diplomatic Hopes Fade",
   "US Congress backs tighter Nvidia chip export curbs to China",
-  "French inflation confirmed at 3.4% in October, up from 3.1%"
+  "French inflation confirmed at 3.4% in October, up from 3.1%",
+  "US Treasury yields rise as markets price in nea...",
+  "Bloomberg: Nvidia AI Chips Were Tracked To A Shanghai Data Center",
+  "Oil Prices Rebound as Middle East Supply Risks Persist",
+  "Wall Street Wrap: Nvidia Faces Downgrades As Jensen Huang’s Exit Rattles Analysts — AMD, MP Materials, Riot Platforms Get Bullish Calls"
  ],
  "initialized": true,
- "last_alert": 1794550849.4064097,
+ "last_alert": 1794562785.93723,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 150,
-  "new": 130,
+  "fetched": 167,
+  "new": 152,
   "rated": {
-   "low": 20,
-   "medium": 5,
-   "high": 5
+   "low": 21,
+   "medium": 4,
+   "high": 2
   },
-  "posted": 6,
+  "posted": 4,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4494)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 7 column 100 (char 1302)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 8 column 102 (char 1531)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 140 (char 4122)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 56 (char 301)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3426)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4413)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3733)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 101 (char 2791)"
   ],
-  "time": "2026-11-13T08:42:25+00:00"
+  "time": "2026-11-13T09:41:16+00:00"
  }
 }
