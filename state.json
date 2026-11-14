@@ -1,19 +1,5 @@
 {
  "seen": {
-  "73bd6b20f02bd67b": 1794370936.2439523,
-  "3b5ce8932c899476": 1794370936.2439592,
-  "87f50efa77fc9ec2": 1794370936.2439623,
-  "5bbcc19a7591696a": 1794370936.243965,
-  "083ee514c54f348f": 1794370936.243967,
-  "c43e60c8a6decf74": 1794370936.243969,
-  "d6f4503d95b28171": 1794370936.2439713,
-  "285e925f288a502b": 1794370936.2439735,
-  "aea183ee99fa5380": 1794370936.2439756,
-  "77237a5fc21134bd": 1794370936.2439775,
-  "a833e09fe83887e5": 1794370936.2439795,
-  "619ed8e7e1a797f2": 1794370937.5126352,
-  "ed54c12557f24d6b": 1794370937.5126543,
-  "9e56af620d8a45f1": 1794370938.7039206,
   "2393beb268c90a4e": 1794374627.9238207,
   "b4d08755da1b634d": 1794374627.923826,
   "5cef509f01de9aa2": 1794374627.9238293,
@@ -3579,11 +3565,24 @@
   "f6acd7acb97af212": 1794629807.770629,
   "146fd532b030f427": 1794629807.770633,
   "4bbee7e350c7f334": 1794629807.7706366,
-  "5656f340ff30c6de": 1794629809.0001166
+  "5656f340ff30c6de": 1794629809.0001166,
+  "4cc1388c9fd6b6a8": 1794633205.713886,
+  "68a4b9911e424f40": 1794633205.7138917,
+  "faf4d84c0f1fc3bb": 1794633205.713895,
+  "9c4c20d92aa3fa0f": 1794633205.7138975,
+  "0508624c5383dc95": 1794633205.7138999,
+  "55e8ade738933a4d": 1794633205.7139025,
+  "1db8917dcfc3b046": 1794633206.9873009,
+  "c7c1d0101f01b754": 1794633208.2480032,
+  "fea2c20bb0e55837": 1794633208.2480235,
+  "5cd8beae19ab6357": 1794633208.2480292,
+  "4421ffbb9600c54f": 1794633208.248033,
+  "f2046cff13f2912a": 1794633208.2480364,
+  "6a82167229a0418f": 1794633208.2480404,
+  "2e345bd9da74d245": 1794633208.24805,
+  "dc97e47f1c9099d6": 1794633208.2480536
  },
  "recent": [
-  "Trump says US could devastate Iran in three days as diplomatic efforts stall",
-  "Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility",
   "Wall Street closes mixed as Nvidia and AMD sink; Nasdaq still posts its best week since August",
   "90 Million Barrels Later, Trump Locks In Record Jones Act Waiver Extension Amid Iran War Pressures",
   "NVIDIA (NASDAQ:NVDA) Stock Price Target Cut by Rosenblatt Securities",
@@ -3621,25 +3620,28 @@
   "Gold Falls 3.5%, Silver Slips as Fed Hike Bets Rise",
   "Financial Disclosure: Trump Bought Millions in Nvidia Stock Before Chip Export Restrictions Were Lifted",
   "Bitcoin Price Crashes Below $68,000 as Liquidations Hit $1.62B",
-  "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN"
+  "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN",
+  "IEA Says Global Oil Supply Back in Surplus for First Time Since Iran War",
+  "Wholesale inflation declined last month yet remains stubbornly elevated - Associated Press"
  ],
  "initialized": true,
  "last_alert": 1794629770.8906243,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 113,
-  "new": 89,
+  "fetched": 106,
+  "new": 90,
   "rated": {
-   "low": 34,
-   "medium": 5,
+   "low": 13,
+   "medium": 2,
    "high": 0
   },
-  "posted": 3,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3866)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 106 (char 3417)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3301)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 98 (char 4117)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 5110)"
   ],
-  "time": "2026-11-14T04:16:49+00:00"
+  "time": "2026-11-14T05:13:28+00:00"
  }
 }
