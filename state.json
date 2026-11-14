@@ -1,37 +1,5 @@
 {
  "seen": {
-  "2393beb268c90a4e": 1794374627.9238207,
-  "b4d08755da1b634d": 1794374627.923826,
-  "5cef509f01de9aa2": 1794374627.9238293,
-  "d9314e1f3dc49a49": 1794374627.9238324,
-  "5c60a703aec32909": 1794374627.9238372,
-  "08fab5a8d4be9418": 1794374627.9238396,
-  "8f0213eb2dc40351": 1794374627.9238417,
-  "04ca8388233f0a5b": 1794374627.9238443,
-  "bc77fda52bd11b66": 1794374627.9238465,
-  "b3f8aac5c323e1b1": 1794374627.9238482,
-  "63510c9237b7eddb": 1794374629.2197456,
-  "01ca8440044858ab": 1794374629.219765,
-  "0604eb6770b5baa6": 1794374629.219769,
-  "ccd1f615dd610a9e": 1794374629.219774,
-  "f19816dc9e65f2dc": 1794374629.2197773,
-  "9071bf5d1113d9c1": 1794374629.2197819,
-  "da9797515de4944a": 1794374629.219785,
-  "4d87c98d227467df": 1794374629.219788,
-  "a054ec129c4e1b4f": 1794374629.219791,
-  "841e64de00a8374b": 1794374629.219794,
-  "a9dae89d9ae6f458": 1794374629.2197971,
-  "9bc822b1f2794f28": 1794374629.2198,
-  "58803cb9d53c3d9c": 1794374629.2198021,
-  "747adccf5f5317c9": 1794374629.2198055,
-  "62cea8ee107c6226": 1794374629.2198076,
-  "1e993f09f4398687": 1794374715.6797068,
-  "c9fec61eaad65a15": 1794374716.9264464,
-  "58c60bd2813763b6": 1794374716.9264975,
-  "5ef98a249fd4bf67": 1794374716.9265022,
-  "0acab81db7d0d92c": 1794374716.9265046,
-  "7d056cc2edd4da8f": 1794374716.9265072,
-  "163758292983b884": 1794374716.926511,
   "06d63f547d29ee86": 1794378209.1167636,
   "9e9a6662c122c1c5": 1794378209.1167696,
   "625ac97f2236476e": 1794378210.3049324,
@@ -3580,11 +3548,14 @@
   "f2046cff13f2912a": 1794633208.2480364,
   "6a82167229a0418f": 1794633208.2480404,
   "2e345bd9da74d245": 1794633208.24805,
-  "dc97e47f1c9099d6": 1794633208.2480536
+  "dc97e47f1c9099d6": 1794633208.2480536,
+  "046f8527e9a94141": 1794636094.1378813,
+  "5cc33242f1e6a4c1": 1794636095.402447,
+  "94562503471152ed": 1794636095.4024746,
+  "04bdf847d74341be": 1794636095.402479,
+  "b9e7c459a039de49": 1794636096.6471853
  },
  "recent": [
-  "Wall Street closes mixed as Nvidia and AMD sink; Nasdaq still posts its best week since August",
-  "90 Million Barrels Later, Trump Locks In Record Jones Act Waiver Extension Amid Iran War Pressures",
   "NVIDIA (NASDAQ:NVDA) Stock Price Target Cut by Rosenblatt Securities",
   "Nuclear watchdog for UN urges inspection of Iran nuclear site | BBC News",
   "Federal Reserve Financial Stability Report: AI Enthusiasm Drives Overvaluation in U.S. Equities; Cybersecurity Risks Rise",
@@ -3622,26 +3593,28 @@
   "Bitcoin Price Crashes Below $68,000 as Liquidations Hit $1.62B",
   "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN",
   "IEA Says Global Oil Supply Back in Surplus for First Time Since Iran War",
-  "Wholesale inflation declined last month yet remains stubbornly elevated - Associated Press"
+  "Wholesale inflation declined last month yet remains stubbornly elevated - Associated Press",
+  "Oil prices fell for the second consecutive week amid concerns of oversupply.",
+  "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead"
  ],
  "initialized": true,
  "last_alert": 1794629770.8906243,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 106,
-  "new": 90,
+  "fetched": 107,
+  "new": 80,
   "rated": {
-   "low": 13,
-   "medium": 2,
+   "low": 2,
+   "medium": 3,
    "high": 0
   },
   "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 57 (char 3301)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 98 (char 4117)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 5110)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 101 (char 2818)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 142 (char 4222)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 142 (char 3658)"
   ],
-  "time": "2026-11-14T05:13:28+00:00"
+  "time": "2026-11-14T06:01:36+00:00"
  }
 }
