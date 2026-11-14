@@ -3551,11 +3551,16 @@
   "b4e8e7b1615620b7": 1794616073.7734551,
   "4f090875fbcb5c37": 1794616073.7734575,
   "f5cb08d06b866cb2": 1794616073.7734597,
-  "c8d2c0697e0c779a": 1794616073.7734628
+  "c8d2c0697e0c779a": 1794616073.7734628,
+  "2e5f0a514395c425": 1794620336.3140697,
+  "dd21464a21a3108f": 1794620336.3140776,
+  "f81711857cca55d4": 1794620336.3140814,
+  "1eeeeff1bcf5c086": 1794620337.5327368,
+  "a8bfa9fa0b2fec56": 1794620337.5327578,
+  "b1b539e1ca222742": 1794620338.782385,
+  "976d92bacbd596f5": 1794620338.7824044
  },
  "recent": [
-  "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-  "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
   "Two tankers hit sea mines in Hormuz: IRGC",
   "Update: US Equity Indexes Mixed as Nvidia Debacle Hits Chipmakers",
   "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -3593,27 +3598,29 @@
   "Iran Just Got Handed a Warning at Sea: The USS Theodore Roosevelt Reaches the Middle East Sunday as Israel Readies Its Military",
   "Federal Reserve signals inflation guides policy stance as Jefferson weighs further rate hikes",
   "US official says Trump will discuss Iran, but not Ukraine, in meeting with Putin and Xi",
-  "US stocks fall as Nvidia slides 4.3%; Nasdaq drops 1.74%"
+  "US stocks fall as Nvidia slides 4.3%; Nasdaq drops 1.74%",
+  "IAEA says it cannot determine whether Iran's declared nuclear material has been diverted : Global : JKN",
+  "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials"
  ],
  "initialized": true,
  "last_alert": 1794616001.3289547,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 175,
-  "new": 122,
+  "fetched": 148,
+  "new": 107,
   "rated": {
-   "low": 16,
-   "medium": 6,
+   "low": 5,
+   "medium": 2,
    "high": 0
   },
-  "posted": 6,
+  "posted": 2,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 57 (char 3812)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 3 column 56 (char 313)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 99 (char 2445)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 13 column 57 (char 2657)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 104 (char 3602)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 100 (char 3508)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2635)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 142 (char 2857)"
   ],
-  "time": "2026-11-14T00:27:53+00:00"
+  "time": "2026-11-14T01:38:58+00:00"
  }
 }
