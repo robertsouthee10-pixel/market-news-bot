@@ -1,12 +1,5 @@
 {
  "seen": {
-  "5fbd934b4eea7531": 1794367270.0301669,
-  "b5970a733948ea57": 1794367271.4343002,
-  "8170fb22678279d6": 1794367271.4343364,
-  "1a79b3ef1ffb6106": 1794367271.4343507,
-  "b57a8efcd51cf96f": 1794367271.4343545,
-  "13ba9a6238abc659": 1794367271.4343576,
-  "869b04676b30e395": 1794367271.43436,
   "73bd6b20f02bd67b": 1794370936.2439523,
   "3b5ce8932c899476": 1794370936.2439592,
   "87f50efa77fc9ec2": 1794370936.2439623,
@@ -3547,12 +3540,48 @@
   "17da6736d2e217e8": 1794626403.4665875,
   "3f9cf587f01c7a13": 1794626403.4666097,
   "0aab86a7b82727c9": 1794626403.466616,
-  "2d0d2c49d3924db8": 1794626403.4666193
+  "2d0d2c49d3924db8": 1794626403.4666193,
+  "75c8d4546fcea172": 1794629797.2412944,
+  "2b12ae840cc2c3f2": 1794629797.241307,
+  "431b0451dba7de4b": 1794629798.4427726,
+  "61fd0f4facb2e6b7": 1794629798.4427917,
+  "317b7c5ffd49352d": 1794629798.4427958,
+  "e3192b7ded2f6e27": 1794629798.4427986,
+  "29661b66d03827a5": 1794629798.4428012,
+  "e6b355c82e9be9ee": 1794629798.4428046,
+  "b89916f3925055c7": 1794629798.4428072,
+  "66393cd71a4655ac": 1794629798.4428103,
+  "250aab86055653b9": 1794629798.4428136,
+  "fd4e04ce6bc4cc4a": 1794629798.442816,
+  "e7c34d94a0fa232c": 1794629798.4428184,
+  "785d631bc60d30f2": 1794629798.4428205,
+  "357d226884103171": 1794629798.4428227,
+  "925bc2a74d7612df": 1794629798.4428246,
+  "26966c89ddea6a48": 1794629798.442827,
+  "af7efb69723be906": 1794629798.4428296,
+  "67635ab6f25c5347": 1794629798.4428318,
+  "1057480a0e02605f": 1794629798.4428341,
+  "424fd2407f761874": 1794629798.4428363,
+  "0074880c6428a84f": 1794629798.4428444,
+  "0001eade7b1ac0c2": 1794629798.4428468,
+  "9a18718ad60f1b24": 1794629798.4428487,
+  "7ae542445a8aa2f7": 1794629798.442851,
+  "094c6447e0d91634": 1794629806.6247532,
+  "218ea5be04b858fd": 1794629806.624757,
+  "6ce089613cfccd1c": 1794629806.6247592,
+  "7b3def01b4b055d1": 1794629806.6247616,
+  "19d1e69adf78d9b9": 1794629806.6247644,
+  "5d01a076918d4615": 1794629806.6247663,
+  "7cfb623d6f785ba7": 1794629806.6247687,
+  "3d1efcef80c57863": 1794629806.6247706,
+  "e49b50e3a5c8496c": 1794629806.6247725,
+  "b775f90f59a10dfe": 1794629807.7706091,
+  "f6acd7acb97af212": 1794629807.770629,
+  "146fd532b030f427": 1794629807.770633,
+  "4bbee7e350c7f334": 1794629807.7706366,
+  "5656f340ff30c6de": 1794629809.0001166
  },
  "recent": [
-  "SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says",
-  "Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is its next chance",
-  "[New York Stock Market] Only the Dow Rises 0.1% as Tech Stocks Weaken... Nvidia Narrows Losses to 2%",
   "Trump says US could devastate Iran in three days as diplomatic efforts stall",
   "Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility",
   "Wall Street closes mixed as Nvidia and AMD sink; Nasdaq still posts its best week since August",
@@ -3589,25 +3618,28 @@
   "Treasury Yields Jump as Inflation Data and Hawkish Fed Talk Kill Post-Election Rally",
   "US Inflation Accelerates Again as Fed Officials Intensify Hawkish Signals",
   "Can Netanyahu Launch a New Strike on Iran Before Leaving Office? Israel Faces a Critical Political and Military Test",
-  "Gold Falls 3.5%, Silver Slips as Fed Hike Bets Rise"
+  "Gold Falls 3.5%, Silver Slips as Fed Hike Bets Rise",
+  "Financial Disclosure: Trump Bought Millions in Nvidia Stock Before Chip Export Restrictions Were Lifted",
+  "Bitcoin Price Crashes Below $68,000 as Liquidations Hit $1.62B",
+  "Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN"
  ],
  "initialized": true,
- "last_alert": 1794616001.3289547,
+ "last_alert": 1794629770.8906243,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 104,
-  "new": 64,
+  "fetched": 113,
+  "new": 89,
   "rated": {
-   "low": 8,
-   "medium": 3,
-   "high": 3
+   "low": 34,
+   "medium": 5,
+   "high": 0
   },
-  "posted": 2,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2640)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 106 (char 2842)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3866)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 106 (char 3417)"
   ],
-  "time": "2026-11-14T03:20:03+00:00"
+  "time": "2026-11-14T04:16:49+00:00"
  }
 }
