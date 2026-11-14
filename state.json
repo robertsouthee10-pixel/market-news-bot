@@ -3640,17 +3640,36 @@
   "dc02b7005f086fee": 1794656459.494577,
   "9784936841aa7ccd": 1794656459.4945793,
   "0dac7d15291ae411": 1794656459.4945815,
-  "d63ba210dbe948d9": 1794656459.4945838
+  "d63ba210dbe948d9": 1794656459.4945838,
+  "63660364feac696d": 1794658819.2185678,
+  "8da132466eeb82c0": 1794658819.2185729,
+  "1ca44131482f379b": 1794658819.2185755,
+  "7079625ac91c84b5": 1794658820.5133908,
+  "6f82fb2662bbfad6": 1794658820.51341,
+  "19c97e3f7011f235": 1794658821.7351177,
+  "b378d1685b304647": 1794658821.7351358,
+  "2db57c6c129dc150": 1794658821.7351458,
+  "96fc2acb2a4a3570": 1794658821.7351482,
+  "83342bcccf042458": 1794658822.9838026,
+  "4e6acda655008425": 1794658822.983823,
+  "4f23284781edde14": 1794658824.200875,
+  "696d3f3e6ec7a894": 1794658824.2008944,
+  "e82fcaa2c19d337e": 1794658824.200899,
+  "10c9560153cc9e43": 1794658825.4645739,
+  "e34d2ada616068dc": 1794658825.4645934,
+  "455116d87cc8908b": 1794658825.4646003,
+  "12be0a12b53a2450": 1794658826.7334325,
+  "75dfaaabeadeee69": 1794658826.7334526,
+  "136fbd3b094f248f": 1794658826.733456,
+  "3c3fdff318a98165": 1794658826.7334588,
+  "9cf161f46a6a7f00": 1794658826.7334607,
+  "afa329ff99914baa": 1794658828.1798947,
+  "19b312807095bde1": 1794658829.4229195,
+  "2558d5088959a178": 1794658829.4229388,
+  "7e657fa123578706": 1794658832.527296,
+  "5657e03ba3d3dd1e": 1794658832.5273042
  },
  "recent": [
-  "Iran Takes the War Beyond the Middle East",
-  "Yen Slumps as Fed Rate-Hike Bets Boost Dollar",
-  "Bessent Blames Lutnick Over Nvidia Chip Export Delay to China",
-  "Semiconductor stocks surge as markets brace for Fed rate hike in December.",
-  "Why did Jensen Huang resign? Inside Nvidia’s leadership crisis",
-  "Iran warns countries against joining US aggression under pretexts of maritime security",
-  "Mossad Chief’s Washington visit raises questions amid Israel’s Iran war discussions",
-  "US officials raise alarm over restricted Nvidia AI chips reaching China",
   "Netanyahu Shares Iran Intelligence With Eisenkot Amid Reports of Renewed Attack Plans",
   "U.S., Iran Threaten Escalation as Diplomacy Stalls",
   "Michael Burry Doubles Down on Shorting Nasdaq 100 Amid Nvidia CE",
@@ -3682,25 +3701,33 @@
   "Lutnick agrees to testify on Nvidia chip export controls | Tap to know more | Inshorts",
   "Rubio Says U.S. Military Action in Iran Unnecessary Due to Economic Damage",
   "Strait of Hormuz shipping traffic remains far below pre-conflict levels",
-  "The US shot down two Iranian suicide drones; Tehran sends a new message about nuclear weapons?"
+  "The US shot down two Iranian suicide drones; Tehran sends a new message about nuclear weapons?",
+  "Trump may hold off on Iran attacks barring new provocations",
+  "Trump faces scrutiny over trade policies, Iran strikes as he meets ASEAN leaders in Philippines",
+  "What Nvidia losing its founder did to stocks. The week on Wall Street",
+  "Nvidia's 60% target cut exposes a Wall Street split",
+  "Trump Threatens to Eliminate Iran if Senior Official is Attacked",
+  "Iran war: Trump Still Weighing his Options",
+  "Iranian MP: Iran must develop and possess a nuclear bomb",
+  "US Seeks To Disrupt Iran's Supply Networks Beyond Naval Blockade"
  ],
  "initialized": true,
  "last_alert": 1794654139.6899095,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 107,
-  "new": 65,
+  "fetched": 102,
+  "new": 77,
   "rated": {
-   "low": 12,
-   "medium": 2,
-   "high": 1
+   "low": 14,
+   "medium": 10,
+   "high": 3
   },
-  "posted": 2,
+  "posted": 8,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 2876)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 19 column 101 (char 3945)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 148 (char 3240)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4484)"
   ],
-  "time": "2026-11-14T11:40:59+00:00"
+  "time": "2026-11-14T12:20:32+00:00"
  }
 }
