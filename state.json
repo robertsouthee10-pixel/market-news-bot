@@ -1,6 +1,5 @@
 {
  "seen": {
-  "812d5541b10db599": 1794708493.8816323,
   "e49f057250f42780": 1794734299.5970256,
   "4b472e21f4850d41": 1794734299.5970306,
   "224930641b4aea28": 1794734299.5970345,
@@ -546,12 +545,26 @@
   "b539c5a5369eb0e0": 1794964997.394591,
   "d6840de7b9e657b9": 1794964997.394616,
   "5b2a373c84d70290": 1794965046.8789754,
-  "971fb1efa2c4ce7c": 1794965046.878979
+  "971fb1efa2c4ce7c": 1794965046.878979,
+  "624e9a74d1e4875d": 1794991560.8404157,
+  "2fa178f0b0c51784": 1794991560.840421,
+  "2c941370ff0e34cf": 1794991560.8404236,
+  "e8caeab310ad5e3d": 1794991560.8404262,
+  "1ff7dc5708cb9c05": 1794991560.8404279,
+  "964dc908cd2ba7ad": 1794991560.8404295,
+  "1d8423b9d6cfd678": 1794991562.0259929,
+  "be78a170d7b37889": 1794991563.2319937,
+  "9fa9b820c16fe822": 1794991563.2320144,
+  "8dfcd45c4f3d7f02": 1794991563.2320187,
+  "1de19da56d8eeaa3": 1794991563.2320218,
+  "21287b5a39f7a56f": 1794991563.2320244,
+  "aea37707afc701c2": 1794991563.2320268,
+  "4605c5ccc439e303": 1794991564.4838846,
+  "cbfb956d9d3895bb": 1794991564.483905,
+  "228473565293cc7e": 1794991564.4839087,
+  "c50881b92e236277": 1794991564.4839113
  },
  "recent": [
-  "Stock market today: Dow, S&P 500 futures slip, and Nasdaq futures slip in countdown to Nvidia earnings",
-  "US chip export restrictions amplify Asian technology stock selloff",
-  "US-Israel-Iran War Latest Live Updates: JD Vance Claims US Has Destroyed Iran’s Nuclear And Conventional Military Capabilities, Says Trump Has Several Options To End War",
   "Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”",
   "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit",
   "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
@@ -588,30 +601,32 @@
   "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
   "Oil Prices Today: Brent Hovers Near $93 Despite Hormuz Attacks, Why Supply Glut Is Keeping Bulls In Check",
   "Thailand among five countries covered by new US AI chip export rules",
-  "Iran launches drone attacks targeting US bases in Bahrain and Kuwait"
+  "Iran launches drone attacks targeting US bases in Bahrain and Kuwait",
+  "Iran puts armed forces on alert after arrival of third US carrier in Middle East",
+  "Gold falls to over one-year low as dollar strengthens",
+  "Oil prices fall after rise in US inventories — Channel NewsAsia"
  ],
  "initialized": true,
- "last_alert": 1794964926.9605873,
+ "last_alert": 1794991464.7886896,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 207,
-  "new": 202,
+  "fetched": 167,
+  "new": 167,
   "rated": {
-   "low": 19,
-   "medium": 4,
-   "high": 4
+   "low": 9,
+   "medium": 3,
+   "high": 5
   },
-  "posted": 5,
+  "posted": 3,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 11 column 58 (char 1847)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 99 (char 1633)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3391)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 14 column 57 (char 2746)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3636)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 101 (char 3676)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 5043)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 6 column 56 (char 795)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 16 column 57 (char 2795)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 10 column 59 (char 1748)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 59 (char 4929)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 21 column 141 (char 4365)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 23 column 101 (char 4263)"
   ],
-  "time": "2026-11-18T01:24:06+00:00"
+  "time": "2026-11-18T08:46:04+00:00"
  }
 }
