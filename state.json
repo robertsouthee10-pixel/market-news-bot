@@ -557,7 +557,13 @@
   "8f5df00a6ddefac5": 1795200736.9255972,
   "81a8f4be18f9a7fb": 1795200736.9255996,
   "956aef0d2289db0e": 1795200736.925602,
-  "adb81d4e6369b2f0": 1795200736.9256043
+  "adb81d4e6369b2f0": 1795200736.9256043,
+  "faed90271ab252f9": 1795220657.397665,
+  "baf041ad316ee4b6": 1795220657.3976707,
+  "b61a23c804748ecb": 1795220657.397674,
+  "ebf45a22fb686da1": 1795220657.3976793,
+  "3d12a6bd666ca00f": 1795220657.397682,
+  "dbc5d5914bf8f36f": 1795220657.3976839
  },
  "recent": [
   "Nvidia, TSMC and Samsung Face China Chip Crackdown as Trump's New Restrictions Hit AI Industry",
@@ -602,30 +608,27 @@
   "Trump says Iran won't make a deal acceptable to him"
  ],
  "initialized": true,
- "last_alert": 1795200578.5178776,
+ "last_alert": 1795220551.386263,
  "last_run": {
   "feeds_ok": 18,
   "feeds_failed": [],
-  "fetched": 272,
-  "new": 269,
+  "fetched": 183,
+  "new": 181,
   "rated": {
-   "low": 16,
-   "medium": 3,
+   "low": 6,
+   "medium": 0,
    "high": 0
   },
-  "posted": 3,
+  "posted": 0,
   "errors": [
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 57 (char 4222)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3556)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 24 column 57 (char 4699)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 12 column 183 (char 2552)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 25 column 57 (char 4722)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 57 (char 3170)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3938)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 57 (char 3739)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 18 column 57 (char 3341)",
-   "Claude: JSONDecodeError: Expecting ',' delimiter: line 20 column 188 (char 4283)"
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 26 column 57 (char 5022)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 9 column 56 (char 1548)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 59 (char 3438)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 60 (char 3006)",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 17 column 141 (char 3424)",
+   "Claude: ValueError: no JSON array in model reply: ",
+   "Claude: JSONDecodeError: Expecting ',' delimiter: line 22 column 97 (char 3834)"
   ],
-  "time": "2026-11-20T18:52:16+00:00"
+  "time": "2026-11-21T00:24:17+00:00"
  }
 }
